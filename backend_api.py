@@ -1,5 +1,7 @@
 import json
+import os
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 from typing import Any, Dict
@@ -13,9 +15,10 @@ from pydantic import BaseModel
 
 ROOT = Path(__file__).resolve().parent
 
-QML_PYTHON = ROOT / "qml_env" / "Scripts" / "python.exe"
-AUDIO_PYTHON = ROOT / "Audio_Mental_Health_Project" / "audio_env" / "Scripts" / "python.exe"
-VIDEO_PYTHON = ROOT / "mental_health_project" / "venv" / "Scripts" / "python.exe"
+DEFAULT_PYTHON = Path(sys.executable)
+QML_PYTHON = Path(os.getenv("TEXT_PYTHON", str(DEFAULT_PYTHON)))
+AUDIO_PYTHON = Path(os.getenv("AUDIO_PYTHON", str(DEFAULT_PYTHON)))
+VIDEO_PYTHON = Path(os.getenv("VIDEO_PYTHON", str(DEFAULT_PYTHON)))
 
 TEXT_SCRIPT = ROOT / "TEXT" / "text_input_inference.py"
 AUDIO_SCRIPT = (

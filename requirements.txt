@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+numpy
+joblib
+scikit-learn
+lightgbm
+sentence-transformers
+
+librosa
+soundfile
+
+opencv-python-headless
+tensorflow-cpu
+h5py

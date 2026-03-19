@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MindSense Mental Health Detection</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="mental-health-detection.css">
+</head>
+<body>
+
+<div class="page active" id="page-0">
+  <nav class="nav">
+    <div class="nav-logo"><div class="logo-mark">M</div>MindSense</div>
+    <div class="nav-pill"><div class="pulse"></div>AI | v2.0 | Multi-Modal</div>
+  </nav>
+  <div class="landing">
+    <div class="landing-left">
+      <div class="tag-row">
+        <div class="tag"><div class="dot" style="background:var(--teal)"></div>Risk Screening</div>
+        <div class="tag"><div class="dot" style="background:var(--purple)"></div>Privacy First</div>
+      </div>
+      <h1 class="landing-title">
+        Multimodal Mental<br>
+        <span class="hl">Health Risk Assessment</span>
+      </h1>
+      <p class="landing-desc">A practical tri-modal pipeline combining text, voice, and visual cues to estimate stress, anxiety, and depression risk indicators.</p>
+      <div class="landing-stats">
+        <div class="stat-item"><div class="stat-num">3</div><div class="stat-label">Modalities</div></div>
+        <div class="stat-div"></div>
+        <div class="stat-item"><div class="stat-num">Real</div><div class="stat-label">Text + Audio</div></div>
+        <div class="stat-div"></div>
+        <div class="stat-item"><div class="stat-num">Live</div><div class="stat-label">Workflow</div></div>
+      </div>
+      <button class="btn-start" onclick="goToPage(1)">Begin Assessment <span class="arrow">-></span></button>
+    </div>
+    <div class="landing-right">
+      <div class="modality-card mc-text">
+        <div class="mc-icon"><img class="icon-img" src="assets/text.svg" alt="Text"></div>
+        <div class="mc-body">
+          <h3>Text Analysis</h3>
+          <p>Semantic NLP and language-level risk patterns.</p>
+          <div class="mc-features"><span class="mc-feat">Embeddings</span><span class="mc-feat">Class Prob.</span><span class="mc-feat">Risk Levels</span></div>
+        </div>
+        <div class="mc-badge">Step 01</div>
+      </div>
+      <div class="fusion-row">
+        <div class="fusion-line"></div>
+        <div class="fusion-chip"><div class="fci"></div>Fusion Layer</div>
+        <div class="fusion-line" style="background:linear-gradient(90deg,transparent,var(--border2))"></div>
+      </div>
+      <div class="modality-card mc-audio">
+        <div class="mc-icon"><img class="icon-img" src="assets/audio.svg" alt="Audio"></div>
+        <div class="mc-body">
+          <h3>Audio Analysis</h3>
+          <p>Voice features and emotion-to-risk proxy mapping.</p>
+          <div class="mc-features"><span class="mc-feat">MFCC</span><span class="mc-feat">Prosody</span><span class="mc-feat">Class Prob.</span></div>
+        </div>
+        <div class="mc-badge">Step 02</div>
+      </div>
+      <div class="fusion-row">
+        <div class="fusion-line"></div>
+        <div class="fusion-chip"><div class="fci"></div>Live Inference</div>
+        <div class="fusion-line" style="background:linear-gradient(90deg,transparent,var(--border2))"></div>
+      </div>
+      <div class="modality-card mc-video">
+        <div class="mc-icon"><img class="icon-img" src="assets/video.svg" alt="Video"></div>
+        <div class="mc-body">
+          <h3>Video Analysis</h3>
+          <p>Camera-based expression scoring mapped to mental health risk.</p>
+          <div class="mc-features"><span class="mc-feat">Face Track</span><span class="mc-feat">Expressions</span><span class="mc-feat">Risk %</span></div>
+        </div>
+        <div class="mc-badge">Step 03</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page" id="page-1">
+  <nav class="nav">
+    <div class="nav-logo"><div class="logo-mark">M</div>MindScope</div>
+    <div class="nav-steps">
+      <div class="step-pill active"><div class="step-num">1</div>Text</div>
+      <div class="step-sep"></div>
+      <div class="step-pill"><div class="step-num">2</div>Audio</div>
+      <div class="step-sep"></div>
+      <div class="step-pill"><div class="step-num">3</div>Video</div>
+      <div class="step-sep"></div>
+      <div class="step-pill"><div class="step-num">4</div>Results</div>
+    </div>
+  </nav>
+  <div class="analysis-wrap">
+    <div class="info-pane">
+      <div class="step-label" style="color:var(--purple)"><div class="sl-line"></div>Step 01 Text Input</div>
+      <h2 class="info-title">Describe Your <span style="color:var(--purple)">Current State</span></h2>
+      <p class="info-desc">Write naturally about how you are feeling. Text inference begins in background and shifts to next step quickly.</p>
+      <div class="features-list">
+        <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Sentence embedding based features</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Depression probability from model</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Stress and anxiety proxy estimates</div>
+      </div>
+      <div class="btn-row">
+        <button class="btn-back" onclick="goToPage(0)"><- Back</button>
+        <button class="btn-next" id="btn-text-next" disabled onclick="analyzeText()">Analyze Text -></button>
+      </div>
+    </div>
+    <div class="input-pane">
+      <div class="panel-card pct" style="position:relative">
+        <div class="analyzing-overlay" id="text-overlay">
+          <div class="spin-ring" style="border-top-color:var(--purple)"></div>
+          <div class="analyzing-text">Analyzing text...</div>
+          <div class="analyzing-sub">Background prediction in progress</div>
+        </div>
+        <div class="panel-head">
+          <div class="ph-icon" style="background:var(--purple-light)"><img class="icon-img" src="assets/text.svg" alt="Text"></div>
+          <div><div class="ph-title">Text Capture</div><div class="ph-sub">MIN 50 CHARACTERS</div></div>
+        </div>
+        <div class="panel-body">
+          <div class="textarea-wrap">
+            <textarea class="text-field" id="text-input" placeholder="Write how you have been feeling in your own words..." oninput="onTextInput(this)"></textarea>
+            <span class="char-counter" id="char-cnt">0 / 50</span>
+          </div>
+          <div>
+            <div class="chips-label">Quick tags (optional)</div>
+            <div class="chips-row">
+              <button class="chip" onclick="addChip(this,'Overwhelmed')">Overwhelmed</button>
+              <button class="chip" onclick="addChip(this,'Anxious')">Anxious</button>
+              <button class="chip" onclick="addChip(this,'Sad')">Sad</button>
+              <button class="chip" onclick="addChip(this,'Hopeless')">Hopeless</button>
+              <button class="chip" onclick="addChip(this,'Irritable')">Irritable</button>
+              <button class="chip" onclick="addChip(this,'Tired')">Tired</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page" id="page-2">
+  <nav class="nav">
+    <div class="nav-logo"><div class="logo-mark">M</div>MindSense</div>
+    <div class="nav-steps">
+      <div class="step-pill done"><div class="step-num">OK</div>Text</div>
+      <div class="step-sep done"></div>
+      <div class="step-pill active"><div class="step-num">2</div>Audio</div>
+      <div class="step-sep"></div>
+      <div class="step-pill"><div class="step-num">3</div>Video</div>
+      <div class="step-sep"></div>
+      <div class="step-pill"><div class="step-num">4</div>Results</div>
+    </div>
+  </nav>
+  <div class="analysis-wrap">
+    <div class="info-pane">
+      <div class="step-label" style="color:var(--blue)"><div class="sl-line"></div>Step 02 Voice Input</div>
+      <h2 class="info-title">Record <span style="color:var(--blue)">Your Voice</span></h2>
+      <p class="info-desc">Record for at least 5 seconds. Audio inference runs in background while the UI advances to video step.</p>
+      <div class="features-list">
+        <div class="feat-row"><div class="feat-ic" style="background:var(--blue-light)"></div>MFCC and spectral feature extraction</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--blue-light)"></div>Stress/depression/anxiety class probabilities</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--blue-light)"></div>Temporary internal file handling only</div>
+      </div>
+      <div class="btn-row">
+        <button class="btn-back" onclick="goToPage(1)"><- Back</button>
+        <button class="btn-next" id="btn-audio-next" disabled onclick="analyzeAudio()">Analyze Audio -></button>
+      </div>
+    </div>
+    <div class="input-pane">
+      <div class="panel-card pca" style="position:relative">
+        <div class="analyzing-overlay" id="audio-overlay">
+          <div class="spin-ring" style="border-top-color:var(--blue)"></div>
+          <div class="analyzing-text">Analyzing audio...</div>
+          <div class="analyzing-sub">Background prediction in progress</div>
+        </div>
+        <div class="panel-head">
+          <div class="ph-icon" style="background:var(--blue-light)"><img class="icon-img" src="assets/audio.svg" alt="Audio"></div>
+          <div><div class="ph-title">Voice Recorder</div><div class="ph-sub">MIC RECORDING MODE</div></div>
+        </div>
+        <div class="panel-body">
+          <div class="audio-center">
+            <div class="rec-zone" id="rec-zone">
+              <div class="rec-ring"></div><div class="rec-ring"></div><div class="rec-ring"></div>
+              <button class="rec-btn" id="rec-btn" onclick="toggleRec()">MIC</button>
+            </div>
+            <div class="waveform-strip" id="waveform"></div>
+            <div class="timer-display" id="timer">00:00</div>
+            <div class="rec-status" id="rec-status"><div class="rec-dot"></div><span id="status-txt">Click mic to start recording</span></div>
+            <div class="file-upload-wrap" style="display:none">
+              <input id="audio-file" class="file-input" type="file" accept=".wav,.mp3,.m4a,.ogg,.flac,.webm,audio/*" onchange="onAudioFileSelected(this)">
+              <label for="audio-file" class="file-upload-btn">Upload Audio</label>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page" id="page-3">
+  <nav class="nav">
+    <div class="nav-logo"><div class="logo-mark">M</div>MindSense</div>
+    <div class="nav-steps">
+      <div class="step-pill done"><div class="step-num">OK</div>Text</div>
+      <div class="step-sep done"></div>
+      <div class="step-pill done"><div class="step-num">OK</div>Audio</div>
+      <div class="step-sep done"></div>
+      <div class="step-pill active"><div class="step-num">3</div>Video</div>
+      <div class="step-sep"></div>
+      <div class="step-pill"><div class="step-num">4</div>Results</div>
+    </div>
+  </nav>
+  <div class="analysis-wrap">
+    <div class="info-pane">
+      <div class="step-label" style="color:var(--teal)"><div class="sl-line"></div>Step 03 Video Input</div>
+      <h2 class="info-title">Start <span style="color:var(--teal)">Camera</span></h2>
+      <p class="info-desc">Capture your webcam frame and send it for live expression-based stress, anxiety, and depression scoring.</p>
+      <div class="features-list">
+        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Live webcam capture view</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Expression to risk percentage mapping</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Results shown after all modality calls complete</div>
+      </div>
+      <div class="btn-row">
+        <button class="btn-back" onclick="goToPage(2)"><- Back</button>
+        <button class="btn-next" id="btn-video-next" disabled onclick="analyzeVideo()">Analyze Video -></button>
+      </div>
+    </div>
+    <div class="input-pane">
+      <div class="panel-card pcv" style="position:relative">
+        <div class="analyzing-overlay" id="video-overlay">
+          <div class="spin-ring" style="border-top-color:var(--teal)"></div>
+          <div class="analyzing-text">Preparing final result...</div>
+          <div class="analyzing-sub">Waiting for remaining modalities</div>
+        </div>
+        <div class="panel-head">
+          <div class="ph-icon" style="background:var(--teal-light)"><img class="icon-img" src="assets/video.svg" alt="Video"></div>
+          <div><div class="ph-title">Camera Feed</div><div class="ph-sub">LIVE VIDEO INFERENCE</div></div>
+        </div>
+        <div class="panel-body">
+          <div class="cam-frame" id="cam-frame">
+            <video id="cam-feed" autoplay muted playsinline></video>
+            <div class="face-box" id="face-box"></div>
+            <div class="scan-beam" id="scan-beam"></div>
+            <div class="cam-corner tl" id="cc-tl"></div>
+            <div class="cam-corner tr" id="cc-tr"></div>
+            <div class="cam-corner bl" id="cc-bl"></div>
+            <div class="cam-corner br" id="cc-br"></div>
+            <div class="cam-placeholder" id="cam-ph">
+              <div class="cam-placeholder-icon"><img class="icon-img" src="assets/video.svg" alt="Camera"></div>
+              <div class="cam-placeholder-text">Camera not started</div>
+            </div>
+          </div>
+          <div class="cam-controls">
+            <button class="cam-btn" id="cam-start-btn" onclick="startCam()">Start Camera</button>
+            <button class="cam-btn stop" id="cam-stop-btn" onclick="stopCam()" style="display:none">Stop Camera</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="page" id="page-4">
+  <nav class="nav">
+    <div class="nav-logo"><div class="logo-mark">M</div>MindSense</div>
+    <div class="nav-steps">
+      <div class="step-pill done"><div class="step-num">OK</div>Text</div>
+      <div class="step-sep done"></div>
+      <div class="step-pill done"><div class="step-num">OK</div>Audio</div>
+      <div class="step-sep done"></div>
+      <div class="step-pill done"><div class="step-num">OK</div>Video</div>
+      <div class="step-sep done"></div>
+      <div class="step-pill active"><div class="step-num">4</div>Results</div>
+    </div>
+  </nav>
+  <div class="results-wrap">
+    <div class="results-top">
+      <div>
+        <div class="results-pretitle"><div class="dot"></div>Assessment Complete | Fused Output</div>
+        <h2 class="results-title">Mental Health <span>Risk Scores</span></h2>
+      </div>
+      <div class="confidence-badge">
+        <div class="conf-label">Inference Mode</div>
+        <div class="conf-val">LIVE</div>
+        <div class="conf-sub">Text + Audio + Video runtime</div>
+      </div>
+    </div>
+    <div class="results-grid">
+      <div class="rcard rcard-stress">
+        <div class="rcard-orb"></div>
+        <div class="rcard-header">
+          <div class="rcard-icon"><img class="icon-img" src="assets/stress.svg" alt="Stress"></div>
+          <div class="rcard-header-text"><h3>Stress Level</h3><div class="sub">FUSED SCORE</div></div>
+        </div>
+        <div class="score-arc">
+          <svg class="arc-svg" width="140" height="80" viewBox="0 0 140 80">
+            <path class="arc-bg" d="M 14 76 A 56 56 0 0 1 126 76"/>
+            <path class="arc-fill" id="arc-stress" d="M 14 76 A 56 56 0 0 1 126 76" stroke-dasharray="176" stroke-dashoffset="176"/>
+            <text class="arc-value" x="70" y="68"><tspan id="val-stress">0</tspan><tspan class="arc-unit">%</tspan></text>
+          </svg>
+        </div>
+        <div class="rbar"><div class="rbar-fill" id="bar-stress" data-w="72"></div></div>
+        <div class="rlabels"><span class="rsev">Severity</span><span class="rnum">0 / 100</span></div>
+      </div>
+      <div class="rcard rcard-anxiety">
+        <div class="rcard-orb"></div>
+        <div class="rcard-header">
+          <div class="rcard-icon"><img class="icon-img" src="assets/anxiety.svg" alt="Anxiety"></div>
+          <div class="rcard-header-text"><h3>Anxiety Index</h3><div class="sub">FUSED SCORE</div></div>
+        </div>
+        <div class="score-arc">
+          <svg class="arc-svg" width="140" height="80" viewBox="0 0 140 80">
+            <path class="arc-bg" d="M 14 76 A 56 56 0 0 1 126 76"/>
+            <path class="arc-fill" id="arc-anxiety" d="M 14 76 A 56 56 0 0 1 126 76" stroke-dasharray="176" stroke-dashoffset="176"/>
+            <text class="arc-value" x="70" y="68"><tspan id="val-anxiety">0</tspan><tspan class="arc-unit">%</tspan></text>
+          </svg>
+        </div>
+        <div class="rbar"><div class="rbar-fill" id="bar-anxiety" data-w="58"></div></div>
+        <div class="rlabels"><span class="rsev">Severity</span><span class="rnum">0 / 100</span></div>
+      </div>
+      <div class="rcard rcard-depression">
+        <div class="rcard-orb"></div>
+        <div class="rcard-header">
+          <div class="rcard-icon"><img class="icon-img" src="assets/depression.svg" alt="Depression"></div>
+          <div class="rcard-header-text"><h3>Depression Score</h3><div class="sub">FUSED SCORE</div></div>
+        </div>
+        <div class="score-arc">
+          <svg class="arc-svg" width="140" height="80" viewBox="0 0 140 80">
+            <path class="arc-bg" d="M 14 76 A 56 56 0 0 1 126 76"/>
+            <path class="arc-fill" id="arc-depress" d="M 14 76 A 56 56 0 0 1 126 76" stroke-dasharray="176" stroke-dashoffset="176"/>
+            <text class="arc-value" x="70" y="68"><tspan id="val-depress">0</tspan><tspan class="arc-unit">%</tspan></text>
+          </svg>
+        </div>
+        <div class="rbar"><div class="rbar-fill" id="bar-depress" data-w="38"></div></div>
+        <div class="rlabels"><span class="rsev">Severity</span><span class="rnum">0 / 100</span></div>
+      </div>
+    </div>
+    <div class="results-bottom">
+      <div class="summary-card">
+        <div class="sum-icon"><img class="icon-img" src="assets/video.svg" alt="Summary"></div>
+        <div class="sum-body">
+          <h3>Recommendation Note</h3>
+          <p>This output is for screening support only and not a medical diagnosis. For formal evaluation, consult a licensed mental health professional.</p>
+        </div>
+        <button class="btn-retake" onclick="restartAll()">Retake Assessment</button>
+      </div>
+    </div>
+    <div class="xai-card">
+      <div class="xai-head">
+        <div class="xai-icon"><img class="icon-img" src="assets/text.svg" alt="Explainable AI"></div>
+        <div>
+          <h3>Explainable AI: Why These Results?</h3>
+          <p>Signal-level reasons derived from the active text, audio, and video model outputs.</p>
+        </div>
+      </div>
+      <div class="xai-grid">
+        <div class="xai-section">
+          <div class="xai-title text">Text Analysis</div>
+          <ul class="xai-list" id="xai-text-list"></ul>
+        </div>
+        <div class="xai-section">
+          <div class="xai-title audio">Audio (Vocal) Markers</div>
+          <ul class="xai-list" id="xai-audio-list"></ul>
+        </div>
+        <div class="xai-section">
+          <div class="xai-title video">Visual (Facial) Trends</div>
+          <ul class="xai-list" id="xai-video-list"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="chat-fab" id="chat-fab">
+  <div class="chat-panel" id="chat-panel">
+    <div class="chat-head">
+      <div class="chat-av">AI</div>
+      <div class="chat-av-info"><h4>MindSense Assistant</h4><div class="online"><div class="ondot"></div>Online</div></div>
+      <button class="chat-x" onclick="toggleChat()">X</button>
+    </div>
+    <div class="chat-msgs" id="chat-msgs">
+      <div class="msg bot"><div class="msg-av">AI</div><div class="msg-bub">I can help you understand each score and what it means.</div></div>
+    </div>
+    <div class="chat-bar">
+      <input class="chat-inp" id="chat-inp" placeholder="Ask about your results..." onkeydown="if(event.key==='Enter')sendMsg()">
+      <button class="chat-send" onclick="sendMsg()">></button>
+    </div>
+  </div>
+  <div style="position:relative">
+    <button class="chat-toggle-btn" onclick="toggleChat()">CHAT</button>
+    <div class="chat-notif" id="chat-notif">1</div>
+  </div>
+</div>
+
+<div class="page-progress"><div class="progress-fill" id="prog" style="width:0%"></div></div>
+<script src="mental-health-detection.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "model_name": "baseline",
+  "threshold": 0.5,
+  "accuracy": 0.9340659340659341,
+  "precision_class_1": 0.75,
+  "recall_class_1": 0.6,
+  "f1_class_1": 0.6666666666666666,
+  "roc_auc": 0.8601851851851853,
+  "pr_auc": 0.6667719118608595,
+  "train_class_distribution": {
+    "negative": 645,
+    "positive": 82
+  },
+  "balanced_train_class_distribution": {
+    "negative": 645,
+    "positive": 645
+  },
+  "test_class_distribution": {
+    "negative": 162,
+    "positive": 20
+  },
+  "feature_source": "SBERT all-MiniLM-L6-v2 embeddings",
+  "feature_shape": 384
+}

@@ -40,6 +40,21 @@ function withTimeout(promise, ms) {
   ]);
 }
 
+function speakPrompt(message) {
+  const synth = window.speechSynthesis;
+  if (!synth || !message) return;
+  try {
+    synth.cancel();
+    const utterance = new SpeechSynthesisUtterance(message);
+    utterance.rate = 0.95;
+    utterance.pitch = 1;
+    utterance.volume = 1;
+    synth.speak(utterance);
+  } catch (err) {
+    console.warn("Speech prompt failed:", err);
+  }
+}
+
 function goToPage(n) {
   document.getElementById("page-" + curPage).classList.remove("active");
   curPage = n;
@@ -122,6 +137,7 @@ function onAudioFileSelected(input) {
   const btn = document.getElementById("btn-audio-next");
   if (input.files && input.files.length > 0) {
     btn.disabled = false;
+    recordedAudioLevel = 1;
     document.getElementById("status-txt").textContent = `Selected: ${input.files[0].name}`;
   }
 }
@@ -139,6 +155,7 @@ let audioSourceNode = null;
 let audioProcessorNode = null;
 let pcmChunks = [];
 let recordedSampleRate = 44100;
+let recordedAudioLevel = 0;
 const wf = document.getElementById("waveform");
 for (let i = 0; i < 40; i++) {
   const b = document.createElement("div");
@@ -158,6 +175,7 @@ async function toggleRec() {
   if (recOn) {
     recordedAudioBlob = null;
     recordedAudioExt = "wav";
+    recordedAudioLevel = 0;
     recordedChunks = [];
     pcmChunks = [];
 
@@ -202,6 +220,7 @@ async function toggleRec() {
   } else {
     recordedAudioBlob = encodeWavFromChunks(pcmChunks, recordedSampleRate);
     recordedAudioExt = "wav";
+    recordedAudioLevel = estimateAudioLevel(pcmChunks);
 
     if (audioProcessorNode) {
       audioProcessorNode.disconnect();
@@ -233,9 +252,12 @@ async function toggleRec() {
       bar.style.height = "4px";
     });
     clearInterval(recInterval);
-    if (recSecs >= 5) {
+    if (recSecs >= 5 && recordedAudioLevel >= 0.008) {
       document.getElementById("btn-audio-next").disabled = false;
       stxt.textContent = `Complete - ${recSecs}s captured (ready to analyze)`;
+    } else if (recSecs >= 5) {
+      document.getElementById("btn-audio-next").disabled = true;
+      stxt.textContent = "No clear voice detected. Please record again and speak clearly.";
     }
   }
 }
@@ -286,6 +308,19 @@ function writeAscii(view, offset, text) {
   }
 }
 
+function estimateAudioLevel(chunks) {
+  if (!chunks || chunks.length === 0) return 0;
+  let total = 0;
+  let count = 0;
+  for (const chunk of chunks) {
+    for (let i = 0; i < chunk.length; i++) {
+      total += Math.abs(chunk[i]);
+      count += 1;
+    }
+  }
+  return count ? total / count : 0;
+}
+
 async function analyzeAudio() {
   const input = document.getElementById("audio-file");
   const hasUpload = input && input.files && input.files.length > 0;
@@ -315,8 +350,8 @@ async function analyzeAudio() {
       throw new Error(msg || "Audio prediction failed");
     }
     const data = await res.json();
-    modalityScores.audio = parseApiScores(data.scores);
     modalityRaw.audio = data.raw || null;
+    modalityScores.audio = parseApiScores(data.scores);
   })().catch((err) => {
     console.error("Audio prediction failed:", err);
   });
@@ -337,6 +372,7 @@ function startCam() {
     document.getElementById("cam-start-btn").style.display = "none";
     document.getElementById("cam-stop-btn").style.display = "flex";
     document.getElementById("btn-video-next").disabled = false;
+    speakPrompt("Please place your face in front of the camera.");
   };
 
   navigator.mediaDevices
@@ -371,6 +407,7 @@ function stopCam() {
 async function analyzeVideo() {
   const frameBlob = captureCurrentVideoFrame();
   if (!frameBlob) {
+    speakPrompt("Please start the camera and place your face in front of the camera.");
     alert("Please start the camera and wait for the live feed before analyzing video.");
     return;
   }
@@ -390,8 +427,11 @@ async function analyzeVideo() {
       throw new Error(msg || "Video prediction failed");
     }
     const data = await res.json();
-    modalityScores.video = parseApiScores(data.scores);
     modalityRaw.video = data.raw || null;
+    modalityScores.video = data.raw && data.raw.available === false ? null : parseApiScores(data.scores);
+    if (data.raw && data.raw.available === false) {
+      speakPrompt("No face detected. Please place your face in front of the camera and try again.");
+    }
   })().catch((err) => {
     console.error("Video prediction failed:", err);
   });
@@ -492,7 +532,10 @@ function audioExplanationItems() {
 function videoExplanationItems() {
   const raw = modalityRaw.video;
   const scores = modalityScores.video;
-  if (!raw || !scores) {
+  if (!raw || !scores || raw.available === false) {
+    if (raw?.reason) {
+      return [raw.reason];
+    }
     return ["Video explanation is unavailable for this run."];
   }
 
@@ -605,24 +648,62 @@ function toggleChat() {
   }
 }
 
-const replies = [
-  "Your stress score is elevated. Try structured breathing and short rest cycles.",
-  "Anxiety appears moderate. Grounding and cognitive reframing can help.",
-  "Depression indicators are mild to moderate. Monitor sleep and social routine.",
-  "This is a screening score, not a diagnosis. Discuss with a licensed professional.",
-];
+function severityLabel(score) {
+  if (score >= 70) return "high";
+  if (score >= 40) return "moderate";
+  return "low";
+}
 
-let ri = 0;
-function sendMsg() {
-  const inp = document.getElementById("chat-inp");
-  const txt = inp.value.trim();
-  if (!txt) return;
+function highestMetric() {
+  const metrics = [
+    ["stress", fusedScores.stress],
+    ["anxiety", fusedScores.anxiety],
+    ["depression", fusedScores.depression],
+  ].sort((a, b) => b[1] - a[1]);
+  return metrics[0];
+}
+
+function assistantReply(action) {
+  const [topMetric, topScore] = highestMetric();
+  const topSeverity = severityLabel(topScore);
+
+  if (action === "explain") {
+    return `Your highest indicator is ${topMetric} at ${topScore}%. Stress is ${fusedScores.stress}%, anxiety is ${fusedScores.anxiety}%, and depression is ${fusedScores.depression}%. These values come from the fused multimodal screening pipeline.`;
+  }
+  if (action === "stress") {
+    return `Your stress indicator is ${fusedScores.stress}% (${severityLabel(fusedScores.stress)}). Short breaks, better sleep timing, hydration, and paced breathing may help reduce overload.`;
+  }
+  if (action === "anxiety") {
+    return `Your anxiety indicator is ${fusedScores.anxiety}% (${severityLabel(fusedScores.anxiety)}). Grounding exercises, slower breathing, and reducing overstimulation can help manage anxious symptoms.`;
+  }
+  if (action === "depression") {
+    return `Your depression indicator is ${fusedScores.depression}% (${severityLabel(fusedScores.depression)}). Maintaining routine, sunlight exposure, rest, and social support may be useful first steps.`;
+  }
+  if (action === "help") {
+    return `If your strongest concern is ${topMetric} and it feels persistent or affects daily life, consider speaking with a counselor, psychologist, or licensed mental health professional.`;
+  }
+  if (action === "diagnosis") {
+    return `No. This system provides screening indicators only. Your current highest signal is ${topMetric} at a ${topSeverity} level, but it is not a clinical diagnosis.`;
+  }
+  return "Choose one of the quick actions to explore your result.";
+}
+
+function runAssistantAction(action) {
+  const labels = {
+    explain: "Explain My Scores",
+    stress: "Stress Tips",
+    anxiety: "Anxiety Tips",
+    depression: "Depression Tips",
+    help: "When To Seek Help",
+    diagnosis: "Is This A Diagnosis?",
+  };
+
+  const txt = labels[action] || "Assistant Action";
   const msgs = document.getElementById("chat-msgs");
   const u = document.createElement("div");
   u.className = "msg user";
   u.innerHTML = `<div class="msg-av">U</div><div class="msg-bub">${txt}</div>`;
   msgs.appendChild(u);
-  inp.value = "";
 
   const typing = document.createElement("div");
   typing.className = "msg bot";
@@ -635,8 +716,7 @@ function sendMsg() {
     msgs.removeChild(typing);
     const b = document.createElement("div");
     b.className = "msg bot";
-    b.innerHTML = `<div class="msg-av">AI</div><div class="msg-bub">${replies[ri % replies.length]}</div>`;
-    ri++;
+    b.innerHTML = `<div class="msg-av">AI</div><div class="msg-bub">${assistantReply(action)}</div>`;
     msgs.appendChild(b);
     msgs.scrollTop = msgs.scrollHeight;
   }, 1000);
@@ -653,6 +733,7 @@ function restartAll() {
   if (audioInput) audioInput.value = "";
   recordedAudioBlob = null;
   recordedAudioExt = "wav";
+  recordedAudioLevel = 0;
   recordedChunks = [];
   pcmChunks = [];
   if (audioProcessorNode) {

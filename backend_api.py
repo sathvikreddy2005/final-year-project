@@ -15,10 +15,27 @@ from pydantic import BaseModel
 
 ROOT = Path(__file__).resolve().parent
 
+def _venv_python(venv_dir: Path) -> Path:
+    if os.name == "nt":
+        return venv_dir / "Scripts" / "python.exe"
+    return venv_dir / "bin" / "python"
+
+
+def _select_python(env_var: str, local_venv: Path | None = None) -> Path:
+    override = os.getenv(env_var)
+    if override:
+        return Path(override)
+    if local_venv:
+        candidate = _venv_python(local_venv)
+        if candidate.exists():
+            return candidate
+    return Path(sys.executable)
+
+
 DEFAULT_PYTHON = Path(sys.executable)
-QML_PYTHON = Path(os.getenv("TEXT_PYTHON", str(DEFAULT_PYTHON)))
-AUDIO_PYTHON = Path(os.getenv("AUDIO_PYTHON", str(DEFAULT_PYTHON)))
-VIDEO_PYTHON = Path(os.getenv("VIDEO_PYTHON", str(DEFAULT_PYTHON)))
+QML_PYTHON = _select_python("TEXT_PYTHON", ROOT / "qml_env")
+AUDIO_PYTHON = _select_python("AUDIO_PYTHON", ROOT / "Audio_Mental_Health_Project" / "audio_env")
+VIDEO_PYTHON = _select_python("VIDEO_PYTHON", ROOT / "mental_health_project" / "venv")
 
 TEXT_SCRIPT = ROOT / "TEXT" / "text_input_inference.py"
 AUDIO_SCRIPT = (

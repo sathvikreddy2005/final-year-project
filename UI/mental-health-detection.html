@@ -379,11 +379,15 @@
       <button class="chat-x" onclick="toggleChat()">X</button>
     </div>
     <div class="chat-msgs" id="chat-msgs">
-      <div class="msg bot"><div class="msg-av">AI</div><div class="msg-bub">I can help you understand each score and what it means.</div></div>
+      <div class="msg bot"><div class="msg-av">AI</div><div class="msg-bub">Choose one of the quick actions and I will explain your current screening result.</div></div>
     </div>
-    <div class="chat-bar">
-      <input class="chat-inp" id="chat-inp" placeholder="Ask about your results..." onkeydown="if(event.key==='Enter')sendMsg()">
-      <button class="chat-send" onclick="sendMsg()">></button>
+    <div class="chat-actions">
+      <button class="chat-action-btn" onclick="runAssistantAction('explain')">Explain My Scores</button>
+      <button class="chat-action-btn" onclick="runAssistantAction('stress')">Stress Tips</button>
+      <button class="chat-action-btn" onclick="runAssistantAction('anxiety')">Anxiety Tips</button>
+      <button class="chat-action-btn" onclick="runAssistantAction('depression')">Depression Tips</button>
+      <button class="chat-action-btn" onclick="runAssistantAction('help')">When To Seek Help</button>
+      <button class="chat-action-btn" onclick="runAssistantAction('diagnosis')">Is This A Diagnosis?</button>
     </div>
   </div>
   <div style="position:relative">

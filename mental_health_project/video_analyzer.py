@@ -86,19 +86,20 @@ def _predict_frame(frame, model, detector, cv2, np, img_to_array):
             continue
 
     if not frame_predictions:
-        resized = cv2.resize(frame, (224, 224))
-        fallback_input = img_to_array(resized).astype("float32") / 255.0
-        frame_predictions.append(model.predict(np.expand_dims(fallback_input, axis=0), verbose=0)[0])
+        return None, 0
 
-    return np.mean(np.stack(frame_predictions), axis=0)
+    return np.mean(np.stack(frame_predictions), axis=0), len(frame_predictions)
 
 
-def _scores_from_prediction(prediction):
+def _scores_from_prediction(prediction, face_count):
     emotion_scores = {
         label: round(float(score) * 100.0, 2)
         for label, score in zip(EMOTION_LABELS, prediction)
     }
     return {
+        "available": True,
+        "face_detected": True,
+        "face_count": face_count,
         "stress": round(emotion_scores[RISK_EMOTIONS["stress"]], 2),
         "depression": round(emotion_scores[RISK_EMOTIONS["depression"]], 2),
         "anxiety": round(emotion_scores[RISK_EMOTIONS["anxiety"]], 2),
@@ -118,8 +119,18 @@ def analyze_image(image_path: Path):
 
     model = _load_model_compat(MODEL_PATH, Dense, load_model)
     detector = _load_face_detector(cv2)
-    prediction = _predict_frame(frame, model, detector, cv2, np, img_to_array)
-    return _scores_from_prediction(prediction)
+    prediction, face_count = _predict_frame(frame, model, detector, cv2, np, img_to_array)
+    if prediction is None:
+        return {
+            "available": False,
+            "face_detected": False,
+            "face_count": 0,
+            "reason": "No face was detected clearly enough in the captured frame.",
+            "stress": 0.0,
+            "depression": 0.0,
+            "anxiety": 0.0,
+        }
+    return _scores_from_prediction(prediction, face_count)
 
 
 def main():

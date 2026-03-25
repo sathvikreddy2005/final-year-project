@@ -1,0 +1,662 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_8xlz4tV",
+            "target": true,
+            "type": "submission",
+            "title": "Forget to activate my student account/ email",
+            "body": "Hi guys,\nI am an international student and I cannot activate my student account/email because the given password expired after 14 days and as I forgot to activate my account within 14 d\u00e1y I can not get into my account now.\n\nWho should I contact and what should I do?\n\nPlease help",
+            "created_utc": "2024-02-03 18:42:06 UTC",
+            "submission_id": "Tts83IR",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_kmwqfRQ",
+                "target": false,
+                "type": "comment",
+                "body": "Try this page https://www.anu.edu.au/students/contacts/student-central",
+                "created_utc": "2024-02-03 19:04:20 UTC",
+                "comment_id": "SLGppkX",
+                "submission_id": "Tts83IR",
+                "parent_id": "Tts83IR"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank your for your reply. I have tried e-mailing them but they only receive anu student email which is the very thing that I am trying to get into.\nI saw that they have a phone number and will try to contact them",
+                "created_utc": "2024-02-03 19:46:05 UTC",
+                "comment_id": "D8Dwmj9",
+                "submission_id": "Tts83IR",
+                "parent_id": "SLGppkX"
+            },
+            {
+                "user_id": "subject_kmwqfRQ",
+                "target": false,
+                "type": "comment",
+                "body": "They do offer in-person contact too. Just go there and talk to someone. If they can't help you they'll know who can. They can also of course send ANU email on your behalf.",
+                "created_utc": "2024-02-03 19:48:32 UTC",
+                "comment_id": "MIJmdtz",
+                "submission_id": "Tts83IR",
+                "parent_id": "D8Dwmj9"
+            },
+            {
+                "user_id": "subject_1ODhTGp",
+                "target": false,
+                "type": "comment",
+                "body": "Hey there, I had a similar issue.\n\nYou need to contact Student Central via phone or e-mail them. They were really nice and set up a zoom call for me as I couldn\u2019t reach them on phone due to personal issues. \n\nHope it gets resolved,\nCheers.",
+                "created_utc": "2024-02-03 20:02:46 UTC",
+                "comment_id": "r60ULJy",
+                "submission_id": "Tts83IR",
+                "parent_id": "Tts83IR"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you. I would definitely try calling them. I had no luck email them cause of my non-anu email not getting through. But a zoom call might be an useful request",
+                "created_utc": "2024-02-03 21:42:37 UTC",
+                "comment_id": "9ON9eEw",
+                "submission_id": "Tts83IR",
+                "parent_id": "r60ULJy"
+            },
+            {
+                "user_id": "subject_1ODhTGp",
+                "target": false,
+                "type": "comment",
+                "body": "I don\u2019t think that\u2019s the case, use the website enquiry form. I submitted from my outlook e-mail and it was performing as usual.",
+                "created_utc": "2024-02-04 14:04:55 UTC",
+                "comment_id": "bd9Aqxp",
+                "submission_id": "Tts83IR",
+                "parent_id": "D8Dwmj9"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_RInjjZw",
+            "target": false,
+            "type": "submission",
+            "title": "New student login details",
+            "body": "Any of the new students coming in feb 2023 get any sort of student id and password for the student portal",
+            "created_utc": "2022-11-23 16:49:30 UTC",
+            "submission_id": "0qIbntK",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Admissions team told me to expect this in the first week of December",
+                "created_utc": "2022-11-23 16:58:17 UTC",
+                "comment_id": "aRJ2Cl9",
+                "submission_id": "0qIbntK",
+                "parent_id": "0qIbntK"
+            },
+            {
+                "user_id": "subject_nm6bz5W",
+                "target": false,
+                "type": "comment",
+                "body": "Nope, didn't receive anything as of now",
+                "created_utc": "2022-11-23 18:12:25 UTC",
+                "comment_id": "08tkUub",
+                "submission_id": "0qIbntK",
+                "parent_id": "0qIbntK"
+            },
+            {
+                "user_id": "subject_tmyLc6K",
+                "target": false,
+                "type": "comment",
+                "body": "I asked them by email, the replied and said the details are expected to be sent in December",
+                "created_utc": "2022-11-23 19:32:54 UTC",
+                "comment_id": "wCFMgoQ",
+                "submission_id": "0qIbntK",
+                "parent_id": "0qIbntK"
+            },
+            {
+                "user_id": "subject_tmyLc6K",
+                "target": false,
+                "type": "comment",
+                "body": "OP, email is out.",
+                "created_utc": "2022-12-02 05:01:01 UTC",
+                "comment_id": "Gsr2h8z",
+                "submission_id": "0qIbntK",
+                "parent_id": "0qIbntK"
+            },
+            {
+                "user_id": "subject_RInjjZw",
+                "target": false,
+                "type": "comment",
+                "body": "I didn\u2019t get one yet",
+                "created_utc": "2022-12-02 06:32:23 UTC",
+                "comment_id": "o6tHJM3",
+                "submission_id": "0qIbntK",
+                "parent_id": "Gsr2h8z"
+            },
+            {
+                "user_id": "subject_tmyLc6K",
+                "target": false,
+                "type": "comment",
+                "body": "Check all your mailbox including junk mail",
+                "created_utc": "2022-12-03 08:14:22 UTC",
+                "comment_id": "4ZMgtnI",
+                "submission_id": "0qIbntK",
+                "parent_id": "o6tHJM3"
+            },
+            {
+                "user_id": "subject_RInjjZw",
+                "target": false,
+                "type": "comment",
+                "body": "Still nothing",
+                "created_utc": "2022-12-05 07:19:57 UTC",
+                "comment_id": "aellmzQ",
+                "submission_id": "0qIbntK",
+                "parent_id": "4ZMgtnI"
+            },
+            {
+                "user_id": "subject_tmyLc6K",
+                "target": false,
+                "type": "comment",
+                "body": "Are you international or domestic student?\nI don\u2019t know the arrangement for domestic student . Maybe you can email them for information to see if they missed you.",
+                "created_utc": "2022-12-05 10:57:08 UTC",
+                "comment_id": "daIL1I3",
+                "submission_id": "0qIbntK",
+                "parent_id": "aellmzQ"
+            },
+            {
+                "user_id": "subject_RInjjZw",
+                "target": false,
+                "type": "comment",
+                "body": "Im an International student. Yeah i sent a mail today",
+                "created_utc": "2022-12-05 10:58:07 UTC",
+                "comment_id": "rXDMQrI",
+                "submission_id": "0qIbntK",
+                "parent_id": "daIL1I3"
+            },
+            {
+                "user_id": "subject_tmyLc6K",
+                "target": false,
+                "type": "comment",
+                "body": "hope you got reply soon mate.",
+                "created_utc": "2022-12-05 12:54:10 UTC",
+                "comment_id": "NdGS1aU",
+                "submission_id": "0qIbntK",
+                "parent_id": "rXDMQrI"
+            },
+            {
+                "user_id": "subject_RInjjZw",
+                "target": false,
+                "type": "comment",
+                "body": "Did you get the details?",
+                "created_utc": "2022-12-08 06:11:39 UTC",
+                "comment_id": "mr7XTVU",
+                "submission_id": "0qIbntK",
+                "parent_id": "08tkUub"
+            },
+            {
+                "user_id": "subject_nm6bz5W",
+                "target": false,
+                "type": "comment",
+                "body": "Yes i received the details a few days back. They sent it on mail, if you haven't received it yet check with which email have you registered on Anu.",
+                "created_utc": "2022-12-08 07:13:04 UTC",
+                "comment_id": "9VMnrwZ",
+                "submission_id": "0qIbntK",
+                "parent_id": "mr7XTVU"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Can I ask OP what e-mail address do you contact to ask about this sort of question?",
+                "created_utc": "2024-02-03 19:51:02 UTC",
+                "comment_id": "guG0uPc",
+                "submission_id": "0qIbntK",
+                "parent_id": "0qIbntK"
+            },
+            {
+                "user_id": "subject_RInjjZw",
+                "target": false,
+                "type": "comment",
+                "body": "Youll get it once you have been matriculated",
+                "created_utc": "2024-02-04 01:55:17 UTC",
+                "comment_id": "d9Q57xQ",
+                "submission_id": "0qIbntK",
+                "parent_id": "guG0uPc"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_SaSZrrk",
+            "target": false,
+            "type": "submission",
+            "title": "ANU Accommodation \u2013 Lena Karmel vs. Kinloch vs. Other",
+            "body": "Not sure how this subreddit works, but why not ask?! \n\nI recently received an offer to study music at ANU, and as a result, I have been looking for the best lodge for musicians like myself who wouldn't want to travel far to and from the School of Music with a large instrument and want to practice frequently. From what I've found, Kinloch and Lena Karmel would be the best uni-res for that, given they're relatively close and have practice rooms available on site. However, I wanted to know from anyone who knows the campus and/or the music course whether or not I should opt for either of these residences or somewhere else. I'd prefer a single studio, and I'm not worried about social or community life within the accommodation, as I manage to sniff it out wherever I go, so I'm wondering which residence/college would be best. Any help or advice would be really appreciated!!",
+            "created_utc": "2019-01-18 09:49:47 UTC",
+            "submission_id": "xzjTbtI",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_7hU4uBi",
+                "target": false,
+                "type": "comment",
+                "body": "Davey is the closest to the School of Music, but also the oldest (lacks AC/heating too), Warrumbul and Kinloch are both the same distance from it, I'd pick Kinloch out of the two (lived in Warrumbul for two years) for convenience",
+                "created_utc": "2019-01-18 10:39:16 UTC",
+                "comment_id": "h2WmRnj",
+                "submission_id": "xzjTbtI",
+                "parent_id": "xzjTbtI"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "May I ask what it was like in Warrumbul Lodge? Im moving there",
+                "created_utc": "2024-02-03 21:47:21 UTC",
+                "comment_id": "r1homLd",
+                "submission_id": "xzjTbtI",
+                "parent_id": "h2WmRnj"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_8xlz4tV",
+            "target": true,
+            "type": "submission",
+            "title": "How is your recent experience with the Overland train to and from Melbourne",
+            "body": "My family are looking to travel from Melbourne to Adelaide, looked into different transportation. And since we have a senior in our family, we opt for the Overland train option. I saw posts with bad experience with this service on Reddit, and I wonder what opinions do people have about this train now.",
+            "created_utc": "2024-10-05 14:03:45 UTC",
+            "submission_id": "98vQqfE",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_dnIBwMM",
+                "target": false,
+                "type": "comment",
+                "body": "Something I feel I\u2019m uniquely qualified to speak on. \n\nI haven\u2019t been on it personally. But I\u2019ve been talking about going on it with my grandad sometime soon. \n\nMy mom and 90+ year old grandad went on it not long ago and really enjoyed it. \n\nThey picked the middle level fair I\u2019m pretty sure but said they\u2019d probably go first class next time. Apparently the only real difference is that in first class the food is served at your seat whereas the other option you go and get it from a buffet. \n\nSo if my 90+ year old grandad likes going on it for fun I think it\u2019s pretty good.",
+                "created_utc": "2024-10-05 14:45:31 UTC",
+                "comment_id": "GDsUghg",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_CTJBV3u",
+                "target": false,
+                "type": "comment",
+                "body": "Went on a few years back, was pretty neat.",
+                "created_utc": "2024-10-05 18:29:06 UTC",
+                "comment_id": "51j3XPd",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_bZjZ9fN",
+                "target": false,
+                "type": "comment",
+                "body": "Full review; My husband and I (basically both 30 for demographic purposes) finally went on it back in January, we used it for our travels both ways and loved it! We'll definitely be booking it again. \n\nWe chose the premium option and it was lovely, plenty of leg room and they gave us a stool each to rest our feet on. We both very much enjoyed the food, you get to choose your breakfast and lunch off of a menu when you board and you get a dessert and afternoon tea item after that, all spaced out over the trip. All of the workers were very friendly and the train was clean. When you go for the premium option you can walk to the cafe carriage at any time and get free drinks (excluding alcohol which you just purchase on top of you want it).\n\nI found the trip from Adelaide to Melbourne to be the nicest as we have a lovely dedicated terminal to wait in and board from and in my opinion the first hour or so from Adelaide is the prettiest part of the journey as it's all greenery for that portion, it's all great though. Arriving in Melbourne was fine though and getting dropped off at the train station is convenient, just not as nice or straight forward of a starting point/boarding location and a little bit confusing but still convenient.\n\nThe only issue I can think of with having a senior would be using the bathroom as it can get very rocky at times and takes a bit to get used to. Though I'm sure there would have been hand rails in there that I didn't notice and it's very spacious so there would be plenty of room for someone to go in with them and help if needed.",
+                "created_utc": "2024-10-05 19:07:02 UTC",
+                "comment_id": "Eg5pJ9L",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_xKc4nFw",
+                "target": false,
+                "type": "comment",
+                "body": "We went on it in January and loved it!! \n\nYou can take your own food if you want, lots of leg room, can get up for a stretch etc\u2026 friendly staff and it\u2019s only 2-3hrs more than if you drive yourself. \n\nWe will be doing it again.",
+                "created_utc": "2024-10-05 21:21:48 UTC",
+                "comment_id": "YaGrZge",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_amMtldd",
+                "target": false,
+                "type": "comment",
+                "body": "Two words....\n\nLeg Room",
+                "created_utc": "2024-10-05 22:01:56 UTC",
+                "comment_id": "e87PKPi",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_sdO7rVw",
+                "target": false,
+                "type": "comment",
+                "body": "I hated it and will never use it again.\n\nLong, tedious and just as uncomfortable as a plane but you suffer through it for 12 hours instead of 1",
+                "created_utc": "2024-10-05 22:09:06 UTC",
+                "comment_id": "o70NfOm",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_T5smlZY",
+                "target": false,
+                "type": "comment",
+                "body": "if you're traveling with a senior the Overland is a good option because it\u2019s less stressful than airports. Just be prepared for a long journey!",
+                "created_utc": "2024-10-05 22:28:53 UTC",
+                "comment_id": "HdmUroP",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-10-05 22:31:28 UTC",
+                "comment_id": "act2Q4O",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_LcAwZPu",
+                "target": false,
+                "type": "comment",
+                "body": "I have a bit of a horrid experience with the train to be honest. My pattner and I were long distance between Adelaide and VIC, and so i wanted to try the train as i was tired of driving and flying. One time, the train just got straight up cancelled about a few days before the trip and there was no option for a refund. It was replaced with a ~11 hour bus ride. \n\nThe next time i gave it a chance i caught it on christmas eve... This time the train was delayed mid-trip by about 5 HOURS. For reasons they wouldnt give, the train would spend an hour parked, then move at a snails pace, then stop for another hour. Its scheduled arrival was 7pm christmas eve, didnt arrive in melbourne until about 12AM christmas day...\n\nThe train is comfortable and it is a cool experience when it runs smoothly, (no phone chargers though), but just be warned that things can go wrong on their end and SERIOUSLY mess up your plans. \n\nI would honestly recommend the overnight firefly bus as the cheapest convenient option.",
+                "created_utc": "2024-10-05 23:59:23 UTC",
+                "comment_id": "7MzTyI4",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_NkMJqc7",
+                "target": false,
+                "type": "comment",
+                "body": "So if you can't get laid or drink it is a failure? Take your own entertainment, in this digital age there is no excuse for being bored. Or read a book, or crosswords, or sudoku, enjoy the scenery.",
+                "created_utc": "2024-10-06 00:29:31 UTC",
+                "comment_id": "4N1BZk0",
+                "submission_id": "98vQqfE",
+                "parent_id": "act2Q4O"
+            },
+            {
+                "user_id": "subject_VFkcRPx",
+                "target": false,
+                "type": "comment",
+                "body": "I went on it last year and loved it! But there's a few things to be aware of before you go. \n\nThere can often be delays, because the tracks are shared with goods trains, and they get right-of-way before the Overland. So sometimes the train will have to pull into a siding and wait for other trains to pass, and once you get close to Melbourne things really slow down because there's also passenger trains to work around. As long as you're not in hurry to get there and you don't get anxiety over delays, it's really not a problem. \n\nThe other thing is you need to make sure you have things to do! Whether that's books to read, crossword or puzzle books, podcasts or movies downloaded. There isn't any wi-fi, and the internet is basically non-existent between towns, so you can't stream anything, and you'll need to have a portable charger if you're planning on using a phone/tablet for entertainment. \n\nGet the premium seats if you can - a lot more leg room and all your food included. :)",
+                "created_utc": "2024-10-06 00:57:21 UTC",
+                "comment_id": "ibITMfp",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_wCFgZWE",
+                "target": false,
+                "type": "comment",
+                "body": "There are no rooms on the Overland, and haven't been for many years. Which suggests you have no idea, and no value to add to the conversation.",
+                "created_utc": "2024-10-06 02:11:32 UTC",
+                "comment_id": "Vr6EegG",
+                "submission_id": "98vQqfE",
+                "parent_id": "act2Q4O"
+            },
+            {
+                "user_id": "subject_0g3IQa7",
+                "target": false,
+                "type": "comment",
+                "body": "If you have the time, it's a magic way to travel. Track is a bit rough in western Victoria. I didn't opt for Premium - the only thing I didn't like was that I didn't have power by my seat. \n\nComfy seats. Plenty of leg room. Dining car is nice. Views are stunning.\n\nIf I have the time spare, and the timing works out, I will train to Melbourne again.",
+                "created_utc": "2024-10-06 03:40:41 UTC",
+                "comment_id": "0hRNRDu",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_TO4nnMp",
+                "target": false,
+                "type": "comment",
+                "body": "From what I\u2019ve seen it\u2019s good! It\u2018s operated by beautiful old carriages from the 50s that have been refurbished to feel brand new. The seats are almost the same as Qantas or Virgin Australia domestic Business Class seats, and there\u2019s plenty of legroom! \n\nIn Business Class there\u2019s basically infinite legroom and you get free chef cooked food, and from what I\u2019ve seen in the pictures it looks delicious!\n\nDo note that it\u2019s not a Japanese Shinkansen and it shares tracks with freight trains, the journey time is 10 hours which is about the same tame as driving, although maybe you shouldn\u2019t really drive to Melbourne nonstop? Anyways, I would really love to go on it and share my experienc!",
+                "created_utc": "2024-10-06 04:12:35 UTC",
+                "comment_id": "hJvTxCn",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for your reply. Now I feel much more secure with this choice :D.",
+                "created_utc": "2024-10-06 04:28:17 UTC",
+                "comment_id": "mDMDWVz",
+                "submission_id": "98vQqfE",
+                "parent_id": "hJvTxCn"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the reply. We love traveling by train too, and don't mind long hours on train :D",
+                "created_utc": "2024-10-06 04:29:55 UTC",
+                "comment_id": "sRmBYU3",
+                "submission_id": "98vQqfE",
+                "parent_id": "0hRNRDu"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Yes thank you for your insight. I used to go on the train from Sydney to Brisbane and there was no phone service ;o;",
+                "created_utc": "2024-10-06 04:31:46 UTC",
+                "comment_id": "XDzFXEO",
+                "submission_id": "98vQqfE",
+                "parent_id": "ibITMfp"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Hi thank you for your insight, definitely will bring multiple portable chargers. So sorry for the experience that you had. My last train from Sydney to Brisbane was not exactly smooth sailing either since we were delayed and we had to transfer to a coach for a few hours toward the end. I would also choose the overnight firefly bus too if I am travelling with someone who is not a senior :D.",
+                "created_utc": "2024-10-06 04:34:57 UTC",
+                "comment_id": "DxPXlUi",
+                "submission_id": "98vQqfE",
+                "parent_id": "7MzTyI4"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you, our senior does not like to be stuck on a coach :D",
+                "created_utc": "2024-10-06 04:37:04 UTC",
+                "comment_id": "ExokQC0",
+                "submission_id": "98vQqfE",
+                "parent_id": "HdmUroP"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the info, looking forward to do some sight-seeing on the train :D",
+                "created_utc": "2024-10-06 04:43:08 UTC",
+                "comment_id": "3uvZGvL",
+                "submission_id": "98vQqfE",
+                "parent_id": "Eg5pJ9L"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Yes thank you, we will definitely bring our own food :D",
+                "created_utc": "2024-10-06 04:43:40 UTC",
+                "comment_id": "265V5fo",
+                "submission_id": "98vQqfE",
+                "parent_id": "YaGrZge"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Haha yes, and walking along the isle during the trip is also crucial for keeping us lower back pain-free :D",
+                "created_utc": "2024-10-06 04:44:54 UTC",
+                "comment_id": "C9jO9k7",
+                "submission_id": "98vQqfE",
+                "parent_id": "e87PKPi"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Yes thank you for the info. If your grandad enjoy it than my 68 year-old dad would too :D",
+                "created_utc": "2024-10-06 04:46:54 UTC",
+                "comment_id": "7kZ6eOj",
+                "submission_id": "98vQqfE",
+                "parent_id": "GDsUghg"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Lovely! :D",
+                "created_utc": "2024-10-06 04:47:08 UTC",
+                "comment_id": "8FPi8Zl",
+                "submission_id": "98vQqfE",
+                "parent_id": "51j3XPd"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Yes I can see the reasons for that too haha. I would presonally choose the cheapest option or the shortest if I have the money but sometimes we just have to make compromises for our older family members :D",
+                "created_utc": "2024-10-06 04:48:41 UTC",
+                "comment_id": "mXqgXsd",
+                "submission_id": "98vQqfE",
+                "parent_id": "o70NfOm"
+            },
+            {
+                "user_id": "subject_Q5wwqdx",
+                "target": false,
+                "type": "comment",
+                "body": "I went a few years ago. The good things were that the seats were comfy and you can walk around/to-from the cafe car if you want to stretch your legs. Also plenty of legroom.\n\nThe issue I had was I had to book last minute and they actually didn\u2019t issue my ticket until 3 days after I took my trip, which meant an awkward situation at check in where they had no record of my booking. Fortunately they accepted my credit card transaction as proof I\u2019d booked the ticket and got me on board.\n\nAlso, there\u2019s no power points/USB\u2019s at your seat so bring your Powerbanks.",
+                "created_utc": "2024-10-06 06:11:20 UTC",
+                "comment_id": "DzmyPXb",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_vOdZxTP",
+                "target": false,
+                "type": "comment",
+                "body": "Went earlier this year - loved it. Paid for the extra service and would recommend. Raises the whole trip having food delivered, etc.\n\nI used to travel this way as a povvo uni student in the 80s/90s and that experience left me pretty ambivalent. But after the recent back and forth to Melb I'd definitely do it again.\n\nOne thing: the booking system is whack. You don't get your tickets straight away and the whole process is not well-designed. That's my only quibble.",
+                "created_utc": "2024-10-06 09:09:44 UTC",
+                "comment_id": "tnfbNrd",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_D1PuITN",
+                "target": false,
+                "type": "comment",
+                "body": "The vline day bus is considerably cheaper than the overnight firefly bus at about 35 bucks full fare.  However, it is necessary to change to connecting bus/train services once or twice, depending on which route you take.",
+                "created_utc": "2024-10-06 09:13:25 UTC",
+                "comment_id": "xcaQjLt",
+                "submission_id": "98vQqfE",
+                "parent_id": "7MzTyI4"
+            },
+            {
+                "user_id": "subject_XqxKqsU",
+                "target": false,
+                "type": "comment",
+                "body": "Omg please fly, if you have a senior person with you. It\u2019s a terrible train journey! I can\u2019t imagine doing it as an old person!",
+                "created_utc": "2024-10-06 13:23:00 UTC",
+                "comment_id": "lLHPXUD",
+                "submission_id": "98vQqfE",
+                "parent_id": "98vQqfE"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Yes thanks! We are also looking into flying :D",
+                "created_utc": "2024-10-07 09:25:00 UTC",
+                "comment_id": "lKL7oC7",
+                "submission_id": "98vQqfE",
+                "parent_id": "lLHPXUD"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the heads up :D",
+                "created_utc": "2024-10-07 09:25:46 UTC",
+                "comment_id": "KOfXwAB",
+                "submission_id": "98vQqfE",
+                "parent_id": "tnfbNrd"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "Wow very lucky you sorted out things. I will be sure not to leave things to the last minute!",
+                "created_utc": "2024-10-07 09:26:46 UTC",
+                "comment_id": "kt7Mt0b",
+                "submission_id": "98vQqfE",
+                "parent_id": "DzmyPXb"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_8xlz4tV",
+            "target": true,
+            "type": "submission",
+            "title": "What is your experience living in UC accommodations 2024",
+            "body": "Hi, I am an international student in ANU, currently living on ANU campus, 6-shared flat in Unilodge. I am happy with the experience mostly because my flatmates are clean and polite. The only problem I have is price, which increases quite a lot. I learn that UC accommodation also takes in ANU students and the price is much cheaper. I also learned that you cannot open windows in Weeden Lodge, sounds like perfect conditions for mould to grow. The bottom line is, I want to know what is your experience living in any UC accommodations recently, say 2024?",
+            "created_utc": "2024-10-08 07:30:34 UTC",
+            "submission_id": "hvZQcsT",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_RnRkPIp",
+                "target": false,
+                "type": "comment",
+                "body": "Would you consider share housing? I looked at the prices for on campus accomodation at the ANU recently and was shocked at how expensive it is.",
+                "created_utc": "2024-10-08 07:57:06 UTC",
+                "comment_id": "THVEvT4",
+                "submission_id": "hvZQcsT",
+                "parent_id": "hvZQcsT"
+            },
+            {
+                "user_id": "subject_8xlz4tV",
+                "target": true,
+                "type": "comment",
+                "body": "I am staying in one of the cheapest shared options in Unidlodge at ANU. It is not \"cheap\" but for the location, I can understand. Clean and cool roommates too. I just hate the price increase - like $20 increase per week. Insane. I would not mind sharing. I really like the sharing option in UC unilodge, just scared of the fact that you cannot open the windows... Like I can imagine people develop allergies living there, with carpetted floors year-round.",
+                "created_utc": "2024-10-08 12:25:08 UTC",
+                "comment_id": "Ma7M6P2",
+                "submission_id": "hvZQcsT",
+                "parent_id": "THVEvT4"
+            },
+            {
+                "user_id": "subject_fpyFAKx",
+                "target": false,
+                "type": "comment",
+                "body": "I stay at one the accommodations where they allow ANU students and you get what you pay for. Its a shared house and I can open the windows but there's always some maintenance issues going on. Unilodge takes forever to fix it and the staff are rude. I had some good roommates before but my current roommates are not that great.",
+                "created_utc": "2024-10-09 01:25:05 UTC",
+                "comment_id": "qqfFHnW",
+                "submission_id": "hvZQcsT",
+                "parent_id": "hvZQcsT"
+            },
+            {
+                "user_id": "subject_OFfmcUo",
+                "target": false,
+                "type": "comment",
+                "body": "i lived in weeden lodge for about 3.5 years, from jan 2021 to july 2024, in a 4 share, a single, and a 2 share. i can't personally compare them to anu lodges though, since i've never stayed in any anu ones \n\nthe inability to open the windows does suck, but i've never seen any mold outbreaks, since they always have the air cycled. it is an older building though, and sometimes the halls smelled a bit. if you're in the south wing, the elevators were always breaking down, but i believe they're in the process of fixing them?? there are four floors, so if you're up high it might be annoying to get to the laundry or whatnot if you're in that wing. it does also get cold in winter, so i'd recommend bringing your own heater. \n\nthey also often hold events and little activities you can join, like going to the zoo or yoga or timtam nights, if that interests you. i have however heard that weeden lodge feels a little more lonely than the other lodges. \n\nbut yeah, if you don't mind the distance, i'd say it's an alright place. not the greatest, but not bad.\n\nthough my roommates in the 4 share were horrible, so i hope if you move to weeden you get a better group of roommates!",
+                "created_utc": "2024-10-09 04:34:49 UTC",
+                "comment_id": "ihxHkT3",
+                "submission_id": "hvZQcsT",
+                "parent_id": "hvZQcsT"
+            },
+            {
+                "user_id": "subject_Gf71qq6",
+                "target": false,
+                "type": "comment",
+                "body": "I lived at UC in 2017, can't compare to ANU but honestly I would not recommend.\n\nFor the price I found you'd be better off privately renting a room.",
+                "created_utc": "2024-10-09 21:19:17 UTC",
+                "comment_id": "HNt2OnW",
+                "submission_id": "hvZQcsT",
+                "parent_id": "hvZQcsT"
+            }
+        ]
+    }
+]

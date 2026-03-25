@@ -1,0 +1,1235 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_5QH6eXP",
+            "target": true,
+            "type": "submission",
+            "title": "Travel Abroad with Your Gear or Stay Home?",
+            "body": "Hey everyone! Quick question for all the radio enthusiasts out there \u2014 do you enjoy taking your gear on trips abroad, searching for new signals in different places? Or do you prefer the comfort of staying at home, where you have everything set up just the way you like it?",
+            "created_utc": "2024-09-03 07:13:00 UTC",
+            "submission_id": "3ENQm95",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_GJwGiqA",
+                "target": false,
+                "type": "comment",
+                "body": "I like taking my equipment with to listen to stuff. But FYI, some countries do NOT like that. I had the police in my house in Mauritius because I had an HF antenna on my roof. Many countries have laws that state you can't posses a radio that isn't designed for commercial reception without a license for it's specific use.\n\nSo, yes, take it with you but first see if you should. Any African country, be careful... I traveled a few and when they see my airband transceiver they usually go crazy. Then I have to show I'm here to support _your_ helicopter ops and here are my \"peppers'. (papers) It's ALWAYS a hassle.",
+                "created_utc": "2024-09-03 08:08:18 UTC",
+                "comment_id": "UhrAEvy",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_YuxK606",
+                "target": false,
+                "type": "comment",
+                "body": "Having just completed a trip (to Europe) last weekend, I found it *a lot of fun* to work parks on the air.  Was even invited to visit a local ham group.",
+                "created_utc": "2024-09-03 11:42:28 UTC",
+                "comment_id": "nIPJixz",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_J0RCF7o",
+                "target": false,
+                "type": "comment",
+                "body": "I like both! It\u2019s fun to  operate in the comfort of my home, but it\u2019s also a lot of fun to take a low-power rig and battery out to a park and operate some POTA.",
+                "created_utc": "2024-09-03 12:05:33 UTC",
+                "comment_id": "9zMsyDy",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_ZwlnCjy",
+                "target": false,
+                "type": "comment",
+                "body": "The only time I have radios when traveling is if I\u2019m driving my own vehicle with the Icom-7000 and antenna complement. \n\nWhen I\u2019m traveling, radio is pretty much the absolute last thing on my mind. I want to be out experiencing the new environment, culture, people, sights, food, etc.  Radio is one of my hobbies, not my lifestyle.",
+                "created_utc": "2024-09-03 12:19:35 UTC",
+                "comment_id": "08qO6rU",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_BicJmJz",
+                "target": false,
+                "type": "comment",
+                "body": "I don't have a Full licence, so I don't bother bringing my normal radios, but I do bring my little Tecsun PL-368",
+                "created_utc": "2024-09-03 12:36:03 UTC",
+                "comment_id": "WN3QuKc",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_3E5ZZ8I",
+                "target": false,
+                "type": "comment",
+                "body": "I now rarely take radio gear when abroad. I used to only take my portable Sony SW receiver, but given the lack of quality SW stations nowadays it mostly collects dust in a cupboard.",
+                "created_utc": "2024-09-03 14:09:13 UTC",
+                "comment_id": "F5ucFdd",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_nuPGlgo",
+                "target": false,
+                "type": "comment",
+                "body": "Crossing borders is complicated with transmitters. Much easier to just leave that stuff at home and still travel.",
+                "created_utc": "2024-09-03 16:41:58 UTC",
+                "comment_id": "hrapBXZ",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_ASpxkyD",
+                "target": false,
+                "type": "comment",
+                "body": "Both!  I always take radios with me when I travel, especially if it's across the US!  ;)",
+                "created_utc": "2024-09-03 17:37:51 UTC",
+                "comment_id": "RwVpC2K",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_26ivvoi",
+                "target": false,
+                "type": "comment",
+                "body": "I've taken the Baothing abroad, but I don't mind if it's binned or confiscated by over-enthusiastic airport security",
+                "created_utc": "2024-09-03 19:04:39 UTC",
+                "comment_id": "k6Ew20e",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_XerTevN",
+                "target": false,
+                "type": "comment",
+                "body": "You need to be really careful when you travel with radio gear. I've heard that in Europe many countries will confiscate your radios and destroy them.",
+                "created_utc": "2024-09-03 19:46:58 UTC",
+                "comment_id": "3c9UkFM",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_PcVklZb",
+                "target": false,
+                "type": "comment",
+                "body": "My vacations usually have a Disney component to them so I usually don't take my radios along. I do enough radio stuff at home so the break is nice. It also helps keep peace in the family.",
+                "created_utc": "2024-09-03 19:57:49 UTC",
+                "comment_id": "BcFMojz",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_P4rLTPK",
+                "target": false,
+                "type": "comment",
+                "body": "Depends on the purpose of the trip.  Also how many hoops I have to jump through to operate. Is it reciprocal and I just use a prefix/suffix? Do I have to submit to get a local callsign?  How much additional will it cost me.",
+                "created_utc": "2024-09-03 19:59:18 UTC",
+                "comment_id": "42ZTXAo",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_lND2a2c",
+                "target": false,
+                "type": "comment",
+                "body": "First year as a ham operator. I carried with my QRP HF rig and a pair of EFHW wire antennas the summer vacations. I've enjoyed operating radio and doing some goods contacts since the yard of the house we were located.",
+                "created_utc": "2024-09-03 21:29:02 UTC",
+                "comment_id": "kZSCmTp",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_puNXWGA",
+                "target": false,
+                "type": "comment",
+                "body": "> I've heard that in Europe many countries will confiscate your radios and destroy them.\n\nNot really, most have pretty active ham radio communities. UK might be the weird one off, but UK is weird in many things, so yeah...",
+                "created_utc": "2024-09-03 21:59:15 UTC",
+                "comment_id": "hbhcpe1",
+                "submission_id": "3ENQm95",
+                "parent_id": "3c9UkFM"
+            },
+            {
+                "user_id": "subject_le0AAvA",
+                "target": false,
+                "type": "comment",
+                "body": "User name checks out.",
+                "created_utc": "2024-09-04 01:20:03 UTC",
+                "comment_id": "roxdtqE",
+                "submission_id": "3ENQm95",
+                "parent_id": "08qO6rU"
+            },
+            {
+                "user_id": "subject_le0AAvA",
+                "target": false,
+                "type": "comment",
+                "body": "The IC-705 & tuner is fantastic for a low profile travel radio.",
+                "created_utc": "2024-09-04 01:23:44 UTC",
+                "comment_id": "lWa09EY",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_CpIMAvQ",
+                "target": false,
+                "type": "comment",
+                "body": "\"This is K-CWRTHYNAV requesting signal report... I was told by my wife that my personal rx quality is 1 of 5, and needs revision... We've been married \\_\\_\\_years and I still haven't been able to get her to full quieting... \"",
+                "created_utc": "2024-09-04 01:53:02 UTC",
+                "comment_id": "9jnrMkb",
+                "submission_id": "3ENQm95",
+                "parent_id": "BcFMojz"
+            },
+            {
+                "user_id": "subject_GQsAgdN",
+                "target": false,
+                "type": "comment",
+                "body": "If destination has got reciprocal, just our hts (me and my boys)",
+                "created_utc": "2024-09-04 04:42:58 UTC",
+                "comment_id": "qLtxybA",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "subject_ccmIM6X",
+                "target": false,
+                "type": "comment",
+                "body": "Installing an antenna at home involves Making Decisions, and I'm indecisive.  Where do I want a hole in the wall and a grounding rod and what kind of antenna do I want on my roof?  Man, that's a lot of decision making.\n\nSo if I want to play radio, I need to take it somewhere else.  That way a bad decision is only frustrating for an hour or two and I'll try it better some other time.\n\nSo yeah, I like to take a ham radio wherever I can, and see what kind of setup I can manage there.  As a resident of a sparsely-populated part of the US, I was blown away by the amount of daytime activity on 40 meters when I was in the Eastern time zone.",
+                "created_utc": "2024-09-04 06:32:10 UTC",
+                "comment_id": "1wArhtJ",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, however... Check the local rules and regulations. Usually, in Europe as per CEPT, one can operate with their own callsign within their license limitations by calling their own callsign preceded by the guest country prefix, such as rhe following example.\n\nLet's say that DL2MAN (hello Manuel), wants to operate in Romania. He will have to call YO/DL2MAN.\n\nSome countries, like Italy, for example will allow you to do this, but only for the first 90 days of your stay (however, it is pretty hard to implement this if entering Italy trough other European countries since there is loging of time of entry).",
+                "created_utc": "2024-09-04 08:34:27 UTC",
+                "comment_id": "wjyYQBK",
+                "submission_id": "3ENQm95",
+                "parent_id": "3ENQm95"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_5QH6eXP",
+            "target": true,
+            "type": "submission",
+            "title": "What's Your Most Useful Radio Accessory?",
+            "body": "Hey fellow radio enthusiasts! \ud83d\udcfb\n\nwhat\u2019s the one radio accessory you find most useful in your setup? Whether it's an external antenna, a protective case, or something completely unexpected, I\u2019d love to hear your thoughts!\n\nAlso, for beginners getting into the hobby, what small tools or accessories would you recommend as a must-have? Let\u2019s help out the newcomers with some practical advice!\n\nLooking forward to your insights! \ud83d\ude0a",
+            "created_utc": "2024-09-11 05:56:19 UTC",
+            "submission_id": "cYO20Tk",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_qJ7p7Jy",
+                "target": false,
+                "type": "comment",
+                "body": "Mosquito repellent - the best friend of the POTA operator :)",
+                "created_utc": "2024-09-11 05:59:35 UTC",
+                "comment_id": "50fzLo8",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_dYPy2nU",
+                "target": false,
+                "type": "comment",
+                "body": "NanoVNA",
+                "created_utc": "2024-09-11 06:01:24 UTC",
+                "comment_id": "EH2f1tl",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_uym6XFI",
+                "target": false,
+                "type": "comment",
+                "body": "1. Dummy load made from attenuator and terminator.\n2. RTL-SDR\n3. DMM",
+                "created_utc": "2024-09-11 06:07:28 UTC",
+                "comment_id": "nqUucAR",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_FEAkl3C",
+                "target": false,
+                "type": "comment",
+                "body": "The antenna rotator.",
+                "created_utc": "2024-09-11 06:09:15 UTC",
+                "comment_id": "zjTiq7d",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_5QH6eXP",
+                "target": true,
+                "type": "comment",
+                "body": "lol, you are right",
+                "created_utc": "2024-09-11 06:18:28 UTC",
+                "comment_id": "LCE7Szv",
+                "submission_id": "cYO20Tk",
+                "parent_id": "50fzLo8"
+            },
+            {
+                "user_id": "subject_QPTnoj2",
+                "target": false,
+                "type": "comment",
+                "body": "\u2022 12 Vdc Power Supplies\n\n\u2022  VSWR Meters\n\n\u2022 Antenna Tuners\n\n\u2022 Beer Fridge",
+                "created_utc": "2024-09-11 06:25:42 UTC",
+                "comment_id": "daaGbBc",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_KjjK1U8",
+                "target": false,
+                "type": "comment",
+                "body": "ARRL Antenna Book, ARRL Handbooks : They have saved me thousands by understanding what to spend my money on and not falling for marketing garbage and youtube infomercials.",
+                "created_utc": "2024-09-11 06:30:19 UTC",
+                "comment_id": "6YE9lpQ",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_dHFEL5L",
+                "target": false,
+                "type": "comment",
+                "body": "PTT foot pedal",
+                "created_utc": "2024-09-11 06:31:50 UTC",
+                "comment_id": "0RrxuJK",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_gbQ8Rlu",
+                "target": false,
+                "type": "comment",
+                "body": "This 100%",
+                "created_utc": "2024-09-11 06:33:30 UTC",
+                "comment_id": "vnpw4pk",
+                "submission_id": "cYO20Tk",
+                "parent_id": "EH2f1tl"
+            },
+            {
+                "user_id": "subject_CyQ0aru",
+                "target": false,
+                "type": "comment",
+                "body": "I can agree with @rriggsco on the RTL\u2026 it\u2019s SO cheap and you can do SO much!\n\nHere\u2019s mine: I laminated several of these cards and I leave them around. I also use them as table settings at our club meetings!\u00a0https://home.arrl.org/action/Store/Product-Details/productId/134488\nAt 10\u00a2 each, you can afford to put them everywhere! They are a nice thick card stock and feel great.",
+                "created_utc": "2024-09-11 06:36:37 UTC",
+                "comment_id": "aQKTSN6",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_B7H6uux",
+                "target": false,
+                "type": "comment",
+                "body": "Concur...",
+                "created_utc": "2024-09-11 07:22:33 UTC",
+                "comment_id": "TGJ8Qds",
+                "submission_id": "cYO20Tk",
+                "parent_id": "vnpw4pk"
+            },
+            {
+                "user_id": "subject_KGubAZD",
+                "target": false,
+                "type": "comment",
+                "body": "Extra batteries for my HTs. I like 2 batteries each for my 2 Yaesus. The other are extra charging cables.",
+                "created_utc": "2024-09-11 07:44:51 UTC",
+                "comment_id": "PVK8CvN",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_7L9wK5a",
+                "target": false,
+                "type": "comment",
+                "body": "A good ATU",
+                "created_utc": "2024-09-11 08:01:27 UTC",
+                "comment_id": "mGkxN6c",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_FbaMWgD",
+                "target": false,
+                "type": "comment",
+                "body": "Dummy load. Everyone should have one.",
+                "created_utc": "2024-09-11 08:02:25 UTC",
+                "comment_id": "0d9GJxO",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_M9VXji9",
+                "target": false,
+                "type": "comment",
+                "body": "Roller-coaster twin meter ATU.",
+                "created_utc": "2024-09-11 08:13:59 UTC",
+                "comment_id": "frbWwYt",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_xXO05di",
+                "target": false,
+                "type": "comment",
+                "body": "My RigExpert Stick\n\nMakes tuning my vertical so quick and easy",
+                "created_utc": "2024-09-11 08:20:33 UTC",
+                "comment_id": "vSzcRrw",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_tsG0vSj",
+                "target": false,
+                "type": "comment",
+                "body": "Noise (QRM eliminators) JPS ANC-4 and a Chinese knockoff, QRM ELIMINATOR. Just brilliant in the 5-story, 85 unit apartment, noise box. I've worked 157 countries and WAS with the help of the QRM eliminators.\n\nhttps://preview.redd.it/reymsyirb5od1.jpeg?width=2488&format=pjpg&auto=webp&s=52a531387fa7163de3ec3f7179b2187b9053400a\n\n[JPS ANC-4](https://imgur.com/a/EXH5fxq)",
+                "created_utc": "2024-09-11 09:06:45 UTC",
+                "comment_id": "Z4IDyat",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_GkZHnl6",
+                "target": false,
+                "type": "comment",
+                "body": "Analysers. 5w on a great antenna is better than 100w on a rubbish antenna",
+                "created_utc": "2024-09-11 09:09:02 UTC",
+                "comment_id": "t0w9VK8",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_ltU8dcm",
+                "target": false,
+                "type": "comment",
+                "body": "The pen and notepad",
+                "created_utc": "2024-09-11 10:23:15 UTC",
+                "comment_id": "JEHxHsx",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_BLWV5U3",
+                "target": false,
+                "type": "comment",
+                "body": "Directional antennas in concert with a controllable rotating mast.",
+                "created_utc": "2024-09-11 10:37:32 UTC",
+                "comment_id": "kDGEGBe",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_s7vluPi",
+                "target": false,
+                "type": "comment",
+                "body": "just arrived. even before having a transceiver lol",
+                "created_utc": "2024-09-11 10:59:25 UTC",
+                "comment_id": "cYYJpoH",
+                "submission_id": "cYO20Tk",
+                "parent_id": "EH2f1tl"
+            },
+            {
+                "user_id": "subject_IaqCfow",
+                "target": false,
+                "type": "comment",
+                "body": "A clean mobile installation.\n\nI guess that's more of an effort than an accessory, but having the radio installed in the car in a way that it looks like it belongs there is very gratifying, the radio is always there, always works, it's not in the way and the Mrs. doesn't find it ugly or annoying. The antenna looks like it belongs where it is (unless you know what you're looking for) and so it doesn't attract attention.",
+                "created_utc": "2024-09-11 11:02:25 UTC",
+                "comment_id": "OdQEiDA",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_H6Pnjjw",
+                "target": false,
+                "type": "comment",
+                "body": "Another Amateur Radio Enthusiast with a similar radio.\n\nKinda hard to find people who are interested in Amateur Radio AND they are into the same things you are. If you do. Treasure them.",
+                "created_utc": "2024-09-11 11:12:21 UTC",
+                "comment_id": "qKtnFd8",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_4BNGdJS",
+                "target": false,
+                "type": "comment",
+                "body": "That device changed my life.",
+                "created_utc": "2024-09-11 11:21:48 UTC",
+                "comment_id": "bRrsHd6",
+                "submission_id": "cYO20Tk",
+                "parent_id": "EH2f1tl"
+            },
+            {
+                "user_id": "subject_R9cBOE5",
+                "target": false,
+                "type": "comment",
+                "body": "QRM eliminators made operating from home possible for me. Prior to getting one, portable was simply the only choice due to noise levels.",
+                "created_utc": "2024-09-11 11:28:37 UTC",
+                "comment_id": "jJjBqdt",
+                "submission_id": "cYO20Tk",
+                "parent_id": "Z4IDyat"
+            },
+            {
+                "user_id": "subject_f6WTFlL",
+                "target": false,
+                "type": "comment",
+                "body": "This right here! As someone new to the hobby it\u2019s been incredibly useful to make my way through these resources and be able to answer the \u201cok, but how does it *really* work?\u201d type questions; and like /u/martinrath77 pointed out, the side benefit is that it has helped me navigate spending money on what I actually need / will solve my problem vs what a company sponsored someone to say.",
+                "created_utc": "2024-09-11 11:42:06 UTC",
+                "comment_id": "4hfi8LM",
+                "submission_id": "cYO20Tk",
+                "parent_id": "6YE9lpQ"
+            },
+            {
+                "user_id": "subject_bnutBmn",
+                "target": false,
+                "type": "comment",
+                "body": "In used to contest at W0AIH.  He is now SK but he had a 200ft rotating tower with four mono band 20m yagi's.  Also his property was up on a large hill.  It was a wonderful antenna and tower system.",
+                "created_utc": "2024-09-11 11:44:50 UTC",
+                "comment_id": "PVaI2TJ",
+                "submission_id": "cYO20Tk",
+                "parent_id": "kDGEGBe"
+            },
+            {
+                "user_id": "subject_E2kovka",
+                "target": false,
+                "type": "comment",
+                "body": "seriously this is the best answer",
+                "created_utc": "2024-09-11 11:56:35 UTC",
+                "comment_id": "vOjkDM2",
+                "submission_id": "cYO20Tk",
+                "parent_id": "qKtnFd8"
+            },
+            {
+                "user_id": "subject_78XKjDE",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m not very huge into the hobby but one of my favorite things to do is take my HT\u2019s camping with me and try and talk to new hams in that area. Me and a buddy made some antennas that we can pull into trees. So my most useful accessory is definitely my throw bag and the slick line. I can toss that thing pretty high up over a branch and use the line to pull my antenna up.\n\nhttps://preview.redd.it/z9ivsu5m96od1.jpeg?width=1170&format=pjpg&auto=webp&s=1396e58acfc1d145b2a882143202ea14f2dba975",
+                "created_utc": "2024-09-11 12:14:40 UTC",
+                "comment_id": "dZOfNdF",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_iKtxYWo",
+                "target": false,
+                "type": "comment",
+                "body": "Gotta rig one of these up!",
+                "created_utc": "2024-09-11 12:39:54 UTC",
+                "comment_id": "OEWAtcS",
+                "submission_id": "cYO20Tk",
+                "parent_id": "0RrxuJK"
+            },
+            {
+                "user_id": "subject_iKtxYWo",
+                "target": false,
+                "type": "comment",
+                "body": "I just got a ft7900 that in working on installing, the remote face plate is the only way I'll be able to get a decent looking install. I'm stoked!",
+                "created_utc": "2024-09-11 12:43:03 UTC",
+                "comment_id": "4qoiVGi",
+                "submission_id": "cYO20Tk",
+                "parent_id": "OdQEiDA"
+            },
+            {
+                "user_id": "subject_rVOxQ1j",
+                "target": false,
+                "type": "comment",
+                "body": "I use a cheap music keyboard pedal for a foot switch. Most of the ones I've seen have a 1/4\" phone plug, which matches the PTT input jack on the Heil cable that hooks my microphone to my radio.",
+                "created_utc": "2024-09-11 12:43:24 UTC",
+                "comment_id": "R5p1bmp",
+                "submission_id": "cYO20Tk",
+                "parent_id": "OEWAtcS"
+            },
+            {
+                "user_id": "subject_3zbOJV9",
+                "target": false,
+                "type": "comment",
+                "body": "+1 on the NanoVNA (I have one with N connectors since my first one that had SMA wore out!)\n\n+1 on a 100 watt dummy load as well.",
+                "created_utc": "2024-09-11 12:45:04 UTC",
+                "comment_id": "m788Q0j",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_rVOxQ1j",
+                "target": false,
+                "type": "comment",
+                "body": "A computer with an internet connection.",
+                "created_utc": "2024-09-11 12:45:41 UTC",
+                "comment_id": "SnhQ2aW",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_3E5ZZ8I",
+                "target": false,
+                "type": "comment",
+                "body": "Multimeter.",
+                "created_utc": "2024-09-11 12:46:13 UTC",
+                "comment_id": "TvOoVC0",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_LxBPYF7",
+                "target": false,
+                "type": "comment",
+                "body": "The charging dock. Without it my radio is just a fancy paperweight! \ud83d\ude05",
+                "created_utc": "2024-09-11 12:46:13 UTC",
+                "comment_id": "RyFGt5D",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_sRtR5R6",
+                "target": false,
+                "type": "comment",
+                "body": "My antenna analyzer.  Setting up a station without one would be such a hassle.",
+                "created_utc": "2024-09-11 12:48:53 UTC",
+                "comment_id": "QoJ7D4N",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_P4rLTPK",
+                "target": false,
+                "type": "comment",
+                "body": "A station guide, this cost a minimal amount of money and can include scripts for QSO's, howtos on programming handhelds, or using your manual tuner.  All the useful stuff a new person finds themselves looking up frequently.\n\nA large bank account is also a good station accessory.",
+                "created_utc": "2024-09-11 12:55:15 UTC",
+                "comment_id": "QRkKvmg",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_P4rLTPK",
+                "target": false,
+                "type": "comment",
+                "body": "I use an electronic piano sustain pedal. An easy target that is designed to be stomped on frequently.   Amazon as nice models under $20.",
+                "created_utc": "2024-09-11 12:56:05 UTC",
+                "comment_id": "52l8j5c",
+                "submission_id": "cYO20Tk",
+                "parent_id": "0RrxuJK"
+            },
+            {
+                "user_id": "subject_52duSHv",
+                "target": false,
+                "type": "comment",
+                "body": "Does the throw bag ever get stuck in the tree?",
+                "created_utc": "2024-09-11 12:56:58 UTC",
+                "comment_id": "nAORpYu",
+                "submission_id": "cYO20Tk",
+                "parent_id": "dZOfNdF"
+            },
+            {
+                "user_id": "subject_CpgDEWd",
+                "target": false,
+                "type": "comment",
+                "body": "I have my radios plugged into a sound interface. I can use them with headphones while using my computer, I can use my nice broadcasting mic with them, and I can record the signals I hear.",
+                "created_utc": "2024-09-11 13:07:48 UTC",
+                "comment_id": "d41tLZm",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_6pIop1l",
+                "target": false,
+                "type": "comment",
+                "body": "When I read this suggestion for the first time, I felt silly for not realizing they were an option.",
+                "created_utc": "2024-09-11 13:19:44 UTC",
+                "comment_id": "l1a0wDd",
+                "submission_id": "cYO20Tk",
+                "parent_id": "R5p1bmp"
+            },
+            {
+                "user_id": "subject_r9db7sK",
+                "target": false,
+                "type": "comment",
+                "body": "roll up j-pole\n\nbattery shell for my HTs and AA batteries \n\nantenna analyzer\n\n  \nin order of use and order I'd purchase",
+                "created_utc": "2024-09-11 13:24:16 UTC",
+                "comment_id": "ol2ELNh",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[removed]",
+                "created_utc": "2024-09-11 13:26:31 UTC",
+                "comment_id": "Rf466xU",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_ZuHcM0B",
+                "target": false,
+                "type": "comment",
+                "body": "Removed. Your message includes an Amazon shortlink (domain \"a.co\" or \"amzn.to\").  Reddit flags these as spam automatically.  Please repost with an expanded but clean amazon link.  A proper link will end with an amazon product ID.  For example: https://www.amazon.com/IC-R8600-02-Software-Defined-Receiver-Blocked/dp/B0891RNWGZ/\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/amateurradio) if you have any questions or concerns.*",
+                "created_utc": "2024-09-11 13:26:31 UTC",
+                "comment_id": "VkyIA26",
+                "submission_id": "cYO20Tk",
+                "parent_id": "Rf466xU"
+            },
+            {
+                "user_id": "subject_iKtxYWo",
+                "target": false,
+                "type": "comment",
+                "body": "I've found a number of cheap foot switches on ebay that need wired for 1/4 (not a big deal as I make my own music cables anyway) but I'll have to look into this! I could also use it to punch in on my portastudio",
+                "created_utc": "2024-09-11 13:36:24 UTC",
+                "comment_id": "w2e6Em8",
+                "submission_id": "cYO20Tk",
+                "parent_id": "R5p1bmp"
+            },
+            {
+                "user_id": "subject_rVOxQ1j",
+                "target": false,
+                "type": "comment",
+                "body": "I had the same feeling when I realized it. I had a Yamaha keyboard and when I looked at the sustain pedal for it, I thought of how much it looked like the foot pedal Dad used on his radio.\n\nJust be aware that Yamaha pedals have a normally closed switch. For PTT you want normally open. I found that out the hard way. (grin) But I got a no-name pedal that does both on Amazon.",
+                "created_utc": "2024-09-11 13:50:10 UTC",
+                "comment_id": "jBoOOR1",
+                "submission_id": "cYO20Tk",
+                "parent_id": "l1a0wDd"
+            },
+            {
+                "user_id": "subject_rVOxQ1j",
+                "target": false,
+                "type": "comment",
+                "body": "Oh, wow. I thought I was getting a deal when I bought a switch on Amazon for $20, but ebay has them for about half that. Thanks!",
+                "created_utc": "2024-09-11 13:52:30 UTC",
+                "comment_id": "BGvWste",
+                "submission_id": "cYO20Tk",
+                "parent_id": "w2e6Em8"
+            },
+            {
+                "user_id": "subject_OGGSatM",
+                "target": false,
+                "type": "comment",
+                "body": "A killer antenna.",
+                "created_utc": "2024-09-11 14:01:21 UTC",
+                "comment_id": "xmzmnz6",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_x99fUbC",
+                "target": false,
+                "type": "comment",
+                "body": "A label maker is very handy!",
+                "created_utc": "2024-09-11 14:02:08 UTC",
+                "comment_id": "iVAVFd5",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_78XKjDE",
+                "target": false,
+                "type": "comment",
+                "body": "Haven\u2019t got it stuck yet (knock on wood) lol\n\nAlso the line pictured is not what it came with. What\u2019s pictured looks like paracord but what came with it is that twisted nylon line that\u2019s real slick and doesn\u2019t seem to rat nest as easy. I just kinda shove the line back in the bag and set the weight on top. When I get ready to throw it I just set the bag on the ground with the line in it and swing the weight at whatever branch I want and the line comes out fine.\n\nEdit: I should add that when I throw the weighted bag up I let it come down over the branch back to the ground and I use all the extra line to bring the antenna up. So I\u2019m not pulling the weight back over the branch. I pull the line over the branch. I didn\u2019t do that at first but it\u2019s one of those things I figured out over time that would make things easier",
+                "created_utc": "2024-09-11 14:06:52 UTC",
+                "comment_id": "SJtiqIu",
+                "submission_id": "cYO20Tk",
+                "parent_id": "nAORpYu"
+            },
+            {
+                "user_id": "subject_bI6dVAJ",
+                "target": false,
+                "type": "comment",
+                "body": "A good antenna analyzer, like a RigExpert, is really useful for trimming commercial antennas, building your own antennas, and deploying portable antennas. You can do the job with cheaper solutions, like a NanoVNA, but a good analyzer is so much quicker and easier.",
+                "created_utc": "2024-09-11 14:34:53 UTC",
+                "comment_id": "h6hfdVQ",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_ewJ7wOn",
+                "target": false,
+                "type": "comment",
+                "body": "Probably should take antennas out of the equation; I have five or six; they're all super useful for different applications. But you don't get any signal without them -- they're table stakes.\n\n  \nNanoVNA. So much more useful than my Surecom SW-102. The Surecom is good as a power meter, but being able to see SWR and a lot more, as a curve, that's where the NanoVNA excels. I don't know how one could trim an antenna without one.\n\n  \nRTLSDRv4. I can see clearly what interference I might be picking up. I can see traffic on different frequencies, and find things to listen to so much more easily.\n\n  \nScanner: I keep seeing people say they bought a Baofeng just to listen while they work on their license. Why?! Buy a scanner if you just want to listen. They scan frequencies 10x faster.",
+                "created_utc": "2024-09-11 14:54:42 UTC",
+                "comment_id": "0Ifpy1V",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_PiOZUwo",
+                "target": false,
+                "type": "comment",
+                "body": "I ordered one before my HF rig.",
+                "created_utc": "2024-09-11 14:56:52 UTC",
+                "comment_id": "KaOmV3q",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYYJpoH"
+            },
+            {
+                "user_id": "subject_GF3qW4s",
+                "target": false,
+                "type": "comment",
+                "body": "A good straight key.",
+                "created_utc": "2024-09-11 15:20:49 UTC",
+                "comment_id": "VQfvZdV",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_ZAyXxob",
+                "target": false,
+                "type": "comment",
+                "body": "Big chunk of silicone that fits into my cup holder and holds my portables. I use portables a lot and this is a lot nicer than them getting knocked around in the cup holder.",
+                "created_utc": "2024-09-11 15:29:40 UTC",
+                "comment_id": "EhGFi1e",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_RCmrWYZ",
+                "target": false,
+                "type": "comment",
+                "body": "1) A top notch multimeter like a Fluke. Buy the best you can afford - they don\u2019t wear out and quality makes a difference. \n2) A good antenna analyzer like RigExpert\n3) I really like my outboard audio DSP, but it\u2019s an old technology.\n4) A nice set of small screwdrivers that includes some of the very small ones (e.g. for working in 8 pin mic connectors). A Chapman screwdriver set is also great to have around. \n5) A high quality coax switch - you\u2019ll need it eventually for something\u2026\n6) A commercial or home made foot switch for PTT. \n7) An assortment of heat-shrink tubing\n8) Two soldering irons, one high wattage and one fine point with low wattage.",
+                "created_utc": "2024-09-11 15:56:43 UTC",
+                "comment_id": "6AyAz34",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_wiRy9Qm",
+                "target": false,
+                "type": "comment",
+                "body": "Since nobody has mentioned this, a proper crimping utensil. Coax connectors and DC power connectors got a LOT easier after I acquired one.",
+                "created_utc": "2024-09-11 16:11:46 UTC",
+                "comment_id": "pEpIO1j",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_wtvrO12",
+                "target": false,
+                "type": "comment",
+                "body": "Mfj antenna amalyzer and good dual needle watt metet",
+                "created_utc": "2024-09-11 16:24:42 UTC",
+                "comment_id": "nzX9n3V",
+                "submission_id": "cYO20Tk",
+                "parent_id": "pEpIO1j"
+            },
+            {
+                "user_id": "subject_AFY6ZJM",
+                "target": false,
+                "type": "comment",
+                "body": "I've got a big shack. Lots of radios, lots of toys. Everything I thought about posting was already mentioned, but one doodad has recently caught my fancy; one of those octopus 'programs anything' USB cables.\n\nI've had the types with the handful of different connector dongles that they've sold for a while, and all that happens is I lose the important ones. The style where it just has 8-10 cables coming out with different terminations is so good. They even got ones that have a couple RJ45's for programming Motorolas and Kenwoods now; used this to get some Moto VHF rigs from the latest hamfest on the air.",
+                "created_utc": "2024-09-11 16:35:18 UTC",
+                "comment_id": "bUcMlfp",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_wSG6E2G",
+                "target": false,
+                "type": "comment",
+                "body": "Or a power attenuator, 20 dB with power rated to handle your transmitter. They can be expensive but are much more useful in the long run.",
+                "created_utc": "2024-09-11 16:37:08 UTC",
+                "comment_id": "MldkMZO",
+                "submission_id": "cYO20Tk",
+                "parent_id": "0d9GJxO"
+            },
+            {
+                "user_id": "subject_DxP8BNn",
+                "target": false,
+                "type": "comment",
+                "body": "SDR",
+                "created_utc": "2024-09-11 17:39:45 UTC",
+                "comment_id": "Te0eLeF",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_iKtxYWo",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah the cheap little temco ones look perfect!",
+                "created_utc": "2024-09-11 17:42:40 UTC",
+                "comment_id": "XKVKAOV",
+                "submission_id": "cYO20Tk",
+                "parent_id": "BGvWste"
+            },
+            {
+                "user_id": "subject_pyGh64t",
+                "target": false,
+                "type": "comment",
+                "body": "This, no matter how great your radio is, how low your antennas swr is, all of that goes up in smoke if you don't sent the right voltage to your devices, and the best way to know for sure is by measuring it.",
+                "created_utc": "2024-09-11 18:08:10 UTC",
+                "comment_id": "s88KA5Z",
+                "submission_id": "cYO20Tk",
+                "parent_id": "TvOoVC0"
+            },
+            {
+                "user_id": "subject_dpzMf4S",
+                "target": false,
+                "type": "comment",
+                "body": "Nothing beats a Linemaster Clipper, generally model 632S is available inexpensively on ebay.  It's the kind of quality that your great grand children will be using it in their stations.",
+                "created_utc": "2024-09-11 18:35:18 UTC",
+                "comment_id": "ysQap8x",
+                "submission_id": "cYO20Tk",
+                "parent_id": "OEWAtcS"
+            },
+            {
+                "user_id": "subject_PcVklZb",
+                "target": false,
+                "type": "comment",
+                "body": "My best and most used accessory is the medical-grade Luxo arm lamp with the big magnifying glass and two fluorescent bulbs.",
+                "created_utc": "2024-09-11 18:37:11 UTC",
+                "comment_id": "mRSi6ZA",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_jmGl4cb",
+                "target": false,
+                "type": "comment",
+                "body": "Fluke sell multimeters much cheaper in other markets. You need to be careful but you can save a lot of money buying off AliExpress. There are ones which simply copy the style, but also ones which are completely fake.\n\nMy favourite shack gadget has to be a Tenma programmable digital bench power supply. I've used it to recover NiCd and LiIon cells which have dropped too low for a smart charger to recharge, to power a handheld,  power projects I'm working on, all sorts.\n\nMy favourite IT gadget is a virtual optical drive. In one mode, it's just a USB hard drive onto which you copy iso files. In the other mode, you select the iso and it becomes a CD, DVD or bluray. It saves a huge amount of time reinstalling operating systems etc. Since buying it a decade or more, I've burned very few disks.",
+                "created_utc": "2024-09-11 18:56:24 UTC",
+                "comment_id": "wN0h10S",
+                "submission_id": "cYO20Tk",
+                "parent_id": "6AyAz34"
+            },
+            {
+                "user_id": "subject_5u96r1b",
+                "target": false,
+                "type": "comment",
+                "body": "\u261d\ufe0f\u261d\ufe0f\u261d\ufe0fTHIS!!!\u261d\ufe0f\u261d\ufe0f\u261d\ufe0f",
+                "created_utc": "2024-09-11 19:33:33 UTC",
+                "comment_id": "X9rJ3L8",
+                "submission_id": "cYO20Tk",
+                "parent_id": "EH2f1tl"
+            },
+            {
+                "user_id": "subject_NzkrsDu",
+                "target": false,
+                "type": "comment",
+                "body": "A notepad and pen.  If I don't write down what I just got working as soon as it works, I'll forget all about it.",
+                "created_utc": "2024-09-11 19:51:00 UTC",
+                "comment_id": "WqZIeS5",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_o6a5IRN",
+                "target": false,
+                "type": "comment",
+                "body": "Sheesh. I've been away from radio activity too long. Wasn't aware of that gizmo at all! Thanxx.",
+                "created_utc": "2024-09-11 19:52:30 UTC",
+                "comment_id": "VW9KNba",
+                "submission_id": "cYO20Tk",
+                "parent_id": "EH2f1tl"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-09-11 20:23:52 UTC",
+                "comment_id": "NEI3KYu",
+                "submission_id": "cYO20Tk",
+                "parent_id": "50fzLo8"
+            },
+            {
+                "user_id": "subject_nX35dpv",
+                "target": false,
+                "type": "comment",
+                "body": "I love my thermacell",
+                "created_utc": "2024-09-12 00:39:14 UTC",
+                "comment_id": "1xxRs9E",
+                "submission_id": "cYO20Tk",
+                "parent_id": "NEI3KYu"
+            },
+            {
+                "user_id": "subject_bgKhwTF",
+                "target": false,
+                "type": "comment",
+                "body": "WSJT-X - best software for digital modes",
+                "created_utc": "2024-09-12 02:30:13 UTC",
+                "comment_id": "OeltPqq",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_5QH6eXP",
+                "target": true,
+                "type": "comment",
+                "body": "I've learned something new",
+                "created_utc": "2024-09-12 09:51:16 UTC",
+                "comment_id": "ALYtNLV",
+                "submission_id": "cYO20Tk",
+                "parent_id": "SJtiqIu"
+            },
+            {
+                "user_id": "subject_yVN2NFW",
+                "target": false,
+                "type": "comment",
+                "body": "1) Nano VNA\n2) craftsman rolling 3 tier toolbox\n3) 550 cord",
+                "created_utc": "2024-09-12 11:37:52 UTC",
+                "comment_id": "CAw7D5y",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_LoWR8lc",
+                "target": false,
+                "type": "comment",
+                "body": "Custom cover for my FTdx10.  I hate seeing pics of stations where the radios are covered in dust, dirt, finger grease, etc.",
+                "created_utc": "2024-09-12 13:53:15 UTC",
+                "comment_id": "YvIVyXj",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_jTn366k",
+                "target": false,
+                "type": "comment",
+                "body": "My Wife, she is much smarter than I am and can remember things that haven't even happened!",
+                "created_utc": "2024-09-12 14:33:26 UTC",
+                "comment_id": "onFyQeq",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            },
+            {
+                "user_id": "subject_idFx05g",
+                "target": false,
+                "type": "comment",
+                "body": "> ARRL Antenna Book\n\nAnother vote! It's so good",
+                "created_utc": "2024-09-12 15:54:14 UTC",
+                "comment_id": "syMxK3V",
+                "submission_id": "cYO20Tk",
+                "parent_id": "6YE9lpQ"
+            },
+            {
+                "user_id": "subject_99Pk7UT",
+                "target": false,
+                "type": "comment",
+                "body": "Rig expert",
+                "created_utc": "2024-09-15 02:08:01 UTC",
+                "comment_id": "unATM8p",
+                "submission_id": "cYO20Tk",
+                "parent_id": "cYO20Tk"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "deleted_user",
+            "target": false,
+            "type": "submission",
+            "title": "Seeking Advice: Traveling to China with XHDATA\u2019s Contest \u2013 What Should I Know",
+            "body": "[removed]",
+            "created_utc": "2024-09-14 02:30:14 UTC",
+            "submission_id": "6BRxIQ1",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_QPTnoj2",
+                "target": false,
+                "type": "comment",
+                "body": "Do not take any communications equipment into the PRC without expressed written permission from the PRC government.\u00a0 Even then, you could be risking your freedom if anyone denounces you as a spy.",
+                "created_utc": "2024-09-14 02:55:38 UTC",
+                "comment_id": "EQIaNHV",
+                "submission_id": "6BRxIQ1",
+                "parent_id": "6BRxIQ1"
+            },
+            {
+                "user_id": "subject_5QH6eXP",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the important information. I will make sure not to bring any communications equipment into China. I appreciate the advice.I am still very excited about experiencing Chinese cuisine and culture\uff1a\uff09",
+                "created_utc": "2024-09-14 03:00:05 UTC",
+                "comment_id": "u2Fkvmx",
+                "submission_id": "6BRxIQ1",
+                "parent_id": "EQIaNHV"
+            },
+            {
+                "user_id": "subject_n1A0hdD",
+                "target": false,
+                "type": "comment",
+                "body": "Are you going as part of some kind of DXpedition?",
+                "created_utc": "2024-09-14 03:01:56 UTC",
+                "comment_id": "zz99GD5",
+                "submission_id": "6BRxIQ1",
+                "parent_id": "6BRxIQ1"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_5QH6eXP",
+            "target": true,
+            "type": "submission",
+            "title": "What Are Your Thoughts on the 6686 Chip for Radio Reception?",
+            "body": "Hey fellow radio enthusiasts! \ud83d\udc4b\n\nI\u2019m currently exploring radios that use the 6686 chip, which is known for its stable AM/FM/SW signal reception and low power consumption. It seems to be a popular choice for portable radios, but I wanted to hear from the community before making any decisions.\n\nIf you've had any experience with radios using the 6686 chip, I\u2019d love to hear your thoughts:\n\nHow does it compare to other chips in terms of signal quality and noise reduction?\n\nHave you noticed any significant performance differences in different environments (urban vs. rural, indoors vs. outdoors)?\n\nWhat\u2019s the overall sound quality like when listening to different frequencies (AM, FM, or shortwave)?\n\nLooking forward to hearing your insights and experiences!\n\nThanks in advance! \ud83d\ude0a",
+            "created_utc": "2024-10-10 06:43:55 UTC",
+            "submission_id": "QG1q6CP",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-10-10 08:52:55 UTC",
+                "comment_id": "K7sxTtH",
+                "submission_id": "QG1q6CP",
+                "parent_id": "QG1q6CP"
+            },
+            {
+                "user_id": "subject_fJDika8",
+                "target": false,
+                "type": "comment",
+                "body": "Idk man. This seems like it _should_ be the right place to talk about building radios.",
+                "created_utc": "2024-10-10 10:07:39 UTC",
+                "comment_id": "Pdeujqd",
+                "submission_id": "QG1q6CP",
+                "parent_id": "K7sxTtH"
+            },
+            {
+                "user_id": "subject_wa71aMX",
+                "target": false,
+                "type": "comment",
+                "body": "There's a lot of hype out there - and after reading a couple reviews and watching some Youtubers, all of which made suspiciously overblown claims, I fell for it and bought a Qodosen DX-286.  If you haven't gathered already from my tone, I wasn't impressed.  Purely on reception alone - that is, doing actual radio stuff - it seems to be very good at broadcast FM reception, acceptable but not particularly impressive at MW and SW AM reception.  It is nice that the telescoping whip and external antenna jack may be used for MW AM which can produce improved results, but it's not the first or only such radio that can do that particular trick.  The radio has a wealth of features, exposing a lot of settings that perhaps other radios may hide from the customer, and radio enthusiasts love when they get a radio that lets them fiddle with settings.  But in truth most of those settings just affect things in small ways or for edge cases.  \n\nI don't know what your situation is but I'd recommend trying to find someone who actually owns what you're thinking of buying so you can try out for yourself.  Internet reviews are a poor substitute, as even well-meaning and honest reviewers can fall into over-hyping a new radio when it hits the market.",
+                "created_utc": "2024-10-10 12:07:18 UTC",
+                "comment_id": "CLfAqzn",
+                "submission_id": "QG1q6CP",
+                "parent_id": "QG1q6CP"
+            },
+            {
+                "user_id": "subject_lJIASLh",
+                "target": false,
+                "type": "comment",
+                "body": "I just took a look through the \"short\" datasheet, and it's really *just* FM broadcast and AM with full carrier. So I guess if I had any interest in commercial radio broadcasts, I'm sure it's a fine chip. But for amateur radio use, it doesn't have much to offer. \n\nThe short datasheet just has the overview and block diagram, etc, but NXP doesn't give any indication that the IQ stream can be obtained before audio processing, and FM is limited to 65-108MHz -- no ham bands are in there. And it doesn't say explicitly, but i bet it's only WBFM.\n\nSo to me, it's a chip that's designed for a specific set of use cases that are orthogonal to ham radio, and not a device I'd have any interest in. \n\nThe only way that changes is if someone finds a way to modify the SDR core to extract IQ data or implement ham-relevant modes. It may or may not be possible, and there are other chips that are useful, so I'm certainly not going to spend the time on it, especially for a chip that's RX-only.",
+                "created_utc": "2024-10-10 13:00:56 UTC",
+                "comment_id": "wx1N5t7",
+                "submission_id": "QG1q6CP",
+                "parent_id": "QG1q6CP"
+            },
+            {
+                "user_id": "subject_KU5fqva",
+                "target": false,
+                "type": "comment",
+                "body": "I would think that the sensitivity and audio quality of the output would depend not only on the chip itself, but the supporting filters and other support circuitry. So you\u2019re going to get differences in performance  between manufacturers, even if they use the same chip.",
+                "created_utc": "2024-10-10 19:02:00 UTC",
+                "comment_id": "bwXO6Ov",
+                "submission_id": "QG1q6CP",
+                "parent_id": "QG1q6CP"
+            },
+            {
+                "user_id": "subject_5QH6eXP",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks for the heads up, I think I'll go and experience it for myself\uff1a\uff09",
+                "created_utc": "2024-10-11 01:06:43 UTC",
+                "comment_id": "b8dlNgk",
+                "submission_id": "QG1q6CP",
+                "parent_id": "CLfAqzn"
+            },
+            {
+                "user_id": "subject_5QH6eXP",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks, this comment is very helpful!",
+                "created_utc": "2024-10-11 01:07:21 UTC",
+                "comment_id": "tIAO4pD",
+                "submission_id": "QG1q6CP",
+                "parent_id": "wx1N5t7"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_5QH6eXP",
+            "target": true,
+            "type": "submission",
+            "title": "What Are Your Thoughts on the 6686 Chip for Radio Reception?",
+            "body": "Hey fellow radio enthusiasts! \ud83d\udc4b \n\nI\u2019m currently exploring radios that use the 6686 chip, which is known for its stable AM/FM/SW signal reception and low power consumption. It seems to be a popular choice for portable radios, but I wanted to hear from the community before making any decisions. \n\nIf you've had any experience with radios using the 6686 chip, I\u2019d love to hear your thoughts: \n\nHow does it compare to other chips in terms of signal quality and noise reduction? Have you noticed any significant performance differences in different environments (urban vs. rural, indoors vs. outdoors)? \n\nWhat\u2019s the overall sound quality like when listening to different frequencies (AM, FM, or shortwave)? \n\nLooking forward to hearing your insights and experiences! Thanks in advance! \ud83d\ude0a",
+            "created_utc": "2024-10-11 02:35:31 UTC",
+            "submission_id": "A9rt8fV",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_MV0NXVt",
+                "target": false,
+                "type": "comment",
+                "body": "Qodosen DX-286 is a good choice for a portable radio for shortwave if you can live with the fact that it does not have SSB. On longwave and mediumwave, its performance is great if you use an external antenna in a very low noise environment. VHF FM is superb.\n\nMany people have reviewed it. Jay Allen. Check out his AM and FM mega shoutouts 2024.\n\nMany videos on Youtube showing this radio. Gilles from \"OfficialSWLChannel\". Andr\u00e9 from \"SWL\",  Kevin O'Reilly, Todderbert and many others.",
+                "created_utc": "2024-10-11 06:33:02 UTC",
+                "comment_id": "kAVEyM7",
+                "submission_id": "A9rt8fV",
+                "parent_id": "A9rt8fV"
+            },
+            {
+                "user_id": "subject_OGGSatM",
+                "target": false,
+                "type": "comment",
+                "body": "The 6686 chip does not have low power consumption. It\u2019s a chip originally designed for car radios and runs through batteries like crazy.",
+                "created_utc": "2024-10-11 13:16:15 UTC",
+                "comment_id": "9jUsTTT",
+                "submission_id": "A9rt8fV",
+                "parent_id": "A9rt8fV"
+            },
+            {
+                "user_id": "subject_LKwcLd3",
+                "target": false,
+                "type": "comment",
+                "body": "The SR-286 is probably my best receiver out of the two dozen I own. If they put this chip into a desktop unit, with ssb, a bigger speaker, and added a few more knobs and switches (vs secondary button functions) it would dominate the market and I would buy it today. I have many of the tecsun models, some various etons, grundigs, vintage sony, vintage realistic/radio shack, vintage panasonic, GE, etc. This chip is just flatly superior to the digital models, and is so much newer that it beats most of the old analogs for reception too.",
+                "created_utc": "2024-10-11 14:07:59 UTC",
+                "comment_id": "PGyZ4zQ",
+                "submission_id": "A9rt8fV",
+                "parent_id": "A9rt8fV"
+            },
+            {
+                "user_id": "subject_Y7PxJJp",
+                "target": false,
+                "type": "comment",
+                "body": "I don't have a TEF6686 chipped radio but I have a Sony XDR which has another TEF6730 chip in it, an earlier chip than the 6686. Terrific radio on MW and FM (also has HD, which is through some other chips). A lot of FM DXers in the EU use Sony XDR's for FM DXing.\n\nSo this family of chips has a pretty good rep.",
+                "created_utc": "2024-10-12 06:04:00 UTC",
+                "comment_id": "KuWzYNG",
+                "submission_id": "A9rt8fV",
+                "parent_id": "A9rt8fV"
+            },
+            {
+                "user_id": "subject_jbWSPC4",
+                "target": false,
+                "type": "comment",
+                "body": "How is the reception in AM? I tought it was optimised for FM",
+                "created_utc": "2024-10-12 12:54:55 UTC",
+                "comment_id": "aPiNU6J",
+                "submission_id": "A9rt8fV",
+                "parent_id": "A9rt8fV"
+            },
+            {
+                "user_id": "subject_TLOaGQt",
+                "target": false,
+                "type": "comment",
+                "body": "What brands/models carry this chip?",
+                "created_utc": "2024-10-12 13:58:30 UTC",
+                "comment_id": "TElpOsZ",
+                "submission_id": "A9rt8fV",
+                "parent_id": "A9rt8fV"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_5QH6eXP",
+            "target": true,
+            "type": "submission",
+            "title": "Welcome to the XHDATA Community! \ud83c\udf89",
+            "body": "Hello everyone!\n\nI\u2019m excited to kick off our XHDATA Reddit group! This space is dedicated to all things XHDATA, where we can share experiences, tips, and discussions about our favorite radios. Whether you're a seasoned user or new to our products, we\u2019d love to hear from you!\n\nFeel free to introduce yourself, share your favorite XHDATA product, or ask any questions you might have. Let's create a friendly and engaging community together!\n\nhttps://preview.redd.it/xu7hx9hj33vd1.jpg?width=6960&format=pjpg&auto=webp&s=384462640578186d8e4adeefc5b7e8a6f8b63036\n\n",
+            "created_utc": "2024-10-16 09:06:09 UTC",
+            "submission_id": "TyEs3JH",
+            "parent_id": null
+        },
+        "comments": []
+    }
+]

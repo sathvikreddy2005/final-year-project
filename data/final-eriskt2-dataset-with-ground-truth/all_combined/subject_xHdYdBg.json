@@ -1,0 +1,1989 @@
+[
+    {
+        "submission": {
+            "user_id": "deleted_user",
+            "target": false,
+            "type": "submission",
+            "title": "[deleted by user]",
+            "body": "[removed]",
+            "created_utc": "2023-04-11 00:05:09 UTC",
+            "submission_id": "f7amw6x",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Love them!",
+                "created_utc": "2023-04-11 00:10:02 UTC",
+                "comment_id": "pCfjhbE",
+                "submission_id": "f7amw6x",
+                "parent_id": "f7amw6x"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "Awh thank you! n\\_\\_\\_n",
+                "created_utc": "2023-04-11 00:12:21 UTC",
+                "comment_id": "O8DkcDX",
+                "submission_id": "f7amw6x",
+                "parent_id": "pCfjhbE"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Bikini Tops! \ud83e\udd80",
+                "created_utc": "2023-04-11 22:45:32 UTC",
+                "comment_id": "xI0ZnBR",
+                "submission_id": "f7amw6x",
+                "parent_id": "f7amw6x"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "I sea what you did there ;)",
+                "created_utc": "2023-04-11 23:14:05 UTC",
+                "comment_id": "oJBaxfK",
+                "submission_id": "f7amw6x",
+                "parent_id": "xI0ZnBR"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_M0trHTJ",
+            "target": false,
+            "type": "submission",
+            "title": "I'm confused? Shot with 7mm; why the zero sell price?",
+            "body": "",
+            "created_utc": "2024-02-18 03:28:00 UTC",
+            "submission_id": "yLJ6Hr5",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-02-18 03:36:24 UTC",
+                "comment_id": "DUfmV5y",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "&#x200B;\n\nhttps://preview.redd.it/m94f8q54n9jc1.png?width=1920&format=png&auto=webp&s=d990c0513b55d60e270fbcc80a5d6a268aea61b7",
+                "created_utc": "2024-02-18 03:48:01 UTC",
+                "comment_id": "S0c6Q7N",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "DUfmV5y"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "This is all I could find. Is there a way to go back and see the kill shot?",
+                "created_utc": "2024-02-18 03:48:39 UTC",
+                "comment_id": "a34qBWG",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "DUfmV5y"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "He was facing to my right and I hit him right behind the shoulder, single lung.",
+                "created_utc": "2024-02-18 03:57:34 UTC",
+                "comment_id": "vbjT6ud",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "Here is another one.\n\nhttps://preview.redd.it/wjs07j43s9jc1.png?width=1920&format=png&auto=webp&s=320db080369b3ac5e9cb07b36d0ff4808dfbc0cf",
+                "created_utc": "2024-02-18 04:15:57 UTC",
+                "comment_id": "0FzCMYM",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "&#x200B;\n\nhttps://preview.redd.it/6gurtml4s9jc1.png?width=1920&format=png&auto=webp&s=45eb05f30d10aad94645c59dc0bd1fd245db3886",
+                "created_utc": "2024-02-18 04:16:06 UTC",
+                "comment_id": "BHoXx0E",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "0FzCMYM"
+            },
+            {
+                "user_id": "subject_hwPHJv5",
+                "target": false,
+                "type": "comment",
+                "body": "Looks like a bug to me.",
+                "created_utc": "2024-02-18 04:46:21 UTC",
+                "comment_id": "Bq8rsBR",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "I think so as well. Rebooted my PC and then verified the files. Seems to have fixed it. Weird.",
+                "created_utc": "2024-02-18 04:55:40 UTC",
+                "comment_id": "GZx5aQD",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "Bq8rsBR"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "This happended to me when i was using unreal unlocker to inject into the process, not sure if the use case is similar but after i removed it it went back to correct monetary value for kills",
+                "created_utc": "2024-02-18 15:16:32 UTC",
+                "comment_id": "zyU0PnJ",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_v02gn5m",
+                "target": false,
+                "type": "comment",
+                "body": "The game said \"I've seen better\" \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "created_utc": "2024-02-18 18:27:07 UTC",
+                "comment_id": "Z7OEo13",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_M0trHTJ",
+                "target": false,
+                "type": "comment",
+                "body": "This was it. Figure out any way to use UU and still get normal game behavior?",
+                "created_utc": "2024-02-18 19:13:32 UTC",
+                "comment_id": "2N8oGMx",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "zyU0PnJ"
+            },
+            {
+                "user_id": "subject_xX2vKof",
+                "target": false,
+                "type": "comment",
+                "body": "Glitch. It says \u201cweight to sell\u201d and has a value so unless it\u2019s roadkill it\u2019s a glitch.",
+                "created_utc": "2024-02-18 20:26:05 UTC",
+                "comment_id": "IiGaQGS",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_prd4vgW",
+                "target": false,
+                "type": "comment",
+                "body": "Maybe it's a bug I never had that issue",
+                "created_utc": "2024-02-18 23:00:46 UTC",
+                "comment_id": "1Iajc6z",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_WpkE7VS",
+                "target": false,
+                "type": "comment",
+                "body": "The value is a trophy value so you must have shot him in the head, which results in 0$.",
+                "created_utc": "2024-02-18 23:32:39 UTC",
+                "comment_id": "na5S3y5",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_qoFPvSo",
+                "target": false,
+                "type": "comment",
+                "body": "Just look at those antler genetics. Just move and and sell a 5 star and hope the game gives it to you for more than 0 dollars.\n\nJk yeah something's off about that sale.",
+                "created_utc": "2024-02-20 06:13:09 UTC",
+                "comment_id": "s6KtbxA",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "yLJ6Hr5"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Unfortunately not. I'm playing without it now",
+                "created_utc": "2024-02-20 19:03:49 UTC",
+                "comment_id": "xss4Rxc",
+                "submission_id": "yLJ6Hr5",
+                "parent_id": "2N8oGMx"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_c8IGnDM",
+            "target": false,
+            "type": "submission",
+            "title": "Logitech G610 Lights do not work after sleep (2020)",
+            "body": "After putting computer to sleep the backlights will not work apart from the logitech logo.\n\nPressing the light button will actually dim the logitech logo.\n\nReplugging the keyboard fixes the issue. I've read older posts that state the same thing. It is 2020 and this issue has never been resolved in firmware updates. It is very infuriating.",
+            "created_utc": "2020-05-29 12:52:53 UTC",
+            "submission_id": "eWCHrXx",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_FFoeoD5",
+                "target": false,
+                "type": "comment",
+                "body": "Same thing happens to me extremely annoying that I have to unplug the keyboard every time for lighting to come back",
+                "created_utc": "2020-07-08 17:14:01 UTC",
+                "comment_id": "fgGj4FW",
+                "submission_id": "eWCHrXx",
+                "parent_id": "eWCHrXx"
+            },
+            {
+                "user_id": "subject_c8IGnDM",
+                "target": false,
+                "type": "comment",
+                "body": "It's a shame because apart from that issue it's a really nice keyboard",
+                "created_utc": "2020-07-09 01:54:18 UTC",
+                "comment_id": "lhfNdAA",
+                "submission_id": "eWCHrXx",
+                "parent_id": "fgGj4FW"
+            },
+            {
+                "user_id": "subject_tfkYG2K",
+                "target": false,
+                "type": "comment",
+                "body": "Apparently there was a firmware update 104.4.15 two years ago that fixed this issue, but for some reason it doesn't appear in the GHUB or Gaming Software or the support page. Maybe it doesn't always work? [https://www.reddit.com/r/LogitechG/comments/88jfyg/g610\\_firmware\\_update\\_104415\\_29mar2018/](https://www.reddit.com/r/LogitechG/comments/88jfyg/g610_firmware_update_104415_29mar2018/)\n\nHowever, I found some random sketchy website that has links to the firmware updates:\n\n[https://logitech-driversupport.com/logitech-g610-orion-keyboard/](https://logitech-driversupport.com/logitech-g610-orion-keyboard/)\n\nScroll to bottom of article, click Downloads, it opens some scam link. Then see G610 Firmware Update.\n\nThe link will open another sketch thing in a tab, which you should close. But the download itself ([https://download01.logi.com/web/ftp/pub/techsupport/gaming/G610Update\\_104.4.15.exe](https://download01.logi.com/web/ftp/pub/techsupport/gaming/G610Update_104.4.15.exe)) *is* from [logi.com](https://logi.com), which *is* the official logitech website, from the same URL path as the other files on the support page. I downloaded and ran it and it showed the same firmware update dialog that would appear from a firmware updater in C:\\\\Program Files\\\\Logitech Gaming Software\\\\FWUpdate (you could check to see if the G610 firmware is listed here). I followed the instructions and it updated it and the keyboard works fine. The firmware version listed in GHUB is now 104.4.15.\n\nPerhaps the update had some other bugs or something that can cause problems.\n\nHonestly, it would probably be better to send a support request or something. Who knows if the updater installed some kind of keylogger on my keyboard xD. You never know what kind of tricks scam websites can pull, but maybe I'm just paranoid.",
+                "created_utc": "2020-10-26 00:56:41 UTC",
+                "comment_id": "gaZSDqZ",
+                "submission_id": "eWCHrXx",
+                "parent_id": "eWCHrXx"
+            },
+            {
+                "user_id": "subject_tfkYG2K",
+                "target": false,
+                "type": "comment",
+                "body": "See my comment for a potential fix.",
+                "created_utc": "2020-10-26 00:57:03 UTC",
+                "comment_id": "b8LaQHH",
+                "submission_id": "eWCHrXx",
+                "parent_id": "fgGj4FW"
+            },
+            {
+                "user_id": "subject_c8IGnDM",
+                "target": false,
+                "type": "comment",
+                "body": "That actually worked!! Thank you so much for that hard work finding that firmware download.\n\nThis is literally my favorite keyboard out of all the keyboards I use and I use it as a daily driver at night times. Having the backlit keys work now is a huge deal for me.\n\nSeriously, thank you so much!!",
+                "created_utc": "2020-10-27 12:09:02 UTC",
+                "comment_id": "roBgfJU",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_tfkYG2K",
+                "target": false,
+                "type": "comment",
+                "body": "Awesome! :D",
+                "created_utc": "2020-10-27 18:54:06 UTC",
+                "comment_id": "IuE5cIe",
+                "submission_id": "eWCHrXx",
+                "parent_id": "roBgfJU"
+            },
+            {
+                "user_id": "subject_JOeT8ho",
+                "target": false,
+                "type": "comment",
+                "body": "So glad I stumbled across your reply ... thanks for actually posting the solution. Hopefully I speak on behalf of all those silent lucky souls you've helped as well...",
+                "created_utc": "2021-11-19 09:28:56 UTC",
+                "comment_id": "tSPzdZK",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_tfkYG2K",
+                "target": false,
+                "type": "comment",
+                "body": "Awesome \ud83d\udc4d I've been using the driver for a while now (a year :D) with no problems.",
+                "created_utc": "2021-11-19 20:16:17 UTC",
+                "comment_id": "TolYxil",
+                "submission_id": "eWCHrXx",
+                "parent_id": "tSPzdZK"
+            },
+            {
+                "user_id": "subject_lFR4wp2",
+                "target": false,
+                "type": "comment",
+                "body": "Randomly ended up here from a Google Search. This fixed the lights problem on my keyboard. Thank you!",
+                "created_utc": "2022-03-01 22:10:24 UTC",
+                "comment_id": "ssyaXzQ",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_nTuWMY8",
+                "target": false,
+                "type": "comment",
+                "body": "Ran into this problem since 2018. Fixed it with your comment in 2022. Thank you!",
+                "created_utc": "2022-04-06 00:36:26 UTC",
+                "comment_id": "mXlsIEC",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_FtxSWfX",
+                "target": false,
+                "type": "comment",
+                "body": "Another one solved in 2022! thanks!",
+                "created_utc": "2022-04-30 09:34:52 UTC",
+                "comment_id": "jZ7L5E8",
+                "submission_id": "eWCHrXx",
+                "parent_id": "eWCHrXx"
+            },
+            {
+                "user_id": "subject_c8IGnDM",
+                "target": false,
+                "type": "comment",
+                "body": "Woohoo happy that this post is helping people. I still own this keyboard and it is still my favorite daily driver.",
+                "created_utc": "2022-04-30 09:37:36 UTC",
+                "comment_id": "HpVPClF",
+                "submission_id": "eWCHrXx",
+                "parent_id": "jZ7L5E8"
+            },
+            {
+                "user_id": "subject_z4rMjxB",
+                "target": false,
+                "type": "comment",
+                "body": "mine stopped working for no reason; suddendly i noticed that only the logo would respond to the light-toggle key.\n\n&#x200B;\n\nThe firmware update presented by blobjim resolved the issue",
+                "created_utc": "2022-05-02 20:47:19 UTC",
+                "comment_id": "VFUog1t",
+                "submission_id": "eWCHrXx",
+                "parent_id": "eWCHrXx"
+            },
+            {
+                "user_id": "subject_c8IGnDM",
+                "target": false,
+                "type": "comment",
+                "body": "Like just the LEDs stopped working or the whole keyboard?",
+                "created_utc": "2022-05-02 22:27:15 UTC",
+                "comment_id": "zQ5xeXE",
+                "submission_id": "eWCHrXx",
+                "parent_id": "VFUog1t"
+            },
+            {
+                "user_id": "subject_z4rMjxB",
+                "target": false,
+                "type": "comment",
+                "body": "Whole keyboard, except the Logitech logo.\n\nPlaying with the settings did not help; only the logo would be functional.\n\n&#x200B;\n\nreboot, replugging did not help...\n\n&#x200B;\n\nOnly the firmware update.\n\nPraise the firmware update.",
+                "created_utc": "2022-05-03 19:57:11 UTC",
+                "comment_id": "KGiRQsV",
+                "submission_id": "eWCHrXx",
+                "parent_id": "zQ5xeXE"
+            },
+            {
+                "user_id": "subject_75kptUn",
+                "target": false,
+                "type": "comment",
+                "body": "Another one fixed.  Thanks!!!",
+                "created_utc": "2022-05-22 02:51:04 UTC",
+                "comment_id": "ELeDY0i",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_3iQ5bsI",
+                "target": false,
+                "type": "comment",
+                "body": "2 years later still a hero!",
+                "created_utc": "2022-12-28 08:20:18 UTC",
+                "comment_id": "ep1IlAz",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_NGBhNFt",
+                "target": false,
+                "type": "comment",
+                "body": "Been having this exact same issue for years, thanks for this post.",
+                "created_utc": "2024-02-26 23:02:36 UTC",
+                "comment_id": "UMdF0YV",
+                "submission_id": "eWCHrXx",
+                "parent_id": "eWCHrXx"
+            },
+            {
+                "user_id": "subject_c8IGnDM",
+                "target": false,
+                "type": "comment",
+                "body": "Your welcome haha",
+                "created_utc": "2024-02-26 23:03:05 UTC",
+                "comment_id": "YvrWeCB",
+                "submission_id": "eWCHrXx",
+                "parent_id": "UMdF0YV"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much! you are a life saver",
+                "created_utc": "2024-06-03 00:33:02 UTC",
+                "comment_id": "OhOkEeh",
+                "submission_id": "eWCHrXx",
+                "parent_id": "gaZSDqZ"
+            },
+            {
+                "user_id": "subject_4TXNoFb",
+                "target": false,
+                "type": "comment",
+                "body": "Replugging it in works: thanks!",
+                "created_utc": "2024-09-22 03:26:50 UTC",
+                "comment_id": "3BjfYty",
+                "submission_id": "eWCHrXx",
+                "parent_id": "eWCHrXx"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_9AZfy9Z",
+            "target": false,
+            "type": "submission",
+            "title": "I kinda need help pc is weird orange light",
+            "body": "I have tried almost everything so far take out the battery then putting it back in changing ram doing single ram take out cpu and then putting it back i have no idea why it isn\u2019t booting up can i have help it\u2019s for my little brother and his birthday in 2 days if you guys can help me boot it up 80$ free ",
+            "created_utc": "2024-08-31 06:02:28 UTC",
+            "submission_id": "zwDcvLU",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_zxs0tgt",
+                "target": false,
+                "type": "comment",
+                "body": "Hi there! This is a friendly reminder to change your flair to **Support - SOLVED!** after your issue has been resolved. It is an immense help for those that may come across your same problem in the future so that they can quickly find the right solution. Thank you!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ASUS) if you have any questions or concerns.*",
+                "created_utc": "2024-08-31 06:02:29 UTC",
+                "comment_id": "8h2Vtmt",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "Have you checked the ram? Try reseating it or try a different kit if you have a different kit.",
+                "created_utc": "2024-08-31 06:05:04 UTC",
+                "comment_id": "XisoKK7",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "it seems to be working it\u2019s glowing and i did both individual slots singles still no boot",
+                "created_utc": "2024-08-31 06:05:33 UTC",
+                "comment_id": "ADH7vIL",
+                "submission_id": "zwDcvLU",
+                "parent_id": "XisoKK7"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "Try it in different slots. If it doesn\u2019t work, you have a faulty mobo.",
+                "created_utc": "2024-08-31 06:05:36 UTC",
+                "comment_id": "HegXXhK",
+                "submission_id": "zwDcvLU",
+                "parent_id": "XisoKK7"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "dang a faulty mobo that sucks",
+                "created_utc": "2024-08-31 06:06:19 UTC",
+                "comment_id": "8IiYIfd",
+                "submission_id": "zwDcvLU",
+                "parent_id": "HegXXhK"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "You may have a faulty ram stick. This happened to me, with my G Skill Trident Z ram kit, and I did return the ram to the company I got it from, and it was marked as defective and I got a new set.",
+                "created_utc": "2024-08-31 06:06:22 UTC",
+                "comment_id": "TwQ2ScB",
+                "submission_id": "zwDcvLU",
+                "parent_id": "ADH7vIL"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "Well, it may be. Try a different slot.",
+                "created_utc": "2024-08-31 06:06:41 UTC",
+                "comment_id": "K2duBcE",
+                "submission_id": "zwDcvLU",
+                "parent_id": "8IiYIfd"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "However, I would recommend trying a different kit of ram or maybe a second stick",
+                "created_utc": "2024-08-31 06:07:14 UTC",
+                "comment_id": "pNADuAJ",
+                "submission_id": "zwDcvLU",
+                "parent_id": "TwQ2ScB"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "What model of mobo is this? Lemme look it up, and find some solutions.",
+                "created_utc": "2024-08-31 06:08:04 UTC",
+                "comment_id": "M38sjfz",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "asus tuf x570 plus wifi if you can find solution that\u2019ll help i been looking for weeks",
+                "created_utc": "2024-08-31 06:08:45 UTC",
+                "comment_id": "ePYJ94U",
+                "submission_id": "zwDcvLU",
+                "parent_id": "M38sjfz"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "Okay. Lemme check.",
+                "created_utc": "2024-08-31 06:08:58 UTC",
+                "comment_id": "esKtFrT",
+                "submission_id": "zwDcvLU",
+                "parent_id": "ePYJ94U"
+            },
+            {
+                "user_id": "subject_f9YqfJ4",
+                "target": false,
+                "type": "comment",
+                "body": "So the results say, if you tried the ram stick in different slots, and still doesn\u2019t boot up, it indicates it\u2019s the orange DRAM light of death meaning your ram stick is cooked. However, if you get a new kit, maybe it\u2019ll solve the issue. If it doesn\u2019t solve the issue, then chances are you have a faulty motherboard. I hope my advice helps. And also, if you need any PC help, feel free to DM me on my Reddit DMs. I will be online.",
+                "created_utc": "2024-08-31 06:11:27 UTC",
+                "comment_id": "ggKW0S3",
+                "submission_id": "zwDcvLU",
+                "parent_id": "ePYJ94U"
+            },
+            {
+                "user_id": "subject_GxL7P5o",
+                "target": false,
+                "type": "comment",
+                "body": "Are you giving the RAM time to do its mapping thing? I have 64GB of DDR5 running at 6000MT/s, and it takes me 4.5 minutes to start up as the system maps the ram each time (the RAM light stays on until it's done).",
+                "created_utc": "2024-08-31 06:13:11 UTC",
+                "comment_id": "i6S9fux",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "yea i let it run for an hour",
+                "created_utc": "2024-08-31 06:13:46 UTC",
+                "comment_id": "xEhgZip",
+                "submission_id": "zwDcvLU",
+                "parent_id": "i6S9fux"
+            },
+            {
+                "user_id": "subject_GxL7P5o",
+                "target": false,
+                "type": "comment",
+                "body": "An hour - yeh, that's not a good sign. My initial MB had a similar issue (an MSI x670e tomahawk). Tried updating BIOS and no luck. Returned it, and they tested, was a DoA and then they RMA'd a refund. \n\n  \nBIOS update might be your next step, then return RAM and MB for testing... Good luck getting an RMA from ASUS, their recent behaviour is why I went with other brands.",
+                "created_utc": "2024-08-31 06:23:51 UTC",
+                "comment_id": "qzJgX7R",
+                "submission_id": "zwDcvLU",
+                "parent_id": "xEhgZip"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "not sure how to bios update if i can\u2019t even get the display to open sadly",
+                "created_utc": "2024-08-31 06:26:13 UTC",
+                "comment_id": "YqWinVn",
+                "submission_id": "zwDcvLU",
+                "parent_id": "qzJgX7R"
+            },
+            {
+                "user_id": "subject_GxL7P5o",
+                "target": false,
+                "type": "comment",
+                "body": "This MB doesn't look like it has a BIOS flash button option... bugger.",
+                "created_utc": "2024-08-31 06:36:22 UTC",
+                "comment_id": "v47PTxq",
+                "submission_id": "zwDcvLU",
+                "parent_id": "YqWinVn"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "yea i mean in the past when i used it it was fine just not sure why today it wants to be weird",
+                "created_utc": "2024-08-31 06:37:06 UTC",
+                "comment_id": "drGTKnq",
+                "submission_id": "zwDcvLU",
+                "parent_id": "v47PTxq"
+            },
+            {
+                "user_id": "subject_f30eT1s",
+                "target": false,
+                "type": "comment",
+                "body": "this may be silly to ask, but are you sure you put the ram in all the way? it makes an awful sound which is quite scary if you don\u2019t know what to expect but you gotta be more forceful than you think lmao",
+                "created_utc": "2024-08-31 06:37:53 UTC",
+                "comment_id": "8pcUi6j",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "i think i have all i hear was scratches and two clicks\ud83d\ude05",
+                "created_utc": "2024-08-31 06:39:06 UTC",
+                "comment_id": "FdXAiun",
+                "submission_id": "zwDcvLU",
+                "parent_id": "8pcUi6j"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "if ur talking about those sounds then i feel like i installed it right",
+                "created_utc": "2024-08-31 06:39:21 UTC",
+                "comment_id": "A0m20nz",
+                "submission_id": "zwDcvLU",
+                "parent_id": "FdXAiun"
+            },
+            {
+                "user_id": "subject_f30eT1s",
+                "target": false,
+                "type": "comment",
+                "body": "you may need to get new ram then, or at least try different ram to see if it can boot, maybe take some from another computer ram is pretty standard as far as i know, you can check compatibility using [https://pcpartpicker.com/](https://pcpartpicker.com/), additionally there are several videos on youtube with tutorials which may help, i\u2019ve only built one pc so i don\u2019t have much experience with this haha",
+                "created_utc": "2024-08-31 06:44:04 UTC",
+                "comment_id": "uyRbUoi",
+                "submission_id": "zwDcvLU",
+                "parent_id": "A0m20nz"
+            },
+            {
+                "user_id": "subject_ztvldLM",
+                "target": false,
+                "type": "comment",
+                "body": "Try populating the 4 pin cpu power too, from the upper-left corner of the motherboard. Try starting it without the discreet graphics card installed, on the built-in gpu. If it works then, do use two separate cables for the graphics card (supplementary pcie 6+2 pin) instead of a daisy-chained single.",
+                "created_utc": "2024-08-31 07:20:24 UTC",
+                "comment_id": "AwNjzj8",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "what do you mean by populating and i tried taking out my gpu and trying to use integrated graphics that wouldn\u2019t boot either",
+                "created_utc": "2024-08-31 07:22:09 UTC",
+                "comment_id": "w91dgw1",
+                "submission_id": "zwDcvLU",
+                "parent_id": "AwNjzj8"
+            },
+            {
+                "user_id": "subject_ztvldLM",
+                "target": false,
+                "type": "comment",
+                "body": "Populating means having the cable that fits (half of a separate 4+4) plugged in correctly into motherboard and psu, available to deliver power.",
+                "created_utc": "2024-08-31 07:29:41 UTC",
+                "comment_id": "xL0eNF8",
+                "submission_id": "zwDcvLU",
+                "parent_id": "w91dgw1"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "oh yea i have that in it im not sure why it isn\u2019t working",
+                "created_utc": "2024-08-31 07:30:54 UTC",
+                "comment_id": "MmfNSzm",
+                "submission_id": "zwDcvLU",
+                "parent_id": "xL0eNF8"
+            },
+            {
+                "user_id": "subject_ztvldLM",
+                "target": false,
+                "type": "comment",
+                "body": "It isn't in on the photo.",
+                "created_utc": "2024-08-31 07:31:29 UTC",
+                "comment_id": "KbHDW1F",
+                "submission_id": "zwDcvLU",
+                "parent_id": "MmfNSzm"
+            },
+            {
+                "user_id": "subject_9AZfy9Z",
+                "target": false,
+                "type": "comment",
+                "body": "it\u2019s a two piece with 4 squares",
+                "created_utc": "2024-08-31 07:32:35 UTC",
+                "comment_id": "Wf8t1hv",
+                "submission_id": "zwDcvLU",
+                "parent_id": "KbHDW1F"
+            },
+            {
+                "user_id": "subject_ztvldLM",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, but look further in your psu box, you'll find another such cable. To populate the existing group of three 4pin connectors on the motherboard, a use of two 4+4 pin cables would be required, one of which has both its 4 pin connectors plugged in. The other, additional cable would have one 4 pin plugged into the motherboard and the second 4 pin hanging freely.",
+                "created_utc": "2024-08-31 07:47:44 UTC",
+                "comment_id": "CcxL8Us",
+                "submission_id": "zwDcvLU",
+                "parent_id": "Wf8t1hv"
+            },
+            {
+                "user_id": "subject_zUQ4aa7",
+                "target": false,
+                "type": "comment",
+                "body": "Either your motherboard ram slot or your ram stick is bricked. Happened to my asus tuf motherboard last week after the latest bios update. My PC wont boot up and have orange LED light.\n\nA simple troubleshoot by booting with each ram stick on each slot and I discovered that my 2nd ram slot isn't working. I was using the 2nd and 4th ram slot for XMP, so a simple solution was just to use the other remaining three slots.",
+                "created_utc": "2024-08-31 08:02:47 UTC",
+                "comment_id": "VqyjrB8",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_BwvcyTO",
+                "target": false,
+                "type": "comment",
+                "body": "[TUF GAMING X570-PLUS (WI-FI)  's MANUAL](https://dlcdnets.asus.com/pub/ASUS/mb/SocketAM4/PRIME_X570-P/E15829_PRIME_PRO_TUF_GAMING_X570_Series_BIOS_EM_WEB.pdf?model=TUF%20GAMING%20X570-PLUS%20(WI-FI))\n\nAll your answers are into. Search by yourself thanks to the official' s manual of your mobo, or by a Playstation or a portable mac shitty device. \n\ud83d\udd0e\ud83d\udca1\ud83d\udd6f\ufe0f",
+                "created_utc": "2024-08-31 12:04:13 UTC",
+                "comment_id": "Ebplo6I",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "I've had this before if i set my soc voltage too low. I got my bois to show up by removing all power from the pc and pressing the off button a few times after just to make sure its off. Then switch power back on go into bios and load optimized defaults (usually f5)",
+                "created_utc": "2024-09-01 12:58:36 UTC",
+                "comment_id": "EX0SuMB",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            },
+            {
+                "user_id": "subject_ejTKUN8",
+                "target": false,
+                "type": "comment",
+                "body": "Stick that 1 ram stick in the other slot.",
+                "created_utc": "2024-09-04 02:14:08 UTC",
+                "comment_id": "KxYDhmg",
+                "submission_id": "zwDcvLU",
+                "parent_id": "zwDcvLU"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_xHdYdBg",
+            "target": true,
+            "type": "submission",
+            "title": "Do they search your bags",
+            "body": "Hello I'm taking a train from Ottawa to Toronto in a few weeks, I was wondering if they check your bags, like search through them because I am bringing adult toys along with me and I do not want to be embarrassed at the station.",
+            "created_utc": "2024-09-22 22:19:08 UTC",
+            "submission_id": "vTBoshB",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_4kxKFnI",
+                "target": false,
+                "type": "comment",
+                "body": "They do not",
+                "created_utc": "2024-09-22 22:22:25 UTC",
+                "comment_id": "6CbbefK",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "OK thank you so the content of my bag is private \ud83d\ude05",
+                "created_utc": "2024-09-22 22:23:13 UTC",
+                "comment_id": "hZaSF4V",
+                "submission_id": "vTBoshB",
+                "parent_id": "6CbbefK"
+            },
+            {
+                "user_id": "subject_4kxKFnI",
+                "target": false,
+                "type": "comment",
+                "body": "Correct",
+                "created_utc": "2024-09-22 22:23:31 UTC",
+                "comment_id": "vn0FvVC",
+                "submission_id": "vTBoshB",
+                "parent_id": "hZaSF4V"
+            },
+            {
+                "user_id": "subject_TyxUvGm",
+                "target": false,
+                "type": "comment",
+                "body": "Seems like a good time to warn the RCMP about potential contraband being moved through Ottawa by passenger train in a few weeks\u2026 \ud83d\ude0f/s",
+                "created_utc": "2024-09-22 22:36:32 UTC",
+                "comment_id": "qs262Pp",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_oUqftvi",
+                "target": false,
+                "type": "comment",
+                "body": "Why don't you put them in a decreet  bag and pack the bag in your suitcase....\ud83d\ude44",
+                "created_utc": "2024-09-22 22:39:28 UTC",
+                "comment_id": "A0Yckoa",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_iN6w18v",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m either dyslexic, or I really need to get my eyes checked. I thought you asked if they scratch your bag.",
+                "created_utc": "2024-09-22 22:42:55 UTC",
+                "comment_id": "IHUOmEs",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_CvmqTzs",
+                "target": false,
+                "type": "comment",
+                "body": "At a certain girth and veininess, it becomes a threat to critical infrastructure.",
+                "created_utc": "2024-09-22 22:43:38 UTC",
+                "comment_id": "5F5aLly",
+                "submission_id": "vTBoshB",
+                "parent_id": "qs262Pp"
+            },
+            {
+                "user_id": "subject_rPZlvcn",
+                "target": false,
+                "type": "comment",
+                "body": "No.  They've never found mine.   Never once opened a bag.  You're safe!",
+                "created_utc": "2024-09-22 22:46:16 UTC",
+                "comment_id": "aof9wu2",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! thats a relieve",
+                "created_utc": "2024-09-22 23:01:38 UTC",
+                "comment_id": "U945H8h",
+                "submission_id": "vTBoshB",
+                "parent_id": "aof9wu2"
+            },
+            {
+                "user_id": "subject_zaU6BC4",
+                "target": false,
+                "type": "comment",
+                "body": "It\u2019s worth noting that whereas bags are generally not searched on Corridor trains without good reason, there have previously been (very rare) reports of VIA passengers getting searched when boarding non-Corridor trains. However, they would only be searching for Alcohol or weapons and therefore probably not snoop around in any items wrapped in clothes or something\u2026",
+                "created_utc": "2024-09-22 23:01:56 UTC",
+                "comment_id": "Y3OBip0",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_zaU6BC4",
+                "target": false,
+                "type": "comment",
+                "body": "Highly unlikey anyone would care given that Toronto-Ottawa trains don\u2019t cross any provincial or international borders\u2026",
+                "created_utc": "2024-09-22 23:06:44 UTC",
+                "comment_id": "KUBYgYS",
+                "submission_id": "vTBoshB",
+                "parent_id": "qs262Pp"
+            },
+            {
+                "user_id": "subject_5srLLam",
+                "target": false,
+                "type": "comment",
+                "body": "The most I've ever seen is they ask to weigh your bag due to the size. Taking the train is very different than flying, and your bag is more or less always with you.",
+                "created_utc": "2024-09-22 23:33:46 UTC",
+                "comment_id": "3I9vdNx",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_TTkFiVD",
+                "target": false,
+                "type": "comment",
+                "body": "They looked in my carryon when I boarded The Canadian in Edmonton. That was the only place they checked my bags from Toronto to Edmonton.",
+                "created_utc": "2024-09-23 00:02:37 UTC",
+                "comment_id": "NOQNZ9Y",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_NUggoKf",
+                "target": false,
+                "type": "comment",
+                "body": "No. They might measure/weigh the bag to make sure it meets baggage limits, but they will not look inside.",
+                "created_utc": "2024-09-23 00:33:05 UTC",
+                "comment_id": "XJElSDq",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_ndzQvIA",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019ve done the Ottawa - Toronto route hundreds of times and never has a bad searched.  You\u2019re good to go \ud83d\ude0e",
+                "created_utc": "2024-09-23 00:42:51 UTC",
+                "comment_id": "LwHk6iD",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_acCYTOK",
+                "target": false,
+                "type": "comment",
+                "body": "Beyond that, even if they checked a bag for items you're not allowed to bring, they and the airport security staff really don't care if you have an adult toy.  It's normal and they (airport) see lots of them.",
+                "created_utc": "2024-09-23 00:52:24 UTC",
+                "comment_id": "Yb57MGN",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_bB779u9",
+                "target": false,
+                "type": "comment",
+                "body": "No, they don\u2019t. I take the train regularly",
+                "created_utc": "2024-09-23 00:54:23 UTC",
+                "comment_id": "u55eyub",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_kqPO1Bx",
+                "target": false,
+                "type": "comment",
+                "body": "They can but they never \n\n\nI saw a drug dealer  with his possessions",
+                "created_utc": "2024-09-23 01:44:35 UTC",
+                "comment_id": "JkgJ8Zi",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_OJi1pVK",
+                "target": false,
+                "type": "comment",
+                "body": "No.",
+                "created_utc": "2024-09-23 02:07:30 UTC",
+                "comment_id": "dSTgpmt",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_ICt2Pdx",
+                "target": false,
+                "type": "comment",
+                "body": "I did Montreal to Toronto and they never searched my bags even crossing provincial lines",
+                "created_utc": "2024-09-23 02:24:56 UTC",
+                "comment_id": "FtVytXE",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_Ho3J7jF",
+                "target": false,
+                "type": "comment",
+                "body": "No that's why sex workers take via and dont fly when going to work in other cities for a few days.",
+                "created_utc": "2024-09-23 03:54:21 UTC",
+                "comment_id": "JtSXViY",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_ZlPfHIg",
+                "target": false,
+                "type": "comment",
+                "body": "And you can bring alcohol (in sealed bottles) and legal marijuna products on board in corridor trains as long as you don\u2019t consume them.   (If you are in a sleeper I assume you have more freedom).",
+                "created_utc": "2024-09-23 05:27:16 UTC",
+                "comment_id": "7HPhKKA",
+                "submission_id": "vTBoshB",
+                "parent_id": "Y3OBip0"
+            },
+            {
+                "user_id": "subject_tjzcESe",
+                "target": false,
+                "type": "comment",
+                "body": "As long as you don't use these toys onboard to pleasure yourself openly, alone or with another, you should be just fine!:)",
+                "created_utc": "2024-09-23 05:53:05 UTC",
+                "comment_id": "VUdOvzS",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_MFOW7kq",
+                "target": false,
+                "type": "comment",
+                "body": "The internet knows now ;)",
+                "created_utc": "2024-09-23 10:54:10 UTC",
+                "comment_id": "q4FQKZc",
+                "submission_id": "vTBoshB",
+                "parent_id": "hZaSF4V"
+            },
+            {
+                "user_id": "subject_nbBDYZA",
+                "target": false,
+                "type": "comment",
+                "body": "Even if they did - no shame in admitting you own a strap on",
+                "created_utc": "2024-09-23 12:12:56 UTC",
+                "comment_id": "Mz6uSrP",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_DnP1j3N",
+                "target": false,
+                "type": "comment",
+                "body": "Lol this is so funny, I am also going from Toronto to ottawa by train in a few days, and I will also be bringing some adult toys, so glad you asked the question for me \ud83d\ude02\ud83d\ude02",
+                "created_utc": "2024-09-23 13:55:15 UTC",
+                "comment_id": "8hOqaxC",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_pVeyqz3",
+                "target": false,
+                "type": "comment",
+                "body": "All carry on was searched when I boarded The Canadian from Edmonton to Vancouver. It took what felt like forever. The security person opened all bags and looked in all compartments of the bags. \n\nI wondered at the time why they were doing that as bags weren't searched when boarding at Toronto and when we got off at Winnipeg for a couple of hours there were no bag searches there either.",
+                "created_utc": "2024-09-23 21:42:32 UTC",
+                "comment_id": "tDM7uUV",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            },
+            {
+                "user_id": "subject_xPpVfk8",
+                "target": false,
+                "type": "comment",
+                "body": "Sleeper cabins are considered a temporary private residence like a hotel room, but berths are only semi-private and so still prohibit alcohol consumption.",
+                "created_utc": "2024-09-27 11:59:56 UTC",
+                "comment_id": "KHQdGJO",
+                "submission_id": "vTBoshB",
+                "parent_id": "7HPhKKA"
+            },
+            {
+                "user_id": "subject_mZovaKH",
+                "target": false,
+                "type": "comment",
+                "body": "The only time we check inside the luggage,  is when we find a bag and we are looking for a name to return the bag to the owner.",
+                "created_utc": "2024-10-03 02:40:13 UTC",
+                "comment_id": "jPHhw2L",
+                "submission_id": "vTBoshB",
+                "parent_id": "vTBoshB"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_GrY6arh",
+            "target": false,
+            "type": "submission",
+            "title": "Princess Leia Costume",
+            "body": "",
+            "created_utc": "2024-11-08 16:39:29 UTC",
+            "submission_id": "8X4yu1I",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "I'm a SLAVE for you!",
+                "created_utc": "2024-11-08 16:41:34 UTC",
+                "comment_id": "bXD2Hnv",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "subject_2NYjsZ2",
+                "target": false,
+                "type": "comment",
+                "body": "\ud83e\udd75",
+                "created_utc": "2024-11-12 02:53:04 UTC",
+                "comment_id": "9KnU3xc",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "subject_5IjyTU4",
+                "target": false,
+                "type": "comment",
+                "body": "Would love to make you my slave",
+                "created_utc": "2024-11-15 14:32:52 UTC",
+                "comment_id": "KrPPg7t",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Please tell me there's more of this! :D",
+                "created_utc": "2024-11-18 16:39:22 UTC",
+                "comment_id": "yCivc3I",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "There's plenty more on my page [onlyfans.com/itsgracie](http://onlyfans.com/itsgracie) \ud83d\udc40",
+                "created_utc": "2024-11-18 16:41:59 UTC",
+                "comment_id": "XEXjlaS",
+                "submission_id": "8X4yu1I",
+                "parent_id": "yCivc3I"
+            },
+            {
+                "user_id": "subject_4lzJSR1",
+                "target": false,
+                "type": "comment",
+                "body": "You in this while I\u2019m in my boba fett helmet could be fun \ud83d\ude09",
+                "created_utc": "2024-11-18 17:46:28 UTC",
+                "comment_id": "deDqHWc",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "Could be very very fun \ud83d\ude33",
+                "created_utc": "2024-11-18 17:55:09 UTC",
+                "comment_id": "9ryYXFP",
+                "submission_id": "8X4yu1I",
+                "parent_id": "deDqHWc"
+            },
+            {
+                "user_id": "subject_cHykhFS",
+                "target": false,
+                "type": "comment",
+                "body": "You're so fine",
+                "created_utc": "2024-11-18 19:53:48 UTC",
+                "comment_id": "907S3mI",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "subject_B9Bxj58",
+                "target": false,
+                "type": "comment",
+                "body": "Apaixonante.",
+                "created_utc": "2024-11-19 13:44:51 UTC",
+                "comment_id": "P9By1zI",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "Obrigado! \ud83e\udd79",
+                "created_utc": "2024-11-19 16:04:52 UTC",
+                "comment_id": "ZEJMWLS",
+                "submission_id": "8X4yu1I",
+                "parent_id": "P9By1zI"
+            },
+            {
+                "user_id": "subject_QneI9jQ",
+                "target": false,
+                "type": "comment",
+                "body": "Leia never looked better \ud83d\ude09",
+                "created_utc": "2024-11-20 11:14:40 UTC",
+                "comment_id": "YzFkWEJ",
+                "submission_id": "8X4yu1I",
+                "parent_id": "8X4yu1I"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_xHdYdBg",
+            "target": true,
+            "type": "submission",
+            "title": "Winter Wonderland ",
+            "body": "",
+            "created_utc": "2024-11-08 16:56:46 UTC",
+            "submission_id": "j1sJvnI",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_xHdYdBg",
+            "target": true,
+            "type": "submission",
+            "title": "SLOTHFAM!",
+            "body": "",
+            "created_utc": "2024-11-08 16:58:04 UTC",
+            "submission_id": "Wr9QUS5",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "![gif](giphy|Oi8OF060IDTBC|downsized)",
+                "created_utc": "2024-11-08 17:01:46 UTC",
+                "comment_id": "bkFYe7s",
+                "submission_id": "Wr9QUS5",
+                "parent_id": "Wr9QUS5"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_xHdYdBg",
+            "target": true,
+            "type": "submission",
+            "title": "Toby",
+            "body": "",
+            "created_utc": "2024-11-08 17:24:31 UTC",
+            "submission_id": "MwgbCXw",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_xHdYdBg",
+            "target": true,
+            "type": "submission",
+            "title": "Whip it real good!",
+            "body": "",
+            "created_utc": "2024-11-10 16:41:04 UTC",
+            "submission_id": "bRBwITC",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_VbYfUy2",
+                "target": false,
+                "type": "comment",
+                "body": "Of course Xombi added this one \ud83e\udd23",
+                "created_utc": "2024-11-10 16:55:40 UTC",
+                "comment_id": "7srb8xm",
+                "submission_id": "bRBwITC",
+                "parent_id": "bRBwITC"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_GrY6arh",
+            "target": false,
+            "type": "submission",
+            "title": "Can you guess my favourite fruit? What's yours?",
+            "body": "",
+            "created_utc": "2024-11-11 20:39:51 UTC",
+            "submission_id": "b3zOouh",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Hmm, something juicy! \ud83d\ude01\n\nMy favorite fruit is blueberry!",
+                "created_utc": "2024-11-11 20:42:26 UTC",
+                "comment_id": "9XqMbY3",
+                "submission_id": "b3zOouh",
+                "parent_id": "b3zOouh"
+            },
+            {
+                "user_id": "subject_VbYfUy2",
+                "target": false,
+                "type": "comment",
+                "body": "My favorite is bananas \ud83c\udf4c",
+                "created_utc": "2024-11-11 20:45:22 UTC",
+                "comment_id": "lP7nURl",
+                "submission_id": "b3zOouh",
+                "parent_id": "b3zOouh"
+            },
+            {
+                "user_id": "subject_2NYjsZ2",
+                "target": false,
+                "type": "comment",
+                "body": "Peach.  Mines is strawberrries",
+                "created_utc": "2024-11-12 02:53:41 UTC",
+                "comment_id": "D57idip",
+                "submission_id": "b3zOouh",
+                "parent_id": "b3zOouh"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "I love strawberries too \ud83d\ude0b",
+                "created_utc": "2024-11-12 03:16:57 UTC",
+                "comment_id": "ATcltzk",
+                "submission_id": "b3zOouh",
+                "parent_id": "D57idip"
+            },
+            {
+                "user_id": "subject_2NYjsZ2",
+                "target": false,
+                "type": "comment",
+                "body": "I wanna eat your strawberries. \ud83d\ude08",
+                "created_utc": "2024-11-12 03:20:49 UTC",
+                "comment_id": "M5O5egj",
+                "submission_id": "b3zOouh",
+                "parent_id": "D57idip"
+            },
+            {
+                "user_id": "subject_sw9joqX",
+                "target": false,
+                "type": "comment",
+                "body": "Blueberries and raspberries",
+                "created_utc": "2024-11-12 05:20:45 UTC",
+                "comment_id": "cndriDs",
+                "submission_id": "b3zOouh",
+                "parent_id": "b3zOouh"
+            },
+            {
+                "user_id": "subject_971LRPE",
+                "target": false,
+                "type": "comment",
+                "body": "A gorgeous juicy peach \ud83d\ude0b",
+                "created_utc": "2024-11-12 13:09:01 UTC",
+                "comment_id": "bFU9iNE",
+                "submission_id": "b3zOouh",
+                "parent_id": "b3zOouh"
+            },
+            {
+                "user_id": "subject_CpZXyi1",
+                "target": false,
+                "type": "comment",
+                "body": "I'll give you a hint.  I'm black.",
+                "created_utc": "2024-11-12 15:44:58 UTC",
+                "comment_id": "6ir0wXi",
+                "submission_id": "b3zOouh",
+                "parent_id": "b3zOouh"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_GrY6arh",
+            "target": false,
+            "type": "submission",
+            "title": "Sweet like honey \ud83c\udf6f",
+            "body": "",
+            "created_utc": "2024-11-15 16:52:18 UTC",
+            "submission_id": "S2YpCsq",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "Get a taste here:  \n[onlyfans.com/itsgracie](http://onlyfans.com/itsgracie)",
+                "created_utc": "2024-11-15 16:56:09 UTC",
+                "comment_id": "J8e587h",
+                "submission_id": "S2YpCsq",
+                "parent_id": "S2YpCsq"
+            },
+            {
+                "user_id": "subject_Bcn2ccT",
+                "target": false,
+                "type": "comment",
+                "body": "Pooh didn\u2019t wear pants honey, let\u2019s go back to the room and fix that together",
+                "created_utc": "2024-11-15 18:21:41 UTC",
+                "comment_id": "JlbWlCD",
+                "submission_id": "S2YpCsq",
+                "parent_id": "S2YpCsq"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Cutest pooh I've ever seen! \ud83e\udde1",
+                "created_utc": "2024-11-15 18:32:39 UTC",
+                "comment_id": "jiQScIS",
+                "submission_id": "S2YpCsq",
+                "parent_id": "S2YpCsq"
+            },
+            {
+                "user_id": "subject_GrY6arh",
+                "target": false,
+                "type": "comment",
+                "body": "Awhh thanks Xombi \ud83e\udd79\ud83e\udef6\ud83c\udffc",
+                "created_utc": "2024-11-15 18:36:33 UTC",
+                "comment_id": "ZyzbDiL",
+                "submission_id": "S2YpCsq",
+                "parent_id": "jiQScIS"
+            },
+            {
+                "user_id": "subject_zR1ur0c",
+                "target": false,
+                "type": "comment",
+                "body": "I want a taste",
+                "created_utc": "2024-11-15 20:03:42 UTC",
+                "comment_id": "Vrbzbg6",
+                "submission_id": "S2YpCsq",
+                "parent_id": "S2YpCsq"
+            },
+            {
+                "user_id": "subject_3un78Jz",
+                "target": false,
+                "type": "comment",
+                "body": "Perfect for my bbc \ud83d\ude0d",
+                "created_utc": "2024-11-15 20:41:30 UTC",
+                "comment_id": "LMIgnGi",
+                "submission_id": "S2YpCsq",
+                "parent_id": "S2YpCsq"
+            },
+            {
+                "user_id": "subject_5dqMUfx",
+                "target": false,
+                "type": "comment",
+                "body": "This is so cute!! \ud83d\ude0d",
+                "created_utc": "2024-11-16 15:02:08 UTC",
+                "comment_id": "aj1X8Gm",
+                "submission_id": "S2YpCsq",
+                "parent_id": "S2YpCsq"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_UmeZft6",
+            "target": false,
+            "type": "submission",
+            "title": "remote procedure call failed ",
+            "body": "Hey everyone,\n\nI've been facing a frustrating issue while trying to uninstall a UWP app (I'll call it **MyUwpApp)** from a **Windows 10 Pro 22H2 machine** (build 19045.4894). I'm connected to the machine via **Remote Desktop Connection**, and every time I attempt the uninstallation, I get a **\"Remote Procedure Call failed\"** error.   \n  \nHere\u2019s everything I\u2019ve tried so far and the steps I followed:\n\n# What I Did\n\n**1. Manual Uninstallation via PowerShell**: I started by trying to remove the app manually using PowerShell. Here\u2019s the command I ran:\n\n `Get-AppxPackage -AllUsers | Where-Object { $_.Name -eq \"MyUwpApp\" } | Remove-AppxPackage -AllUsers`  \n\n**Error**: The command failed with the message **\"Remote Procedure Call failed.**\n\n**2. Checked Active Processes and Users:** No user running this process at the time i'm doing the uninstall.  \n\n**3. GPO and Proxy Restrictions**: Since this machine is part of a corporate environment, there are some **GPO restrictions and proxy settings** applied. I ran `gpresult /h gpresult.html` to review the Group Policy settings, but nothing stood out as directly blocking the uninstallation.\n\n**4. Restarted Windows Remote Services**: I restarted the **RPC** and **DCOM** services on the machine \n\n**Result**: Even after restarting these services, the same RPC error popped up when I tried uninstalling **MyUwpApp**   \n\n# Error Recap:\n\nEvery time I attempt to uninstall **MyUwpApp**, whether using PowerShell or DISM, the uninstall fails with a **\"Remote Procedure Call failed\"** error.\n\n# Looking for Suggestions:\n\nI\u2019m at a loss for what else to try at this point. Has anyone else encountered a similar issue? Could this be related to the machine being connected through Remote Desktop, or is there something specific in Windows that could be causing this? Any insights or suggestions would be greatly appreciated!",
+            "created_utc": "2024-10-14 11:07:30 UTC",
+            "submission_id": "9AdbABf",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cgkviZS",
+                "target": false,
+                "type": "comment",
+                "body": "I'm seeing the exact same error on a Windows 10 22H2 enterprise licensed workstation desktop when attempting to uninstall \"Microsoft.CompanyPortal\". Remove-AppxPackage  -AllUsers works with no errors on Windows 11. Additionally, I am seeing the same error when running a \"Dism.exe /online Add-ProvisionedAppxPackage\" command on Windows 10, but it is working flawlessly on Windows 11. Let me know if you find anything out!",
+                "created_utc": "2024-10-17 13:57:25 UTC",
+                "comment_id": "q0LBnr2",
+                "submission_id": "9AdbABf",
+                "parent_id": "9AdbABf"
+            },
+            {
+                "user_id": "subject_cgkviZS",
+                "target": false,
+                "type": "comment",
+                "body": "In addition, these errors are consistent on multiple Win10.22H2 workstations and regardless of whether they are run locally or when connected via an RDP session.",
+                "created_utc": "2024-10-17 14:11:37 UTC",
+                "comment_id": "37hpIxw",
+                "submission_id": "9AdbABf",
+                "parent_id": "q0LBnr2"
+            },
+            {
+                "user_id": "subject_ag6tMXA",
+                "target": false,
+                "type": "comment",
+                "body": "Same here - worked perfectly on my win11 boxes",
+                "created_utc": "2024-10-17 20:21:54 UTC",
+                "comment_id": "wnDU6nx",
+                "submission_id": "9AdbABf",
+                "parent_id": "9AdbABf"
+            },
+            {
+                "user_id": "subject_Re2FCeW",
+                "target": false,
+                "type": "comment",
+                "body": "This looks to be related to an AVD Black screen issue that started in the preview release version of Windows 10 22H2 in late July. I can reproduce this on a fresh OS install that is fully up to date and the application event logs show the same example error event id 1000. Unfortunately applying the KIR does not resolve this issue. \n\n  \nImpact on my end is we are no longer able to do system wide AppX package cleanup for machines that are already fully patched and the AppX package has been deployed to the user already. One potential solution is to run the removal in the user context for each user profile on that machine.\n\n[https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2#3421msgdesc](https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2#3421msgdesc)\n\n[https://support.microsoft.com/en-us/topic/october-8-2024-kb5044273-os-builds-19044-5011-and-19045-5011-a07551f8-e20d-4fd4-87f3-01145a3cd494](https://support.microsoft.com/en-us/topic/october-8-2024-kb5044273-os-builds-19044-5011-and-19045-5011-a07551f8-e20d-4fd4-87f3-01145a3cd494)\n\n  \n[https://i.imgur.com/8p8tglC.png](https://i.imgur.com/8p8tglC.png)",
+                "created_utc": "2024-10-19 16:16:12 UTC",
+                "comment_id": "JgwtHuT",
+                "submission_id": "9AdbABf",
+                "parent_id": "9AdbABf"
+            },
+            {
+                "user_id": "subject_86N51fy",
+                "target": false,
+                "type": "comment",
+                "body": "Okay my original account got messed up, but I submitted a Microsoft Support ticket and they suggested the following which seems to work on Windows 10. I hope this helps you all:\n\n`Get-AppxPackage -AllUsers -PackageTypeFilter Bundle -Name <name> | Remove-AppxPackage -AllUsers -ErrorAction SilentlyContinue`",
+                "created_utc": "2024-10-23 18:35:26 UTC",
+                "comment_id": "X4001Hc",
+                "submission_id": "9AdbABf",
+                "parent_id": "37hpIxw"
+            },
+            {
+                "user_id": "subject_QH6jCQV",
+                "target": false,
+                "type": "comment",
+                "body": "I have been running into the exact same issue as we were installing the new OneNote for Microsoft 365 app, and trying to remove OneNote for Windows 10. After a day and a half of fighting, came up with the below which worked for us. Obviously change it to suit your particular UWP app.\n\n`# Get all user profiles`\n\n`$userProfiles = Get-WmiObject -Class Win32_UserProfile | Where-Object { $_.Special -eq $false }`\n\n\n\n`# Loop through each user profile`\n\n`foreach ($profile in $userProfiles) {`\n\n`$sid = $profile.SID`\n\n`$packages = Get-AppxPackage -User $sid -Name *OneNote*`\n\n`foreach ($package in $packages) {`\n\n`Remove-AppxPackage -Package $package.PackageFullName -User $sid -ErrorAction SilentlyContinue`\n\n`Write-Output \"Removed OneNote package for user $sid $($package.PackageFullName)\"`\n\n`}`\n\n`}`\n\n  \nHope this saves you the headache it caused me!",
+                "created_utc": "2024-10-25 04:42:33 UTC",
+                "comment_id": "rJmEe7G",
+                "submission_id": "9AdbABf",
+                "parent_id": "9AdbABf"
+            },
+            {
+                "user_id": "subject_86N51fy",
+                "target": false,
+                "type": "comment",
+                "body": "If you want to go back to a more streamlined standard approach, Microsoft pointed me to this when I submitted a support ticket.\n\n  \n`Get-AppxPackage -AllUsers` **-PackageTypeFilter Bundle** `-Name <name> | Remove-AppxPackage -AllUsers -ErrorAction SilentlyContinue`\n\nIn Microsoft documentation they do call it out:\n\n[https://learn.microsoft.com/en-us/powershell/module/appx/remove-appxpackage?view=windowsserver2022-ps#-allusers](https://learn.microsoft.com/en-us/powershell/module/appx/remove-appxpackage?view=windowsserver2022-ps#-allusers)",
+                "created_utc": "2024-10-25 14:02:32 UTC",
+                "comment_id": "L16QDPu",
+                "submission_id": "9AdbABf",
+                "parent_id": "rJmEe7G"
+            },
+            {
+                "user_id": "subject_Kvc7pQP",
+                "target": false,
+                "type": "comment",
+                "body": "Thank you! Have been going in circles with this one! Just for clarity for anyone else the \u201cname\u201d of the bundle is the PackageFamilyName",
+                "created_utc": "2024-10-30 18:35:11 UTC",
+                "comment_id": "A5A8J4H",
+                "submission_id": "9AdbABf",
+                "parent_id": "X4001Hc"
+            },
+            {
+                "user_id": "subject_VnHeP2h",
+                "target": false,
+                "type": "comment",
+                "body": "I'm also seeing this with the new Outlook app on up to date 22H2 machines. It's not a bundle so suggestions from others to use that as the filter doesn't work. Hopefully KB5045594 fixes it...",
+                "created_utc": "2024-11-05 16:20:02 UTC",
+                "comment_id": "AGJiojz",
+                "submission_id": "9AdbABf",
+                "parent_id": "9AdbABf"
+            },
+            {
+                "user_id": "subject_pkw2XQF",
+                "target": false,
+                "type": "comment",
+                "body": "Was having this issue attempting to fully remove the new teams MSIX.  Removing using -allusers was giving the Remote Procedure Call Failed error and showed in the application event log under event ID 1000 under svchost.exe\\_AppXSvc.\n\nIt appears that applying KB5045594 does fix it.  After applying and rebooting, I was able to remove using Get-AppxPackage -AllUsers \\*teams\\* | Remove-AppxPackage -AllUsers.\n\nPrior to applying KB5045594**,** even the teamsbootstrapper.exe was not able to remove teams.  Now with KB5045594 applied, teamsbootstrapper.exe removes it properly as well.",
+                "created_utc": "2024-11-12 13:18:50 UTC",
+                "comment_id": "2rOg8j7",
+                "submission_id": "9AdbABf",
+                "parent_id": "AGJiojz"
+            },
+            {
+                "user_id": "subject_VnHeP2h",
+                "target": false,
+                "type": "comment",
+                "body": "Good to know, thanks.",
+                "created_utc": "2024-11-12 13:33:51 UTC",
+                "comment_id": "JZiwva5",
+                "submission_id": "9AdbABf",
+                "parent_id": "2rOg8j7"
+            },
+            {
+                "user_id": "subject_OUF18rF",
+                "target": false,
+                "type": "comment",
+                "body": "Lmao, just came here and KB5045594 fixed it for me as well.",
+                "created_utc": "2024-11-12 14:05:54 UTC",
+                "comment_id": "GGbEBNO",
+                "submission_id": "9AdbABf",
+                "parent_id": "JZiwva5"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "How do i get package KB5045594, i tried downloading the standalone but it gave me a not applicable error",
+                "created_utc": "2024-11-18 12:51:15 UTC",
+                "comment_id": "VbtCe2F",
+                "submission_id": "9AdbABf",
+                "parent_id": "2rOg8j7"
+            },
+            {
+                "user_id": "subject_pkw2XQF",
+                "target": false,
+                "type": "comment",
+                "body": "Do you already have **KB5046613** (the Nov update?).  If so, that supersedes the late October KB5045594.",
+                "created_utc": "2024-11-18 13:19:49 UTC",
+                "comment_id": "ataV1vL",
+                "submission_id": "9AdbABf",
+                "parent_id": "VbtCe2F"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "I do yes thanks! but i am still experiencing errors when trying to remove store apps, exactly like the OP had",
+                "created_utc": "2024-11-18 13:21:48 UTC",
+                "comment_id": "mwVN1dl",
+                "submission_id": "9AdbABf",
+                "parent_id": "ataV1vL"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Anyone experiencing this might find this fix [https://www.reddit.com/r/techsupport/comments/1gsbcgx/comment/lxr0x2p/?utm\\_source=share&utm\\_medium=web3x&utm\\_name=web3xcss&utm\\_term=1&utm\\_content=share\\_button](https://www.reddit.com/r/techsupport/comments/1gsbcgx/comment/lxr0x2p/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)\n\nhelpfull",
+                "created_utc": "2024-11-18 13:36:47 UTC",
+                "comment_id": "XW0mTs0",
+                "submission_id": "9AdbABf",
+                "parent_id": "AGJiojz"
+            },
+            {
+                "user_id": "subject_pkw2XQF",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019ll test again with this latest update. We haven\u2019t applied to production yet, but I\u2019ll snag from the catalog and manually install to check. Hope it\u2019s not a regression in the span of one update\u2026",
+                "created_utc": "2024-11-18 13:46:50 UTC",
+                "comment_id": "sTJ8NEv",
+                "submission_id": "9AdbABf",
+                "parent_id": "mwVN1dl"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! I found a different thread with a fix from github that solved my problem, https://github.com/microsoft/WindowsAppSDK/issues/4881#issuecomment-2480939942",
+                "created_utc": "2024-11-18 13:49:38 UTC",
+                "comment_id": "2vmT0iD",
+                "submission_id": "9AdbABf",
+                "parent_id": "sTJ8NEv"
+            },
+            {
+                "user_id": "subject_pkw2XQF",
+                "target": false,
+                "type": "comment",
+                "body": "Oh fun. How amazing that all these similar / related seeming things are happening in close succession.\n\nThanks for all your efforts testing thoroughly Microsoft\n/sarc",
+                "created_utc": "2024-11-18 14:03:12 UTC",
+                "comment_id": "RMDet7y",
+                "submission_id": "9AdbABf",
+                "parent_id": "2vmT0iD"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_zyAA1LN",
+            "target": false,
+            "type": "submission",
+            "title": "Suddenly getting Error Code 0x80073cfa out of nowhere. Using windows 10",
+            "body": "Tried to uninstall spotify after some issues and now I just get this error code out of nowhere. Yesterday when I tried to open spotify it didn't want to open, so I went to check what was going on and saw that it was updating, so I gave it a bit of time. Woke up this morning to see how it was and saw that it was still stuck at 99%, so I tried uninstalling it and now this is happening. I cannot for the life of me figure out how to fix it or what's causing it. I've tried every solution I've found online and none of them worked because the universe hates me I guess. I can't even reset the app since it just gives me the \"we can't reset this app right now,\" and attempting it to uninstall it through other means just gives me something along the lines of \"we can't uninstall this right now.\" I even tried to manually uninstall the files but they're nowhere to be found, yet the spotify installer insists that this app is haunting my system no matter how many troubleshoots and file verifications I run. This extends beyond spotify too since I tried to see if other apps on the microsoft store also had this problem and sure enough, they do, with every other application outside of it working just fine with no issues. I'm at a loss, there aren't many threads about this and the microsoft forums are as useless as ever, so I'm posting this here in hopes that something turns up. I would much rather not do a fresh reinstall of windows 10 but if worse comes to worst then it is what it is.",
+            "created_utc": "2024-11-16 00:41:02 UTC",
+            "submission_id": "UUBSUer",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_xcMlb8b",
+                "target": false,
+                "type": "comment",
+                "body": "Had a similar issue, app wouldn't open and wouldn't uninstall. I after some combination of repairs, uninstalls and resets (all of which it didn't like) the installer suddenly decided that it was gone. Idk how to help you but not a unique issue.",
+                "created_utc": "2024-11-16 21:53:59 UTC",
+                "comment_id": "H3HDZZm",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_XUp7ucJ",
+                "target": false,
+                "type": "comment",
+                "body": "This just happened to me as well couple days ago, I've tried many methods and non have worked. If anybody has any other solutions please @ me",
+                "created_utc": "2024-11-17 00:37:07 UTC",
+                "comment_id": "p9j5cXi",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_eb87kwX",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah same issue here. Is it suddenly affecting a lot of people?",
+                "created_utc": "2024-11-17 20:08:52 UTC",
+                "comment_id": "ZgIgW1G",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_OhEgxvE",
+                "target": false,
+                "type": "comment",
+                "body": "yesterday or the day before for me spotify decided to randomly not launch anymore, cant uninstall/reinstall it dk what to do.",
+                "created_utc": "2024-11-17 23:38:53 UTC",
+                "comment_id": "qGfjyvW",
+                "submission_id": "UUBSUer",
+                "parent_id": "ZgIgW1G"
+            },
+            {
+                "user_id": "subject_S7nP1d1",
+                "target": false,
+                "type": "comment",
+                "body": "same here, did u fix it yet?",
+                "created_utc": "2024-11-18 01:38:57 UTC",
+                "comment_id": "zfJQh9M",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_fL5u9Ox",
+                "target": false,
+                "type": "comment",
+                "body": "same problem. whatsapp and spotify doesnt launch. cant uninstal either.",
+                "created_utc": "2024-11-18 02:49:05 UTC",
+                "comment_id": "diRxdX7",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_zyAA1LN",
+                "target": false,
+                "type": "comment",
+                "body": "Nope",
+                "created_utc": "2024-11-18 05:25:10 UTC",
+                "comment_id": "5U6Ucxr",
+                "submission_id": "UUBSUer",
+                "parent_id": "zfJQh9M"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "It will be fixed by a future Windows Update. But there is a manual workaround available at the moment: https://github.com/microsoft/WindowsAppSDK/issues/4881#issuecomment-2480939942",
+                "created_utc": "2024-11-18 13:08:46 UTC",
+                "comment_id": "IzPh023",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_xHdYdBg",
+                "target": true,
+                "type": "comment",
+                "body": "You are a life saver! thank you so much",
+                "created_utc": "2024-11-18 13:29:26 UTC",
+                "comment_id": "QIfHhld",
+                "submission_id": "UUBSUer",
+                "parent_id": "IzPh023"
+            },
+            {
+                "user_id": "subject_kb2zmMZ",
+                "target": false,
+                "type": "comment",
+                "body": "same problem",
+                "created_utc": "2024-11-18 16:06:51 UTC",
+                "comment_id": "0nQMgfr",
+                "submission_id": "UUBSUer",
+                "parent_id": "diRxdX7"
+            },
+            {
+                "user_id": "subject_GdhVXfZ",
+                "target": false,
+                "type": "comment",
+                "body": "Fixed here by doing this too, thank you!",
+                "created_utc": "2024-11-19 01:07:12 UTC",
+                "comment_id": "gufozET",
+                "submission_id": "UUBSUer",
+                "parent_id": "IzPh023"
+            },
+            {
+                "user_id": "subject_DWLGBsT",
+                "target": false,
+                "type": "comment",
+                "body": "Just first step solved the issue for me. Thanks",
+                "created_utc": "2024-11-19 07:15:52 UTC",
+                "comment_id": "aBo6Dgx",
+                "submission_id": "UUBSUer",
+                "parent_id": "IzPh023"
+            },
+            {
+                "user_id": "subject_0fDCA7J",
+                "target": false,
+                "type": "comment",
+                "body": "What do I do with the link? Explain it to me like I am 5 years please :)",
+                "created_utc": "2024-11-19 14:57:54 UTC",
+                "comment_id": "j54etqc",
+                "submission_id": "UUBSUer",
+                "parent_id": "IzPh023"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "First you have to open a PowerShell window in Administrator mode. A quick way is to right-click the start button and choose the option: \"Windows PowerShell (Admin)\"\n\n[Screenshot of the menu](https://i.imgur.com/tz7h6UC.png)\n\nAfter that copy and paste the text below, followed by pressing the Enter-key:\n\n    takeown /F \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.311.13.0_x64__8wekyb3d8bbwe\\WindowsAppRuntime.DeploymentExtensions.OneCore.dll\"\n    icacls \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.311.13.0_x64__8wekyb3d8bbwe\\WindowsAppRuntime.DeploymentExtensions.OneCore.dll\" /grant Administrators:F\n    del \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.311.13.0_x64__8wekyb3d8bbwe\\WindowsAppRuntime.DeploymentExtensions.OneCore.dll\"\n    takeown /F \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.311.13.0_x86__8wekyb3d8bbwe\\WindowsAppRuntime.DeploymentExtensions.OneCore.dll\"\n    icacls \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.311.13.0_x86__8wekyb3d8bbwe\\WindowsAppRuntime.DeploymentExtensions.OneCore.dll\" /grant Administrators:F\n    del \"C:\\Program Files\\WindowsApps\\Microsoft.WindowsAppRuntime.1.6_6000.311.13.0_x86__8wekyb3d8bbwe\\WindowsAppRuntime.DeploymentExtensions.OneCore.dll\"     \n\nWait for it to complete everything and reboot your PC after that. It might show a red error text, that's not a problem.\n\nWhen your PC is restarted, open a PowerShell window in Administrator mode again. Copy the following text and follow up with pressing the Enter key:\n\n    Get-AppxPackage *WinAppRuntime.Main.1.6* -AllUsers | Where { $_.Version -eq '6000.311.13.0' } | Remove-AppxPackage -AllUsers\n    Get-AppxPackage *MicrosoftCorporationII.WinAppRuntime.Singleton* -AllUsers | Where { $_.Version -eq '6000.311.13.0' } | Remove-AppxPackage -AllUsers\n    Get-AppxPackage *Microsoft.WinAppRuntime.DDLM* -AllUsers | Where { $_.Version -eq '6000.311.13.0' } | Remove-AppxPackage -AllUsers\n    Get-Appxpackage *WindowsAppRuntime.1.6* -AllUsers | Where { $_.Version -eq '6000.311.13.0' } | Remove-AppxPackage -AllUsers\n\nWhen you completed all this it should work properly again, let me know if you run into any problems!\n\nDo you use Windows in another language then English? If that's the case you have to change the above text a little. Let me know if that's required, I'll explain how to do that part.",
+                "created_utc": "2024-11-19 15:23:17 UTC",
+                "comment_id": "9Fld9vv",
+                "submission_id": "UUBSUer",
+                "parent_id": "j54etqc"
+            },
+            {
+                "user_id": "subject_eNEJ6xp",
+                "target": false,
+                "type": "comment",
+                "body": "Thanks, It worked for me,  I can open whatsapp now but I cant seem to open apps like word, excel,.",
+                "created_utc": "2024-11-19 15:42:15 UTC",
+                "comment_id": "pgNyagf",
+                "submission_id": "UUBSUer",
+                "parent_id": "9Fld9vv"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "I think that is a different problem, because the way those apps are built is different. What happens if you try to open one of those apps, maybe I can help with that.",
+                "created_utc": "2024-11-19 15:49:46 UTC",
+                "comment_id": "IglAUZB",
+                "submission_id": "UUBSUer",
+                "parent_id": "pgNyagf"
+            },
+            {
+                "user_id": "subject_eNEJ6xp",
+                "target": false,
+                "type": "comment",
+                "body": "It showing \"Check the Windows Store for more info about Word.\" and when I open Microsoft store and open word app, it does not open.  Now i have downloaded microsoft 365 and i can open files from that. But if I search word from the start menu and try to open it, it will show above message to check the windows store.",
+                "created_utc": "2024-11-19 15:58:37 UTC",
+                "comment_id": "GYt8C0d",
+                "submission_id": "UUBSUer",
+                "parent_id": "IglAUZB"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "In that case I would uninstall the Store versions of Word, Excel etc. and keep using the Microsoft 365 version.",
+                "created_utc": "2024-11-19 16:59:52 UTC",
+                "comment_id": "tcDOW3s",
+                "submission_id": "UUBSUer",
+                "parent_id": "GYt8C0d"
+            },
+            {
+                "user_id": "subject_uFa2BfS",
+                "target": false,
+                "type": "comment",
+                "body": "This is still happening to me, as well. I can't update, delete, or open the Xbox app.",
+                "created_utc": "2024-11-20 01:29:08 UTC",
+                "comment_id": "yOZoPB7",
+                "submission_id": "UUBSUer",
+                "parent_id": "UUBSUer"
+            },
+            {
+                "user_id": "subject_uFa2BfS",
+                "target": false,
+                "type": "comment",
+                "body": "Thank you for your help. I'm also having this issue. The first prompt worked, but I'm unable to get the second prompt to work. I am copying directly from here, but nothing happens when I press enter in PowerShell. Any recommendations on what to do?",
+                "created_utc": "2024-11-20 01:58:28 UTC",
+                "comment_id": "jLXrnI3",
+                "submission_id": "UUBSUer",
+                "parent_id": "9Fld9vv"
+            },
+            {
+                "user_id": "subject_zojZLLT",
+                "target": false,
+                "type": "comment",
+                "body": "i'm also having the same issue. i'm able to uninstall spotify successfully (i think), but now when i try to run spotifysetup.exe i get a \"Spotify is already installed. Would you like to open it?\" message.",
+                "created_utc": "2024-11-20 02:43:54 UTC",
+                "comment_id": "7aRocNo",
+                "submission_id": "UUBSUer",
+                "parent_id": "jLXrnI3"
+            },
+            {
+                "user_id": "subject_zojZLLT",
+                "target": false,
+                "type": "comment",
+                "body": "i am in the same position as you! i was able to uninstall spotify thanks to /u/CheesieOnion comment, but having issues installing it again. have you had any luck?",
+                "created_utc": "2024-11-20 02:51:11 UTC",
+                "comment_id": "PQBePc7",
+                "submission_id": "UUBSUer",
+                "parent_id": "5U6Ucxr"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "I used this third-party program to uninstall Spotify completely: https://www.revouninstaller.com/products/revo-uninstaller-free/\n\nI would recommend to download the portable version, that doesn't require any setup.",
+                "created_utc": "2024-11-20 08:11:27 UTC",
+                "comment_id": "UXQBw2Y",
+                "submission_id": "UUBSUer",
+                "parent_id": "7aRocNo"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "Did you do a reboot in between the two prompts? And are you sure that you launched PowerShell as administrator?",
+                "created_utc": "2024-11-20 08:12:28 UTC",
+                "comment_id": "BAK5byR",
+                "submission_id": "UUBSUer",
+                "parent_id": "jLXrnI3"
+            },
+            {
+                "user_id": "subject_uFa2BfS",
+                "target": false,
+                "type": "comment",
+                "body": "Yes to both of your questions. Although the first prompt was successful, should I try restarting the process?",
+                "created_utc": "2024-11-20 14:37:51 UTC",
+                "comment_id": "UDVkPDw",
+                "submission_id": "UUBSUer",
+                "parent_id": "BAK5byR"
+            },
+            {
+                "user_id": "subject_bNba3tz",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, I would try restarting, it will not break anything or something like that. Sometimes the command doesn't complete immediately so make sure you wait for enough time so the command can actually complete.",
+                "created_utc": "2024-11-20 14:52:42 UTC",
+                "comment_id": "GMSrbSM",
+                "submission_id": "UUBSUer",
+                "parent_id": "UDVkPDw"
+            },
+            {
+                "user_id": "subject_X5qVoaQ",
+                "target": false,
+                "type": "comment",
+                "body": "same here",
+                "created_utc": "2024-11-20 17:42:59 UTC",
+                "comment_id": "fedV79y",
+                "submission_id": "UUBSUer",
+                "parent_id": "yOZoPB7"
+            },
+            {
+                "user_id": "subject_JFK9EU6",
+                "target": false,
+                "type": "comment",
+                "body": "worked for me too. tysm",
+                "created_utc": "2024-11-21 01:48:12 UTC",
+                "comment_id": "z7JkR6P",
+                "submission_id": "UUBSUer",
+                "parent_id": "IzPh023"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_xHdYdBg",
+            "target": true,
+            "type": "submission",
+            "title": "When you want her to stop yapping! ",
+            "body": "",
+            "created_utc": "2024-11-19 17:44:53 UTC",
+            "submission_id": "TKvEM9U",
+            "parent_id": null
+        },
+        "comments": []
+    }
+]

@@ -1,0 +1,756 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_lOFfad2",
+            "target": true,
+            "type": "submission",
+            "title": "Fantasy Basketball WZRD Is Back for Another Season \u2014 LEVEL UP Your Fantasy Experience!",
+            "body": "Hey everyone, SportsWZRD here! If you haven\u2019t heard of fantasy basketball WZRD, you can check it out on \\[Google Chrome\\](https://chrome.google.com/webstore/detail/fantasy-basketball-wizard/bmojbnihkmbdandkddobjnilkegcooll).\n\n\n\n### What is it?\n\nHere's a high-level overview of our features: https://imgur.com/a/riBOMwj. Our most popular features are category-level projections e.g. see which categories you\u2019re projected to win or lose, a Me vs. League feature which lets you compare your stats to the entire league at once i.e. team strength comparisons, this week\u2019s hypothetical matchups against everyone in your league, etc; start your entire lineup on ESPN with the click of a button, showing games remaining for the week for each player on most pages, and much more.\u00a0\n\n\n\nYou can seriously gain advantages on your opponents.\u00a0\n\n\n\n### How does it work?\n\nAfter installing the extension (using the link above), Fantasy Basketball WZRD fits in seamlessly with your Yahoo and ESPN leagues and enhances the fantasy basketball experience. There's no additional setup needed after installation.\u00a0\n\n\n\n### Who is it for?\n\nThis is for ESPN and Yahoo users on Google Chrome. We\u2019re not supporting Firefox this season. It\u2019s mostly geared towards category leagues but also useful for points leagues. Also, this is specifically for H2H and not roto leagues.\n\n\n\n### Is it free?\n\nWell, sort of. We have a free version with some functionality which, in my opinion, is still useful. But the most powerful version is the Pro version which will have all functionality. You can see a full breakdown of the differences here: https://imgur.com/a/FHgbdTZ.\n\n\n\n### What\u2019s new?\n\nWe have a few new features that we\u2019ll finalize this season:\n\nYahoo\n\nWZRD Quick Start: extending Yahoo\u2019s functionality to start your lineup for the week, WZRD Quick Start will allow you to start lineups in all leagues with the click of a button\n\nESPN\n\n\u201cMe vs League\u201d extended functionality: ESPN will have more toggles for the Me vs League feature including \u201ccomparison type\u201d e.g. using various averages to make league comparisons\n\nWebsite + Other\n\nLeague Report: get an entire PDF report on your category league(s) from previous or current years including league-wide category analysis, weekly rankings, top producing players for your team, etc\n\n\n\n### Anything else?\n\nOne important note is that some users have reported certain extension features not working. If this is you, please restart your Chrome browser (which will ensure an update) and then check again. We\u2019ve noticed sometimes our bug fixes, updates, improvements, etc don\u2019t get through to our users unless they restart their browser.\n\n\n\n--and of course, classic website features are back:\n\n\n\n- \\[Daily Summary\\](https://sportswzrd.com/nba) \u2014 a near-live summary of the top performances everyday\n\n- \\[Schedule\\](https://sportswzrd.com/nba/schedule) \u2014 see weekly schedules for all NBA teams\n\n- \\[Boxscores\\](https://sportswzrd.com/nba/scores) \u2014 view the entire near-live boxscore for every game, every day\n\n\n\nALSO keep in mind that in the beginning of the season, we\u2019re using projected stats. As the season continues, we\u2019ll use averages which will smooth out variances in projections.\u00a0\n\n\n\n### Housekeeping\n\nWe\u2019re looking for marketing talent. If you or someone you know would be interested, please reach out to me! We\u2019re looking for collaborative folks who are interested in fantasy basketball and would be a good fit for leading projects to get more eyeballs on our extension.\n\n\n\n### Connect with us\n\nIf you want to connect with us and especially if you would like hands-on debugging help (recommended), visit our Discord (https://discord.gg/cZVnmjEdR8). You can also chat directly with the developers on Reddit.\n\n\n\nDevelopers\n\n\n\n- u/vladtheinpaler\n\n- u/bilalsattar24\n\n- u/danny_does_stuff",
+            "created_utc": "2024-10-22 16:01:42 UTC",
+            "submission_id": "jvfLnv4",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "So excited for another year! WZRD is in the best it has ever been in!",
+                "created_utc": "2024-10-22 16:04:14 UTC",
+                "comment_id": "qdPtPZA",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_EQrZd9a",
+                "target": false,
+                "type": "comment",
+                "body": "Love your stuff man! Been a user since day one and it\u2019s only gotten better over time! Makes gauging your team each week a lot easier and definitely helped me win a few championships through the years.",
+                "created_utc": "2024-10-22 16:17:51 UTC",
+                "comment_id": "dQK8j41",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_fU6xt4q",
+                "target": false,
+                "type": "comment",
+                "body": "love this, makes me plan weeks ahead lol\n\n  \nwon it all last year!",
+                "created_utc": "2024-10-22 16:19:10 UTC",
+                "comment_id": "hAykTr4",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_CRSefoI",
+                "target": false,
+                "type": "comment",
+                "body": "Love Wzrd!",
+                "created_utc": "2024-10-22 16:19:58 UTC",
+                "comment_id": "jecDNjq",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Glad we were able to help you get some championships. Thank you for your support!",
+                "created_utc": "2024-10-22 16:21:06 UTC",
+                "comment_id": "2frKtEm",
+                "submission_id": "jvfLnv4",
+                "parent_id": "dQK8j41"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "woow thank you Josh!! Means a lot coming from a Pro player. I'd recommend checking out their youtube channel. [https://www.youtube.com/channel/UC3HUhkmmG75I8QnUfnvWYHA](https://www.youtube.com/channel/UC3HUhkmmG75I8QnUfnvWYHA)",
+                "created_utc": "2024-10-22 16:22:13 UTC",
+                "comment_id": "YyCc4KT",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jecDNjq"
+            },
+            {
+                "user_id": "subject_fgGc3tU",
+                "target": false,
+                "type": "comment",
+                "body": "Cost for pro?",
+                "created_utc": "2024-10-22 16:28:00 UTC",
+                "comment_id": "06tHVXM",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "$9.99 per calendar year!",
+                "created_utc": "2024-10-22 16:43:13 UTC",
+                "comment_id": "NHYpDbr",
+                "submission_id": "jvfLnv4",
+                "parent_id": "06tHVXM"
+            },
+            {
+                "user_id": "subject_YvA1XOX",
+                "target": false,
+                "type": "comment",
+                "body": "Hi, I last seasons I really liked the WZRD. But this year I can't see any additional info in my league,, like that WZRD isn't working at all. I am playing ESPN and using Firefox with uBlock origin and Popup Blocker. I was also using them last years without any problems.. Do you maybe know what could be wrong?",
+                "created_utc": "2024-10-22 16:46:03 UTC",
+                "comment_id": "VOtLBnX",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_fgGc3tU",
+                "target": false,
+                "type": "comment",
+                "body": "I am interested in the WZRD Quick Start. I play on yahoo with a lot of teams, when I try to set my lineups for the week I get locked out and the access denied page after doing it on several teams. Have to wait like 5 minutes and refresh the page. Would the quick start have the same problem? Is there a report or anything to know that it completed the lineups?",
+                "created_utc": "2024-10-22 16:46:42 UTC",
+                "comment_id": "2rJHeTZ",
+                "submission_id": "jvfLnv4",
+                "parent_id": "NHYpDbr"
+            },
+            {
+                "user_id": "subject_dt0o28P",
+                "target": false,
+                "type": "comment",
+                "body": "amazing work, congrats!",
+                "created_utc": "2024-10-22 16:49:34 UTC",
+                "comment_id": "nZM3lgy",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Hey JurBank! Thank you so much for your support over the years. Unfortunately we are no longersupporting Firefox as they have made changes to their policies that caused the extension to break. I'm sorry to break that news but its the reality of the situation.\n\nI would recommend using Chrome to use WZRD.",
+                "created_utc": "2024-10-22 16:50:52 UTC",
+                "comment_id": "qjhnAXe",
+                "submission_id": "jvfLnv4",
+                "parent_id": "VOtLBnX"
+            },
+            {
+                "user_id": "subject_O50ddcA",
+                "target": false,
+                "type": "comment",
+                "body": "Looking forward to another year. Thanks FB WZRD for always helping me remain competitive in my leagues with your amazing tools!",
+                "created_utc": "2024-10-22 16:50:57 UTC",
+                "comment_id": "IIAMZY1",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Seems like you may have been rate limited. I was a little concerned about this. How many leagues do you have?",
+                "created_utc": "2024-10-22 16:52:13 UTC",
+                "comment_id": "Ro9KOFI",
+                "submission_id": "jvfLnv4",
+                "parent_id": "2rJHeTZ"
+            },
+            {
+                "user_id": "subject_fgGc3tU",
+                "target": false,
+                "type": "comment",
+                "body": "40+",
+                "created_utc": "2024-10-22 16:52:51 UTC",
+                "comment_id": "bCgRbFm",
+                "submission_id": "jvfLnv4",
+                "parent_id": "Ro9KOFI"
+            },
+            {
+                "user_id": "subject_3Uu25iT",
+                "target": false,
+                "type": "comment",
+                "body": "Big fan of this, and the dev is very communicative about ideas and requests!",
+                "created_utc": "2024-10-22 16:53:03 UTC",
+                "comment_id": "HBeOak4",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "40!!!! omg. That's for sure the most I've ever heard.  \n  \nYeah that will definitely cause you to get rate limited. That's crazy. I'll update the quick start to add a delay between each league to reduce the risk of rate limiting. It will be slower but at least it will work.",
+                "created_utc": "2024-10-22 16:54:47 UTC",
+                "comment_id": "vO3HCjW",
+                "submission_id": "jvfLnv4",
+                "parent_id": "bCgRbFm"
+            },
+            {
+                "user_id": "subject_IJRVzMg",
+                "target": false,
+                "type": "comment",
+                "body": "If you read the post you will see they said they are not supporting Firefox this season, only Chrome browsers",
+                "created_utc": "2024-10-22 16:54:51 UTC",
+                "comment_id": "kfhNuU1",
+                "submission_id": "jvfLnv4",
+                "parent_id": "VOtLBnX"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for your support!",
+                "created_utc": "2024-10-22 16:55:00 UTC",
+                "comment_id": "hSjpc9t",
+                "submission_id": "jvfLnv4",
+                "parent_id": "IIAMZY1"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks :)",
+                "created_utc": "2024-10-22 16:55:04 UTC",
+                "comment_id": "I2E6xyT",
+                "submission_id": "jvfLnv4",
+                "parent_id": "nZM3lgy"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "woow nice! so happy and fulfilling to hear that. thank you for your support!",
+                "created_utc": "2024-10-22 16:55:23 UTC",
+                "comment_id": "Jj1mkY5",
+                "submission_id": "jvfLnv4",
+                "parent_id": "hAykTr4"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "absolutely! also, anyone is welcome to join the Discord to pitch ideas where we can talk more in detail about features",
+                "created_utc": "2024-10-22 16:56:52 UTC",
+                "comment_id": "cOZlVVC",
+                "submission_id": "jvfLnv4",
+                "parent_id": "HBeOak4"
+            },
+            {
+                "user_id": "subject_fgGc3tU",
+                "target": false,
+                "type": "comment",
+                "body": "Went a little overboard this year, some are smaller $ than usual. But as you can imagine WW is like a 1hr+ of work every day and getting timed out is a pain when you trying to knock all your pickups as fast as you can.",
+                "created_utc": "2024-10-22 16:58:17 UTC",
+                "comment_id": "W8kf52C",
+                "submission_id": "jvfLnv4",
+                "parent_id": "vO3HCjW"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "That's very true. I'd recommend not using the quickstart until you see an update about it. \n\nRespect to you though man 40 is absolutely BOSS",
+                "created_utc": "2024-10-22 16:59:36 UTC",
+                "comment_id": "7COtgAV",
+                "submission_id": "jvfLnv4",
+                "parent_id": "W8kf52C"
+            },
+            {
+                "user_id": "subject_DrcsWDa",
+                "target": false,
+                "type": "comment",
+                "body": "Does the free version have a feature on ESPN where I can see how many games my set lines will play without counting them up manually?",
+                "created_utc": "2024-10-22 17:03:28 UTC",
+                "comment_id": "f8SvzRz",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_fgGc3tU",
+                "target": false,
+                "type": "comment",
+                "body": "Ok I guess I will get the app and see if it works with the update. I could be the account you use to stress test your code. Thanks for the replies.",
+                "created_utc": "2024-10-22 17:04:56 UTC",
+                "comment_id": "U4NmYtg",
+                "submission_id": "jvfLnv4",
+                "parent_id": "7COtgAV"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "at the moment, no, but that's a really good suggestion that could be straightforward to implement. will pass it along!",
+                "created_utc": "2024-10-22 17:08:02 UTC",
+                "comment_id": "CUAAmeP",
+                "submission_id": "jvfLnv4",
+                "parent_id": "f8SvzRz"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "yeah pretty cool idea!",
+                "created_utc": "2024-10-22 17:15:55 UTC",
+                "comment_id": "BTvAcCD",
+                "submission_id": "jvfLnv4",
+                "parent_id": "CUAAmeP"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "no problem! quick start will become a paid feature once its out of beta",
+                "created_utc": "2024-10-22 17:16:26 UTC",
+                "comment_id": "hAKPwNo",
+                "submission_id": "jvfLnv4",
+                "parent_id": "U4NmYtg"
+            },
+            {
+                "user_id": "subject_UGMUTkq",
+                "target": false,
+                "type": "comment",
+                "body": "I've been using WZRD for several years since the first time they posted here on reddit. Decided to pay premium this season. It's really a game changer.",
+                "created_utc": "2024-10-22 18:14:26 UTC",
+                "comment_id": "ue2kTeU",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Glad you're liking it! Thank you so much for your continued support \ud83d\ude42",
+                "created_utc": "2024-10-22 18:22:32 UTC",
+                "comment_id": "SyU4Fdw",
+                "submission_id": "jvfLnv4",
+                "parent_id": "ue2kTeU"
+            },
+            {
+                "user_id": "subject_hz1WpWA",
+                "target": false,
+                "type": "comment",
+                "body": "Not installing for me on Chromebook. Left feedback a few days ago.",
+                "created_utc": "2024-10-22 18:57:01 UTC",
+                "comment_id": "vem08zm",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "hey, thanks for reporting it! i sent you a DM on discord to help get it going",
+                "created_utc": "2024-10-22 19:10:00 UTC",
+                "comment_id": "78v4SMC",
+                "submission_id": "jvfLnv4",
+                "parent_id": "vem08zm"
+            },
+            {
+                "user_id": "subject_sIsh5qX",
+                "target": false,
+                "type": "comment",
+                "body": "Hey guys. Stumbled across this after scouring the net for tools to help for my fantasy season.  However when i try to get the extension i get an error \n\n# Download error: Package is invalid. Details: 'Could not load javascript 'yahoo/overviewPag\n\ne.js' for script.'  \n  \nIs there a fix in place? Are the developers aware of this? Any help is much appreciated!",
+                "created_utc": "2024-10-22 19:48:59 UTC",
+                "comment_id": "pxyyXwI",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Hey! thanks for reporting this. Are you using a Chromebook? a few users have reported the same issue on chromebooks. i dont even have access to a chromebook. would you be open to a call?",
+                "created_utc": "2024-10-22 19:52:11 UTC",
+                "comment_id": "KZZ1iaf",
+                "submission_id": "jvfLnv4",
+                "parent_id": "pxyyXwI"
+            },
+            {
+                "user_id": "subject_sIsh5qX",
+                "target": false,
+                "type": "comment",
+                "body": "Hey! That was a quick response! im using a chromebook. Sure im up for a call! Discord?",
+                "created_utc": "2024-10-22 19:53:55 UTC",
+                "comment_id": "2FhJFcu",
+                "submission_id": "jvfLnv4",
+                "parent_id": "KZZ1iaf"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "yup! DM me there and we can take a look. thanks!",
+                "created_utc": "2024-10-22 19:59:43 UTC",
+                "comment_id": "8YwXAuP",
+                "submission_id": "jvfLnv4",
+                "parent_id": "2FhJFcu"
+            },
+            {
+                "user_id": "subject_AnYOd6m",
+                "target": false,
+                "type": "comment",
+                "body": "Just to share a different perspective, I can't use this because it censors so much of the actual relevant info to push PRO/paid membership down your throat. Totally understand since it's a business, but if youre not going to pay then would highly not recommend at all",
+                "created_utc": "2024-10-22 21:13:14 UTC",
+                "comment_id": "Tcr1yT8",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_jd5RoYU",
+                "target": false,
+                "type": "comment",
+                "body": "Same error in Chrome 130 on Linux Ubuntu",
+                "created_utc": "2024-10-22 21:48:17 UTC",
+                "comment_id": "H8qXErS",
+                "submission_id": "jvfLnv4",
+                "parent_id": "KZZ1iaf"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "That's a fair criticism and we appreciate the feedback. The free version still provides a ton of value in my opinion, it still helps you understand how your matchup is going and where it will end up. It also still helps you make decisions based on how many games any free agent has remaining. Love the feedback though and hope we can earn your business by providing you as much value as possible. Thank you!",
+                "created_utc": "2024-10-22 22:02:32 UTC",
+                "comment_id": "hZt2o10",
+                "submission_id": "jvfLnv4",
+                "parent_id": "Tcr1yT8"
+            },
+            {
+                "user_id": "subject_jPnA3H2",
+                "target": false,
+                "type": "comment",
+                "body": "Been a WZRD user for a few years and loved the app.\n\nThank you for helping me out do well in these drafts.\n\nHowever since last year we have moved on from ESPN to Fantrax. You guys don't provide any service for Fantrax, right?",
+                "created_utc": "2024-10-22 23:15:34 UTC",
+                "comment_id": "AmDtPWX",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_BNJSwom",
+                "target": false,
+                "type": "comment",
+                "body": "Do you know if the WZRD Quickstart is ready to go? I tried using it, and it's not working.",
+                "created_utc": "2024-10-22 23:31:18 UTC",
+                "comment_id": "onDmR8y",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "It should work for the most part, what doesn't work about it?",
+                "created_utc": "2024-10-22 23:32:54 UTC",
+                "comment_id": "MBI7hN5",
+                "submission_id": "jvfLnv4",
+                "parent_id": "onDmR8y"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Thank you for the support! Unfortunately we only support yahoo and ESPN. I wish we could do them all but realistically not possible.",
+                "created_utc": "2024-10-22 23:33:40 UTC",
+                "comment_id": "TIcFpBU",
+                "submission_id": "jvfLnv4",
+                "parent_id": "AmDtPWX"
+            },
+            {
+                "user_id": "subject_BNJSwom",
+                "target": false,
+                "type": "comment",
+                "body": "I click on WZRD Quick Start (beta). When I click the blue Start Active Players, it doesn't insert players into open positions. The Status indicator gets a checkmark but nothing.",
+                "created_utc": "2024-10-22 23:39:24 UTC",
+                "comment_id": "2OWft8R",
+                "submission_id": "jvfLnv4",
+                "parent_id": "MBI7hN5"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Interesting... how many leagues? does it fail for all leagues? hard to say without more detail. are you open to a call?",
+                "created_utc": "2024-10-23 00:59:45 UTC",
+                "comment_id": "tQPQp2F",
+                "submission_id": "jvfLnv4",
+                "parent_id": "2OWft8R"
+            },
+            {
+                "user_id": "subject_BNJSwom",
+                "target": false,
+                "type": "comment",
+                "body": "It's just one league. I'm traveling for the next few days, but I'd like to get it working when I return. What do you think is the best way to reach you?",
+                "created_utc": "2024-10-23 01:23:12 UTC",
+                "comment_id": "HQozm00",
+                "submission_id": "jvfLnv4",
+                "parent_id": "tQPQp2F"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-10-23 02:07:02 UTC",
+                "comment_id": "sbgFc00",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "easiest way is via discord. I'm very active on there and we can use it to do a screen share. otherwise you can email fantasybasketballwizard@gmail.com \n\nlooking forward to chatting once youre back!",
+                "created_utc": "2024-10-23 02:09:40 UTC",
+                "comment_id": "1LZeh9Y",
+                "submission_id": "jvfLnv4",
+                "parent_id": "HQozm00"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "whoah, I haven't noticed that on my leagues. is games played a scoring category in your league? what's your league format?",
+                "created_utc": "2024-10-23 02:11:03 UTC",
+                "comment_id": "Zgoszo6",
+                "submission_id": "jvfLnv4",
+                "parent_id": "sbgFc00"
+            },
+            {
+                "user_id": "subject_DJxP2k3",
+                "target": false,
+                "type": "comment",
+                "body": "Really gonna miss the firefox support as that is my primary browser.",
+                "created_utc": "2024-10-23 03:16:10 UTC",
+                "comment_id": "cCXqkul",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_BWjVwYj",
+                "target": false,
+                "type": "comment",
+                "body": "hey it keeps telling me to upgrade even tho i already have premium, refreshed a bunch and even removed and added the extension back, on google chrome, any fix?",
+                "created_utc": "2024-10-23 04:43:43 UTC",
+                "comment_id": "DKlQQKm",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "hey, sorry to hear about that. let me try to help! did you recently purchase? \n\nyou may have potentially been signed out. press the extension icon in the chrome toolbar and press \"manage subscription\" - there you should see a button that says \"already purchased? login\" \n\nfrom there it should get activated once you verify your email address.",
+                "created_utc": "2024-10-23 05:21:26 UTC",
+                "comment_id": "71emK4I",
+                "submission_id": "jvfLnv4",
+                "parent_id": "DKlQQKm"
+            },
+            {
+                "user_id": "subject_BWjVwYj",
+                "target": false,
+                "type": "comment",
+                "body": "yea i\u2019ve done that and verified, but after that it\u2019ll still keep saying my membership status is free, and if i click manage subscription it shows my card and plan and everything",
+                "created_utc": "2024-10-23 05:26:17 UTC",
+                "comment_id": "KjHpzHa",
+                "submission_id": "jvfLnv4",
+                "parent_id": "71emK4I"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "let me DM you!",
+                "created_utc": "2024-10-23 05:35:39 UTC",
+                "comment_id": "z1opUa7",
+                "submission_id": "jvfLnv4",
+                "parent_id": "KjHpzHa"
+            },
+            {
+                "user_id": "subject_onAjyG2",
+                "target": false,
+                "type": "comment",
+                "body": "Giving this a shot this year. Thanks for your hard work!",
+                "created_utc": "2024-10-23 08:45:50 UTC",
+                "comment_id": "sFvKrbk",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_B0FC7Iu",
+                "target": false,
+                "type": "comment",
+                "body": "Is the me vs league or the me vs matchup information update through current season averages or is all this information based on last years stats?? Or is it some mixed algo that considers both??",
+                "created_utc": "2024-10-23 14:27:08 UTC",
+                "comment_id": "y6zPhwk",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "thank you for your support! hope you win the championship!",
+                "created_utc": "2024-10-23 15:46:24 UTC",
+                "comment_id": "xtViV74",
+                "submission_id": "jvfLnv4",
+                "parent_id": "sFvKrbk"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "it works differently on espn and yahoo. which one are you on?",
+                "created_utc": "2024-10-23 15:46:53 UTC",
+                "comment_id": "cmj8WeD",
+                "submission_id": "jvfLnv4",
+                "parent_id": "y6zPhwk"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "I think we will likely bring it back some day, just can't commit to it right now since 99% of users are on Chrome. Will do our best",
+                "created_utc": "2024-10-23 15:51:22 UTC",
+                "comment_id": "rhzIphS",
+                "submission_id": "jvfLnv4",
+                "parent_id": "cCXqkul"
+            },
+            {
+                "user_id": "subject_B0FC7Iu",
+                "target": false,
+                "type": "comment",
+                "body": "Yahoo",
+                "created_utc": "2024-10-23 17:52:24 UTC",
+                "comment_id": "h2iGmwg",
+                "submission_id": "jvfLnv4",
+                "parent_id": "cmj8WeD"
+            },
+            {
+                "user_id": "subject_lOFfad2",
+                "target": true,
+                "type": "comment",
+                "body": "It currently using projected averages that are defined before the season starts (not averages) but  you're also able to use averages if you prefer by using the dropdown in \"Comparison Type\". As the season goes on, those will make more sense because there'll actually be differences in last 7 days, 14 days, etc.",
+                "created_utc": "2024-10-23 18:01:10 UTC",
+                "comment_id": "UkOmCJu",
+                "submission_id": "jvfLnv4",
+                "parent_id": "h2iGmwg"
+            },
+            {
+                "user_id": "subject_BNJSwom",
+                "target": false,
+                "type": "comment",
+                "body": "Hi, it's still not working. Would you happen to have time to work with me?",
+                "created_utc": "2024-10-25 23:01:47 UTC",
+                "comment_id": "1vmrALK",
+                "submission_id": "jvfLnv4",
+                "parent_id": "1LZeh9Y"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Hey - I'd love to help. Let's chat via discord so we can screen share and I can get you going!",
+                "created_utc": "2024-10-27 00:47:10 UTC",
+                "comment_id": "SCvIZDw",
+                "submission_id": "jvfLnv4",
+                "parent_id": "1vmrALK"
+            },
+            {
+                "user_id": "subject_UIEzI0g",
+                "target": false,
+                "type": "comment",
+                "body": "Are there any features to project what your team would look like  after an add before actually adding the new player?",
+                "created_utc": "2024-10-27 18:33:20 UTC",
+                "comment_id": "WqhxnGN",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "working on it \ud83d\udc40",
+                "created_utc": "2024-10-28 07:22:07 UTC",
+                "comment_id": "Ic6R85q",
+                "submission_id": "jvfLnv4",
+                "parent_id": "WqhxnGN"
+            },
+            {
+                "user_id": "subject_BNJSwom",
+                "target": false,
+                "type": "comment",
+                "body": "I'd love to get this working. I'm new to Discord. I do you on my Discord page. Please tell me when and what to click on. Thank you",
+                "created_utc": "2024-10-30 22:05:58 UTC",
+                "comment_id": "l42EGxV",
+                "submission_id": "jvfLnv4",
+                "parent_id": "SCvIZDw"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Hey, sorry I'm not sure what you're asking. Did you get into the SportsWZRD discord server? Feel free to DM me here on Reddit too and I can try to help.",
+                "created_utc": "2024-10-30 23:53:41 UTC",
+                "comment_id": "SKGnERy",
+                "submission_id": "jvfLnv4",
+                "parent_id": "l42EGxV"
+            },
+            {
+                "user_id": "subject_gxTzQ31",
+                "target": false,
+                "type": "comment",
+                "body": "Hiiii,  \nAppreciate the resource. The front 'League' page where it shows your team VS others in the league isn't working anymore? I've tried that clear cache and restarted over and over but nothing. I'm on Chrome.   \nThanks",
+                "created_utc": "2024-10-31 22:30:59 UTC",
+                "comment_id": "KIRC2WM",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Hey! Sorry for the trouble. Does it even appear at all? Are you able to join our discord? it's the easiest way to chat and share screens too\nhttps://discord.gg/w9nRAVAS",
+                "created_utc": "2024-10-31 22:46:28 UTC",
+                "comment_id": "dOe6Nzu",
+                "submission_id": "jvfLnv4",
+                "parent_id": "KIRC2WM"
+            },
+            {
+                "user_id": "subject_Y3qx37v",
+                "target": false,
+                "type": "comment",
+                "body": "Same!",
+                "created_utc": "2024-11-02 04:40:17 UTC",
+                "comment_id": "0c20urs",
+                "submission_id": "jvfLnv4",
+                "parent_id": "KIRC2WM"
+            },
+            {
+                "user_id": "subject_IKbkejE",
+                "target": false,
+                "type": "comment",
+                "body": "How do I cancel my subscription? I couldn't find a place to do it and just go charged again for the year. We moved from ESPN to Fantrax this year and have no use for it unfortunately. Loved it last year tho!",
+                "created_utc": "2024-11-04 00:16:16 UTC",
+                "comment_id": "9X2Jl15",
+                "submission_id": "jvfLnv4",
+                "parent_id": "jvfLnv4"
+            },
+            {
+                "user_id": "subject_S5w6EcA",
+                "target": false,
+                "type": "comment",
+                "body": "Hey! Please send us an email at fantasybasketballwizard@gmail.com and we can help you out, thanks!",
+                "created_utc": "2024-11-04 21:44:57 UTC",
+                "comment_id": "qFGfqF0",
+                "submission_id": "jvfLnv4",
+                "parent_id": "9X2Jl15"
+            },
+            {
+                "user_id": "subject_IKbkejE",
+                "target": false,
+                "type": "comment",
+                "body": "TY emailing now.",
+                "created_utc": "2024-11-04 22:27:23 UTC",
+                "comment_id": "DXMXQjy",
+                "submission_id": "jvfLnv4",
+                "parent_id": "qFGfqF0"
+            }
+        ]
+    }
+]

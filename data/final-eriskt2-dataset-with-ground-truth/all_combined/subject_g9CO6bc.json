@@ -1,0 +1,888 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_5V5AmY6",
+            "target": false,
+            "type": "submission",
+            "title": "Having trouble posting? Read this post for assistance!",
+            "body": "Why can\u2019t I post?\n\n**Is your title correct?**\n\nYour title has to be in this format: \\[ContractName\\]\\[CoOpCode\\] Optional Title\n\n* Ensure there are no spaces between the square brackets.\n* If you don\u2019t have a CoOp code, you can put \\[Looking For CoOp\\] or something similar.\n\n**Android Users**\n\nThere is a known issue with posting from the Android official Reddit app that affects some users. Fixes can include: reinstalling the reddit app, using a different phone or using a browser on a different platform to post. Unfortunately there is nothing we can do about this bug.\n\nIf you are still having posting issues, your title is correct and you are not using the Android Reddit app, please message the friendly mods for assistance (preferably with screenshots).",
+            "created_utc": "2022-09-27 11:48:51 UTC",
+            "submission_id": "dhmVMAZ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_Y9mrash",
+                "target": false,
+                "type": "comment",
+                "body": "very helpful. Thanks!",
+                "created_utc": "2022-11-19 23:29:57 UTC",
+                "comment_id": "tWpr9O2",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "I can\u2019t post, I don\u2019t get to pick a flair for my posts",
+                "created_utc": "2023-01-24 07:23:58 UTC",
+                "comment_id": "AVLc1PC",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "subject_9IcqPmp",
+                "target": false,
+                "type": "comment",
+                "body": "Same",
+                "created_utc": "2023-02-10 16:06:24 UTC",
+                "comment_id": "tccFbEA",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "AVLc1PC"
+            },
+            {
+                "user_id": "subject_G1HwZC6",
+                "target": false,
+                "type": "comment",
+                "body": "How you join Coop? I cant find under contacts",
+                "created_utc": "2023-02-19 18:25:05 UTC",
+                "comment_id": "ApYbgLv",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "subject_zDkyYxt",
+                "target": false,
+                "type": "comment",
+                "body": "No reason to post carries anymore.  Tried for three minutes and gave up. Why the rules?  They\u2019re not needed.",
+                "created_utc": "2023-03-01 21:22:24 UTC",
+                "comment_id": "loB1aad",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I can\u2019t post did everything right\u00a0",
+                "created_utc": "2024-04-09 18:46:19 UTC",
+                "comment_id": "8KlIDhe",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "subject_NekejiO",
+                "target": false,
+                "type": "comment",
+                "body": "[GoOutside][breakfast-club]",
+                "created_utc": "2024-04-30 01:21:30 UTC",
+                "comment_id": "4V8ZIYN",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "subject_AbINDg6",
+                "target": false,
+                "type": "comment",
+                "body": "My posts have not gotten through in a couple of months.  Tried on my desktop today and am seeing \"Sorry, this post was removed by Reddit\u2019s filters.\"  Is there something I am doing wrong?",
+                "created_utc": "2024-08-05 19:48:54 UTC",
+                "comment_id": "khTMMaz",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "dhmVMAZ"
+            },
+            {
+                "user_id": "subject_5V5AmY6",
+                "target": false,
+                "type": "comment",
+                "body": "Just looked it up, Reddit apparently thinks that you may be a spammer. Unfortunately they don't tell me more than that so I can't tell you what would make their filters change their mind.",
+                "created_utc": "2024-08-05 19:52:30 UTC",
+                "comment_id": "LuwE1JG",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "khTMMaz"
+            },
+            {
+                "user_id": "subject_AbINDg6",
+                "target": false,
+                "type": "comment",
+                "body": "Thanks for checking",
+                "created_utc": "2024-08-05 19:54:24 UTC",
+                "comment_id": "SdUl6uF",
+                "submission_id": "dhmVMAZ",
+                "parent_id": "LuwE1JG"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "deleted_user",
+            "target": false,
+            "type": "submission",
+            "title": "[deleted by user]",
+            "body": "[removed]",
+            "created_utc": "2024-04-12 17:23:21 UTC",
+            "submission_id": "okSqPM9",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "You kicked me for no reason\u00a0",
+                "created_utc": "2024-04-12 18:20:58 UTC",
+                "comment_id": "mv0ZWaN",
+                "submission_id": "okSqPM9",
+                "parent_id": "okSqPM9"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-12 18:56:08 UTC",
+                "comment_id": "AFpmB5k",
+                "submission_id": "okSqPM9",
+                "parent_id": "mv0ZWaN"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I had my deflector up and was farming tokens . How is that cheating\u00a0",
+                "created_utc": "2024-04-12 23:08:45 UTC",
+                "comment_id": "ywKzSao",
+                "submission_id": "okSqPM9",
+                "parent_id": "AFpmB5k"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I don\u2019t understand but it doesn\u2019t matter I found \u00a0a coop .\u00a0",
+                "created_utc": "2024-04-12 23:10:42 UTC",
+                "comment_id": "e7Sf6DB",
+                "submission_id": "okSqPM9",
+                "parent_id": "AFpmB5k"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I had a name but clearly you wanted to kick to allow someone else in\u00a0",
+                "created_utc": "2024-04-12 23:13:17 UTC",
+                "comment_id": "UfLf1rr",
+                "submission_id": "okSqPM9",
+                "parent_id": "AFpmB5k"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_zXlV8z1",
+            "target": false,
+            "type": "submission",
+            "title": "[Easter Rush][littledgang]",
+            "body": "",
+            "created_utc": "2024-04-11 18:33:53 UTC",
+            "submission_id": "lzweGBW",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op has finished!",
+                "created_utc": "2024-04-11 18:34:03 UTC",
+                "comment_id": "Plnvbmu",
+                "submission_id": "lzweGBW",
+                "parent_id": "lzweGBW"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Send tokens to skiwithc I can boost\u00a0",
+                "created_utc": "2024-04-12 23:40:16 UTC",
+                "comment_id": "FocqxAv",
+                "submission_id": "lzweGBW",
+                "parent_id": "lzweGBW"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_kn04llZ",
+            "target": false,
+            "type": "submission",
+            "title": "[Made In Space][ruprak] ",
+            "body": "",
+            "created_utc": "2024-04-15 19:06:29 UTC",
+            "submission_id": "MzQEHkU",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op is full!",
+                "created_utc": "2024-04-15 19:06:48 UTC",
+                "comment_id": "DD9F6ms",
+                "submission_id": "MzQEHkU",
+                "parent_id": "MzQEHkU"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I can help send tokens to skiwithc",
+                "created_utc": "2024-04-16 01:01:52 UTC",
+                "comment_id": "ZobTJzK",
+                "submission_id": "MzQEHkU",
+                "parent_id": "DD9F6ms"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_D4gcsAm",
+            "target": false,
+            "type": "submission",
+            "title": "[Made In Space][rush] only join if you mean to go fast. Boost and Deflector a must.",
+            "body": "Replaying for points after a bunch of leechers. Let's go!",
+            "created_utc": "2024-04-16 15:32:53 UTC",
+            "submission_id": "b7Ic6Bh",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op is full!",
+                "created_utc": "2024-04-16 15:33:13 UTC",
+                "comment_id": "ySJgNWJ",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "b7Ic6Bh"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "No takers...",
+                "created_utc": "2024-04-16 22:14:02 UTC",
+                "comment_id": "kGup8I8",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "b7Ic6Bh"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I joined skiwithc I\u2019m in your other coop for tach inflation\u00a0",
+                "created_utc": "2024-04-16 23:05:58 UTC",
+                "comment_id": "neScASK",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "b7Ic6Bh"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I\u2019m in mate. I\u2019m in your other coop too",
+                "created_utc": "2024-04-16 23:06:43 UTC",
+                "comment_id": "6B6NjRd",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "kGup8I8"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "Thanks. Just sent you a bunch of tokens.",
+                "created_utc": "2024-04-17 00:51:51 UTC",
+                "comment_id": "EtZZeHM",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "6B6NjRd"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "One free spot.",
+                "created_utc": "2024-04-17 05:37:28 UTC",
+                "comment_id": "qwERDnS",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "b7Ic6Bh"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "I made it public, we're now full. One free carry I guess.",
+                "created_utc": "2024-04-17 15:37:32 UTC",
+                "comment_id": "a1pdbI2",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "qwERDnS"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "What was your score for that co-op that just finished up?",
+                "created_utc": "2024-04-17 17:00:57 UTC",
+                "comment_id": "95ewjAx",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "neScASK"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "24k not that great\u00a0",
+                "created_utc": "2024-04-19 16:19:14 UTC",
+                "comment_id": "2RH6eRA",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "95ewjAx"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "I had about 30.",
+                "created_utc": "2024-04-19 16:57:43 UTC",
+                "comment_id": "rbSILW3",
+                "submission_id": "b7Ic6Bh",
+                "parent_id": "2RH6eRA"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_wvHbEwa",
+            "target": false,
+            "type": "submission",
+            "title": "[Mars Food][vlate] Equal Participant Only",
+            "body": "",
+            "created_utc": "2024-04-16 14:46:25 UTC",
+            "submission_id": "seWDMzd",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op has finished!",
+                "created_utc": "2024-04-16 14:46:43 UTC",
+                "comment_id": "mUv7q66",
+                "submission_id": "seWDMzd",
+                "parent_id": "seWDMzd"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Joining",
+                "created_utc": "2024-04-17 00:02:57 UTC",
+                "comment_id": "pQVHIdH",
+                "submission_id": "seWDMzd",
+                "parent_id": "seWDMzd"
+            },
+            {
+                "user_id": "subject_wvHbEwa",
+                "target": false,
+                "type": "comment",
+                "body": "Phew! Was worried about this one. Lmk if you need tokens.",
+                "created_utc": "2024-04-17 00:41:29 UTC",
+                "comment_id": "pjzzGdz",
+                "submission_id": "seWDMzd",
+                "parent_id": "pQVHIdH"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_8k0tIQ4",
+            "target": false,
+            "type": "submission",
+            "title": "[Superfood Mystery][tachyon-knights] As a Tachyon Knight you\u2019re expected to save 4 tokens for a Supreme Tachyon Prism. Finish your farm in less than 4 hours. And always have a Tachyon Deflector Artifact on. Will be kicked if you don\u2019t. EB 175.702N",
+            "body": "",
+            "created_utc": "2024-04-19 16:08:59 UTC",
+            "submission_id": "weJ1rAa",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op is full!",
+                "created_utc": "2024-04-19 16:09:18 UTC",
+                "comment_id": "kx9edyG",
+                "submission_id": "weJ1rAa",
+                "parent_id": "weJ1rAa"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Joining skiwithc user id",
+                "created_utc": "2024-04-19 16:23:04 UTC",
+                "comment_id": "fGm6Q3w",
+                "submission_id": "weJ1rAa",
+                "parent_id": "kx9edyG"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_8k0tIQ4",
+            "target": false,
+            "type": "submission",
+            "title": "[Luncheggbles][tachyon-knights] As a Tachyon Knight you\u2019re expected to save 4 tokens for a Supreme Tachyon Prism. Finish your farm in less than 4 hours. And always have a Tachyon Deflector Artifact on. Will be kicked if you don\u2019t. EB 175.702N",
+            "body": "",
+            "created_utc": "2024-04-19 16:16:09 UTC",
+            "submission_id": "CFEfj3Z",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Joining skiwithc is my name",
+                "created_utc": "2024-04-19 16:30:51 UTC",
+                "comment_id": "oj4GWkU",
+                "submission_id": "CFEfj3Z",
+                "parent_id": "CFEfj3Z"
+            },
+            {
+                "user_id": "subject_8k0tIQ4",
+                "target": false,
+                "type": "comment",
+                "body": "Welcome",
+                "created_utc": "2024-04-19 16:31:49 UTC",
+                "comment_id": "VvfvoNb",
+                "submission_id": "CFEfj3Z",
+                "parent_id": "oj4GWkU"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Sent you a token so you can boost. Just send 1 back if you get extra",
+                "created_utc": "2024-04-19 17:40:00 UTC",
+                "comment_id": "xEmdXYF",
+                "submission_id": "CFEfj3Z",
+                "parent_id": "VvfvoNb"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_D4gcsAm",
+            "target": false,
+            "type": "submission",
+            "title": "[Fusion Headphones][go-fast] go fast. Boost and use deflector.",
+            "body": "I'm replaying for points. Please do your part.",
+            "created_utc": "2024-04-24 17:32:33 UTC",
+            "submission_id": "87Jxvrc",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op is full!",
+                "created_utc": "2024-04-24 17:32:46 UTC",
+                "comment_id": "MMt5Wyd",
+                "submission_id": "87Jxvrc",
+                "parent_id": "87Jxvrc"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "Sending tokens as quick as I get them. If it doesn't update and I send too many going forward just send them back",
+                "created_utc": "2024-04-24 18:36:36 UTC",
+                "comment_id": "fHRix0P",
+                "submission_id": "87Jxvrc",
+                "parent_id": "87Jxvrc"
+            },
+            {
+                "user_id": "subject_D4gcsAm",
+                "target": false,
+                "type": "comment",
+                "body": "Thank you. My ads are broken so I'm dependent on boxes, haven't gotten one yet.",
+                "created_utc": "2024-04-24 18:55:32 UTC",
+                "comment_id": "PiZl1jN",
+                "submission_id": "87Jxvrc",
+                "parent_id": "fHRix0P"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks for the tokens mates . You can dump spares on me if you want. I wasn\u2019t getting many ads , thanks again\u00a0",
+                "created_utc": "2024-04-24 20:00:15 UTC",
+                "comment_id": "asPsJvz",
+                "submission_id": "87Jxvrc",
+                "parent_id": "87Jxvrc"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Mine were too. I reinstalled the game and they started working\u00a0",
+                "created_utc": "2024-04-24 20:01:39 UTC",
+                "comment_id": "6Urvw6r",
+                "submission_id": "87Jxvrc",
+                "parent_id": "PiZl1jN"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks again for tokens",
+                "created_utc": "2024-04-24 20:02:05 UTC",
+                "comment_id": "prDSa0w",
+                "submission_id": "87Jxvrc",
+                "parent_id": "fHRix0P"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "No worries it's just fun to be part of a group that knows how to play. Have a good one",
+                "created_utc": "2024-04-24 22:24:21 UTC",
+                "comment_id": "ZJUgsZv",
+                "submission_id": "87Jxvrc",
+                "parent_id": "prDSa0w"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Agreed. Hit me up anytime you\u2019re looking for teammates \u263a\ufe0f",
+                "created_utc": "2024-04-25 15:41:34 UTC",
+                "comment_id": "003ULR8",
+                "submission_id": "87Jxvrc",
+                "parent_id": "ZJUgsZv"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "Plain-white-egg. We have a good core group but on the 20 and 50s we usually post after the regulars get in. If you want to join more than welcome",
+                "created_utc": "2024-04-26 16:07:13 UTC",
+                "comment_id": "Yko09Sz",
+                "submission_id": "87Jxvrc",
+                "parent_id": "003ULR8"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks I joined",
+                "created_utc": "2024-04-26 17:45:58 UTC",
+                "comment_id": "nZ6Imnw",
+                "submission_id": "87Jxvrc",
+                "parent_id": "Yko09Sz"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "We kind of have a pecking order for tokens but you're up after the next two. Good to have you",
+                "created_utc": "2024-04-26 18:11:44 UTC",
+                "comment_id": "JP9tHGd",
+                "submission_id": "87Jxvrc",
+                "parent_id": "nZ6Imnw"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "Do you want to be a regular in this group? The reason I joined the last one with you guys is because I am the odd man out. When I joined I had the third highest EB so I wait to see if we need a third coop on the smaller contracts. Ideally it would work best if we had 16 regulars. Right now we have between 8 and 10. I've only vouched for one other person but I could ask Warren and speedy and then they would just send you a link to the discord which makes communicating that much easier also. Took me a while to join a speed group just because I liked to bounce around so I get it either way. Five of us also do the ultra to increase our CS scores and right now we still have two slots open because we usually don't post those. Both the regular and ultra are usually finished within the first 24 hours which makes it really nice",
+                "created_utc": "2024-04-27 00:31:49 UTC",
+                "comment_id": "AU5K7an",
+                "submission_id": "87Jxvrc",
+                "parent_id": "nZ6Imnw"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-29 16:06:55 UTC",
+                "comment_id": "LiMIuhO",
+                "submission_id": "87Jxvrc",
+                "parent_id": "AU5K7an"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "You must belong to cluckin bell",
+                "created_utc": "2024-04-29 19:06:34 UTC",
+                "comment_id": "ZguhYUo",
+                "submission_id": "87Jxvrc",
+                "parent_id": "LiMIuhO"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "Not a chance. They have vetted me a couple times over the last couple years. Wasn't interested then and still not. The group you joined with the 50 person is a private discord group that I was invited to about 6-7 months ago. Speed racer, Warren and dax are the founders. Only 10 regulars",
+                "created_utc": "2024-04-29 20:18:53 UTC",
+                "comment_id": "FbrcQ2g",
+                "submission_id": "87Jxvrc",
+                "parent_id": "ZguhYUo"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-29 23:05:28 UTC",
+                "comment_id": "mXYmEuM",
+                "submission_id": "87Jxvrc",
+                "parent_id": "FbrcQ2g"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "You're a really good player and your artifacts are better than mine..lol",
+                "created_utc": "2024-04-30 17:39:27 UTC",
+                "comment_id": "073n7EW",
+                "submission_id": "87Jxvrc",
+                "parent_id": "mXYmEuM"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-30 19:20:29 UTC",
+                "comment_id": "9vFOToj",
+                "submission_id": "87Jxvrc",
+                "parent_id": "mXYmEuM"
+            },
+            {
+                "user_id": "subject_XMeITUp",
+                "target": false,
+                "type": "comment",
+                "body": "I'm going to take down the link as soon as you get it so if you could please let me know when you get this message. I looked for you on the DM servers but couldn't find your name",
+                "created_utc": "2024-04-30 19:21:13 UTC",
+                "comment_id": "cEm9QfH",
+                "submission_id": "87Jxvrc",
+                "parent_id": "mXYmEuM"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_BxrqVVD",
+            "target": false,
+            "type": "submission",
+            "title": "[eggene][chickynuggies] ",
+            "body": "",
+            "created_utc": "2024-04-25 10:30:07 UTC",
+            "submission_id": "QXZDZ4Y",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-25 10:30:28 UTC",
+                "comment_id": "f2sHUvc",
+                "submission_id": "QXZDZ4Y",
+                "parent_id": "QXZDZ4Y"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Need help ?",
+                "created_utc": "2024-04-25 15:45:25 UTC",
+                "comment_id": "1TNBncF",
+                "submission_id": "QXZDZ4Y",
+                "parent_id": "f2sHUvc"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_QJAWJHa",
+            "target": false,
+            "type": "submission",
+            "title": "[Eggene][69bajaoutdoors]",
+            "body": "Almost there!!!! Tokens shared as there are only two of us and both maxed out. This is almost a free carry but could use a little help. Please help us out!",
+            "created_utc": "2024-04-25 13:27:54 UTC",
+            "submission_id": "alr6FIx",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op is full!",
+                "created_utc": "2024-04-25 13:28:04 UTC",
+                "comment_id": "7c24pKQ",
+                "submission_id": "alr6FIx",
+                "parent_id": "alr6FIx"
+            },
+            {
+                "user_id": "subject_2Mk3DBr",
+                "target": false,
+                "type": "comment",
+                "body": "Flowerpotlol",
+                "created_utc": "2024-04-25 15:05:53 UTC",
+                "comment_id": "gq0UPqq",
+                "submission_id": "alr6FIx",
+                "parent_id": "alr6FIx"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "I\u2019ll help you\u00a0",
+                "created_utc": "2024-04-25 15:46:35 UTC",
+                "comment_id": "eI79wwg",
+                "submission_id": "alr6FIx",
+                "parent_id": "alr6FIx"
+            },
+            {
+                "user_id": "subject_QJAWJHa",
+                "target": false,
+                "type": "comment",
+                "body": "Tokens sent!",
+                "created_utc": "2024-04-25 16:07:23 UTC",
+                "comment_id": "YzT4cgs",
+                "submission_id": "alr6FIx",
+                "parent_id": "eI79wwg"
+            },
+            {
+                "user_id": "subject_QJAWJHa",
+                "target": false,
+                "type": "comment",
+                "body": "Just now seeing your comment. I don\u2019t see you in the coop. Was going to send tokens.",
+                "created_utc": "2024-04-25 22:55:42 UTC",
+                "comment_id": "VCP9FMq",
+                "submission_id": "alr6FIx",
+                "parent_id": "gq0UPqq"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_g9CO6bc",
+            "target": true,
+            "type": "submission",
+            "title": "[candy drone][choc99]",
+            "body": "Please use deflector  , 2 spots open . If you need to mirror lmk ! Have fun ",
+            "created_utc": "2024-10-28 18:52:59 UTC",
+            "submission_id": "a3UYWvU",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op is full!",
+                "created_utc": "2024-10-28 18:53:06 UTC",
+                "comment_id": "py8d7GG",
+                "submission_id": "a3UYWvU",
+                "parent_id": "a3UYWvU"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "deleted_user",
+            "target": false,
+            "type": "submission",
+            "title": "[Candy Drone][Halloween123] just started, need some help please",
+            "body": "[deleted]",
+            "created_utc": "2024-10-31 11:06:40 UTC",
+            "submission_id": "R646oBJ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op has finished!",
+                "created_utc": "2024-10-31 11:07:00 UTC",
+                "comment_id": "VqdU9N7",
+                "submission_id": "R646oBJ",
+                "parent_id": "R646oBJ"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "Joined I\u2019m a wecca so if you need a mirror lmk",
+                "created_utc": "2024-10-31 16:53:06 UTC",
+                "comment_id": "LGQS1Y6",
+                "submission_id": "R646oBJ",
+                "parent_id": "R646oBJ"
+            },
+            {
+                "user_id": "subject_g9CO6bc",
+                "target": true,
+                "type": "comment",
+                "body": "You asked for help yet you\u2019re not doing anything. You didn\u2019t boost and don\u2019t have the right arts up\u00a0",
+                "created_utc": "2024-10-31 18:11:25 UTC",
+                "comment_id": "1oIV7kg",
+                "submission_id": "R646oBJ",
+                "parent_id": "R646oBJ"
+            },
+            {
+                "user_id": "subject_ORPkjYB",
+                "target": false,
+                "type": "comment",
+                "body": "Bad timing. I wasn't able to check in earlier and it was still 1/3 when I last checked. Habs are being filled now and arts are up.",
+                "created_utc": "2024-10-31 19:21:07 UTC",
+                "comment_id": "4ObsyHc",
+                "submission_id": "R646oBJ",
+                "parent_id": "1oIV7kg"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_g9CO6bc",
+            "target": true,
+            "type": "submission",
+            "title": "[candy drone][candyo]",
+            "body": "1 spot left just equip deflector done in 7 hours ",
+            "created_utc": "2024-11-07 15:17:06 UTC",
+            "submission_id": "TM0HnHd",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_vaEgfQm",
+                "target": false,
+                "type": "comment",
+                "body": "### Co-Op has finished!",
+                "created_utc": "2024-11-07 15:17:24 UTC",
+                "comment_id": "q3Fnphz",
+                "submission_id": "TM0HnHd",
+                "parent_id": "TM0HnHd"
+            }
+        ]
+    }
+]

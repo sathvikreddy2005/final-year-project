@@ -1,0 +1,3915 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_63S7rgH",
+            "target": false,
+            "type": "submission",
+            "title": "22F Anyone wanna talk or possibly be friends? [chat]",
+            "body": "[removed]",
+            "created_utc": "2023-01-16 18:05:00 UTC",
+            "submission_id": "fxqZD0W",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[removed]",
+                "created_utc": "2023-01-16 18:17:17 UTC",
+                "comment_id": "VrLpPHx",
+                "submission_id": "fxqZD0W",
+                "parent_id": "fxqZD0W"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Favorite PL team? *Assuming you follow soccer",
+                "created_utc": "2023-01-16 19:54:36 UTC",
+                "comment_id": "bU9TnVW",
+                "submission_id": "fxqZD0W",
+                "parent_id": "VrLpPHx"
+            },
+            {
+                "user_id": "subject_Cs5ISc2",
+                "target": false,
+                "type": "comment",
+                "body": "Hey! I\u2019m 20m from the U.S.! Dm me!",
+                "created_utc": "2023-01-16 20:17:57 UTC",
+                "comment_id": "oM1Vbbn",
+                "submission_id": "fxqZD0W",
+                "parent_id": "fxqZD0W"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "Beware guys, this can be fraud.",
+                "created_utc": "2023-01-16 21:08:27 UTC",
+                "comment_id": "usAcGBI",
+                "submission_id": "fxqZD0W",
+                "parent_id": "fxqZD0W"
+            },
+            {
+                "user_id": "subject_aCsMHZ1",
+                "target": false,
+                "type": "comment",
+                "body": "25Y",
+                "created_utc": "2023-01-17 12:18:16 UTC",
+                "comment_id": "1loiUtB",
+                "submission_id": "fxqZD0W",
+                "parent_id": "fxqZD0W"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_ChESS7J",
+            "target": true,
+            "type": "submission",
+            "title": "Python(matplotlib/plotly) and Power BI",
+            "body": "I am plotting a cluster and line chart(combo chart). Just to clarify on variables \nPeriod/Date : On x-axis\nSales/Consumption (as a bar chart) : Primary y-axis \nMin and Max(Horizontal lines) : Primary Y-axis\nPrice : Secondary y-axis\n\nThis combination I was not able to get on built in Power BI visual. \nTried the same through the matplotlib. I am able to get the graph as required but the loading time is too high for each refresh and also the chart is not interactive. \n\nI am trying the same through plotly, but the chart is not displaying over there and take me to a random port over chorme and I get the output there.\n\n\nIs there any other way to get it done? Or any idea how to use plotly to display the chart.",
+            "created_utc": "2023-02-05 08:34:33 UTC",
+            "submission_id": "39XWcPV",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_mhMg2jk",
+                "target": false,
+                "type": "comment",
+                "body": "Plot is not supported in Power BI",
+                "created_utc": "2023-02-05 08:50:37 UTC",
+                "comment_id": "h5TJPEX",
+                "submission_id": "39XWcPV",
+                "parent_id": "39XWcPV"
+            },
+            {
+                "user_id": "subject_nzPjvrP",
+                "target": false,
+                "type": "comment",
+                "body": "Have you looked into Deneb custom visual and building it in there?",
+                "created_utc": "2023-02-05 11:32:09 UTC",
+                "comment_id": "4C2m36v",
+                "submission_id": "39XWcPV",
+                "parent_id": "39XWcPV"
+            },
+            {
+                "user_id": "subject_zxKZ3kr",
+                "target": false,
+                "type": "comment",
+                "body": "this works on power bi workspace/ power bi service ?",
+                "created_utc": "2023-02-06 06:13:25 UTC",
+                "comment_id": "SBG12aV",
+                "submission_id": "39XWcPV",
+                "parent_id": "4C2m36v"
+            },
+            {
+                "user_id": "subject_nzPjvrP",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, actually better than python sense you don\u2019t have to worry about if Microsoft has the library you\u2019re using installed in the service",
+                "created_utc": "2023-02-06 16:25:40 UTC",
+                "comment_id": "Ke1qdTB",
+                "submission_id": "39XWcPV",
+                "parent_id": "SBG12aV"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_ChESS7J",
+            "target": true,
+            "type": "submission",
+            "title": "Getting bored \ud83d\ude34",
+            "body": "This is a long weekend and I'm realising I do not have much to do in the city. Usually, I spend time with my girlfriend and the drama gives me escape from the boredom but she's not in the city now & went to her home for the festivities. Realized, I do not know what to do alone in the city. Over the past two days, just surfing randomly over social media & binge watching series. I'm usually not much interested in going to drink & concerts. Any suggestions what one should do alone here in the city?",
+            "created_utc": "2023-10-22 16:20:22 UTC",
+            "submission_id": "zGXCcpt",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_pIP7hmA",
+                "target": false,
+                "type": "comment",
+                "body": "Go alone to any new place in Hyderabad . Spend time there listening to music while traveling.  This is the thing I would do if I was bored.",
+                "created_utc": "2023-10-22 17:15:05 UTC",
+                "comment_id": "t74mn8c",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_d0amkYp",
+                "target": false,
+                "type": "comment",
+                "body": "Go to the airport and sit in the aero park and look at the people",
+                "created_utc": "2023-10-22 18:55:21 UTC",
+                "comment_id": "Wf5wTkD",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "Is this something you do?",
+                "created_utc": "2023-10-22 19:13:19 UTC",
+                "comment_id": "E8ZVA2N",
+                "submission_id": "zGXCcpt",
+                "parent_id": "Wf5wTkD"
+            },
+            {
+                "user_id": "subject_d0amkYp",
+                "target": false,
+                "type": "comment",
+                "body": "Na. Just did it a few hours ago. It's interesting",
+                "created_utc": "2023-10-22 19:15:50 UTC",
+                "comment_id": "Ob5cON6",
+                "submission_id": "zGXCcpt",
+                "parent_id": "E8ZVA2N"
+            },
+            {
+                "user_id": "subject_retMUwJ",
+                "target": false,
+                "type": "comment",
+                "body": "It\u2019s an interesting thing to do \u201cwatching people\u201d I always do, if you find airport is long, choose any place which has large foot fall.",
+                "created_utc": "2023-10-22 19:30:28 UTC",
+                "comment_id": "xIrEeCk",
+                "submission_id": "zGXCcpt",
+                "parent_id": "Wf5wTkD"
+            },
+            {
+                "user_id": "subject_retMUwJ",
+                "target": false,
+                "type": "comment",
+                "body": "I do it regularly and it makes anyone understand people\u2019s actions and their thought process without any filters as they do their things unconsciously and truly as per their need and characteristics.",
+                "created_utc": "2023-10-22 19:49:06 UTC",
+                "comment_id": "joqdeqE",
+                "submission_id": "zGXCcpt",
+                "parent_id": "E8ZVA2N"
+            },
+            {
+                "user_id": "subject_fxHo1Pd",
+                "target": false,
+                "type": "comment",
+                "body": "Yo see my msg i literally asked the same question",
+                "created_utc": "2023-10-22 20:20:50 UTC",
+                "comment_id": "XfjUDH2",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_YDdmNS8",
+                "target": false,
+                "type": "comment",
+                "body": "Do things that u don't do, you wouldn't regret after getting married to your gf.",
+                "created_utc": "2023-10-22 20:26:36 UTC",
+                "comment_id": "nItxANS",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_wNi6P2O",
+                "target": false,
+                "type": "comment",
+                "body": "Isn't the bigger issue that your drama with your gf keeps you so occupied that you have no hobbies of your own?",
+                "created_utc": "2023-10-23 00:56:53 UTC",
+                "comment_id": "Zcqh7Rr",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_t01RGkB",
+                "target": false,
+                "type": "comment",
+                "body": "Drive ola or Uber bike this way you get to meet new people and go around the city. Bonus you get fuel money",
+                "created_utc": "2023-10-23 03:23:40 UTC",
+                "comment_id": "og9TBJc",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_E4otlTz",
+                "target": false,
+                "type": "comment",
+                "body": "You could go for a ride to new places around the city.",
+                "created_utc": "2023-10-23 07:25:35 UTC",
+                "comment_id": "vz2DFKL",
+                "submission_id": "zGXCcpt",
+                "parent_id": "zGXCcpt"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "perspective blown",
+                "created_utc": "2023-10-23 20:02:01 UTC",
+                "comment_id": "lcVdrNI",
+                "submission_id": "zGXCcpt",
+                "parent_id": "og9TBJc"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "all creative answers there",
+                "created_utc": "2023-10-23 20:02:35 UTC",
+                "comment_id": "yCReRRj",
+                "submission_id": "zGXCcpt",
+                "parent_id": "XfjUDH2"
+            },
+            {
+                "user_id": "subject_fxHo1Pd",
+                "target": false,
+                "type": "comment",
+                "body": "Hehe\ud83d\ude02",
+                "created_utc": "2023-10-23 20:03:27 UTC",
+                "comment_id": "zzPkHpm",
+                "submission_id": "zGXCcpt",
+                "parent_id": "yCReRRj"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "What does one do with the hobbies ?",
+                "created_utc": "2023-10-23 20:03:28 UTC",
+                "comment_id": "52guAMn",
+                "submission_id": "zGXCcpt",
+                "parent_id": "Zcqh7Rr"
+            },
+            {
+                "user_id": "subject_wNi6P2O",
+                "target": false,
+                "type": "comment",
+                "body": "They'll be useful when breakup happens",
+                "created_utc": "2023-10-23 20:05:49 UTC",
+                "comment_id": "gfMbJy1",
+                "submission_id": "zGXCcpt",
+                "parent_id": "52guAMn"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_ChESS7J",
+            "target": true,
+            "type": "submission",
+            "title": "Can we lock/password protect pages in Notion?",
+            "body": "Hi, I'm using Notion for sometime now. It's usually for my notes taking in the most simplest way. I just open new pages & take notes. \nWhile I understand there are other ways to also use notion some use cases that come across my mind is financial planning, daily journals etc. which I can do over Notion but a constant itching & thought that if somebody get access to my Notion, they'll know it all. I'm little conservative with my thoughts & want privacy with many of my things. \nIs there a way we can restrict the access to pages by any password protection in the Notion ?",
+            "created_utc": "2023-10-22 21:10:10 UTC",
+            "submission_id": "JZclXqs",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_ofRRyWO",
+                "target": false,
+                "type": "comment",
+                "body": "Your Notion is already password protected. I believe there is an option for 2FA protection. If that is not enough then I\u2019m afraid there is no native solution to protect specific pages with another password.",
+                "created_utc": "2023-10-22 22:08:59 UTC",
+                "comment_id": "eQK4exC",
+                "submission_id": "JZclXqs",
+                "parent_id": "JZclXqs"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "we cannot lock specific pages ?",
+                "created_utc": "2023-10-23 20:04:59 UTC",
+                "comment_id": "JamnnLX",
+                "submission_id": "JZclXqs",
+                "parent_id": "eQK4exC"
+            },
+            {
+                "user_id": "subject_xPw212w",
+                "target": false,
+                "type": "comment",
+                "body": "did you find a way?",
+                "created_utc": "2023-11-21 20:24:01 UTC",
+                "comment_id": "SzWN91w",
+                "submission_id": "JZclXqs",
+                "parent_id": "JamnnLX"
+            },
+            {
+                "user_id": "subject_Hg0u4Wv",
+                "target": false,
+                "type": "comment",
+                "body": "you can try 3rd party tools. they are a solution for that",
+                "created_utc": "2024-04-12 06:03:02 UTC",
+                "comment_id": "XlHInDK",
+                "submission_id": "JZclXqs",
+                "parent_id": "JamnnLX"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_TLAJs4i",
+            "target": false,
+            "type": "submission",
+            "title": "Divya Deshmukh, an 18 year old Indian women's grandmaster shared how women are treated in the chess world.",
+            "body": "",
+            "created_utc": "2024-01-29 14:40:06 UTC",
+            "submission_id": "TdfkZho",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "she thinks a lot in every sentence",
+                "created_utc": "2024-01-30 19:43:39 UTC",
+                "comment_id": "DRT9JKp",
+                "submission_id": "TdfkZho",
+                "parent_id": "TdfkZho"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_HLB4NpT",
+            "target": false,
+            "type": "submission",
+            "title": "Rupay cards are useless",
+            "body": "So like most, to make UPI transactions on credit cards, I got myself a rupay card.\n  \nTo my surprise, none of my day to day life spendings at merchants payment machines/QR, the vendors have enabled rupay card payments. UPI payments from rupay cards don't work at all, it takes multiple tries.\n  \nSo fuuuu the system, we're at the mercy of vendors/shop owners if they want to accept payment on rpay cards. And in background, the charges on credit card payment is now introduced eg. on lazypay where you're asked to pay either from UPI or 2% is levied.\n  \nAlready offers on rupay cards is limited, the way it's implemented, its giving me a feel that at most places the usual credit cards machines are discouraged/discontinued for larger amount transactions(citing machine not working), limiting the offers and for smaller transactions the vendors won't accept the rupay card payments. Lose-lose for us.\n  \nAlso the false transaction rate on rupay cards is unusually high for me, like 1 in 10 fails for some reason then I've track that 1 transaction until money is reversed.\n\n  \nThis experience is wrt Bangalore offline spendings.\n  \n\n  \n",
+            "created_utc": "2024-04-22 16:33:10 UTC",
+            "submission_id": "aV25UzB",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "Maybe, I overall don't find UPI appealing, nor the need to enter pin everytime to pay 10-200 rupees, this is too much hassle, open an app, scan qr, wait for internet to decode it, enter pin, wait for transaction to complete on your end and to reflect on merchants end. \n  \n\n\n  \nI guess for tier 2/3 it might be appealing but getting a cc there is itself challenging where many top banks refuse based on pincodes.",
+                "created_utc": "2024-04-22 17:34:11 UTC",
+                "comment_id": "rStLZHq",
+                "submission_id": "aV25UzB",
+                "parent_id": "V5kGZYy"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "You're talking about UPI or UPI using rupay cards ?",
+                "created_utc": "2024-04-22 17:36:37 UTC",
+                "comment_id": "k4cpRa1",
+                "submission_id": "aV25UzB",
+                "parent_id": "M8ctnHJ"
+            },
+            {
+                "user_id": "subject_gjcmxgc",
+                "target": false,
+                "type": "comment",
+                "body": "For me the success rate is 90%, I have been using it from 10 rupees to 4000-5000 transactions at small and big merchants",
+                "created_utc": "2024-04-22 17:41:49 UTC",
+                "comment_id": "DJZnq80",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_sQCrGHQ",
+                "target": false,
+                "type": "comment",
+                "body": "That's changing now with rupay. Majority of the tier 2/3 have low ticket txns. And majority have a bank account these days. Banks are offering FD backed rupay cc with small limit like 30k. It's just a matter of time, it will be the biggest driver to India's economic growth.",
+                "created_utc": "2024-04-22 17:43:39 UTC",
+                "comment_id": "zgKzWFP",
+                "submission_id": "aV25UzB",
+                "parent_id": "rStLZHq"
+            },
+            {
+                "user_id": "subject_xATSR24",
+                "target": false,
+                "type": "comment",
+                "body": "Chaiwala, sutta wala,kirana, dhoodhwala everyone at my locality has also disabled rupay cards. Doesn\u2019t work with any of them. \nI think rupay is just part the surveillance ecosystem. Has its pros and cons.",
+                "created_utc": "2024-04-22 17:58:41 UTC",
+                "comment_id": "l1jaDPW",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_wYJj4nY",
+                "target": false,
+                "type": "comment",
+                "body": "Two things:\n\n1.\t\u2060Merchants who accept Cards also usually accept CC On UPI. They are prepared to lose that 2% MDR. Most eateries in Bellandur area do accept these for a very long time.\n2.\t\u2060If you look at medium size merchants who don't have card machines, they started taking UPI. There is 0% MDR on UPI so for them it is even safer than cash. But here comes the kicker, when the transaction amount is above 2000, MDR is charged. Most of these merchants have typical transactions less than 1000 so losing 40 rs on 2000 rs order is big. Now, afaik there is no such option to disable CC on UPI for transactions above 2k only. Hence, they end up disabling it completely.\n\nImo, this rupay cards using UPI is a gimmick and nothing else. It is convenient for customers but for merchants, it is absolutely useless. They will simply say that we have UPI, pay using UPI. Now if your card doesn't work, then it is not their headache.\n\nAlso, most of the times, you will also pay using banks if CC on UPI is blocked.",
+                "created_utc": "2024-04-22 18:00:47 UTC",
+                "comment_id": "ESaho04",
+                "submission_id": "aV25UzB",
+                "parent_id": "C07IP5z"
+            },
+            {
+                "user_id": "subject_nLfB4Mt",
+                "target": false,
+                "type": "comment",
+                "body": "Works for me 90% of the time\ud83e\udd37",
+                "created_utc": "2024-04-22 18:01:36 UTC",
+                "comment_id": "H7xBtex",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_wYJj4nY",
+                "target": false,
+                "type": "comment",
+                "body": "I disagree with your assessment.\nRupay CC is not doing anything beneficial. Digital payments are already super convenient using UPI. Everyone knows how to operate the account and the ecosystem is also very well matured by now.\n\n\nThese rupay CC are good for only banks and no one else. Most of it have poor cashback rate and merchants will more or less lose money if they chose CC ON UPI.\nWhat this is only going to increase is make India a credit hungry economy and increase credit debt. That is not a healthy system and most indians are not matured enough to handle the hassle that comes with credit cards and bills.\n\nThis is the same country which opts for prepaid phone recharges instead of postpaid even if prepaid plans are a but expensive because people don't want that recurring bill. \n\nImagine recurring bills for CC and one mistake can land you in ton of trouble for future. Definitely a bad way for indian economy and general public",
+                "created_utc": "2024-04-22 18:05:30 UTC",
+                "comment_id": "XcNAY9n",
+                "submission_id": "aV25UzB",
+                "parent_id": "zgKzWFP"
+            },
+            {
+                "user_id": "subject_wYJj4nY",
+                "target": false,
+                "type": "comment",
+                "body": "I dont get the concept of lazypay other than maybe offers especially when you have a credit card.\n\nAlmost all the time, credit cards have a longer free credit period than lazy pay.\nWhat is the motivation in using lazypay when you have to return in 7-14 days.\n\nYou are definitely selling your data to lazypay",
+                "created_utc": "2024-04-22 18:08:23 UTC",
+                "comment_id": "Fun7JHD",
+                "submission_id": "aV25UzB",
+                "parent_id": "0GuGb1f"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-22 18:11:52 UTC",
+                "comment_id": "2faMPN8",
+                "submission_id": "aV25UzB",
+                "parent_id": "XcNAY9n"
+            },
+            {
+                "user_id": "subject_QkyHIdy",
+                "target": false,
+                "type": "comment",
+                "body": "I am using rupay card where diners or amex doesn\u2019t work lol",
+                "created_utc": "2024-04-22 18:18:07 UTC",
+                "comment_id": "nP0XPju",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_wYJj4nY",
+                "target": false,
+                "type": "comment",
+                "body": "I am not denying the importance of credit but India is a price sensitive market. Multiple companies have tried to enter here using american models and failed. Cash was king and now it is UPI. There is a very strong reason why there is no MDR on UPI. If there is going to be 2% MDR, UPI usage will drop so fast.\n\nThis credit system is going to be one of those as well. We are already starting to see frequent devaluation and people getting intelligent in credit card spendings or reducing their credit card debt.\n\nEssentially for most people, it is going to be these ways\n\n1. Idiotic people will spend a shit ton of money they do not have and get in credit card debt. These are degenerates, will never learn and banks love them\n\n2. Somewhat intelligent will get trapped in this once and then ensure that they stay out of it. For them, it will be like 'fool me once, shame on you! Fool me twice, shame on me'\n\n3. Real intelligent people will squeeze the best benefits but these are the more or less same people we have right now. \n\n\nThe interesting thing is that credit adoption is going to be driven by merchants and not consumers and merchants will think twice before spending 2% on cards.",
+                "created_utc": "2024-04-22 18:19:33 UTC",
+                "comment_id": "l0mW4BP",
+                "submission_id": "aV25UzB",
+                "parent_id": "2faMPN8"
+            },
+            {
+                "user_id": "subject_wYJj4nY",
+                "target": false,
+                "type": "comment",
+                "body": "UPI is the best way to make digital payments. It is the most convenient for a lot of merchants and customers.\n\n\nInfact, it is much more popular in tier 2/3 because of convenience.\n\n\nCC on the other hand are always a niche product. Not a great market adoption",
+                "created_utc": "2024-04-22 18:21:42 UTC",
+                "comment_id": "jrTMeJV",
+                "submission_id": "aV25UzB",
+                "parent_id": "rStLZHq"
+            },
+            {
+                "user_id": "subject_8vpHhxp",
+                "target": false,
+                "type": "comment",
+                "body": "Idk, Rupay CC UPI works very well for me in Mumbai and the surrounding areas. Pretty sure the lowest I've paid for is 5 rupees chocolates using credit card over UPI in Rajasthan. Might be your luck or the specific area you're frequenting.",
+                "created_utc": "2024-04-22 18:49:12 UTC",
+                "comment_id": "BBkvYp6",
+                "submission_id": "aV25UzB",
+                "parent_id": "m5HIAAt"
+            },
+            {
+                "user_id": "subject_Pz3XVBL",
+                "target": false,
+                "type": "comment",
+                "body": "Some patriotic citizens I know personally had very heated arguments with me that RuPay is good. Why support foreign companies like Visa, Mastercard and Amex when there is our own national company. I couldn't get it through their head that most credit card users use it for the benefits and maximising the rewards. RuPay has very limited scope in that sense.",
+                "created_utc": "2024-04-22 19:01:06 UTC",
+                "comment_id": "Ch2s57L",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_ZtClNXn",
+                "target": false,
+                "type": "comment",
+                "body": "lol recently i paid Rs500 in store by CC upi and he asked me to pay more 10Rs and he showed me charges something around Rs 8+\n\nand he was totally unaware how to turn off cc upi option.",
+                "created_utc": "2024-04-22 19:28:09 UTC",
+                "comment_id": "nelGiyC",
+                "submission_id": "aV25UzB",
+                "parent_id": "ESaho04"
+            },
+            {
+                "user_id": "subject_wzaSMtK",
+                "target": false,
+                "type": "comment",
+                "body": "It works for me even in the most remote parts of MP.\nHeck, I pay the chaiwaala with Rupay CC UPI.\nSometimes Gpay won\u2019t work, but if I shift to PayTM or Cred it works for the same Idk how this works.",
+                "created_utc": "2024-04-22 19:28:44 UTC",
+                "comment_id": "2oBEGTW",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_nuxf178",
+                "target": false,
+                "type": "comment",
+                "body": "Are small vendors are accepting UPI payment via Rupay Credit card ? I heard, most of vendors do not accept UPI payments via Rupay credit card.   \nAlso, have you tried using it at any Fuel stations ? was there a surcharge if you paid via UPI using Rupay Credit card ?",
+                "created_utc": "2024-04-22 19:29:45 UTC",
+                "comment_id": "stHSw8g",
+                "submission_id": "aV25UzB",
+                "parent_id": "S4qI355"
+            },
+            {
+                "user_id": "subject_nuxf178",
+                "target": false,
+                "type": "comment",
+                "body": "Have you tried fuel transactions anytime ? how was your experience ? was there a surcharge ?",
+                "created_utc": "2024-04-22 19:30:49 UTC",
+                "comment_id": "F8mYbkx",
+                "submission_id": "aV25UzB",
+                "parent_id": "cvd2sZO"
+            },
+            {
+                "user_id": "subject_UkFD24q",
+                "target": false,
+                "type": "comment",
+                "body": "Yes every small vendor including tea stalls, pani puri stalls, saloons, hotels, local kirana shops are accepting Rupay credit card through UPI. \n\nNo I did not try it any fuel station as I don't have any vehicle.",
+                "created_utc": "2024-04-22 19:38:47 UTC",
+                "comment_id": "s9OUl4p",
+                "submission_id": "aV25UzB",
+                "parent_id": "stHSw8g"
+            },
+            {
+                "user_id": "subject_4KG303T",
+                "target": false,
+                "type": "comment",
+                "body": "11 losers downvoted you.\n\nMany places rupay does get rejected.\n\nMorons cant even handle a different opinion based on real experience.",
+                "created_utc": "2024-04-22 19:46:40 UTC",
+                "comment_id": "wqJ4JjH",
+                "submission_id": "aV25UzB",
+                "parent_id": "m5HIAAt"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "The entire motivation is LAZY + PAY\n  \nDon't want to open a UPI app, select cards/mode, click on pay, add pin, wait for transaction to complete on my end(might fail too then repeat), then wait for merchant to give a nod. Too much work.\n  \nThis is why I use lazy pay.",
+                "created_utc": "2024-04-22 19:48:05 UTC",
+                "comment_id": "n9RzzGB",
+                "submission_id": "aV25UzB",
+                "parent_id": "Fun7JHD"
+            },
+            {
+                "user_id": "subject_4KG303T",
+                "target": false,
+                "type": "comment",
+                "body": "Do these patriotic friends also happen to support bjp?",
+                "created_utc": "2024-04-22 19:49:16 UTC",
+                "comment_id": "ti4uxnB",
+                "submission_id": "aV25UzB",
+                "parent_id": "Ch2s57L"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "Haha. It's okay bro.\n  \nIt's a complete flaw in the system where you've to initiate a transaction to know whether merchant has cc payment enabled.\n  \nActually it's disgusting to enter pin twice for one transaction.",
+                "created_utc": "2024-04-22 19:52:41 UTC",
+                "comment_id": "K1QExHE",
+                "submission_id": "aV25UzB",
+                "parent_id": "wqJ4JjH"
+            },
+            {
+                "user_id": "subject_4KG303T",
+                "target": false,
+                "type": "comment",
+                "body": "Yes it is. Infuriating. Better to ask them if they accept rupay before paying.",
+                "created_utc": "2024-04-22 19:54:08 UTC",
+                "comment_id": "XYvvAwI",
+                "submission_id": "aV25UzB",
+                "parent_id": "K1QExHE"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "It works irregularly \n  \nOne guy is telling gpay works for him, when phonepe doesn't. You're saying otherwise.\n  \nFor me none works saying merchant has disabled.\n  \nIt's a complete shitshow, on Google there is no info why we can't add payment on UPI lite with rupay cards",
+                "created_utc": "2024-04-22 19:55:14 UTC",
+                "comment_id": "7SI08ME",
+                "submission_id": "aV25UzB",
+                "parent_id": "2oBEGTW"
+            },
+            {
+                "user_id": "subject_apQ7509",
+                "target": false,
+                "type": "comment",
+                "body": "A RuPay card is as useless as any other card in a tier 2/3 place. The merchants who accept it are not aware of anything and those who know what it is have disabled credit on UPI.",
+                "created_utc": "2024-04-22 19:57:54 UTC",
+                "comment_id": "nfSXdsT",
+                "submission_id": "aV25UzB",
+                "parent_id": "V5kGZYy"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "Too much interaction for 10-200, in BLR most of the places have a cashier who wouldn't know all these things.\n  \nThey shouldn't give the option itself when we scan the QR, maybe they'll improve the UPI system in future.",
+                "created_utc": "2024-04-22 19:58:53 UTC",
+                "comment_id": "bHg2Wo6",
+                "submission_id": "aV25UzB",
+                "parent_id": "XYvvAwI"
+            },
+            {
+                "user_id": "subject_4KG303T",
+                "target": false,
+                "type": "comment",
+                "body": "I agree but its far more annoying for me to pay twice.",
+                "created_utc": "2024-04-22 19:59:42 UTC",
+                "comment_id": "kTty0LD",
+                "submission_id": "aV25UzB",
+                "parent_id": "bHg2Wo6"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "For me, a perk that usually goes unnoticed for Rupay credit card is making online payment without entering card details or OTP.\nPaying on different websites is seamless and I usually don't need to enter my card details for zomato, flight, shopping or hotels booking. Simply selecting UPI and entering PIN works. I make frequent small payments online and this is hands down best use case scenario for me.",
+                "created_utc": "2024-04-22 20:05:30 UTC",
+                "comment_id": "0NZZs5c",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "You know when the transaction fails or fails to update in time, you make another transaction using other mode because the merchant doesn't have the confirmation. In the meantime your credit card is also charged. So you end up paying twice.\n  \nThe process to get the amount back is via bank and its too much work to get the money back by raising dispute.",
+                "created_utc": "2024-04-22 20:05:41 UTC",
+                "comment_id": "0TkLSse",
+                "submission_id": "aV25UzB",
+                "parent_id": "kTty0LD"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "You're either entering OTP or pin, how is that a perk ? SBI cards you've to set 6 digit pin.\n  \nOTPs you can auto read and process is seamless, gpay isn't seamless or no touch, first you've to open app with unlock, then select payment, enter pin. This is a horrible experience when compared to cards.\n  \nAnd offline, you just have to tap your card it's done but in UPI you've to follow the same process",
+                "created_utc": "2024-04-22 20:08:00 UTC",
+                "comment_id": "dvAvvA3",
+                "submission_id": "aV25UzB",
+                "parent_id": "0NZZs5c"
+            },
+            {
+                "user_id": "subject_w7aNfCL",
+                "target": false,
+                "type": "comment",
+                "body": "No issue in Bangalore. Used it at mini mart, big shop to small road side vendor. Worked everywhere till now",
+                "created_utc": "2024-04-22 20:13:38 UTC",
+                "comment_id": "ToLsPBT",
+                "submission_id": "aV25UzB",
+                "parent_id": "Ekt65TL"
+            },
+            {
+                "user_id": "subject_CbKp3Qi",
+                "target": false,
+                "type": "comment",
+                "body": "u/snerusn thats not how it works buddy, MDR is not GST that the store can charge from the customer, its a fee levied on merchants for having this facility, they can't take that amount from the customer. You are a big fool if you actually paid that extra 10",
+                "created_utc": "2024-04-22 20:16:43 UTC",
+                "comment_id": "OhfCMVA",
+                "submission_id": "aV25UzB",
+                "parent_id": "nelGiyC"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Usually on Razorpay gateway, you simply need to select UPI app, and payment page on app opens up without requiring you to do anything but enter UPI pin. Once done, you are redirected back to the website. It is generally the case with most websites. Amazon and Flipkart have now integrated UPI on their app so no need to open other application. I don't need to enter card details everytime purchasing from niche websites is a great feature. I don't have to remember card details, or have it physically with me while making payments. Saves time and efforts. Also, I have felt that many apps don't auto fill OTP, and you need to manually fill on websites. OTP are rarely delayed too. But all things said and done, I don't think of it as a very major advantage for everyone. For me, who usually makes too frequent purchases online, this helps a great deal. And combined with almost 80 percent acceptance of card with UPI around me, my Rupay card is my primary daily driver.",
+                "created_utc": "2024-04-22 21:08:06 UTC",
+                "comment_id": "nk0rwN7",
+                "submission_id": "aV25UzB",
+                "parent_id": "dvAvvA3"
+            },
+            {
+                "user_id": "subject_ZtClNXn",
+                "target": false,
+                "type": "comment",
+                "body": "He rushed to my vehicle and confirmed my name and said why did you pay by card! now pay more 10rs because i am being charged. I didn't want to argue so i just paid because i was busy as hell!",
+                "created_utc": "2024-04-22 21:08:28 UTC",
+                "comment_id": "1ouKqP8",
+                "submission_id": "aV25UzB",
+                "parent_id": "OhfCMVA"
+            },
+            {
+                "user_id": "subject_jxBUUY9",
+                "target": false,
+                "type": "comment",
+                "body": "Working with me, also I have a GPay merchants account so I accept payments via Rupay CC on UPI.",
+                "created_utc": "2024-04-22 21:15:15 UTC",
+                "comment_id": "lsNK3lo",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_oLcBbSU",
+                "target": false,
+                "type": "comment",
+                "body": "I use Cred UPI and linked axis rupay cc which works most of the time with a single attempt.",
+                "created_utc": "2024-04-22 21:40:06 UTC",
+                "comment_id": "xHU9u5p",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_vfZ48IF",
+                "target": false,
+                "type": "comment",
+                "body": "Weirdly this was happening to me with Paytm vs PhonePe. Could pay through PhonePe but not through Paytm in a few cases.",
+                "created_utc": "2024-04-22 21:49:24 UTC",
+                "comment_id": "flI2xUy",
+                "submission_id": "aV25UzB",
+                "parent_id": "SzoWbR6"
+            },
+            {
+                "user_id": "subject_aeAbYcx",
+                "target": false,
+                "type": "comment",
+                "body": "I am from a small town. UPI with rupay cc works flawlessly with most of the vendors.",
+                "created_utc": "2024-04-23 00:51:48 UTC",
+                "comment_id": "01L0YRh",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_d4YexRn",
+                "target": false,
+                "type": "comment",
+                "body": "Wow, this is the most lazy answer. Bro you can just pay 10-20rs cash.",
+                "created_utc": "2024-04-23 01:45:26 UTC",
+                "comment_id": "YLECS4b",
+                "submission_id": "aV25UzB",
+                "parent_id": "rStLZHq"
+            },
+            {
+                "user_id": "subject_UosvyzP",
+                "target": false,
+                "type": "comment",
+                "body": "Both",
+                "created_utc": "2024-04-23 02:26:09 UTC",
+                "comment_id": "i7vj8a3",
+                "submission_id": "aV25UzB",
+                "parent_id": "k4cpRa1"
+            },
+            {
+                "user_id": "subject_atM68qs",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay UPI cards are one of the best. Just because the vendors in your area aren't accepting it doesn't mean it's useless!",
+                "created_utc": "2024-04-23 03:07:41 UTC",
+                "comment_id": "xMpFguk",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_JnZZiuO",
+                "target": false,
+                "type": "comment",
+                "body": "2% MDR is levied on all the transactions and not just the ones above \u20b92000. So it is extra charges being levied on the shop owner so why would they bear it\nSource: We have a shop.",
+                "created_utc": "2024-04-23 03:17:15 UTC",
+                "comment_id": "XqcLFz5",
+                "submission_id": "aV25UzB",
+                "parent_id": "C07IP5z"
+            },
+            {
+                "user_id": "subject_sQCrGHQ",
+                "target": false,
+                "type": "comment",
+                "body": "I worked with the biggest UPI company, we didn't charge MDR for < 2000.",
+                "created_utc": "2024-04-23 03:22:07 UTC",
+                "comment_id": "5kBiS0L",
+                "submission_id": "aV25UzB",
+                "parent_id": "XqcLFz5"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "Bro you're performing 8 steps(more if merchant has disabled)to make a transaction which is supposed to substitute the tap and pay benefits of a credit card.\n  \nYou are okay calling me lazy, but won't admit the process is tedious.",
+                "created_utc": "2024-04-23 03:27:01 UTC",
+                "comment_id": "rxlqHxM",
+                "submission_id": "aV25UzB",
+                "parent_id": "YLECS4b"
+            },
+            {
+                "user_id": "subject_Y4p6x4w",
+                "target": false,
+                "type": "comment",
+                "body": "Use the BHIM app and not the others. Works much better and as designed. Others are just wrappers built around.",
+                "created_utc": "2024-04-23 03:31:03 UTC",
+                "comment_id": "ChrXBer",
+                "submission_id": "aV25UzB",
+                "parent_id": "7SI08ME"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "If vendors in your area stop accepting it, you'll still be a  cheerleader ?",
+                "created_utc": "2024-04-23 03:32:38 UTC",
+                "comment_id": "DnRfET3",
+                "submission_id": "aV25UzB",
+                "parent_id": "xMpFguk"
+            },
+            {
+                "user_id": "subject_CBbPbLH",
+                "target": false,
+                "type": "comment",
+                "body": "I face main problems in grocery shops where amount is bigger than 2000",
+                "created_utc": "2024-04-23 04:04:29 UTC",
+                "comment_id": "mdC5VaL",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_lkDkVLI",
+                "target": false,
+                "type": "comment",
+                "body": "Keep the rupay card only for sites which offer rupay exclusive discounts.",
+                "created_utc": "2024-04-23 04:05:55 UTC",
+                "comment_id": "UqeDYDZ",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_uVkotY9",
+                "target": false,
+                "type": "comment",
+                "body": "Share your card details. I have a vehicle and would like to try.",
+                "created_utc": "2024-04-23 04:08:20 UTC",
+                "comment_id": "nJpBYCp",
+                "submission_id": "aV25UzB",
+                "parent_id": "s9OUl4p"
+            },
+            {
+                "user_id": "subject_atM68qs",
+                "target": false,
+                "type": "comment",
+                "body": "If vendors in my area stop accepting it, I won't go around crying about the card and I'll just pay it through my bank account. The rupay card is an innovative idea, and if vendors choose not to accept it, it's no fault of the card!",
+                "created_utc": "2024-04-23 04:12:42 UTC",
+                "comment_id": "ZsdU2w5",
+                "submission_id": "aV25UzB",
+                "parent_id": "DnRfET3"
+            },
+            {
+                "user_id": "subject_8KUvyNY",
+                "target": false,
+                "type": "comment",
+                "body": "In Hyderabad, have been using Rupay CC for almost everything daily errands. Only encountered one merchant who has disabled it so far.",
+                "created_utc": "2024-04-23 04:13:58 UTC",
+                "comment_id": "anL2rLH",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_ahjgQsc",
+                "target": false,
+                "type": "comment",
+                "body": "\ud83d\udc80\ud83d\udc80",
+                "created_utc": "2024-04-23 04:19:52 UTC",
+                "comment_id": "MbBiDJR",
+                "submission_id": "aV25UzB",
+                "parent_id": "nJpBYCp"
+            },
+            {
+                "user_id": "subject_UkFD24q",
+                "target": false,
+                "type": "comment",
+                "body": "Give me your vehicle. I will try myself.",
+                "created_utc": "2024-04-23 04:28:32 UTC",
+                "comment_id": "TWV3lfm",
+                "submission_id": "aV25UzB",
+                "parent_id": "nJpBYCp"
+            },
+            {
+                "user_id": "subject_uVkotY9",
+                "target": false,
+                "type": "comment",
+                "body": "Okie. \ud83e\udd1d\ud83c\udffb",
+                "created_utc": "2024-04-23 04:30:42 UTC",
+                "comment_id": "lpCSxaB",
+                "submission_id": "aV25UzB",
+                "parent_id": "TWV3lfm"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "We've done the same at our shop. 2% is too damn high.",
+                "created_utc": "2024-04-23 04:41:57 UTC",
+                "comment_id": "MBiQkHS",
+                "submission_id": "aV25UzB",
+                "parent_id": "DvxFPCP"
+            },
+            {
+                "user_id": "subject_2H64Vql",
+                "target": false,
+                "type": "comment",
+                "body": "It's not about that. Read the title. Rupay cards are useless. Some merchants don't accept a single, new feature and he said rupay cards are useless while most people are happily enjoying all their benefits.",
+                "created_utc": "2024-04-23 05:32:44 UTC",
+                "comment_id": "rNsThIG",
+                "submission_id": "aV25UzB",
+                "parent_id": "wqJ4JjH"
+            },
+            {
+                "user_id": "subject_bSGNXr4",
+                "target": false,
+                "type": "comment",
+                "body": "Most merchants have multiple QRs at their shops, so try scanning BharatPe or HDFC Payzapp QR rather than paying on Paytm QRs as credit card is enabled by default on these and have chances of accepting credit cards. This works for me most of the time",
+                "created_utc": "2024-04-23 05:40:32 UTC",
+                "comment_id": "ldKzkfI",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_puAtEt1",
+                "target": false,
+                "type": "comment",
+                "body": "Works for me most of time.",
+                "created_utc": "2024-04-23 05:45:00 UTC",
+                "comment_id": "rU66PxO",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Reddit in a nutshell \ud83e\udd5c",
+                "created_utc": "2024-04-23 06:05:49 UTC",
+                "comment_id": "581bCtL",
+                "submission_id": "aV25UzB",
+                "parent_id": "wqJ4JjH"
+            },
+            {
+                "user_id": "subject_XlkDVHp",
+                "target": false,
+                "type": "comment",
+                "body": "It's working perfectly in bangalore for me and my friends. You seem to be an outlier. Also the seller has to have a merchant account for this to work. Very small shops are still using personal account for receiving payments.",
+                "created_utc": "2024-04-23 06:16:41 UTC",
+                "comment_id": "QikKnd9",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_JnZZiuO",
+                "target": false,
+                "type": "comment",
+                "body": "Well I bear this 2% daily and so do the other shop owners in our Market",
+                "created_utc": "2024-04-23 06:46:03 UTC",
+                "comment_id": "ImIkszY",
+                "submission_id": "aV25UzB",
+                "parent_id": "5kBiS0L"
+            },
+            {
+                "user_id": "subject_sQCrGHQ",
+                "target": false,
+                "type": "comment",
+                "body": "Raise ticket for breakup of this and they will respond",
+                "created_utc": "2024-04-23 06:52:42 UTC",
+                "comment_id": "5EUBrp0",
+                "submission_id": "aV25UzB",
+                "parent_id": "ImIkszY"
+            },
+            {
+                "user_id": "subject_Pz3XVBL",
+                "target": false,
+                "type": "comment",
+                "body": "I think online payment in terms of convenience will peak once widespread adaptation of tap to pay is done. In my honest opinion it peaked with Apple Pay's integration with the Apple Watch. How fucking convenient is that. No need to even take out your phone. I think Samsung also made something similar. Not sure.",
+                "created_utc": "2024-04-23 06:53:43 UTC",
+                "comment_id": "LlLwYCl",
+                "submission_id": "aV25UzB",
+                "parent_id": "rStLZHq"
+            },
+            {
+                "user_id": "subject_JnZZiuO",
+                "target": false,
+                "type": "comment",
+                "body": "Sure, and also even if we have disabled the payment through Rupay CC, some people are able to do the payments",
+                "created_utc": "2024-04-23 06:54:07 UTC",
+                "comment_id": "fwmOXGJ",
+                "submission_id": "aV25UzB",
+                "parent_id": "5EUBrp0"
+            },
+            {
+                "user_id": "subject_Pz3XVBL",
+                "target": false,
+                "type": "comment",
+                "body": "Credit defaulters are good for the ones who actually have the intellectual capacity of handling their credit card. They subsidise the benefits I get. No issues there.",
+                "created_utc": "2024-04-23 06:55:38 UTC",
+                "comment_id": "XkbqFar",
+                "submission_id": "aV25UzB",
+                "parent_id": "XcNAY9n"
+            },
+            {
+                "user_id": "subject_4KG303T",
+                "target": false,
+                "type": "comment",
+                "body": "Its called a post made out of frustration due to ones personal experience.\n\nThats what makes Reddit real.",
+                "created_utc": "2024-04-23 07:09:08 UTC",
+                "comment_id": "gDLlBMQ",
+                "submission_id": "aV25UzB",
+                "parent_id": "rNsThIG"
+            },
+            {
+                "user_id": "subject_Bug5BGM",
+                "target": false,
+                "type": "comment",
+                "body": "Below \u20b92000 there is no MDR for most merchants. Some merchants who have very high income are being charged for even below \u20b92000 transactions.  You\u2019re probably a big merchant.",
+                "created_utc": "2024-04-23 07:09:13 UTC",
+                "comment_id": "01drvyk",
+                "submission_id": "aV25UzB",
+                "parent_id": "XqcLFz5"
+            },
+            {
+                "user_id": "subject_Bug5BGM",
+                "target": false,
+                "type": "comment",
+                "body": "The fuck does Rupay have to do with BJP ? Use your brain FFS \ud83e\udd26\u200d\u2642\ufe0f",
+                "created_utc": "2024-04-23 07:09:55 UTC",
+                "comment_id": "wzvJ7ZN",
+                "submission_id": "aV25UzB",
+                "parent_id": "ti4uxnB"
+            },
+            {
+                "user_id": "subject_joJAdbd",
+                "target": false,
+                "type": "comment",
+                "body": "They might not be aware that we are using credit card, thinking we are using UPI itself.",
+                "created_utc": "2024-04-23 07:19:23 UTC",
+                "comment_id": "uqXYlM5",
+                "submission_id": "aV25UzB",
+                "parent_id": "s9OUl4p"
+            },
+            {
+                "user_id": "subject_CCowkea",
+                "target": false,
+                "type": "comment",
+                "body": "I am also in blr and using rupay card with UPI..around 80% time it is successful. Fuel, grocery, cigarettes, restaurant and other day to day things..I didn't faced such big of an issue",
+                "created_utc": "2024-04-23 07:22:33 UTC",
+                "comment_id": "NCPitqC",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_mi2ge3U",
+                "target": false,
+                "type": "comment",
+                "body": "I have used it and it has worked at most of the places, it definitely does not work in all places but it has shifted almost 60-70% of my spending on Credit card.",
+                "created_utc": "2024-04-23 07:31:14 UTC",
+                "comment_id": "0SyMzCu",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_N07hGv6",
+                "target": false,
+                "type": "comment",
+                "body": "Surveillance? Then by the same analogy can it be deduced that VISA, MasterCard, etc are also a part of the surveillance ecosystem?",
+                "created_utc": "2024-04-23 07:34:37 UTC",
+                "comment_id": "hoklW7B",
+                "submission_id": "aV25UzB",
+                "parent_id": "l1jaDPW"
+            },
+            {
+                "user_id": "subject_4KG303T",
+                "target": false,
+                "type": "comment",
+                "body": "Bjp supporter spotted. \ud83d\ude02",
+                "created_utc": "2024-04-23 07:43:37 UTC",
+                "comment_id": "T4J7lUs",
+                "submission_id": "aV25UzB",
+                "parent_id": "wzvJ7ZN"
+            },
+            {
+                "user_id": "subject_5hzHWki",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay is not magic. UPI via credit will work wherever merchants are accepting CCs.\n\nI've not come across a single instance where merchant accepts CC but doesn't accept Rupay UPI.\n\nSo the problem is credit acceptance instead of Rupay UPI.",
+                "created_utc": "2024-04-23 07:55:53 UTC",
+                "comment_id": "LWfU8GK",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_zMMx5Cc",
+                "target": false,
+                "type": "comment",
+                "body": "Because upi lite is just a cash wallet with extra steps. It's just branded with a upi tag to give it better perception.",
+                "created_utc": "2024-04-23 08:15:54 UTC",
+                "comment_id": "XJDakPC",
+                "submission_id": "aV25UzB",
+                "parent_id": "7SI08ME"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "Innovative? Lmfao\n  \nAnd what is the cost of this innovation? The rewards associated with CCs that too when there is no surety of payments to be accepted. \n  \nSince I'm pro crying and you're, I suggest you drop off from this thread.",
+                "created_utc": "2024-04-23 08:27:49 UTC",
+                "comment_id": "aqaqKuz",
+                "submission_id": "aV25UzB",
+                "parent_id": "ZsdU2w5"
+            },
+            {
+                "user_id": "subject_atM68qs",
+                "target": false,
+                "type": "comment",
+                "body": "Great advice! They say never argue with a dumb person, they'll drag you down to their level and beat you at it.",
+                "created_utc": "2024-04-23 08:48:46 UTC",
+                "comment_id": "VBEbpRs",
+                "submission_id": "aV25UzB",
+                "parent_id": "aqaqKuz"
+            },
+            {
+                "user_id": "subject_4kdHoPR",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, I have faced the same problem in Bangalore with both Axis and IDFC Rupay CC for smaller vendors. In some cases, the error message is displayed that the vendor has not enabled CC payments through UPI, but in most cases it just fails with some random error",
+                "created_utc": "2024-04-23 08:51:43 UTC",
+                "comment_id": "NP74p4j",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_HLB4NpT",
+                "target": false,
+                "type": "comment",
+                "body": "Yet you're continuing, speaks volume about your character. Lmao",
+                "created_utc": "2024-04-23 08:55:08 UTC",
+                "comment_id": "GA7EY9G",
+                "submission_id": "aV25UzB",
+                "parent_id": "VBEbpRs"
+            },
+            {
+                "user_id": "subject_zgVbOj3",
+                "target": false,
+                "type": "comment",
+                "body": "Which app and card do you use?\n\nI see it little differently and happy so far with UPI on Rupay (which basically you are saying here). It's an added advantage.\n\nWe already were doing UPI payments via savings account. I wanted the HDFC TATA Neu card and got it LTF. That's my Rupay card. I am using all my UPI transactions which could be supported via this Rupay CC. It's true that not all QR codes are merchants one, mostly they put savings account - which is fair being the small merchants. I was anyway paying it via UPI and not cash. I find 70-80% merchant codes in Delhi. If they have 2 QR codes like 1 from Paytm and 1 from PhonePe - most practical scenario - I try on both of them.  \nI use Payzapp and PhonePe for all my Rupay UPI payments.\n\nAlso, I'm enjoying benefits of Rupay select program (not on HDFC one but other) - [https://www.rupay.co.in/select-booking](https://www.rupay.co.in/select-booking)\n\nMy bank account statement is also comparatively small now - instead of 4/5 pages.",
+                "created_utc": "2024-04-23 08:57:06 UTC",
+                "comment_id": "9ZJp1Dc",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_atM68qs",
+                "target": false,
+                "type": "comment",
+                "body": "Lol continuing what? I'm just giving you a reality check of how dumb you actually are and you're responding to that as well. Shows YOU have no brains, character and self respect too LOL. Now stop wasting time on me and fight for your rupay card rights!",
+                "created_utc": "2024-04-23 09:10:40 UTC",
+                "comment_id": "S89LR6H",
+                "submission_id": "aV25UzB",
+                "parent_id": "GA7EY9G"
+            },
+            {
+                "user_id": "subject_MSJDflz",
+                "target": false,
+                "type": "comment",
+                "body": "Paytm merchant QRs has option to block over 2k transactions",
+                "created_utc": "2024-04-23 09:51:49 UTC",
+                "comment_id": "VdIha3j",
+                "submission_id": "aV25UzB",
+                "parent_id": "ESaho04"
+            },
+            {
+                "user_id": "subject_MSJDflz",
+                "target": false,
+                "type": "comment",
+                "body": "Exactly. This is the reason. Big merchants are charged for everything.",
+                "created_utc": "2024-04-23 09:52:36 UTC",
+                "comment_id": "tWHOfGO",
+                "submission_id": "aV25UzB",
+                "parent_id": "01drvyk"
+            },
+            {
+                "user_id": "subject_MSJDflz",
+                "target": false,
+                "type": "comment",
+                "body": "Here in my city it works most of the time. But NPCI and banks should sort out the MDR charges. It's too high at around 2%+GST. The funny thing is that the banks sometimes give a merchant a discounted MDR rate for POS machines depending on transaction volumes but it's not the same for rupay CC on UPI.",
+                "created_utc": "2024-04-23 09:56:02 UTC",
+                "comment_id": "PDJqt5o",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_LWJs2Rs",
+                "target": false,
+                "type": "comment",
+                "body": "Me too in Bglr, use gpay to pay by rupay credit cards. 9/10 times  I didn't faced any issues.",
+                "created_utc": "2024-04-23 11:10:19 UTC",
+                "comment_id": "OSYE23p",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_OM1VYBB",
+                "target": false,
+                "type": "comment",
+                "body": "I have my own merchant QR code, and hdfc is charging me for rupay cc transactions @1.44%  so i had to remove It.\nTbh i also didn't know but I received lots of charges end March sayjng rupay cc mdr charges, so I suffered huge losses as ppl paid through rupay cc and thrs no way for me to know if they r using normal upi or rupay cc.\nCant help it.",
+                "created_utc": "2024-04-23 13:21:41 UTC",
+                "comment_id": "a4Hf8TI",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_qDMNGoX",
+                "target": false,
+                "type": "comment",
+                "body": "why do some merchants disable CC upi ?",
+                "created_utc": "2024-04-24 01:52:04 UTC",
+                "comment_id": "0pqTiUi",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_29VUfD1",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay cc on upi has higher mdr charges than visa/mastercard unless merchant is \"small\" (aka less than 20 lakh annual turnover) so sooner or later all merchants will disable rupay cc upi & many have already started doing it. Rupay cc upi also does not work for \"very small merchants\" (expected inward UPI transaction less than or equal to Rs 50,000 per month).",
+                "created_utc": "2024-04-24 09:27:44 UTC",
+                "comment_id": "hOTdD0u",
+                "submission_id": "aV25UzB",
+                "parent_id": "5kBiS0L"
+            },
+            {
+                "user_id": "subject_29VUfD1",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay cc on upi has higher mdr charges than visa/mastercard unless merchant is \"small\" (aka less than 20 lakh annual turnover) & it incl less than 2k size txn too for not small merchants.",
+                "created_utc": "2024-04-24 09:29:47 UTC",
+                "comment_id": "8Bm9Ijf",
+                "submission_id": "aV25UzB",
+                "parent_id": "DvxFPCP"
+            },
+            {
+                "user_id": "subject_29VUfD1",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay cc on upi has higher mdr charges than visa/mastercard unless merchant is \"small\" (aka less than 20 lakh annual turnover) & it incl less than 2k size txn too for not small merchants.",
+                "created_utc": "2024-04-24 09:30:36 UTC",
+                "comment_id": "OXetlOO",
+                "submission_id": "aV25UzB",
+                "parent_id": "4JizVpI"
+            },
+            {
+                "user_id": "subject_29VUfD1",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay cc on upi has higher mdr charges than visa/mastercard unless merchant is \"small\" (aka less than 20 lakh annual turnover) & it incl less than 2k size txn too for not small merchants.",
+                "created_utc": "2024-04-24 09:32:54 UTC",
+                "comment_id": "6J647cb",
+                "submission_id": "aV25UzB",
+                "parent_id": "LWfU8GK"
+            },
+            {
+                "user_id": "subject_29VUfD1",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay cc on upi has higher mdr charges than visa/mastercard unless merchant is \"small\" (aka less than 20 lakh annual turnover) & it incl less than 2k size txn too for not small merchants.",
+                "created_utc": "2024-04-24 09:33:58 UTC",
+                "comment_id": "TLOVEtH",
+                "submission_id": "aV25UzB",
+                "parent_id": "a4Hf8TI"
+            },
+            {
+                "user_id": "subject_29VUfD1",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay cc on upi has higher mdr charges than visa/mastercard unless merchant is \"small\" (aka less than 20 lakh annual turnover) & it incl less than 2k size txn too for not small merchants.",
+                "created_utc": "2024-04-24 09:34:06 UTC",
+                "comment_id": "A1i4tLT",
+                "submission_id": "aV25UzB",
+                "parent_id": "0pqTiUi"
+            },
+            {
+                "user_id": "subject_qDMNGoX",
+                "target": false,
+                "type": "comment",
+                "body": "ohhk thnks",
+                "created_utc": "2024-04-24 10:33:10 UTC",
+                "comment_id": "XipZ572",
+                "submission_id": "aV25UzB",
+                "parent_id": "A1i4tLT"
+            },
+            {
+                "user_id": "subject_gJBahdt",
+                "target": false,
+                "type": "comment",
+                "body": "The only place rupay card did not work for me was where the merchant had non-business QR codes and on AMUL website.\n\nSo it works all the time for me on business QR codes from phonepe, gapy, Paytm, etc",
+                "created_utc": "2024-04-24 11:05:28 UTC",
+                "comment_id": "jfYyius",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_LMBEXpm",
+                "target": false,
+                "type": "comment",
+                "body": "Same for me, to even send money to my society shop i used it multiple times",
+                "created_utc": "2024-04-25 10:37:16 UTC",
+                "comment_id": "CFDuaVG",
+                "submission_id": "aV25UzB",
+                "parent_id": "S4qI355"
+            },
+            {
+                "user_id": "subject_HwTm6PO",
+                "target": false,
+                "type": "comment",
+                "body": "Yes there is surcharge when you pay using rupay cc at fuel station. Surcharge added at the time of statement generation. I had used kotak rupay cc and they changed 2 percents as surcharge.",
+                "created_utc": "2024-04-25 13:10:56 UTC",
+                "comment_id": "mWRdTNv",
+                "submission_id": "aV25UzB",
+                "parent_id": "stHSw8g"
+            },
+            {
+                "user_id": "subject_jGBJv4o",
+                "target": false,
+                "type": "comment",
+                "body": "I'm using rupay in B'lore and Hyderabad and never faced any issue until now",
+                "created_utc": "2024-04-27 05:35:10 UTC",
+                "comment_id": "gQPJw4m",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "Don't know bro what you are talking about. I use it through Cred. Mostly it works. There are failure transactions but not at the scale you are talking about and what is lazypay?",
+                "created_utc": "2024-04-27 12:59:53 UTC",
+                "comment_id": "i1iTUWr",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            },
+            {
+                "user_id": "subject_0gIEfQi",
+                "target": false,
+                "type": "comment",
+                "body": "Rupay is shit tbh doesn't has basic features doesn't connect to paypal. Useless shit!! I destroyed mine 2 days back. I'll issue a visa or mastercard",
+                "created_utc": "2024-09-11 05:34:47 UTC",
+                "comment_id": "mSQKvBE",
+                "submission_id": "aV25UzB",
+                "parent_id": "aV25UzB"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_ChESS7J",
+            "target": true,
+            "type": "submission",
+            "title": "Is it recoverable from here?",
+            "body": "I am facing significant hairfall since I change my city for my job. Hairline starts receding, I face dandruff problem - still not able to completely remove the dandruff. And now slowly I noticed the patches of low to no hair. It's horrifying. How can I correct this loss?",
+            "created_utc": "2024-08-14 16:56:47 UTC",
+            "submission_id": "lDUYnxT",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Hi Intelligent_Key_9282!** I noticed that you posted a question. This is a friendly reminder to read our pinned [FAQ post](https://www.reddit.com/r/minoxidil/comments/hk12ae/minoxidil_faqs/) in which you might find an answer to your question. This will help you find an answer quickly instead of waiting for a member to answer.\n\n**If you found the answer to your question, Reply to this comment with \" #done \" and I'll flair it as answered. This will make it easier for** r/Minoxidil **members and visitors to find answers to their questions.**\n\nThank you and good luck on your journey!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/minoxidil) if you have any questions or concerns.*",
+                "created_utc": "2024-08-14 16:56:48 UTC",
+                "comment_id": "9EnQnie",
+                "submission_id": "lDUYnxT",
+                "parent_id": "lDUYnxT"
+            },
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Hi Intelligent_Key_9282!**  I found some **matching key words**, Which suggests that you might be asking about **skin irritation caused by Minoxidil products**. So this may be helpful:\n>**-My skin gets dry, Irritated, Itchy, Painful or flaky.**  \n>  \n>This is a very common side effect of liquid solutions that is caused by the inactive ingredients like alcohol and propelyne glycol (PG). For most it's not too extreme but for those to whom it causes too much discomfort, We recommend switching to foam which should eliminate those side effects. If that's not an option, Then you should look for a liquid solution that doesn't contain PG. Otherwise, make sure to wash it off 2-3 hours after applying and to use moisturizers to limit those side effects.\n\n&#x200B;\nSource: [r/minoxidil FAQs](https://www.reddit.com/r/minoxidil/comments/hk12ae/minoxidil_faqs/)    \n\nHope this was helpful and good luck on your journey!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/minoxidil) if you have any questions or concerns.*",
+                "created_utc": "2024-08-14 16:56:48 UTC",
+                "comment_id": "nDLOXFs",
+                "submission_id": "lDUYnxT",
+                "parent_id": "lDUYnxT"
+            },
+            {
+                "user_id": "subject_Go5DfJm",
+                "target": false,
+                "type": "comment",
+                "body": "Start using microneedling with the Minoxidil and it will fill out",
+                "created_utc": "2024-08-14 17:21:18 UTC",
+                "comment_id": "dEtxWf9",
+                "submission_id": "lDUYnxT",
+                "parent_id": "lDUYnxT"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "It's like both together? and what mm microneedling would be safe ?",
+                "created_utc": "2024-08-14 17:31:06 UTC",
+                "comment_id": "qllx0Fo",
+                "submission_id": "lDUYnxT",
+                "parent_id": "dEtxWf9"
+            },
+            {
+                "user_id": "subject_Go5DfJm",
+                "target": false,
+                "type": "comment",
+                "body": "Apply the Minoxidil 24h after you do from 0.5 - 1.5mm needle is safe",
+                "created_utc": "2024-08-14 17:38:31 UTC",
+                "comment_id": "oXgduh7",
+                "submission_id": "lDUYnxT",
+                "parent_id": "qllx0Fo"
+            },
+            {
+                "user_id": "subject_kvd1J8Y",
+                "target": false,
+                "type": "comment",
+                "body": "Don't start microneedling now just use minoxidil if you find no results or a change then consult a doctor for microneedling",
+                "created_utc": "2024-08-16 07:00:08 UTC",
+                "comment_id": "58i8Yqk",
+                "submission_id": "lDUYnxT",
+                "parent_id": "dEtxWf9"
+            },
+            {
+                "user_id": "subject_MzfRZz8",
+                "target": false,
+                "type": "comment",
+                "body": "Why 24 hours after? I apply it twice a day I don\u2019t really have 24 hours to wait. I just derma stamp like twice a week",
+                "created_utc": "2024-08-16 12:20:49 UTC",
+                "comment_id": "BzIJdKm",
+                "submission_id": "lDUYnxT",
+                "parent_id": "oXgduh7"
+            },
+            {
+                "user_id": "subject_u8A175n",
+                "target": false,
+                "type": "comment",
+                "body": "I don't think it's a huge deal, but it keeps your scalp a bit healthier since you're not immediately drying out the wounds and skin with alcohol/pg. Also it stings less and goes less systemic for those who care about that.\n\nPersonally I just wait 12h so it doesn't sting as much.",
+                "created_utc": "2024-08-17 05:08:16 UTC",
+                "comment_id": "1ym1JPh",
+                "submission_id": "lDUYnxT",
+                "parent_id": "BzIJdKm"
+            },
+            {
+                "user_id": "subject_UCwwq3A",
+                "target": false,
+                "type": "comment",
+                "body": "Easily",
+                "created_utc": "2024-08-17 06:00:14 UTC",
+                "comment_id": "jS6sQ0Z",
+                "submission_id": "lDUYnxT",
+                "parent_id": "lDUYnxT"
+            },
+            {
+                "user_id": "subject_k9byijP",
+                "target": false,
+                "type": "comment",
+                "body": "The main problem for you is DHT sensitivity. You need to block dht- use saw palmetto 320mg daily. By blocking too much DHT you will affect libido. In that case lower usage or try Pygeum it also blocks dht + it increase libido. Minoxidil is just a way to increase blood circulation. If you start to use it, then use it only before bed, no need to get too much addicted from it. If you will want to stop using it, then slowly lower dosage by 1 day every month. Thers also other ways how to stimulate blood without minoxidil, for example - 1.5mm derma roller twice a week; 2%(2 drops per 5ml) rosemary cineol essential oil. I love to add it to some sprey like \"Placenta Vitae\" sprey that is full with good things for healty hair.; hair scalp massage by moving all scalp. \nDont forget to take Iron, Zink, B7, B9. As additional you could take cold pressed pumkin seed oil, vitamin C, E, D",
+                "created_utc": "2024-08-18 13:36:31 UTC",
+                "comment_id": "S4L7NJw",
+                "submission_id": "lDUYnxT",
+                "parent_id": "lDUYnxT"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "deleted_user",
+            "target": false,
+            "type": "submission",
+            "title": "This one girl is giving me sleepless nights ",
+            "body": "2nd yearite here. This is going to be my first and last post on this subReddit and about the topic. Note: I predict this post to be long (kuch plan nahi kara before writing )Please skip kardo if you are tired of social life rants. Let me give you brief about this girl.Remember the first i saw her was in ltc kisi lecture mein. Her hair was wet and she was wearing a black oversized tee.Fell in love with her then and there. Thoda dhunda use aur logon se pooche uske baare mein to pata laga ki she is a dualite and is from delhi. Par ye bhi pata chala ki she had a boyfriend and wo bhi bits mein hi hai. \nThe boy hails from a very privileged and upclass family background and so does she.Now, I\u2019ve had a good dating history, but she was different.Totally. She had this adorable face and lovely eyes and the pink hue of her lenses just elevated whatever sorcery she was doing on me .Trust me when I tell you that she looks like someone who will be your first wish if you find Aladdin\u2019s lamp. She looked around 5\u20194 so she would look perfect beside me(I\u2019m 5\u201910).My entire first year, i tried getting to know her more and tried to talk to her several times but no benefit. She became a part of DLE and thus became part of an affluent friend circle which is way out of my financial bounds to hangout with.Her Instagram is filled with her enjoying clubbing and expensive vacations. Ive had my share of clubbing and partying but she has standard of living which speaks generational wealth. Her boyfriend is around 6\u20192 and has a fat build which makes her look like a child in front of him and they do not look good together at all. However I\u2019ve heard they share great physical intimacy (they were caught in the library doing deeds more than just kissing)\nSwitch the time to today, i am still deeply in love with her.Atleast in the first year i used to see her in classes and had small chitchats with her, but things are completely different now. I am a cs student, thus no more common lectures. \nEveryday i sleep,i pray of meeting her in my dreams. Everyday I wake up i pray for those dreams to become true. \nMy eyes are like desert and a glimpse of her is rain to them. If people were rain, I\u2019d be a drizzle and she\u2019d be a thunderstorm. \nKeeping the poetry aside and talking sensibly, i know the best for me is to move on and let her be happy with what she has been gifted with. Who am i to interfere or dream about someone who cannot be mine and why should i waste my time when i should be working on myself. I am pretty self aware of my fate.  But the thought of receiving her warm love will always accompany me during my sleepless nights.\n",
+            "created_utc": "2024-09-18 14:31:14 UTC",
+            "submission_id": "99r3hfj",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "Thanks for posting at r/BITSPilani! Have you referred to our FAQs and AMA posts? Most doubts are answered [here](https://www.reddit.com/r/BITSPilani/comments/1cxvwn7/faq_and_resources_megathread/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/BITSPilani) if you have any questions or concerns.*",
+                "created_utc": "2024-09-18 14:31:14 UTC",
+                "comment_id": "RJRvZEg",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_xoU0Rjg",
+                "target": false,
+                "type": "comment",
+                "body": "How can you like someone so much, just based on looks?\n\nEven after knowing she loves somebody else and even been physical with him? How does even a slither of love remain after all of that? That too for a person you don't know well, at all.",
+                "created_utc": "2024-09-18 14:38:36 UTC",
+                "comment_id": "L6TM5y2",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_DaED7aC",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai Sorry to say but move on.",
+                "created_utc": "2024-09-18 14:40:04 UTC",
+                "comment_id": "TdNogGh",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_uCAoDZF",
+                "target": false,
+                "type": "comment",
+                "body": "You are not in love with her, just the image of her in your mind.\n\nLite le and create a Codeforces account.",
+                "created_utc": "2024-09-18 14:44:44 UTC",
+                "comment_id": "PWjM4yT",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_HtosDFL",
+                "target": false,
+                "type": "comment",
+                "body": "HOLY SHIT I KNOW EXACTLY WHO U ARE TALKING ABOUT\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\nSHE TOOK MY DLE INTERACTION",
+                "created_utc": "2024-09-18 14:47:09 UTC",
+                "comment_id": "EZWldc6",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_TZO29TZ",
+                "target": false,
+                "type": "comment",
+                "body": "Create a codeforces acc \ud83e\udd8d",
+                "created_utc": "2024-09-18 14:47:33 UTC",
+                "comment_id": "dwoCPwA",
+                "submission_id": "99r3hfj",
+                "parent_id": "PWjM4yT"
+            },
+            {
+                "user_id": "subject_1g523qN",
+                "target": false,
+                "type": "comment",
+                "body": "Hawas",
+                "created_utc": "2024-09-18 14:47:54 UTC",
+                "comment_id": "Y2qsLxr",
+                "submission_id": "99r3hfj",
+                "parent_id": "L6TM5y2"
+            },
+            {
+                "user_id": "subject_kLeAujq",
+                "target": false,
+                "type": "comment",
+                "body": "Really?",
+                "created_utc": "2024-09-18 14:50:05 UTC",
+                "comment_id": "WMyFw1f",
+                "submission_id": "99r3hfj",
+                "parent_id": "EZWldc6"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "1400 rating hai meri aur batao kya karna hai",
+                "created_utc": "2024-09-18 14:51:10 UTC",
+                "comment_id": "s7usn4O",
+                "submission_id": "99r3hfj",
+                "parent_id": "PWjM4yT"
+            },
+            {
+                "user_id": "subject_1Zzlbq9",
+                "target": false,
+                "type": "comment",
+                "body": "What's dle",
+                "created_utc": "2024-09-18 14:51:59 UTC",
+                "comment_id": "nSo4Byk",
+                "submission_id": "99r3hfj",
+                "parent_id": "EZWldc6"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Kya karenge itni information ka aap??",
+                "created_utc": "2024-09-18 14:52:18 UTC",
+                "comment_id": "y9UWMxc",
+                "submission_id": "99r3hfj",
+                "parent_id": "EZWldc6"
+            },
+            {
+                "user_id": "subject_1Ljp1AZ",
+                "target": false,
+                "type": "comment",
+                "body": "Padhle bsdk",
+                "created_utc": "2024-09-18 14:53:53 UTC",
+                "comment_id": "R8QFOIa",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_4VZC9BM",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai tu official tharki hai \nKitna chep hai ek kam kar feviquick leke use se jud ja chodo ye sab use that cs degree gadhe",
+                "created_utc": "2024-09-18 14:55:39 UTC",
+                "comment_id": "ljk7txw",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_EGt4k3n",
+                "target": false,
+                "type": "comment",
+                "body": "brain is a funny thing whicj never fails to produce funny things",
+                "created_utc": "2024-09-18 14:56:03 UTC",
+                "comment_id": "pDZa9SY",
+                "submission_id": "99r3hfj",
+                "parent_id": "L6TM5y2"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Lawde 1400 bohot acchi nahi hai",
+                "created_utc": "2024-09-18 14:57:25 UTC",
+                "comment_id": "EQ9sQBV",
+                "submission_id": "99r3hfj",
+                "parent_id": "s7usn4O"
+            },
+            {
+                "user_id": "subject_gm6oFsv",
+                "target": false,
+                "type": "comment",
+                "body": "\"don't judge a book by it's cover\"",
+                "created_utc": "2024-09-18 14:58:13 UTC",
+                "comment_id": "Mp0vT7w",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_RxHvVX1",
+                "target": false,
+                "type": "comment",
+                "body": "move tf on lil bro, she ain't into you",
+                "created_utc": "2024-09-18 15:00:38 UTC",
+                "comment_id": "xaiP8Wa",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_tYoFka9",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai tu sahi mei second year hai",
+                "created_utc": "2024-09-18 15:02:21 UTC",
+                "comment_id": "kwAsQi2",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_JMxgiSX",
+                "target": false,
+                "type": "comment",
+                "body": "You are destroying yourself(unless if these thoughts help you calm down then that's fine but if they're distracting you during work then it's destructive), you probably think that something may happen and you'll get her they will breakup or something like that but reality is there is almost negligible chance of that happening . Well crushes happen and some last for a long time but you need to get your mind out of it somehow , everyone has a way to do it . You need to find your way . And well you probably won't believe me when I say this , but in future god/the world will send you a girl that would be 10x better than her and then you'll wonder why you liked this girl when you have this new girl . Trust me .",
+                "created_utc": "2024-09-18 15:03:49 UTC",
+                "comment_id": "jjcwm1A",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_uCAoDZF",
+                "target": false,
+                "type": "comment",
+                "body": "tourist is 4000+",
+                "created_utc": "2024-09-18 15:05:54 UTC",
+                "comment_id": "IeOgTj9",
+                "submission_id": "99r3hfj",
+                "parent_id": "s7usn4O"
+            },
+            {
+                "user_id": "subject_tYoFka9",
+                "target": false,
+                "type": "comment",
+                "body": "Department of live events",
+                "created_utc": "2024-09-18 15:06:04 UTC",
+                "comment_id": "5t5lO6Z",
+                "submission_id": "99r3hfj",
+                "parent_id": "nSo4Byk"
+            },
+            {
+                "user_id": "subject_UVfir4g",
+                "target": false,
+                "type": "comment",
+                "body": "Welcome to the gym buddy",
+                "created_utc": "2024-09-18 15:13:28 UTC",
+                "comment_id": "XJ2v06G",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_IhsUiNa",
+                "target": false,
+                "type": "comment",
+                "body": "can't relate, ye kya clubbing partying kissing xyz hai bhai..\npadh le.",
+                "created_utc": "2024-09-18 15:26:04 UTC",
+                "comment_id": "71bJNOk",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_D7gHh0K",
+                "target": false,
+                "type": "comment",
+                "body": "Just imagine her pooping and saara physical love khtm hojayega... true love develops beyond physical looks.",
+                "created_utc": "2024-09-18 15:27:00 UTC",
+                "comment_id": "F9Y5S12",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_LPjO9UY",
+                "target": false,
+                "type": "comment",
+                "body": "Nice troll post\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "created_utc": "2024-09-18 15:27:14 UTC",
+                "comment_id": "HwE24W6",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_kdHT83o",
+                "target": false,
+                "type": "comment",
+                "body": "RB?",
+                "created_utc": "2024-09-18 15:34:40 UTC",
+                "comment_id": "EjbmuF1",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_sCogTae",
+                "target": false,
+                "type": "comment",
+                "body": "leetcode karle",
+                "created_utc": "2024-09-18 15:39:34 UTC",
+                "comment_id": "G97cCv0",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "You mean mess, to haan",
+                "created_utc": "2024-09-18 15:42:23 UTC",
+                "comment_id": "bs1ip6F",
+                "submission_id": "99r3hfj",
+                "parent_id": "EjbmuF1"
+            },
+            {
+                "user_id": "subject_ezW22aJ",
+                "target": false,
+                "type": "comment",
+                "body": "Uski rating kya hai? Aur uske boyfriend ki?",
+                "created_utc": "2024-09-18 15:43:16 UTC",
+                "comment_id": "Q92qhKS",
+                "submission_id": "99r3hfj",
+                "parent_id": "s7usn4O"
+            },
+            {
+                "user_id": "subject_DXjT1IU",
+                "target": false,
+                "type": "comment",
+                "body": ".",
+                "created_utc": "2024-09-18 15:43:17 UTC",
+                "comment_id": "He0U2Nz",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-09-18 15:43:59 UTC",
+                "comment_id": "Zz6ZGL8",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_UhqjZCm",
+                "target": false,
+                "type": "comment",
+                "body": "bhai abhi tu 2nd yr mei he , move on kr jaa bura phasega . apne aap pr kaam kr sab moh maaya he",
+                "created_utc": "2024-09-18 15:44:47 UTC",
+                "comment_id": "wLgtSwu",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Hila Bhai. Sauce dm kardunga.",
+                "created_utc": "2024-09-18 15:46:10 UTC",
+                "comment_id": "ho7MaQr",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_T1oPGzF",
+                "target": false,
+                "type": "comment",
+                "body": "You're just infatuated bro",
+                "created_utc": "2024-09-18 15:48:00 UTC",
+                "comment_id": "5FETv4O",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "None of them have a cf profile",
+                "created_utc": "2024-09-18 15:49:50 UTC",
+                "comment_id": "4RDyHU9",
+                "submission_id": "99r3hfj",
+                "parent_id": "Q92qhKS"
+            },
+            {
+                "user_id": "subject_q3jn6Pp",
+                "target": false,
+                "type": "comment",
+                "body": "Nothing to flex?",
+                "created_utc": "2024-09-18 15:53:42 UTC",
+                "comment_id": "kjExb8h",
+                "submission_id": "99r3hfj",
+                "parent_id": "s7usn4O"
+            },
+            {
+                "user_id": "subject_aDiYhcb",
+                "target": false,
+                "type": "comment",
+                "body": "Fantasies created dhe to lack of confidence...i hv it too \ud83e\udd72",
+                "created_utc": "2024-09-18 15:54:41 UTC",
+                "comment_id": "S4qXv1n",
+                "submission_id": "99r3hfj",
+                "parent_id": "L6TM5y2"
+            },
+            {
+                "user_id": "subject_ezW22aJ",
+                "target": false,
+                "type": "comment",
+                "body": "See dude ur much better hila ke soja",
+                "created_utc": "2024-09-18 15:56:34 UTC",
+                "comment_id": "aAiqCxn",
+                "submission_id": "99r3hfj",
+                "parent_id": "4RDyHU9"
+            },
+            {
+                "user_id": "subject_sMCu55N",
+                "target": false,
+                "type": "comment",
+                "body": "I ask myself the same exact question everyday.",
+                "created_utc": "2024-09-18 16:02:36 UTC",
+                "comment_id": "LQOEpWE",
+                "submission_id": "99r3hfj",
+                "parent_id": "L6TM5y2"
+            },
+            {
+                "user_id": "subject_5Gd2sEF",
+                "target": false,
+                "type": "comment",
+                "body": "Perfect username to overcome infatuations.",
+                "created_utc": "2024-09-18 16:05:34 UTC",
+                "comment_id": "5uUC5y3",
+                "submission_id": "99r3hfj",
+                "parent_id": "5FETv4O"
+            },
+            {
+                "user_id": "subject_jyZaPHe",
+                "target": false,
+                "type": "comment",
+                "body": "Lmao bro why do you wanna cuck yourself this early in the game. Things like this never go down nicely.",
+                "created_utc": "2024-09-18 16:09:39 UTC",
+                "comment_id": "2PIrnfK",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_T1oPGzF",
+                "target": false,
+                "type": "comment",
+                "body": "Lmaooo ikr",
+                "created_utc": "2024-09-18 16:13:28 UTC",
+                "comment_id": "hB5fFpm",
+                "submission_id": "99r3hfj",
+                "parent_id": "5uUC5y3"
+            },
+            {
+                "user_id": "subject_f3lrsuf",
+                "target": false,
+                "type": "comment",
+                "body": "OP the advice you're seeking is there in the last few lines of your own post",
+                "created_utc": "2024-09-18 16:14:25 UTC",
+                "comment_id": "ueBtZYk",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_f3lrsuf",
+                "target": false,
+                "type": "comment",
+                "body": "OP the advice you're seeing is there in the last few lines of your own post.",
+                "created_utc": "2024-09-18 16:14:31 UTC",
+                "comment_id": "7XYtgOJ",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_5Gd2sEF",
+                "target": false,
+                "type": "comment",
+                "body": "\ud83d\udc4d\ud83c\udffd\ud83d\udc4d\ud83c\udffd",
+                "created_utc": "2024-09-18 16:14:40 UTC",
+                "comment_id": "BQnw1oe",
+                "submission_id": "99r3hfj",
+                "parent_id": "hB5fFpm"
+            },
+            {
+                "user_id": "subject_DGNFH5E",
+                "target": false,
+                "type": "comment",
+                "body": "lmao",
+                "created_utc": "2024-09-18 16:20:52 UTC",
+                "comment_id": "9cVQKsB",
+                "submission_id": "99r3hfj",
+                "parent_id": "aAiqCxn"
+            },
+            {
+                "user_id": "subject_xBF9ut4",
+                "target": false,
+                "type": "comment",
+                "body": "bro its a tough spot to be in and ik its hard to let go of those feelings, especially when someone\u2019s got you all swooned but if you really feel that deeply, maybe consider confessing once\n\nyeah, it could lead to rejection, but at least you\u2019ll have clarity, hopefully then you can move on",
+                "created_utc": "2024-09-18 16:25:59 UTC",
+                "comment_id": "LrjLFWP",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_bxK9aTD",
+                "target": false,
+                "type": "comment",
+                "body": "Cf is too 2018, make a kaggle account. (2018 grad here)",
+                "created_utc": "2024-09-18 16:27:45 UTC",
+                "comment_id": "RgXA0ib",
+                "submission_id": "99r3hfj",
+                "parent_id": "dwoCPwA"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "See man, take a thousand steps towards her only if she is ready to take one towards you. So neither you will be hurting your self respect, nor someone would call you a simp.",
+                "created_utc": "2024-09-18 16:30:18 UTC",
+                "comment_id": "I14HJpZ",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_QalWTmL",
+                "target": false,
+                "type": "comment",
+                "body": "lol\u00a0",
+                "created_utc": "2024-09-18 16:32:04 UTC",
+                "comment_id": "U6WwwDj",
+                "submission_id": "99r3hfj",
+                "parent_id": "aAiqCxn"
+            },
+            {
+                "user_id": "subject_kdHT83o",
+                "target": false,
+                "type": "comment",
+                "body": "Wait RB is somebody else, I meant RG lol",
+                "created_utc": "2024-09-18 16:32:05 UTC",
+                "comment_id": "XuncLlH",
+                "submission_id": "99r3hfj",
+                "parent_id": "bs1ip6F"
+            },
+            {
+                "user_id": "subject_kdHT83o",
+                "target": false,
+                "type": "comment",
+                "body": "Attend her lectures, nobody is stopping you",
+                "created_utc": "2024-09-18 16:32:50 UTC",
+                "comment_id": "tqzhGKq",
+                "submission_id": "99r3hfj",
+                "parent_id": "bs1ip6F"
+            },
+            {
+                "user_id": "subject_c9bsffx",
+                "target": false,
+                "type": "comment",
+                "body": "1. She is already someone's for now, don't hope that you'll get her after their breakup, whenever that happens.\n\n2. Even if you get her somehow, there is a 99% chance that you both will break up some day, whatever be the reason. If there is no reason, eventually LDR won't work so you'll break up. Then you'll repent about her for another 1-2 years. You will be depressed about the gem of a person you had lost and that she was \"perfect\".\n\nEventually, you will lose yourself, even more lost than you are right now.\n\nI like your literature though, nice work. But don't get obsessed with her, you only know her on a surface level. And man this isn't what love is, it's purely lust. She's just really beautiful.\nYou are in an eternal relationship with your hand, maintain that relationship. Although, surely get a girlfriend once you are not longer obsessed with this girl, and never get so obsessed with anyone before knowing them from within.",
+                "created_utc": "2024-09-18 16:39:06 UTC",
+                "comment_id": "7RCX6OK",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_VvGKiOH",
+                "target": false,
+                "type": "comment",
+                "body": "Understand that u liked her and all, but bc wo jisne saath achi lagti ya na lagti, usse decide karne de na, move on in life\nUnke relation ko gaali dene sei kuch na hoga.",
+                "created_utc": "2024-09-18 16:39:06 UTC",
+                "comment_id": "bT9WLhe",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_dyAjVxV",
+                "target": false,
+                "type": "comment",
+                "body": "worthy of bitsxoxo",
+                "created_utc": "2024-09-18 16:40:42 UTC",
+                "comment_id": "BlPGsM5",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_qaCgj7t",
+                "target": false,
+                "type": "comment",
+                "body": "XY in love",
+                "created_utc": "2024-09-18 16:46:46 UTC",
+                "comment_id": "3DfaHTL",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_kQbxva3",
+                "target": false,
+                "type": "comment",
+                "body": "Off topic, but try writing in paragraphs next time",
+                "created_utc": "2024-09-18 16:56:00 UTC",
+                "comment_id": "Co3wnc0",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_HtosDFL",
+                "target": false,
+                "type": "comment",
+                "body": "Really dawg aaja DM naam bta dunga",
+                "created_utc": "2024-09-18 16:58:52 UTC",
+                "comment_id": "ZMbMPn5",
+                "submission_id": "99r3hfj",
+                "parent_id": "WMyFw1f"
+            },
+            {
+                "user_id": "subject_HtosDFL",
+                "target": false,
+                "type": "comment",
+                "body": "I just said I know who u are talking about, I already know the info",
+                "created_utc": "2024-09-18 16:59:46 UTC",
+                "comment_id": "ffIUAP1",
+                "submission_id": "99r3hfj",
+                "parent_id": "y9UWMxc"
+            },
+            {
+                "user_id": "subject_ypYQBOJ",
+                "target": false,
+                "type": "comment",
+                "body": "Quote of the day",
+                "created_utc": "2024-09-18 17:09:02 UTC",
+                "comment_id": "hRExv2R",
+                "submission_id": "99r3hfj",
+                "parent_id": "pDZa9SY"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Tissot ki ek ghadi hai jiske model ka naam dekhne par lagta hai ki \"Le Lode\" hai. Lekin paas se dekho toh pta chalta hai ki wo toh \"Le Locle\" hai.",
+                "created_utc": "2024-09-18 17:11:27 UTC",
+                "comment_id": "TEe7SW8",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_dyAjVxV",
+                "target": false,
+                "type": "comment",
+                "body": "how did the interaction go",
+                "created_utc": "2024-09-18 17:13:20 UTC",
+                "comment_id": "z6dtE81",
+                "submission_id": "99r3hfj",
+                "parent_id": "EZWldc6"
+            },
+            {
+                "user_id": "subject_vF66dFs",
+                "target": false,
+                "type": "comment",
+                "body": "Maa chudaaye woh ladki! Tu padhai pe dhyaan de",
+                "created_utc": "2024-09-18 17:16:33 UTC",
+                "comment_id": "RvwKwNr",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_Oze7ayC",
+                "target": false,
+                "type": "comment",
+                "body": "Sorry for asking but can you pls tell what is codeforce?",
+                "created_utc": "2024-09-18 17:30:15 UTC",
+                "comment_id": "cxBZbOa",
+                "submission_id": "99r3hfj",
+                "parent_id": "RgXA0ib"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai jaane de usse, aise bandiyan zyada time nahi tikti. Hila k soja",
+                "created_utc": "2024-09-18 17:31:16 UTC",
+                "comment_id": "Ru3Ypos",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_AkRbjO5",
+                "target": false,
+                "type": "comment",
+                "body": "Tf is DLE ?",
+                "created_utc": "2024-09-18 17:31:25 UTC",
+                "comment_id": "OlHbuiG",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "\"c\\*\\*t ka chakkar me ye log , dusare insaan ko insaan he nahi mante, sad reality \ud83d\ude14\" - a wise man",
+                "created_utc": "2024-09-18 17:31:36 UTC",
+                "comment_id": "xT2j4xR",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_xBF9ut4",
+                "target": false,
+                "type": "comment",
+                "body": "its an online platform for comp programming where programmers solve algorithmic probs in limited time and earn ratings based on the same",
+                "created_utc": "2024-09-18 17:34:15 UTC",
+                "comment_id": "VPSYTRB",
+                "submission_id": "99r3hfj",
+                "parent_id": "cxBZbOa"
+            },
+            {
+                "user_id": "subject_Oze7ayC",
+                "target": false,
+                "type": "comment",
+                "body": "Ohh okay, thanks",
+                "created_utc": "2024-09-18 17:44:08 UTC",
+                "comment_id": "9v04hy9",
+                "submission_id": "99r3hfj",
+                "parent_id": "VPSYTRB"
+            },
+            {
+                "user_id": "subject_HtosDFL",
+                "target": false,
+                "type": "comment",
+                "body": "I fumbled on some questions because I was too sleepy, I wish they did one more interaction where I can give my 100 percent",
+                "created_utc": "2024-09-18 17:45:43 UTC",
+                "comment_id": "h8Sm1Os",
+                "submission_id": "99r3hfj",
+                "parent_id": "z6dtE81"
+            },
+            {
+                "user_id": "subject_5GwnWc4",
+                "target": false,
+                "type": "comment",
+                "body": "Or a kegel account ;-)",
+                "created_utc": "2024-09-18 17:47:15 UTC",
+                "comment_id": "iVxpODa",
+                "submission_id": "99r3hfj",
+                "parent_id": "RgXA0ib"
+            },
+            {
+                "user_id": "subject_cawl4fu",
+                "target": false,
+                "type": "comment",
+                "body": "This is the easiest move on I\u2019ve ever seen, you have nothing in common and have spoken to her at max 10 times, it is what it is bro, give up and forget her",
+                "created_utc": "2024-09-18 17:50:47 UTC",
+                "comment_id": "5Eccy74",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_M61pD91",
+                "target": false,
+                "type": "comment",
+                "body": "Lite bro. Do well in placements and you won't have to worry about a lot in life. Then you can think about all this.",
+                "created_utc": "2024-09-18 17:50:53 UTC",
+                "comment_id": "lI9j0el",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_kwGt5Xc",
+                "target": false,
+                "type": "comment",
+                "body": "Bro tu fir schizophrenia ki dawai Lena bhul gya",
+                "created_utc": "2024-09-18 18:13:45 UTC",
+                "comment_id": "aBKwzD7",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_8404FvV",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai check r/limerence",
+                "created_utc": "2024-09-18 18:35:41 UTC",
+                "comment_id": "tSCHajF",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_6r6zO0U",
+                "target": false,
+                "type": "comment",
+                "body": "ye vhi ladka hai jo 4 saal baad kahega aache college me b chle jaoge to koi guarantee nhi hai aache placements ki",
+                "created_utc": "2024-09-18 18:55:35 UTC",
+                "comment_id": "vLyHcHy",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "I haven't read the whole post but you can chill bro.",
+                "created_utc": "2024-09-18 19:06:54 UTC",
+                "comment_id": "5DdqUvo",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_tKTePLS",
+                "target": false,
+                "type": "comment",
+                "body": "god holy fuck hilake soja bhai",
+                "created_utc": "2024-09-18 19:12:32 UTC",
+                "comment_id": "32Tzzfk",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_ued8LRV",
+                "target": false,
+                "type": "comment",
+                "body": "Kaafi \"gambhir\" Case h ye toh",
+                "created_utc": "2024-09-18 19:16:02 UTC",
+                "comment_id": "KQJHGIg",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_tKTePLS",
+                "target": false,
+                "type": "comment",
+                "body": "do not confess holy fuck thats like the ultimate L he can take",
+                "created_utc": "2024-09-18 19:16:17 UTC",
+                "comment_id": "qQKpjWr",
+                "submission_id": "99r3hfj",
+                "parent_id": "Zz6ZGL8"
+            },
+            {
+                "user_id": "subject_tKTePLS",
+                "target": false,
+                "type": "comment",
+                "body": "agree",
+                "created_utc": "2024-09-18 19:17:51 UTC",
+                "comment_id": "JDnWpU4",
+                "submission_id": "99r3hfj",
+                "parent_id": "5Eccy74"
+            },
+            {
+                "user_id": "subject_ESdQQl6",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai bhool ja usko sahi bata rha hoon boht bt hogi",
+                "created_utc": "2024-09-18 19:45:03 UTC",
+                "comment_id": "RdMwWXl",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_rF98W0N",
+                "target": false,
+                "type": "comment",
+                "body": "Not for u sweetie",
+                "created_utc": "2024-09-18 20:48:49 UTC",
+                "comment_id": "0VHu3ut",
+                "submission_id": "99r3hfj",
+                "parent_id": "cxBZbOa"
+            },
+            {
+                "user_id": "subject_J6TikY5",
+                "target": false,
+                "type": "comment",
+                "body": "The best advice..!!",
+                "created_utc": "2024-09-18 20:54:49 UTC",
+                "comment_id": "b1xISSC",
+                "submission_id": "99r3hfj",
+                "parent_id": "R8QFOIa"
+            },
+            {
+                "user_id": "subject_1dcfqKe",
+                "target": false,
+                "type": "comment",
+                "body": "At least someone figured it out other than me. I had an Idea when He described the bf but got confirmation when he said the Library wali baat \ud83d\ude02",
+                "created_utc": "2024-09-18 21:02:29 UTC",
+                "comment_id": "VCIL2nY",
+                "submission_id": "99r3hfj",
+                "parent_id": "KQJHGIg"
+            },
+            {
+                "user_id": "subject_xwvq40T",
+                "target": false,
+                "type": "comment",
+                "body": "Love is scary",
+                "created_utc": "2024-09-18 21:06:44 UTC",
+                "comment_id": "9fpc1P0",
+                "submission_id": "99r3hfj",
+                "parent_id": "L6TM5y2"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "imagine her pooping in college washrooms bro game khatam",
+                "created_utc": "2024-09-18 21:55:06 UTC",
+                "comment_id": "DO20HWd",
+                "submission_id": "99r3hfj",
+                "parent_id": "F9Y5S12"
+            },
+            {
+                "user_id": "subject_xzE7d7K",
+                "target": false,
+                "type": "comment",
+                "body": "2nd year ke according achi hai wese",
+                "created_utc": "2024-09-19 00:32:36 UTC",
+                "comment_id": "3KixrsN",
+                "submission_id": "99r3hfj",
+                "parent_id": "EQ9sQBV"
+            },
+            {
+                "user_id": "subject_9z5vEe0",
+                "target": false,
+                "type": "comment",
+                "body": "Fr, after all that bullshit she was caught doing ye lavdu love mai bolra hai, it's not feelings buddy ko samjhao lol",
+                "created_utc": "2024-09-19 02:19:32 UTC",
+                "comment_id": "GyHrnmT",
+                "submission_id": "99r3hfj",
+                "parent_id": "PWjM4yT"
+            },
+            {
+                "user_id": "subject_Oze7ayC",
+                "target": false,
+                "type": "comment",
+                "body": "How do you know cutie?\ud83e\udd70 \nAre you me or God?? You're definitely any one of them, right?",
+                "created_utc": "2024-09-19 02:24:55 UTC",
+                "comment_id": "0WrJQiH",
+                "submission_id": "99r3hfj",
+                "parent_id": "0VHu3ut"
+            },
+            {
+                "user_id": "subject_kMa3YG7",
+                "target": false,
+                "type": "comment",
+                "body": "bhai aur bhi ladkiya hai duniya mai bohot sari, unko bhi opportunity de, iss ladki ke saath hone chances negligible hai, upar se uska boyfriend bhi hai, samajh rahe ho na meri baat, pehle thoda hila lo aur kabhi clubbing ya phir koi aur socialising activity mai idulge hoge toh ladkiyo ko approach karne par focus karna",
+                "created_utc": "2024-09-19 03:21:20 UTC",
+                "comment_id": "w8tpn5X",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_dgEDS2L",
+                "target": false,
+                "type": "comment",
+                "body": "Everything is better in memory. I repeat in MEMORY.",
+                "created_utc": "2024-09-19 03:48:30 UTC",
+                "comment_id": "EcJCneA",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_zUAVLBn",
+                "target": false,
+                "type": "comment",
+                "body": "Being a F here \nThat is a cute way to express your crush \nIt should be a crush tho . Crushes are fun trust me but let it be just a healthy one . \nIf you can't move on (no need tho ) then talk to her some day . Most of the times the way one talks or expresses his/her self can make or break the deal .\nCheck if she got iIT FACTORor not .\nand yeah \nTry to make a new crush haha or coding will def help.",
+                "created_utc": "2024-09-19 04:04:02 UTC",
+                "comment_id": "7R5r4g5",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "I have realised this, never get into a relationship with someone you obsess over like anything, you shouldn't be in a relationship with someone you love hopelessly, because initially things will be like fairy tales, everything will give you all the happiness of the world BUT BUT BUT mind it if you breakup with this perfect person for you, it gonna end in a very fucked up way, your life could be ruined if you're so madly in love. Get into relationship with only not so perfect person and donot devote yourself to her/him, if you keep some imperfections in your relationship it'll only going to help you in future. Nothing is more important than your mental well-being and your life. \nIn my last relationship of 3 years the lady cheated me with 4 guys from the 2nd year of relationship, and from the past 8 months she has been in a living relationship with a guy from her college and because the relationship had some faults from my side too, I could get away with it, not so easily but I have now moved on.",
+                "created_utc": "2024-09-19 05:18:39 UTC",
+                "comment_id": "oPzBeX7",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_5EytPeD",
+                "target": false,
+                "type": "comment",
+                "body": "bhai uska bf h chhod",
+                "created_utc": "2024-09-19 05:20:38 UTC",
+                "comment_id": "symLSip",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_CcpPVcv",
+                "target": false,
+                "type": "comment",
+                "body": "You are attracted to her face and that's not what you call love..one day you'll find someone more beautiful and compassionate then you'll forget about her. Go for personality not for beauty..",
+                "created_utc": "2024-09-19 05:56:05 UTC",
+                "comment_id": "FQRWs7g",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_jgEDdy3",
+                "target": false,
+                "type": "comment",
+                "body": "See dude...u r just creating a image of that girl in your mind which only lead to increase expectations towards her ...and one thing u r just attracting to her .u r not in completely love with her..so just be urself just let things going on as it is .\n\nDon't just pressurized urself .\nShe is just a girl.",
+                "created_utc": "2024-09-19 06:05:17 UTC",
+                "comment_id": "qzQCYOj",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_Ohdg1It",
+                "target": false,
+                "type": "comment",
+                "body": "Abe padhai krle bhai",
+                "created_utc": "2024-09-19 06:15:09 UTC",
+                "comment_id": "8N0T1Dt",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_FkSk9Bo",
+                "target": false,
+                "type": "comment",
+                "body": "1) masturbate and move on \n\n2) you're as unrealistic as a guy who expects mercy from a hungry crocodile \n\n3) you've described the relationship of two people who are only in it for sex. There doesn't seem to be any indication of love or affection. Don't expect affection from someone who enters relationships for that. Or there is an element of love and affection and you're the horny one who can't find that",
+                "created_utc": "2024-09-19 06:29:53 UTC",
+                "comment_id": "tJYNluI",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_OdEZE4m",
+                "target": false,
+                "type": "comment",
+                "body": "https://preview.redd.it/qnkca0csoppd1.png?width=1080&format=pjpg&auto=webp&s=c3635c450f85205c1d72bc943a88d55e8573ca85\n\nKoi nii bhai Eventually with time , The feelings will fade away. Khud pe fucus kar",
+                "created_utc": "2024-09-19 06:39:34 UTC",
+                "comment_id": "S2KGat2",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_DB6lBO6",
+                "target": false,
+                "type": "comment",
+                "body": "Sometimes, really..",
+                "created_utc": "2024-09-19 09:56:38 UTC",
+                "comment_id": "4bFfmrO",
+                "submission_id": "99r3hfj",
+                "parent_id": "9fpc1P0"
+            },
+            {
+                "user_id": "subject_7ygZZTs",
+                "target": false,
+                "type": "comment",
+                "body": "waiting for pov",
+                "created_utc": "2024-09-19 10:16:05 UTC",
+                "comment_id": "5rVbR1Z",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_IPlRhIh",
+                "target": false,
+                "type": "comment",
+                "body": "Bro I feel the same way\nI want her so much but I dont know how..I have seen her in 2-2 and since then I wanted to be with her now she is in 3rd year so am I..she was in a relationship but now she is separated as I got to know from gossip girl post and I want to grab that opportunity she is a CS student and 2-3 time I have sat in the lecture despite not having same branch but just to see her.. she comes in my dreams more lately..I have talked to her numerous times and tried to get more close to her.. she is bit mischievous and cute like very cute and I like her so much as far as I know she was in nirmaan and one more club back then but not in any clubs as of now she is much focused in the field she want to achieve and she is motivated\u2026she does comes to lecture but not so often I just go and sit in those lecture she goes..I know  its my desperation but I like her very much..she wears glasses not every time but looks cute with or without that.. she is soft spoken and has helped me in my huel I took..we were in Gita class together  i tried to talk to her but most of the times she wears AirPods most of the time she sits alone in the lectures\u2026 as I know she is in entrepreneur course  and I wanted to take that course but was not able to as I don\u2019t have to do Opel and its sad\u2026her name starts with A and I hope we meet soon and she can give me enough of time",
+                "created_utc": "2024-09-19 10:24:37 UTC",
+                "comment_id": "2oTI0pk",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_mcNwSsF",
+                "target": false,
+                "type": "comment",
+                "body": "from vim import liquid",
+                "created_utc": "2024-09-19 11:34:07 UTC",
+                "comment_id": "rjhzlMw",
+                "submission_id": "99r3hfj",
+                "parent_id": "0WrJQiH"
+            },
+            {
+                "user_id": "subject_385bXLf",
+                "target": false,
+                "type": "comment",
+                "body": "Study well, get rich, go to her standards, she will be yours in couple of years if you are successful. Then you realise all this was for nothing but Atleast you would rich and successful \ud83e\udd2a",
+                "created_utc": "2024-09-19 12:08:55 UTC",
+                "comment_id": "EJ8GhaR",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_1a22jUj",
+                "target": false,
+                "type": "comment",
+                "body": "Nice pankaj sir reference",
+                "created_utc": "2024-09-19 12:13:00 UTC",
+                "comment_id": "TUCuAni",
+                "submission_id": "99r3hfj",
+                "parent_id": "hRExv2R"
+            },
+            {
+                "user_id": "subject_2TBOlXi",
+                "target": false,
+                "type": "comment",
+                "body": "https://www.instagram.com/reel/DAAx8eKS-Cz/?igsh=YTV2N2Z0cml6bmV4",
+                "created_utc": "2024-09-19 14:22:08 UTC",
+                "comment_id": "qrdqJX6",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "you having a crush on her is the exact same as me having a celebrity crush on Deepika Padukone, it's all because of how she looks and you've had the same amount of interaction with her as I've had with Deepika Padukone because i met her in a lift one time, you're not in love with her, you just like how she looks, she is rich popular and hot, unless you've got a few things going for yourself, leave it be, find someone else and develop a connection not based on looks",
+                "created_utc": "2024-09-19 15:12:46 UTC",
+                "comment_id": "f7qGYAX",
+                "submission_id": "99r3hfj",
+                "parent_id": "TdNogGh"
+            },
+            {
+                "user_id": "subject_UbZog7j",
+                "target": false,
+                "type": "comment",
+                "body": "Hilakar sojaa",
+                "created_utc": "2024-09-19 15:55:38 UTC",
+                "comment_id": "t5MBAem",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_WwhvCGv",
+                "target": false,
+                "type": "comment",
+                "body": "Goated",
+                "created_utc": "2024-09-19 20:36:59 UTC",
+                "comment_id": "4psmvSD",
+                "submission_id": "99r3hfj",
+                "parent_id": "PWjM4yT"
+            },
+            {
+                "user_id": "subject_iALDcrc",
+                "target": false,
+                "type": "comment",
+                "body": "What is DLE btw, I don't see anything like that here in bpgc",
+                "created_utc": "2024-09-20 05:21:14 UTC",
+                "comment_id": "hFyGH1f",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_eDEvanu",
+                "target": false,
+                "type": "comment",
+                "body": "You're are going nowhere with this. She isn't gonna fall for you. Get your shit together, swallow it and get some discipline back in your life. Easier said than done ofc, but you have to try, no other way.",
+                "created_utc": "2024-09-20 08:28:36 UTC",
+                "comment_id": "O2ezdb6",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_ILIT894",
+                "target": false,
+                "type": "comment",
+                "body": "Bhai tu CS chod, literature ki degree kr aur writer banja, I would read any book you write\ud83d\ude2d",
+                "created_utc": "2024-09-20 09:50:58 UTC",
+                "comment_id": "KpATvMN",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_jZPjKjt",
+                "target": false,
+                "type": "comment",
+                "body": "imagine seeing a woman in a all boys college",
+                "created_utc": "2024-09-20 13:50:48 UTC",
+                "comment_id": "sxDRHIB",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_aOG9nSq",
+                "target": false,
+                "type": "comment",
+                "body": "Side guy",
+                "created_utc": "2024-09-20 23:48:15 UTC",
+                "comment_id": "S19xypy",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_N70X5ar",
+                "target": false,
+                "type": "comment",
+                "body": "Pyaar Mohabbat Dhoka Hai \nPadhai Kar Lo Yehi Mauka hai \ud83e\udd1e\ud83e\udd1e\ud83e\udd1e",
+                "created_utc": "2024-09-21 00:43:02 UTC",
+                "comment_id": "48Immt0",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_bZ857Id",
+                "target": false,
+                "type": "comment",
+                "body": "Mujhe bhi kar dena...",
+                "created_utc": "2024-09-21 08:33:35 UTC",
+                "comment_id": "KSPUf0U",
+                "submission_id": "99r3hfj",
+                "parent_id": "ho7MaQr"
+            },
+            {
+                "user_id": "subject_egZt38h",
+                "target": false,
+                "type": "comment",
+                "body": "Hey man, I feel you on this. It's tough when someone occupies that much space in your mind, especially when you know deep down it might never work out. It\u2019s easy to get caught up in the \"what ifs\" and dreams, but remember, you deserve someone who is fully available and appreciates you for who you are. It\u2019s good that you\u2019re aware of the reality and that focusing on yourself is the best move. You\u2019ve got your own path to walk, and while it\u2019s hard now, time and working on yourself will help you move forward. Keep your head up\u2014better things are coming, even if it\u2019s hard to see right now.",
+                "created_utc": "2024-09-22 01:36:11 UTC",
+                "comment_id": "TZFKnnU",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_vvUQX2G",
+                "target": false,
+                "type": "comment",
+                "body": "Tim Cook needs you bro for his company, don't forget that just focus on it everything else will set on itself\n\n![gif](giphy|l0NwGpoOVLTAyUJSo|downsized)",
+                "created_utc": "2024-09-22 11:46:09 UTC",
+                "comment_id": "Ll5COaY",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            },
+            {
+                "user_id": "subject_VeLbJca",
+                "target": false,
+                "type": "comment",
+                "body": "Here's what you should do: \n1. Invest in a good keyboard which has the enter key\n2. Learn how to use the enter key \n3. Use the learnings from point number 2 to add paragraphs to this post \nThis is the least you can do for the people you are asking advise from.",
+                "created_utc": "2024-09-23 09:53:30 UTC",
+                "comment_id": "1H1DOMB",
+                "submission_id": "99r3hfj",
+                "parent_id": "99r3hfj"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_jT4MB8Y",
+            "target": false,
+            "type": "submission",
+            "title": "How do I remove my company's GST details in Flipkart",
+            "body": "I want to remove my company's GST details in the flipkart account. I don't see an option to remove the same. Please help me",
+            "created_utc": "2024-02-19 06:55:26 UTC",
+            "submission_id": "MkxQlyo",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "did you get any answer to this??",
+                "created_utc": "2024-09-29 15:38:04 UTC",
+                "comment_id": "a9gyS8Y",
+                "submission_id": "MkxQlyo",
+                "parent_id": "MkxQlyo"
+            },
+            {
+                "user_id": "subject_UlHKgU7",
+                "target": false,
+                "type": "comment",
+                "body": "same question from me also",
+                "created_utc": "2024-09-29 20:57:28 UTC",
+                "comment_id": "ya0Wt7o",
+                "submission_id": "MkxQlyo",
+                "parent_id": "a9gyS8Y"
+            },
+            {
+                "user_id": "subject_m1LGL2j",
+                "target": false,
+                "type": "comment",
+                "body": "same here",
+                "created_utc": "2024-10-15 17:16:56 UTC",
+                "comment_id": "2CW0TdJ",
+                "submission_id": "MkxQlyo",
+                "parent_id": "MkxQlyo"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_ChESS7J",
+            "target": true,
+            "type": "submission",
+            "title": "ASUS Expertbook B1204",
+            "body": "[removed]",
+            "created_utc": "2024-10-15 15:21:38 UTC",
+            "submission_id": "FAKy5Ro",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_bCgyUPT",
+            "target": false,
+            "type": "submission",
+            "title": "How is s9 Fe for 26-27k inr? ",
+            "body": "",
+            "created_utc": "2024-08-14 17:43:51 UTC",
+            "submission_id": "OJMbeH0",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_CQ3hjBC",
+                "target": false,
+                "type": "comment",
+                "body": "You'll get it for as low as 23k",
+                "created_utc": "2024-08-14 17:45:55 UTC",
+                "comment_id": "cmlRFOf",
+                "submission_id": "OJMbeH0",
+                "parent_id": "OJMbeH0"
+            },
+            {
+                "user_id": "subject_bCgyUPT",
+                "target": false,
+                "type": "comment",
+                "body": "What about s9? During great Indian festival or big billion?",
+                "created_utc": "2024-08-14 17:49:00 UTC",
+                "comment_id": "c7WglAr",
+                "submission_id": "OJMbeH0",
+                "parent_id": "cmlRFOf"
+            },
+            {
+                "user_id": "subject_4v9U5r0",
+                "target": false,
+                "type": "comment",
+                "body": "If you can put in 5 or 6k more, you'll get s9 for 33k or 34k or so during BBD sale on Flipkart.\n\nThere's this trick if you have any credit cards. Usually icici, axis credit cards get instant discount of 6k or 7k, then if you choose no cost EMI with highest tenure, you will get upfront discount which is equal to the amount you'll pay in interest (this is No cost EMI). Once the transaction gets converted into EMI at your bank side, contact them and cancel the emi. This way you get the instant discount due to bank offer, you get the no cost EMI discount + you don't pay interest as well.",
+                "created_utc": "2024-08-14 18:22:14 UTC",
+                "comment_id": "SqzWc7T",
+                "submission_id": "OJMbeH0",
+                "parent_id": "OJMbeH0"
+            },
+            {
+                "user_id": "subject_bfAu2oE",
+                "target": false,
+                "type": "comment",
+                "body": "itll be down to 40 as the s10 is coming up",
+                "created_utc": "2024-08-14 20:54:26 UTC",
+                "comment_id": "R0X4pXY",
+                "submission_id": "OJMbeH0",
+                "parent_id": "c7WglAr"
+            },
+            {
+                "user_id": "subject_KTPXZbO",
+                "target": false,
+                "type": "comment",
+                "body": "I bought it at 22.8k from official website\n\nCorporate offer - 10% off\n\nHdfc credit card discount - 6k off\n\nWelcome offer - 1k (mine didn\u2019t work, although you can try)",
+                "created_utc": "2024-08-15 15:22:38 UTC",
+                "comment_id": "BhYeKVY",
+                "submission_id": "OJMbeH0",
+                "parent_id": "OJMbeH0"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "but then you have to pay pre closure charges also right",
+                "created_utc": "2024-10-19 20:13:53 UTC",
+                "comment_id": "aZPQdC0",
+                "submission_id": "OJMbeH0",
+                "parent_id": "SqzWc7T"
+            },
+            {
+                "user_id": "subject_4v9U5r0",
+                "target": false,
+                "type": "comment",
+                "body": "That is usually not much. Axis does charge exorbitantly tho",
+                "created_utc": "2024-10-20 06:09:50 UTC",
+                "comment_id": "YcCaoUt",
+                "submission_id": "OJMbeH0",
+                "parent_id": "aZPQdC0"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_D2E3KTW",
+            "target": false,
+            "type": "submission",
+            "title": "ONE UI 6.1.1 ON GALAXY TAB S9 FE",
+            "body": "When is galaxy tab s9 fe getting one ui 6.1.1",
+            "created_utc": "2024-09-19 08:49:03 UTC",
+            "submission_id": "Veor2s5",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_rCNZdrJ",
+                "target": false,
+                "type": "comment",
+                "body": "It's going to get a very limited version compared to what the S9 gets.",
+                "created_utc": "2024-09-19 13:00:37 UTC",
+                "comment_id": "PsxEZ89",
+                "submission_id": "Veor2s5",
+                "parent_id": "Veor2s5"
+            },
+            {
+                "user_id": "subject_DgCeSjB",
+                "target": false,
+                "type": "comment",
+                "body": "It is very difficult to get One UI 6.1.1 in S9 FE and FE Plus. It is not even listed in the Compatibility list by Samsung. FE version is Middle Range Devices and has processor limitations although Exynos 1380 is designed for AI. But Samsung Has Policy. Only Flagships will get One UI 6.1.1.\n\nhttps://preview.redd.it/vcmypg7lwrqd1.jpeg?width=2560&format=pjpg&auto=webp&s=2839daaddec425038e56fc941588aded9aeefbf7",
+                "created_utc": "2024-09-24 15:10:58 UTC",
+                "comment_id": "okQR7Gd",
+                "submission_id": "Veor2s5",
+                "parent_id": "Veor2s5"
+            },
+            {
+                "user_id": "subject_fKyKxHi",
+                "target": false,
+                "type": "comment",
+                "body": "6.1.1 is currently rolling out for the fe and fe plus in south Korea, won't be getting any ai stuff",
+                "created_utc": "2024-09-26 20:30:37 UTC",
+                "comment_id": "rGAFaUp",
+                "submission_id": "Veor2s5",
+                "parent_id": "okQR7Gd"
+            },
+            {
+                "user_id": "subject_fKyKxHi",
+                "target": false,
+                "type": "comment",
+                "body": "It's currently rolling out in south Korea for fe and fe plus, no ai features by the looks of it\u00a0",
+                "created_utc": "2024-09-26 20:31:29 UTC",
+                "comment_id": "xiUmURQ",
+                "submission_id": "Veor2s5",
+                "parent_id": "Veor2s5"
+            },
+            {
+                "user_id": "subject_DgCeSjB",
+                "target": false,
+                "type": "comment",
+                "body": "Yes. Then what's the use of that 6.1.1\n\n\nOne UI 6.1.1 update is Known for AI features.",
+                "created_utc": "2024-09-26 20:34:28 UTC",
+                "comment_id": "KvlHPAd",
+                "submission_id": "Veor2s5",
+                "parent_id": "rGAFaUp"
+            },
+            {
+                "user_id": "subject_y4Lh3L6",
+                "target": false,
+                "type": "comment",
+                "body": "Well what is the update for?",
+                "created_utc": "2024-09-29 07:03:59 UTC",
+                "comment_id": "4qlZAS7",
+                "submission_id": "Veor2s5",
+                "parent_id": "xiUmURQ"
+            },
+            {
+                "user_id": "subject_oc949Yq",
+                "target": false,
+                "type": "comment",
+                "body": "Just saw this post.\n\nhttps://www.sammyfans.com/2024/09/26/samsung-galaxy-tab-s9-fe-s9-fe-receiving-one-ui-6-1-1-update/",
+                "created_utc": "2024-09-30 02:57:18 UTC",
+                "comment_id": "1rwUOLr",
+                "submission_id": "Veor2s5",
+                "parent_id": "Veor2s5"
+            },
+            {
+                "user_id": "subject_x1iMhe0",
+                "target": false,
+                "type": "comment",
+                "body": "I'm in the USA and my S9 FE just received the ONe UI 6.1.1 update this evening (2024-10-06)",
+                "created_utc": "2024-10-07 01:26:28 UTC",
+                "comment_id": "C364K33",
+                "submission_id": "Veor2s5",
+                "parent_id": "Veor2s5"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "any AI features?",
+                "created_utc": "2024-10-21 15:16:56 UTC",
+                "comment_id": "IAZgs2G",
+                "submission_id": "Veor2s5",
+                "parent_id": "C364K33"
+            },
+            {
+                "user_id": "subject_x1iMhe0",
+                "target": false,
+                "type": "comment",
+                "body": "None that I've noticed, but such features aren't what I tend to use one any of my devices.",
+                "created_utc": "2024-10-21 16:14:29 UTC",
+                "comment_id": "ADynyj0",
+                "submission_id": "Veor2s5",
+                "parent_id": "IAZgs2G"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_ChESS7J",
+            "target": true,
+            "type": "submission",
+            "title": "Can someone help?",
+            "body": "I don't even have the shown credit cards. Still it is showing to me on cred to setup the card. What's this?\nI have other credit cards from HDFC bank and I have the upcoming bills for that.\nBut what's this now? How do I know and do I need to pay for this amount? I haven't received any statement for the above in my gmail from HDFC bank. ",
+            "created_utc": "2024-10-22 16:01:10 UTC",
+            "submission_id": "03cvXpB",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_J0VdRpV",
+                "target": false,
+                "type": "comment",
+                "body": "Could be fraud\u2026you should call the banks and check with them once",
+                "created_utc": "2024-10-22 16:05:03 UTC",
+                "comment_id": "SLL5yPJ",
+                "submission_id": "03cvXpB",
+                "parent_id": "03cvXpB"
+            },
+            {
+                "user_id": "subject_1JV02if",
+                "target": false,
+                "type": "comment",
+                "body": "It can be personal loan or cc loan showing up please cross check \n\nAlso check your cibil once maybe there's a cc issued on your name.",
+                "created_utc": "2024-10-22 16:29:28 UTC",
+                "comment_id": "ljzzGWH",
+                "submission_id": "03cvXpB",
+                "parent_id": "03cvXpB"
+            },
+            {
+                "user_id": "subject_3wLt2HR",
+                "target": false,
+                "type": "comment",
+                "body": "All the major banks are now on bbps so cred is fetching all the bills from the bbps. Dumb app even fetched my electricity bills even though I never paid using cred. Most likely someone's cc has your mobile number accidentally. Let your bank know.",
+                "created_utc": "2024-10-23 02:55:28 UTC",
+                "comment_id": "K8GkUfY",
+                "submission_id": "03cvXpB",
+                "parent_id": "03cvXpB"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_hJNbD2y",
+            "target": false,
+            "type": "submission",
+            "title": "Minoxidil dandruff ",
+            "body": "It\u2019s been 4 months since my transplant and i have been using minoxidil for the last 3 months and its dry season here. My scalp has started to get this flaky dandruff and it\u2019s extremely itchy. I have stopped minoxidil as it had alcohol in it and maybe that caused it. Can anyone suggest a remedy how to cater to this issue thanks. ",
+            "created_utc": "2024-10-26 23:06:31 UTC",
+            "submission_id": "kOhYrfV",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Hi the9mystery!** I noticed that you posted a question. This is a friendly reminder to read our pinned [FAQ post](https://www.reddit.com/r/minoxidil/comments/hk12ae/minoxidil_faqs/) in which you might find an answer to your question. This will help you find an answer quickly instead of waiting for a member to answer.\n\n**If you found the answer to your question, Reply to this comment with \" #done \" and I'll flair it as answered. This will make it easier for** r/Minoxidil **members and visitors to find answers to their questions.**\n\nThank you and good luck on your journey!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/minoxidil) if you have any questions or concerns.*",
+                "created_utc": "2024-10-26 23:06:32 UTC",
+                "comment_id": "yYD0vrP",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Hi the9mystery!**  I found some **matching key words**, Which suggests that you might be asking about **skin irritation caused by Minoxidil products**. So this may be helpful:\n>**-My skin gets dry, Irritated, Itchy, Painful or flaky.**  \n>  \n>This is a very common side effect of liquid solutions that is caused by the inactive ingredients like alcohol and propelyne glycol (PG). For most it's not too extreme but for those to whom it causes too much discomfort, We recommend switching to foam which should eliminate those side effects. If that's not an option, Then you should look for a liquid solution that doesn't contain PG. Otherwise, make sure to wash it off 2-3 hours after applying and to use moisturizers to limit those side effects.\n\n&#x200B;\nSource: [r/minoxidil FAQs](https://www.reddit.com/r/minoxidil/comments/hk12ae/minoxidil_faqs/)    \n\nHope this was helpful and good luck on your journey!\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/minoxidil) if you have any questions or concerns.*",
+                "created_utc": "2024-10-26 23:06:32 UTC",
+                "comment_id": "uoB550D",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_4LfTPAQ",
+                "target": false,
+                "type": "comment",
+                "body": "Use ketokcanozole shampoo",
+                "created_utc": "2024-10-26 23:17:21 UTC",
+                "comment_id": "z63nsfQ",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Tired it didn\u2019t work",
+                "created_utc": "2024-10-26 23:24:34 UTC",
+                "comment_id": "3kUSZDx",
+                "submission_id": "kOhYrfV",
+                "parent_id": "z63nsfQ"
+            },
+            {
+                "user_id": "subject_VTrHFT0",
+                "target": false,
+                "type": "comment",
+                "body": "You might want to use a weed wacker for the hair on your fingers",
+                "created_utc": "2024-10-26 23:32:07 UTC",
+                "comment_id": "XsrFldA",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_MvXeTeG",
+                "target": false,
+                "type": "comment",
+                "body": "Have you seen a derma? Looks like psoriasis.",
+                "created_utc": "2024-10-27 00:07:31 UTC",
+                "comment_id": "LIXs6eb",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_DeiFWLT",
+                "target": false,
+                "type": "comment",
+                "body": "Do you have white hairs on fingers?",
+                "created_utc": "2024-10-27 00:39:25 UTC",
+                "comment_id": "gHR1i81",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_qUg73CI",
+                "target": false,
+                "type": "comment",
+                "body": "take a bath",
+                "created_utc": "2024-10-27 00:52:59 UTC",
+                "comment_id": "wx5O2bp",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-10-27 03:14:08 UTC",
+                "comment_id": "pPYBE4d",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_4LfTPAQ",
+                "target": false,
+                "type": "comment",
+                "body": "I am too using it worked for me. I had these flakes for years and after introducing the shampoo it went away I am so relived the best will be to change the brand of topical solution which brand are you using?. i have used morr f 5% for almost 2 years haven\u2019t got any issues",
+                "created_utc": "2024-10-27 03:18:53 UTC",
+                "comment_id": "eaXBprR",
+                "submission_id": "kOhYrfV",
+                "parent_id": "3kUSZDx"
+            },
+            {
+                "user_id": "subject_TTjblN6",
+                "target": false,
+                "type": "comment",
+                "body": "That's the dry PG in minoxidil solutions, wash more often, even with just water, bur wash more often",
+                "created_utc": "2024-10-27 04:05:07 UTC",
+                "comment_id": "fI1l6dE",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[removed]",
+                "created_utc": "2024-10-27 04:29:26 UTC",
+                "comment_id": "1JQRljh",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_SWbc61u",
+                "target": false,
+                "type": "comment",
+                "body": "Have to get the 2% strength, and let it sit on your scalp for a while. \n Then scrub it off with a scalp brush and rinse it off.",
+                "created_utc": "2024-10-27 06:33:31 UTC",
+                "comment_id": "hsuSZxf",
+                "submission_id": "kOhYrfV",
+                "parent_id": "3kUSZDx"
+            },
+            {
+                "user_id": "subject_WykkUoq",
+                "target": false,
+                "type": "comment",
+                "body": "Use oil based minoxidil not lipid based",
+                "created_utc": "2024-10-27 07:26:50 UTC",
+                "comment_id": "HRxBKQw",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "any solution worked for you?",
+                "created_utc": "2024-10-27 09:35:07 UTC",
+                "comment_id": "mefgQ4G",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_ZNf8gzD",
+                "target": false,
+                "type": "comment",
+                "body": "Go to your doctor and get a patch test.",
+                "created_utc": "2024-10-27 09:44:24 UTC",
+                "comment_id": "yaYizj5",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "I have had this for many years. Whats a weed wacker?",
+                "created_utc": "2024-10-27 10:40:05 UTC",
+                "comment_id": "1aeWMxD",
+                "submission_id": "kOhYrfV",
+                "parent_id": "XsrFldA"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Yes i had a mole there and when it disappeared the hair became white",
+                "created_utc": "2024-10-27 10:40:51 UTC",
+                "comment_id": "3c765ai",
+                "submission_id": "kOhYrfV",
+                "parent_id": "gHR1i81"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Yes i dry it with towel and then let it air dry it",
+                "created_utc": "2024-10-27 10:41:15 UTC",
+                "comment_id": "jHXgRrt",
+                "submission_id": "kOhYrfV",
+                "parent_id": "pPYBE4d"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Yes i dry it with towel and then let it air dry it",
+                "created_utc": "2024-10-27 10:41:27 UTC",
+                "comment_id": "f0IWbBO",
+                "submission_id": "kOhYrfV",
+                "parent_id": "pPYBE4d"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "I take bath everyday",
+                "created_utc": "2024-10-27 10:41:42 UTC",
+                "comment_id": "0r1m79v",
+                "submission_id": "kOhYrfV",
+                "parent_id": "fI1l6dE"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Do you have a brand?",
+                "created_utc": "2024-10-27 10:42:39 UTC",
+                "comment_id": "xuRMbwx",
+                "submission_id": "kOhYrfV",
+                "parent_id": "HRxBKQw"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Not yet trying coconut oil with tea tree oil",
+                "created_utc": "2024-10-27 10:43:03 UTC",
+                "comment_id": "fXmEOqr",
+                "submission_id": "kOhYrfV",
+                "parent_id": "mefgQ4G"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Which brand of shampoo did you use?",
+                "created_utc": "2024-10-27 10:46:10 UTC",
+                "comment_id": "g3tTGeV",
+                "submission_id": "kOhYrfV",
+                "parent_id": "eaXBprR"
+            },
+            {
+                "user_id": "subject_WykkUoq",
+                "target": false,
+                "type": "comment",
+                "body": "Tricho care pharma",
+                "created_utc": "2024-10-27 11:05:02 UTC",
+                "comment_id": "GO0APCT",
+                "submission_id": "kOhYrfV",
+                "parent_id": "xuRMbwx"
+            },
+            {
+                "user_id": "subject_5FrOKwo",
+                "target": false,
+                "type": "comment",
+                "body": "It looks like Seborrheic Dermatitis, go and see a dermatologist!",
+                "created_utc": "2024-10-27 11:29:01 UTC",
+                "comment_id": "1cCeaGK",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_4LfTPAQ",
+                "target": false,
+                "type": "comment",
+                "body": "Ketocanozole or 8xkt",
+                "created_utc": "2024-10-27 14:52:41 UTC",
+                "comment_id": "7bkTFtR",
+                "submission_id": "kOhYrfV",
+                "parent_id": "g3tTGeV"
+            },
+            {
+                "user_id": "subject_jrUBsoa",
+                "target": false,
+                "type": "comment",
+                "body": "I can give you my dermatitis hair routine\nDerco\u2019s antidandruff  shampoo M/W/F\nNizoral shampoo T/Th/Sa\nDercos soothing Sunday\n\nLeave on 2-5 mins.  Mix these up as needed.  As it improves you can lessen the use\u2026 but keep them in use to keep it at bay!  \nYou may also need a rx to get it under control if this doesn\u2019t work \n\n\n[Dercos antidandruff](https://www.vichy.ca/en_CA/DERCOS-ANTI-DANDRUFF-NORMAL-OILY.html)\n\n[Dercos soothing](https://www.vichy.ca/en_CA/3337875486736.html)",
+                "created_utc": "2024-10-27 14:59:55 UTC",
+                "comment_id": "Ez0df2W",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_jrUBsoa",
+                "target": false,
+                "type": "comment",
+                "body": "But also stop the minoxidil see if that helps\u2026 restart once you get your scalp under control",
+                "created_utc": "2024-10-27 15:00:42 UTC",
+                "comment_id": "SlSZtKB",
+                "submission_id": "kOhYrfV",
+                "parent_id": "Ez0df2W"
+            },
+            {
+                "user_id": "subject_R5XFnVG",
+                "target": false,
+                "type": "comment",
+                "body": "That\u2019s not minoxidil dandruff ,don\u2019t lie to yourself ,you my friend ,got what\u2019s called psoriasis ,begin your journey today don\u2019t waste time",
+                "created_utc": "2024-10-27 17:20:18 UTC",
+                "comment_id": "MyKTWRw",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_QR3dQxN",
+                "target": false,
+                "type": "comment",
+                "body": "Talk to a dermatologist",
+                "created_utc": "2024-10-27 19:35:24 UTC",
+                "comment_id": "8YpHKQr",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_VXzQocJ",
+                "target": false,
+                "type": "comment",
+                "body": "Get the 2% prescribed from your doctor.",
+                "created_utc": "2024-10-27 20:34:35 UTC",
+                "comment_id": "lrYpULu",
+                "submission_id": "kOhYrfV",
+                "parent_id": "3kUSZDx"
+            },
+            {
+                "user_id": "subject_E2qoT5U",
+                "target": false,
+                "type": "comment",
+                "body": "Use an alcohol free minoxidil from next time..Also visit a dermatologist for this dandruff issues.",
+                "created_utc": "2024-10-27 21:04:19 UTC",
+                "comment_id": "PfQ62zP",
+                "submission_id": "kOhYrfV",
+                "parent_id": "kOhYrfV"
+            },
+            {
+                "user_id": "subject_hJNbD2y",
+                "target": false,
+                "type": "comment",
+                "body": "Thanks man!",
+                "created_utc": "2024-10-28 04:56:31 UTC",
+                "comment_id": "sxuMFLR",
+                "submission_id": "kOhYrfV",
+                "parent_id": "Ez0df2W"
+            },
+            {
+                "user_id": "subject_aI11ymA",
+                "target": false,
+                "type": "comment",
+                "body": "Keep discussions civil.",
+                "created_utc": "2024-10-30 11:23:20 UTC",
+                "comment_id": "J71Hh0H",
+                "submission_id": "kOhYrfV",
+                "parent_id": "1JQRljh"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_XfqiRpk",
+            "target": false,
+            "type": "submission",
+            "title": "Do dating apps work in Hyderabad? ",
+            "body": "For men of this sub, how has your experience been using dating apps like Hinge, Bumble etc\nMine has not been very nice. I do get decent number of matches but the girls I match to don\u2019t really have anything to say as much. Maybe accidental swipes on my profile? XD\n\nWhich is why I\u2019m reaching out to you guys.\nHow have dating apps been treating you? \n\nA little background about me , I\u2019m 23 yo and have a corporate job which takes up lot of my time. Hence I turn to these apps to try finding someone similar. \n",
+            "created_utc": "2024-10-27 07:55:47 UTC",
+            "submission_id": "Ay1bHZX",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_NfQHHgz",
+                "target": false,
+                "type": "comment",
+                "body": "Same situation Bangalore",
+                "created_utc": "2024-10-27 07:59:22 UTC",
+                "comment_id": "SrQ3RAi",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_6r2nfbP",
+                "target": false,
+                "type": "comment",
+                "body": "Request to search the Sub as several posts on this topic are already there \n\nhttps://www.reddit.com/r/hyderabad/search/?q=Bumble&sort=new\n\nhttps://www.reddit.com/r/hyderabad/search/?q=Dating+Apps&sort=new",
+                "created_utc": "2024-10-27 08:00:20 UTC",
+                "comment_id": "ksjD7Sg",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_8QaSQ1G",
+                "target": false,
+                "type": "comment",
+                "body": "I met the love of my life on Bumble three years ago and married her about three months ago.",
+                "created_utc": "2024-10-27 08:11:45 UTC",
+                "comment_id": "j1wfG88",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_XfqiRpk",
+                "target": false,
+                "type": "comment",
+                "body": "Everyone likes to see this! Congratulations on your wedding!! \ud83e\udd73",
+                "created_utc": "2024-10-27 08:16:03 UTC",
+                "comment_id": "VL1l7xS",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "j1wfG88"
+            },
+            {
+                "user_id": "subject_XfqiRpk",
+                "target": false,
+                "type": "comment",
+                "body": "Quite a few posts \ud83d\ude05 damn",
+                "created_utc": "2024-10-27 08:16:18 UTC",
+                "comment_id": "QCYyovA",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "ksjD7Sg"
+            },
+            {
+                "user_id": "subject_XfqiRpk",
+                "target": false,
+                "type": "comment",
+                "body": "Modern problems, but no solutions \ud83e\udd72",
+                "created_utc": "2024-10-27 08:17:14 UTC",
+                "comment_id": "gp6Bjl9",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "SrQ3RAi"
+            },
+            {
+                "user_id": "subject_MIbMXAW",
+                "target": false,
+                "type": "comment",
+                "body": "Same here.. barely get any time after work, so started using bumble for about an year, but still 0 matches\ud83d\ude42\nAnd installed hinge last month and there also 0 matches..\nNever had a girlfriend in school, uni or even now. Just hope to get some love one day\ud83e\udd13",
+                "created_utc": "2024-10-27 08:20:05 UTC",
+                "comment_id": "Z2bx9pC",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_NfQHHgz",
+                "target": false,
+                "type": "comment",
+                "body": "Get rich",
+                "created_utc": "2024-10-27 08:21:06 UTC",
+                "comment_id": "ZdG0Txw",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "gp6Bjl9"
+            },
+            {
+                "user_id": "subject_kGGaZC8",
+                "target": false,
+                "type": "comment",
+                "body": "Apna hath Jagannath.",
+                "created_utc": "2024-10-27 08:22:49 UTC",
+                "comment_id": "56V0d6a",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_rmDkbYp",
+                "target": false,
+                "type": "comment",
+                "body": "Rule 1 : join fight club \nRule 2 : rule 1",
+                "created_utc": "2024-10-27 09:07:38 UTC",
+                "comment_id": "BW2f9vJ",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "OG. Your palm lines vanished?",
+                "created_utc": "2024-10-27 09:42:11 UTC",
+                "comment_id": "Gqx7iWS",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Z2bx9pC"
+            },
+            {
+                "user_id": "subject_MIbMXAW",
+                "target": false,
+                "type": "comment",
+                "body": "Nah..the disrespect \ud83d\ude2d",
+                "created_utc": "2024-10-27 11:11:47 UTC",
+                "comment_id": "gBwpHmF",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Gqx7iWS"
+            },
+            {
+                "user_id": "subject_AuAI9KT",
+                "target": false,
+                "type": "comment",
+                "body": "If you have to ask, I have some bad news",
+                "created_utc": "2024-10-27 11:48:24 UTC",
+                "comment_id": "uSRVh3t",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_SBN3COd",
+                "target": false,
+                "type": "comment",
+                "body": "Take a screenshot of the dating profile, put in on viwibot.com \n\nCopy and paste.",
+                "created_utc": "2024-10-27 12:21:41 UTC",
+                "comment_id": "1mCJiOR",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_Y2MIZgU",
+                "target": false,
+                "type": "comment",
+                "body": "Hanji bhaiya. Kaam tho karega, matches depends on you.\n\nHinge try Karo, P se start hone ladki walo se sambhalke Zara.",
+                "created_utc": "2024-10-27 12:27:48 UTC",
+                "comment_id": "vQ0LpF3",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_SbUSiUv",
+                "target": false,
+                "type": "comment",
+                "body": "Never have, never will.",
+                "created_utc": "2024-10-27 12:35:33 UTC",
+                "comment_id": "RDsr9x0",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_XfqiRpk",
+                "target": false,
+                "type": "comment",
+                "body": "Why so specific man? XD",
+                "created_utc": "2024-10-27 14:37:59 UTC",
+                "comment_id": "HV3bsSq",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "vQ0LpF3"
+            },
+            {
+                "user_id": "subject_Y2MIZgU",
+                "target": false,
+                "type": "comment",
+                "body": "It's just for laughs.",
+                "created_utc": "2024-10-27 14:59:27 UTC",
+                "comment_id": "mNVViaS",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "HV3bsSq"
+            },
+            {
+                "user_id": "subject_ULdfNaf",
+                "target": false,
+                "type": "comment",
+                "body": "Matched with someone on bumble 2 years back, been married to her for 10 months now.\n\nMy advise: Have extreme clarity on what you want, and only talk to people who reciprocate that",
+                "created_utc": "2024-10-27 14:59:56 UTC",
+                "comment_id": "5LfYb5Q",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "Ay1bHZX"
+            },
+            {
+                "user_id": "subject_CymJEdZ",
+                "target": false,
+                "type": "comment",
+                "body": "What's that?",
+                "created_utc": "2024-10-27 20:19:50 UTC",
+                "comment_id": "O31lpOO",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "1mCJiOR"
+            },
+            {
+                "user_id": "subject_SBN3COd",
+                "target": false,
+                "type": "comment",
+                "body": "It\u2019s just a conversation ai and free to use. Pretty basic.",
+                "created_utc": "2024-10-30 11:43:41 UTC",
+                "comment_id": "FthKpWX",
+                "submission_id": "Ay1bHZX",
+                "parent_id": "O31lpOO"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_h8cMh8p",
+            "target": false,
+            "type": "submission",
+            "title": "Got S9 fe lavender. Loving it!!",
+            "body": "",
+            "created_utc": "2024-10-29 04:50:49 UTC",
+            "submission_id": "j6CEwZd",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_DRHixud",
+                "target": false,
+                "type": "comment",
+                "body": "So pretty \ud83d\udc95",
+                "created_utc": "2024-10-29 05:54:08 UTC",
+                "comment_id": "M82Qp6C",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_VKv3bTD",
+                "target": false,
+                "type": "comment",
+                "body": "Enjoy!",
+                "created_utc": "2024-10-29 07:07:11 UTC",
+                "comment_id": "VxGv1IN",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_6Sv3ml2",
+                "target": false,
+                "type": "comment",
+                "body": "How is the multimedia experience?  Like netflix prime? Does the display deliver on HDR?",
+                "created_utc": "2024-10-29 08:01:59 UTC",
+                "comment_id": "oYfYYt7",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_aBq6zWg",
+                "target": false,
+                "type": "comment",
+                "body": "Nice! Config?",
+                "created_utc": "2024-10-29 09:01:21 UTC",
+                "comment_id": "Q2JlY7o",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_tHrT4O6",
+                "target": false,
+                "type": "comment",
+                "body": "Nicee! Customise and enjoy!",
+                "created_utc": "2024-10-29 09:58:37 UTC",
+                "comment_id": "PabNRug",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_zVk1nFV",
+                "target": false,
+                "type": "comment",
+                "body": "Hdr on s9fe??",
+                "created_utc": "2024-10-29 10:36:00 UTC",
+                "comment_id": "8CpOuHn",
+                "submission_id": "j6CEwZd",
+                "parent_id": "oYfYYt7"
+            },
+            {
+                "user_id": "subject_zVk1nFV",
+                "target": false,
+                "type": "comment",
+                "body": "I am waiting for mine",
+                "created_utc": "2024-10-29 10:40:28 UTC",
+                "comment_id": "QW6rmZp",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_zo5VqZW",
+                "target": false,
+                "type": "comment",
+                "body": "I own S9 FE+, and I have to say that multimedia experience is pretty solid. Colours are good, only blacks could be better, speakers are good too (but require some EQ to sound good. Without EQ, the sound is quite thin and unnatural). It is Widevine L1 certified, so Netflix works in FullHD, as well as other streaming services. \n\nDRMinfo shows that there is an HDR10 certification, but Netflix doesn't recognise it.",
+                "created_utc": "2024-10-29 10:53:29 UTC",
+                "comment_id": "FXUtiY2",
+                "submission_id": "j6CEwZd",
+                "parent_id": "oYfYYt7"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "It's dolby atoms and overall multimedia experience is good.",
+                "created_utc": "2024-10-29 14:24:34 UTC",
+                "comment_id": "mLTWd74",
+                "submission_id": "j6CEwZd",
+                "parent_id": "oYfYYt7"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "any tips?",
+                "created_utc": "2024-10-29 14:30:18 UTC",
+                "comment_id": "nDtPRO5",
+                "submission_id": "j6CEwZd",
+                "parent_id": "PabNRug"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "6/128 wifi",
+                "created_utc": "2024-10-29 14:30:56 UTC",
+                "comment_id": "aYA5B30",
+                "submission_id": "j6CEwZd",
+                "parent_id": "Q2JlY7o"
+            },
+            {
+                "user_id": "subject_Hvktn2F",
+                "target": false,
+                "type": "comment",
+                "body": "*Lavender! Yuck!*",
+                "created_utc": "2024-10-29 19:24:23 UTC",
+                "comment_id": "IXCe77u",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_rOdSdMk",
+                "target": false,
+                "type": "comment",
+                "body": "My old S20 FE is lavender and it looks pink under certain lighting conditions. I say your tablet looks nice. Will you put on a case?",
+                "created_utc": "2024-10-29 19:34:52 UTC",
+                "comment_id": "AmBL4zw",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_rOdSdMk",
+                "target": false,
+                "type": "comment",
+                "body": "My old S20 FE is lavender and it looks pink under certain lighting conditions. I say your tablet looks nice. Will you put on a case?",
+                "created_utc": "2024-10-29 19:34:52 UTC",
+                "comment_id": "Qr5oV5o",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_ToYGv7y",
+                "target": false,
+                "type": "comment",
+                "body": "I was really considering this tablet until I found out you can get an S8 plus for around the same price.",
+                "created_utc": "2024-10-29 22:33:03 UTC",
+                "comment_id": "HjUeJX3",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, sometimes It looks pink in photos and lights. But it looks good.\nI got navy blue flip cover. It covered back portion.",
+                "created_utc": "2024-10-30 02:35:03 UTC",
+                "comment_id": "h0quv4n",
+                "submission_id": "j6CEwZd",
+                "parent_id": "Qr5oV5o"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "No, that wasn't available on my location.",
+                "created_utc": "2024-10-30 02:37:45 UTC",
+                "comment_id": "WcCUZYa",
+                "submission_id": "j6CEwZd",
+                "parent_id": "HjUeJX3"
+            },
+            {
+                "user_id": "subject_v2J5hKD",
+                "target": false,
+                "type": "comment",
+                "body": "+1",
+                "created_utc": "2024-10-30 02:50:01 UTC",
+                "comment_id": "NjvPFoL",
+                "submission_id": "j6CEwZd",
+                "parent_id": "nDtPRO5"
+            },
+            {
+                "user_id": "subject_v2J5hKD",
+                "target": false,
+                "type": "comment",
+                "body": "My S9 FE Lavender mostly looks pink. I did put on a case because I keep the device on hard surfaces like a table and don't really want scratches. I remove the cover only when using it holding it in my hand but mostly do have my flip case on.",
+                "created_utc": "2024-10-30 02:51:27 UTC",
+                "comment_id": "wNPeVGE",
+                "submission_id": "j6CEwZd",
+                "parent_id": "AmBL4zw"
+            },
+            {
+                "user_id": "subject_vu0Hbrm",
+                "target": false,
+                "type": "comment",
+                "body": "Sweet, get a clear silicon case for it mate, stop it sliding about",
+                "created_utc": "2024-10-30 05:15:52 UTC",
+                "comment_id": "tOzniXL",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_RyRjbm3",
+                "target": false,
+                "type": "comment",
+                "body": "Ahh \ud83d\ude4c\ud83c\udffc I wanted this one or the mint green one. Sadly, it went out of stock before I could place an order. Had to get a grey one.\nNevertheless, I can put a pastel cover on it \ud83e\udd79",
+                "created_utc": "2024-10-30 07:37:33 UTC",
+                "comment_id": "Qvl8OeO",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "https://preview.redd.it/a5c1u161quxd1.jpeg?width=3060&format=pjpg&auto=webp&s=8811b2c3c3b9d56c07f672628f3b59e47a87e04f\n\nI got this flip cover(navy blue)",
+                "created_utc": "2024-10-30 08:08:30 UTC",
+                "comment_id": "3ExwQP1",
+                "submission_id": "j6CEwZd",
+                "parent_id": "wNPeVGE"
+            },
+            {
+                "user_id": "subject_ChESS7J",
+                "target": true,
+                "type": "comment",
+                "body": "is it?",
+                "created_utc": "2024-10-30 10:22:52 UTC",
+                "comment_id": "aERqkvd",
+                "submission_id": "j6CEwZd",
+                "parent_id": "HjUeJX3"
+            },
+            {
+                "user_id": "subject_ToYGv7y",
+                "target": false,
+                "type": "comment",
+                "body": "Well you're not gonna be able to get a brand new one you'd have to get a used one online.",
+                "created_utc": "2024-10-30 14:23:44 UTC",
+                "comment_id": "FgbKb8m",
+                "submission_id": "j6CEwZd",
+                "parent_id": "WcCUZYa"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "I got navy blue flip cover",
+                "created_utc": "2024-10-30 15:51:53 UTC",
+                "comment_id": "sEC7kcM",
+                "submission_id": "j6CEwZd",
+                "parent_id": "tOzniXL"
+            },
+            {
+                "user_id": "subject_h8cMh8p",
+                "target": false,
+                "type": "comment",
+                "body": "Grey looks good too. I initially ordered it in light green and then changed it to lavender.",
+                "created_utc": "2024-10-30 15:56:57 UTC",
+                "comment_id": "LQUQY1E",
+                "submission_id": "j6CEwZd",
+                "parent_id": "Qvl8OeO"
+            },
+            {
+                "user_id": "subject_FJ6yuyn",
+                "target": false,
+                "type": "comment",
+                "body": "Just look so good, congrats \ud83d\ude0d\ud83d\udc95",
+                "created_utc": "2024-10-30 18:34:26 UTC",
+                "comment_id": "iGGhFdu",
+                "submission_id": "j6CEwZd",
+                "parent_id": "j6CEwZd"
+            },
+            {
+                "user_id": "subject_vu0Hbrm",
+                "target": false,
+                "type": "comment",
+                "body": "Nice, protect that treasure!",
+                "created_utc": "2024-10-30 19:23:53 UTC",
+                "comment_id": "SiNXC0t",
+                "submission_id": "j6CEwZd",
+                "parent_id": "sEC7kcM"
+            }
+        ]
+    }
+]

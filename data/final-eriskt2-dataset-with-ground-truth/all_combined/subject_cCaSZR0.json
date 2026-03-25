@@ -1,0 +1,607 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "No scope op flick \ud83d\ude33 (I have a channel /Vorthecz/)",
+            "body": "",
+            "created_utc": "2021-09-02 11:20:13 UTC",
+            "submission_id": "Pkj7rcz",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "Yo I have a problem with fabric mods",
+            "body": "",
+            "created_utc": "2022-01-25 12:16:57 UTC",
+            "submission_id": "YDhNWy9",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "if u could help me thanks",
+                "created_utc": "2022-01-25 12:17:18 UTC",
+                "comment_id": "FjCZwz5",
+                "submission_id": "YDhNWy9",
+                "parent_id": "YDhNWy9"
+            },
+            {
+                "user_id": "subject_rOZPf0o",
+                "target": false,
+                "type": "comment",
+                "body": "You can't use starlight with phosphor, choose one.",
+                "created_utc": "2022-01-25 12:28:20 UTC",
+                "comment_id": "FdsqSzw",
+                "submission_id": "YDhNWy9",
+                "parent_id": "YDhNWy9"
+            },
+            {
+                "user_id": "subject_A8efJ8i",
+                "target": false,
+                "type": "comment",
+                "body": "You can\u2019t use starlight and phosphor chose 1",
+                "created_utc": "2022-01-25 15:29:56 UTC",
+                "comment_id": "oTF9AdG",
+                "submission_id": "YDhNWy9",
+                "parent_id": "YDhNWy9"
+            },
+            {
+                "user_id": "subject_0Za8dLO",
+                "target": false,
+                "type": "comment",
+                "body": "You have both phosphor and startlight installed, which are incompatable. I\u2019d suggest keeping starlight and removing phosphor. In the future, i\u2019d suggest going through the error log before posting it to reddit. Most of the time when it shows up, you will see the mod/s that are conflicting/don\u2019t work at the top. Disable those mods and try again, and it should work. Then, add the mods back to your mods folder in order of priority, removing them again if they cause the error. Hope that helps!",
+                "created_utc": "2022-01-25 18:40:45 UTC",
+                "comment_id": "9Qq3Myc",
+                "submission_id": "YDhNWy9",
+                "parent_id": "YDhNWy9"
+            },
+            {
+                "user_id": "subject_uJ8O3cF",
+                "target": false,
+                "type": "comment",
+                "body": "Phosphor and starlight both do thing to the way lighting is rendered, which makes them incompatible, so choose one of them. Like some else on here said keep starlight. Remove phosphor because starlight is better performance wise.",
+                "created_utc": "2022-01-26 04:37:00 UTC",
+                "comment_id": "WSUj2bF",
+                "submission_id": "YDhNWy9",
+                "parent_id": "YDhNWy9"
+            },
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "i removed one of em and the game crashes when I launch it for some reason ):",
+                "created_utc": "2022-01-26 14:46:55 UTC",
+                "comment_id": "8uHy0Tn",
+                "submission_id": "YDhNWy9",
+                "parent_id": "WSUj2bF"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "[FOR HIRE]",
+            "body": "Hello, I am a video editor looking to work for clients of different niches, may it be gaming videos to commentary.\n\nI use adobe premiere pro as my editing software. I have been editing since I was in highschool as a hobby, but now I want to pursue it as a career. I am also currently a 1st Year Multimedia Arts Student Scholar :DD.\n\nAnd about my rates, it depends on your budget tbh and I'd be happy to negotiate and talk to you about it!\n\nHere is my portfolio: [https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ndm me on discord: vorthecz\n\ngmail: [geometry.dash.sans@gmail.com](mailto:geometry.dash.sans@gmail.com)\n\nLOOKING FORWARD TO WORKING WITH YOU!!! :DD",
+            "created_utc": "2024-09-02 15:24:20 UTC",
+            "submission_id": "ozFwfnQ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "UP!!!",
+                "created_utc": "2024-09-03 04:08:50 UTC",
+                "comment_id": "gMgQPNr",
+                "submission_id": "ozFwfnQ",
+                "parent_id": "ozFwfnQ"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "deleted_user",
+            "target": false,
+            "type": "submission",
+            "title": "Looking for an editor",
+            "body": "[deleted]",
+            "created_utc": "2024-09-03 02:46:42 UTC",
+            "submission_id": "nHnI7T2",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_G4p2Qhw",
+                "target": false,
+                "type": "comment",
+                "body": "I dm you",
+                "created_utc": "2024-09-03 02:54:32 UTC",
+                "comment_id": "co1Gma3",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_AbvmX8F",
+                "target": false,
+                "type": "comment",
+                "body": "dm sent",
+                "created_utc": "2024-09-03 03:35:16 UTC",
+                "comment_id": "aTTPKVi",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_1RWoF3Y",
+                "target": false,
+                "type": "comment",
+                "body": "I DMed you.\n\nhere's a link to my portfolio: [https://www.behance.net/torrelzo](https://www.behance.net/torrelzo)",
+                "created_utc": "2024-09-03 04:22:31 UTC",
+                "comment_id": "TQG3eGS",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_xZmjoGP",
+                "target": false,
+                "type": "comment",
+                "body": "Sent you DM",
+                "created_utc": "2024-09-03 04:57:38 UTC",
+                "comment_id": "IA28ofn",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_BcPqb4i",
+                "target": false,
+                "type": "comment",
+                "body": "check DM",
+                "created_utc": "2024-09-03 08:20:02 UTC",
+                "comment_id": "bbtn5DF",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "dm sent!",
+                "created_utc": "2024-09-03 08:21:40 UTC",
+                "comment_id": "D2eo6lD",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_N3yV9qj",
+                "target": false,
+                "type": "comment",
+                "body": "Interested",
+                "created_utc": "2024-09-03 10:28:33 UTC",
+                "comment_id": "W5L97Jf",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            },
+            {
+                "user_id": "subject_ELfeyea",
+                "target": false,
+                "type": "comment",
+                "body": "I DM'd you",
+                "created_utc": "2024-09-03 18:51:32 UTC",
+                "comment_id": "s1u7DwJ",
+                "submission_id": "nHnI7T2",
+                "parent_id": "nHnI7T2"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "GAMING/FRAG MONTAGE/ VIDEO EDITOR FOR HIRE",
+            "body": "Hello There! I am an experienced video editor in the field of gaming montages/frag montages. I can make you highlight reels from any game :DD (Though I mostly make valorant montages zzz). I can also edit a variety of edits. Just tell me how you want the video you want to look like and we can talk about it. The prices may vary on your budget, your pay will reflect on the quality of the vid. The higher the better. \n\n  \nHere is my portfolio zzzz :vv\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ndiscord: vorthecz\n\nLooking forward to working with youuuu <33",
+            "created_utc": "2024-09-06 02:10:04 UTC",
+            "submission_id": "lRFzqDm",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_pn4wd4I",
+                "target": false,
+                "type": "comment",
+                "body": "Hey,Are you open to video editing?",
+                "created_utc": "2024-09-07 13:21:30 UTC",
+                "comment_id": "NVmob7Y",
+                "submission_id": "lRFzqDm",
+                "parent_id": "lRFzqDm"
+            },
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "of course! sorry for the late reply tho )):",
+                "created_utc": "2024-09-08 05:06:28 UTC",
+                "comment_id": "tQa8p39",
+                "submission_id": "lRFzqDm",
+                "parent_id": "NVmob7Y"
+            },
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "I sent you a dm! :DD",
+                "created_utc": "2024-09-08 05:08:52 UTC",
+                "comment_id": "aNJI1rs",
+                "submission_id": "lRFzqDm",
+                "parent_id": "tQa8p39"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "GAMING MONTAGE MAKER/ VIDEO EDITOR FOR HIRE",
+            "body": "[removed]",
+            "created_utc": "2024-09-06 02:44:03 UTC",
+            "submission_id": "h0qQ5fP",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "GAMING/FRAG MONTAGE/ VIDEO EDITOR FOR HIRE\n",
+            "body": "[removed]",
+            "created_utc": "2024-09-06 02:44:44 UTC",
+            "submission_id": "mlQxsR2",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "[FOR HIRE]",
+            "body": "I am offering free editing services in order for me to build up my portfolio, and hopefully find long term connections with peopl :DDD\n\n  \nmy portfolio: [https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR?usp=drive\\_link](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR?usp=drive_link)\n\ndiscord: vorthecz",
+            "created_utc": "2024-09-09 09:32:54 UTC",
+            "submission_id": "DPThqGK",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "UPUPUP!!! \n\nAlready had done one edit for a client! chat while you still can :DD",
+                "created_utc": "2024-09-10 04:32:23 UTC",
+                "comment_id": "i6tUa3q",
+                "submission_id": "DPThqGK",
+                "parent_id": "DPThqGK"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "OFFERING FREE EDITS!!!",
+            "body": "I am offering free editing services in order for me to build up my portfolio, and hopefully find long term connections with peopl :DDD\n\n  \nmy portfolio: [https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR?usp=drive\\_link](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR?usp=drive_link)\n\ndiscord: vorthecz",
+            "created_utc": "2024-09-09 09:34:05 UTC",
+            "submission_id": "jjehegN",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "UPUPUP!!! \n\nAlready had done one edit for a client! chat while you still can :DD",
+                "created_utc": "2024-09-10 04:33:34 UTC",
+                "comment_id": "nlxbq4C",
+                "submission_id": "jjehegN",
+                "parent_id": "jjehegN"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "OFFERING FREE EDITS",
+            "body": "[removed]",
+            "created_utc": "2024-09-09 09:34:24 UTC",
+            "submission_id": "GL4dZ9p",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "OFFERING FREE EDITS",
+            "body": "I am offering free editing services in order for me to build up my portfolio, and hopefully find long term connections with peopl :DDD\n\n  \nmy portfolio: [https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR?usp=drive\\_link](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR?usp=drive_link)\n\ndiscord: vorthecz",
+            "created_utc": "2024-09-09 09:35:03 UTC",
+            "submission_id": "t2OCjgt",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "UPUPUP!!! \n\nAlready had done one edit for a client! chat while you still can :DD",
+                "created_utc": "2024-09-10 04:33:11 UTC",
+                "comment_id": "USz7Mco",
+                "submission_id": "t2OCjgt",
+                "parent_id": "t2OCjgt"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "VIDEO EDITOR LOOKING FOR CLIENTS!!!",
+            "body": "[removed]",
+            "created_utc": "2024-09-15 07:31:25 UTC",
+            "submission_id": "EiAZegM",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "VIDEO EDITOR LOOKING FOR CLIENTS",
+            "body": "Hey. I'm a video editor for hire. I mostly create gaming content like highlights, but also a variety of kinds of edit  like vlogs. My blade in battle is Adobe Premiere Pro.\n\nHERE IS MY PORTFOLIO:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ncontact me!!!:\n\ndiscord (vorthecz)\n\ngmail (geometry.dash.sans@gmail.com)",
+            "created_utc": "2024-09-15 07:32:00 UTC",
+            "submission_id": "MHZLgk3",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_0EQDmWr",
+                "target": false,
+                "type": "comment",
+                "body": "hey! i badly need an editor rn. Kindly check my discord message pls",
+                "created_utc": "2024-09-15 11:22:14 UTC",
+                "comment_id": "plvVh4H",
+                "submission_id": "MHZLgk3",
+                "parent_id": "MHZLgk3"
+            },
+            {
+                "user_id": "subject_Uc4cczi",
+                "target": false,
+                "type": "comment",
+                "body": "i can help you with editing , dm me",
+                "created_utc": "2024-09-15 11:34:50 UTC",
+                "comment_id": "8s6vmSW",
+                "submission_id": "MHZLgk3",
+                "parent_id": "plvVh4H"
+            },
+            {
+                "user_id": "subject_0EQDmWr",
+                "target": false,
+                "type": "comment",
+                "body": "thank u guys! i already found one!",
+                "created_utc": "2024-09-19 05:56:40 UTC",
+                "comment_id": "Onasv3w",
+                "submission_id": "MHZLgk3",
+                "parent_id": "plvVh4H"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "VIDEO EDITOR FOR HIRE",
+            "body": "Hey. I'm a video editor for hire. I mostly create gaming content like highlights, but also a variety of kinds of edit  like vlogs. My blade in battle is Adobe Premiere Pro.\n\nHERE IS MY PORTFOLIO:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ncontact me!!!:\n\ndiscord (vorthecz)\n\ngmail (geometry.dash.sans@gmail.com)",
+            "created_utc": "2024-09-15 07:32:36 UTC",
+            "submission_id": "heZacIl",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "upupup!!!",
+                "created_utc": "2024-09-15 09:48:03 UTC",
+                "comment_id": "2zTlUhj",
+                "submission_id": "heZacIl",
+                "parent_id": "heZacIl"
+            },
+            {
+                "user_id": "subject_UKnxS5d",
+                "target": false,
+                "type": "comment",
+                "body": "Hey, I've sent you a dm on reddit.",
+                "created_utc": "2024-09-17 07:20:06 UTC",
+                "comment_id": "XPHW8bf",
+                "submission_id": "heZacIl",
+                "parent_id": "heZacIl"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "VIDEO EDITOR LOOKING FOR CLIENTS!!!",
+            "body": "Hey. I'm a video editor for hire. I mostly create gaming content like highlights, but also a variety of kinds of edit like vlogs. My blade in battle is Adobe Premiere Pro.\n\nJust got done with one client and I am planning to work with another one!!!\n\nHERE IS MY PORTFOLIO:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ncontact me!!!:\n\ndiscord (vorthecz)\n\ngmail ([geometry.dash.sans@gmail.com](mailto:geometry.dash.sans@gmail.com))",
+            "created_utc": "2024-09-16 00:12:45 UTC",
+            "submission_id": "1wNgWIj",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "VIDEO EDITOR FOR VARIOUS KINDS OF CONTENT FOR HIRE!!!",
+            "body": "Hey. I'm a video editor for hire and looking for a job ASAP. I mostly create gaming content like highlights, but also a variety of kinds of edit like vlogs. My blade in battle is Adobe Premiere Pro.\n\nDM me and I'll send you my rates.\n\nJust got done with one client and I am planning to work with another one!!!\n\nHERE IS MY PORTFOLIO:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ncontact me!!!:\n\ndiscord (vorthecz)\n\ngmail ([geometry.dash.sans@gmail.com](mailto:geometry.dash.sans@gmail.com))",
+            "created_utc": "2024-09-17 04:25:12 UTC",
+            "submission_id": "TrP5gbO",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "upupupupup!!!!",
+                "created_utc": "2024-09-17 04:25:26 UTC",
+                "comment_id": "ooMjs4P",
+                "submission_id": "TrP5gbO",
+                "parent_id": "TrP5gbO"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_dkgg87y",
+            "target": false,
+            "type": "submission",
+            "title": "Looking to hire a good .exe style video editor",
+            "body": "Am looking to hire an experienced .exe style editor in the gaming space. If your experienced lmk.",
+            "created_utc": "2024-10-05 15:19:52 UTC",
+            "submission_id": "CNwiLwx",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_cCaSZR0",
+                "target": true,
+                "type": "comment",
+                "body": "CHECK DMS!!!",
+                "created_utc": "2024-10-05 16:12:32 UTC",
+                "comment_id": "wXji9qM",
+                "submission_id": "CNwiLwx",
+                "parent_id": "CNwiLwx"
+            },
+            {
+                "user_id": "subject_FOz7cvI",
+                "target": false,
+                "type": "comment",
+                "body": "Check DMs",
+                "created_utc": "2024-10-05 18:12:54 UTC",
+                "comment_id": "wCuAzWT",
+                "submission_id": "CNwiLwx",
+                "parent_id": "CNwiLwx"
+            },
+            {
+                "user_id": "subject_9994yBw",
+                "target": false,
+                "type": "comment",
+                "body": "\nHi \n\nI\u2019m a skilled video editor with [4 years] of experience, specializing in creating high-quality, engaging content. From seamless transitions to creative effects, I ensure your videos are polished and tailored to your style.\n\nLooking forward to the opportunity to work with you!\n\nBest,\nBhavishya \nSome examples of my work\n\nhttps://youtube.com/@past-temvara?si=4ioc9U6K4K1511a5\n\nhttps://youtu.be/-ch65lH4brE?si=9uz_WWxQl_qOkejZ",
+                "created_utc": "2024-10-06 15:02:28 UTC",
+                "comment_id": "kNDdon6",
+                "submission_id": "CNwiLwx",
+                "parent_id": "CNwiLwx"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "VIDEO AND PHOTO EDITOR FOR HIRE!!!",
+            "body": "Hey. I'm a video editor for hire and looking for a job ASAP. I mostly create gaming content like highlights, but also a variety of kinds of edit like vlogs. My blade in battle is Adobe Premiere Pro.\n\nI also make things like thumbnails and yt banners!!!\n\nI use Adobe Photoshop\n\nDM me and I'll send you my rates.\n\nJust got done with one client and I am planning to work with another one!!!\n\nHERE IS MY PORTFOLIO:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\ncontact me!!!:\n\ndiscord (vorthecz)\n\ngmail ([geometry.dash.sans@gmail.com](mailto:geometry.dash.sans@gmail.com))",
+            "created_utc": "2024-10-05 16:21:21 UTC",
+            "submission_id": "OO9scIE",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "GAMING VIDEO EDITOR FOR HIRE",
+            "body": "Hi, I am a video editor of all kinds, but I mainly do gaming videos.\n\nI have been video editing for fun since high school. I am currently a 1st year college student.\n\n\n\nI use Adobe Premiere Pro for my Video Editing.\n\nI also do a little bit of graphics like Thumbnails and Posters.\n\nI use Canva and Adobe Photoshop for said graphics.\n\n\n\nI have worked with 3 clients so far\n\n\n\nHere is my portfolio:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\n\n\nI also have a YT with old content :sob:: \n\n[https://youtube.com/@vorthecz6128?si=5AYL6QKaDX8cvkxV](https://youtube.com/@vorthecz6128?si=5AYL6QKaDX8cvkxV)\n\n\n\nLooking forward to working with you! :blush:",
+            "created_utc": "2024-10-16 09:06:04 UTC",
+            "submission_id": "0VCaaqR",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "GAMING VIDEO EDITOR FOR HIRE",
+            "body": "Hi, I am a video editor of all kinds, but I mainly do gaming videos.\n\nI have been video editing for fun since high school. I am currently a 1st year college student.\n\n\n\nI use Adobe Premiere Pro for my Video Editing.\n\nI also do a little bit of graphics like Thumbnails and Posters.\n\nI use Canva and Adobe Photoshop for said graphics.\n\n\n\nI have worked with 3 clients so far\n\n\n\nHere is my portfolio:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\n\n\nI also have a YT with old content :sob:: \n\n[https://youtube.com/@vorthecz6128?si=5AYL6QKaDX8cvkxV](https://youtube.com/@vorthecz6128?si=5AYL6QKaDX8cvkxV)\n\n\n\nLooking forward to working with you! :blush:",
+            "created_utc": "2024-10-16 09:06:26 UTC",
+            "submission_id": "YOuutrM",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_geSAMm9",
+                "target": false,
+                "type": "comment",
+                "body": "hi, i think i can help you. i have been watching all types of youtube videos from when i was young and i know games so i know how to edit videos for the right people to make it more intertaning and funny so if you are interested comment on this or you can go to my twitter @ QHushEdits. thx i hope we can work together",
+                "created_utc": "2024-10-16 18:43:51 UTC",
+                "comment_id": "VZQcTsq",
+                "submission_id": "YOuutrM",
+                "parent_id": "YOuutrM"
+            },
+            {
+                "user_id": "subject_fGUEcjY",
+                "target": false,
+                "type": "comment",
+                "body": "Yo! I saw that you are using Google Drive as a portfolio page. Check out [https://nexus.malloy.sg](https://nexus.malloy.sg) to generate a video editor portfolio page for free. You should try it out! Hope this helps \ud83d\ude4f\ud83c\udffc. P.S. You can get jobs there too.",
+                "created_utc": "2024-10-17 04:51:00 UTC",
+                "comment_id": "EH31FwE",
+                "submission_id": "YOuutrM",
+                "parent_id": "YOuutrM"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_cCaSZR0",
+            "target": true,
+            "type": "submission",
+            "title": "GAMING VIDEO EDITOR FOR HIRE",
+            "body": "Hi, I am a video editor of all kinds, but I mainly do gaming videos.\n\nI have been video editing for fun since high school. I am currently a 1st year college student.\n\n\n\nI use Adobe Premiere Pro for my Video Editing.\n\nI also do a little bit of graphics like Thumbnails and Posters.\n\nI use Canva and Adobe Photoshop for said graphics.\n\n\n\nI have worked with 3 clients so far\n\n\n\nHere is my portfolio:\n\n[https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR](https://drive.google.com/drive/folders/1kEMPUeE6rg3CMxN1GktIwZH8WeEA93yR)\n\n\n\nI also have a YT with old content :sob:: \n\n[https://youtube.com/@vorthecz6128?si=5AYL6QKaDX8cvkxV](https://youtube.com/@vorthecz6128?si=5AYL6QKaDX8cvkxV)\n\n  \nContact me:\n\nDISCORD: vorthecz\n\nLooking forward to working with you! :blush:",
+            "created_utc": "2024-10-16 09:13:10 UTC",
+            "submission_id": "BOkvgmj",
+            "parent_id": null
+        },
+        "comments": []
+    }
+]

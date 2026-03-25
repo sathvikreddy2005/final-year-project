@@ -1,0 +1,1343 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "How I can convert amplitude from db to dbV ?",
+            "body": "https://preview.redd.it/xbw2lhvi1z5d1.jpg?width=1199&format=pjpg&auto=webp&s=d2130a135604278dc07deb4a250a4b5e63c70189\n\n",
+            "created_utc": "2024-06-11 16:44:17 UTC",
+            "submission_id": "xOk4Vvt",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_Ms8G6xc",
+                "target": false,
+                "type": "comment",
+                "body": "Assuming you are talking voltages here, dB typically would refer to\n\n20log\u2081\u2080(v\u2092/v\u1d62)\n\ndbV would mean your v\u1d62=1 volt",
+                "created_utc": "2024-06-11 17:14:47 UTC",
+                "comment_id": "YigFDaG",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "xOk4Vvt"
+            },
+            {
+                "user_id": "subject_wm6WxYB",
+                "target": false,
+                "type": "comment",
+                "body": "To elaborate on this, dB is *always* a ratio of two powers. This is why we need Vi\n\nIn the case you suggested, Po = Vo^(2)/Ro and Pi =Vi^(2)/Ri\n\nTaking 10log(Po/Pi) = 10log( (Vo^(2)/Ro) / (Vi^(2)/Ri)) = 20log(Vo/Vi) *if* Ro=Ri\n\nOf course, if we choose Vi=1 for the sake of comparison to a reference level, then we also choose Ro=Ri",
+                "created_utc": "2024-06-11 17:33:22 UTC",
+                "comment_id": "HoMF8sc",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "YigFDaG"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "But how can I know if my Vi=1 ?",
+                "created_utc": "2024-06-12 02:52:31 UTC",
+                "comment_id": "k5p0nlH",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "HoMF8sc"
+            },
+            {
+                "user_id": "subject_wm6WxYB",
+                "target": false,
+                "type": "comment",
+                "body": "The whole point of dBV is to say \"this is the power level of my signal relative to a 1V signal driving the same impedance\"",
+                "created_utc": "2024-06-12 02:54:11 UTC",
+                "comment_id": "x3Uj67e",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "k5p0nlH"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "It's always like that, always in relation to a 1V ?",
+                "created_utc": "2024-06-12 04:09:16 UTC",
+                "comment_id": "NQH69kO",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "x3Uj67e"
+            },
+            {
+                "user_id": "subject_wm6WxYB",
+                "target": false,
+                "type": "comment",
+                "body": "That's what dBV means, yeah. The power of one signal relative to the power of a 1V signal \n\ndB in general is the ratio of two powers",
+                "created_utc": "2024-06-12 04:13:20 UTC",
+                "comment_id": "WdrkQRi",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "NQH69kO"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Let's take a real example like the one in the graph attached to this post, so here in the attached graph I have 22.859 db at 100kHz which means that I have 22.859 dBv is it correct?",
+                "created_utc": "2024-06-12 08:47:14 UTC",
+                "comment_id": "1nTCCrb",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "WdrkQRi"
+            },
+            {
+                "user_id": "subject_wm6WxYB",
+                "target": false,
+                "type": "comment",
+                "body": "I don't know exactly what you have plotted in the graph. Is it the ratio of two signals? If not, then it's implied to be dBV already",
+                "created_utc": "2024-06-12 12:18:08 UTC",
+                "comment_id": "4JSQKS9",
+                "submission_id": "xOk4Vvt",
+                "parent_id": "1nTCCrb"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "  I/O Extension for Siemens 1200 PLC",
+            "body": "Hello everyone, I have a three-axis machine for palletizing, which was previously operated via the 840D numeric control. It incorporates :\n\n* three motors: two asynchronous motors and a third one operated through a driver. \n* 21 pneumatic suction cups.\n* 4 inductive sensors. \n* 3 limit switches.\n* 4 LVDT.\n\nAll these components are connected to a Siemens 1200 PLC and controlled by (HMI). I would like to know if I need an I/O extension for the PLC. Additionally, I would appreciate any suggestions, opinions, and advice that should be considered. \n\n  \nThanks ",
+            "created_utc": "2024-06-25 12:32:32 UTC",
+            "submission_id": "Vc6P6s7",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_J4j6Dvo",
+                "target": false,
+                "type": "comment",
+                "body": "A 1200 is a completely different controller then a 840D. Why no replace it with it successor the SINUMERIK ONE?\n\nThe 1200 is just a CPU so no IO included. If your goal is to replace the complete controller then first thing is to get a complete list of all the IO you need including any protocols like profinet. Then use the TIA Selection Tool to build up the rack and get a complete BOM which you need to order. Also make note of the HMI. Does it only work on a 840D or can you connect it to any other controller. Otherwise you will also need a new HMI (if the goal is to update the machine then also spec out a new HMI so everything is fully supported for the coming years).\n\nEDIT: Also get a full list of requirements so you know what to program in case you don't have the source code.",
+                "created_utc": "2024-06-25 14:41:59 UTC",
+                "comment_id": "pr6616d",
+                "submission_id": "Vc6P6s7",
+                "parent_id": "Vc6P6s7"
+            },
+            {
+                "user_id": "subject_f1LxZpO",
+                "target": false,
+                "type": "comment",
+                "body": "All 1200's have some IO on board. How much and what kind depends on model though.\nThe 1500 or ET200SP on the other hand is only CPU.",
+                "created_utc": "2024-06-26 10:18:41 UTC",
+                "comment_id": "2RSQrdC",
+                "submission_id": "Vc6P6s7",
+                "parent_id": "pr6616d"
+            },
+            {
+                "user_id": "subject_J4j6Dvo",
+                "target": false,
+                "type": "comment",
+                "body": "Ah Yes sorry got them confused",
+                "created_utc": "2024-06-26 11:04:18 UTC",
+                "comment_id": "lVg5VDM",
+                "submission_id": "Vc6P6s7",
+                "parent_id": "2RSQrdC"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Replace the encoder without reconfiguration ",
+            "body": "Hello everyone,  \n  \nI have a AC servo motor (Fanuc 1-OSP/3000). I would like to know if I need to reconfigure its position if I remove its encoder and replace it with another one.\n\nhttps://preview.redd.it/rdvg5bv0chad1.jpg?width=2136&format=pjpg&auto=webp&s=2658ee7bfb0c5e316d3d211300e832641a77fc61\n\n",
+            "created_utc": "2024-07-04 10:31:45 UTC",
+            "submission_id": "8YQDDWy",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_ZuHcM0B",
+                "target": false,
+                "type": "comment",
+                "body": "Hey, there! [Join our Discord server](https://discord.gg/dGE38VvvQw) and connect with like-minded individuals, share your knowledge, and learn from others! We offer a variety of channels to discuss programming, troubleshooting, and industry news. We would be delighted to have you become a part of our community! [https://discord.gg/dGE38VvvQw](https://discord.gg/dGE38VvvQw)\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Fanuc) if you have any questions or concerns.*",
+                "created_utc": "2024-07-04 10:31:46 UTC",
+                "comment_id": "v1VoWOo",
+                "submission_id": "8YQDDWy",
+                "parent_id": "8YQDDWy"
+            },
+            {
+                "user_id": "subject_WKLPvYv",
+                "target": false,
+                "type": "comment",
+                "body": "Yes if you remove the servo and disconnect the encoder, you will have to remaster the axis.",
+                "created_utc": "2024-07-05 12:49:32 UTC",
+                "comment_id": "mIDIgdZ",
+                "submission_id": "8YQDDWy",
+                "parent_id": "8YQDDWy"
+            },
+            {
+                "user_id": "subject_w4lG57e",
+                "target": false,
+                "type": "comment",
+                "body": "Yes.",
+                "created_utc": "2024-07-06 00:27:35 UTC",
+                "comment_id": "R4Dp2ey",
+                "submission_id": "8YQDDWy",
+                "parent_id": "8YQDDWy"
+            },
+            {
+                "user_id": "subject_BAQbGQY",
+                "target": false,
+                "type": "comment",
+                "body": "Yes single axis master. Don't forget to enable master. Good luck to you.",
+                "created_utc": "2024-07-06 00:45:00 UTC",
+                "comment_id": "6j4Zbxp",
+                "submission_id": "8YQDDWy",
+                "parent_id": "8YQDDWy"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Testing Asynchronous Motor Control with S7-1200 and HMI",
+            "body": "Hello everyone,\n\nI\u2019m setting up a test to control an asynchronous motor in both forward and reverse directions using a Siemens S7-1200 PLC with HMI inputs. The setup includes two auxiliary contactors for each direction and I want to implement safety measures to prevent both from engaging simultaneously.\n\nAs I'm fairly new to PLC programming, I'm looking for any advice, sample Ladder code, or tips on configuring the system effectively. Any insights on best practices or safety considerations would be very helpful.\n\nThank you in advance for your assistance!",
+            "created_utc": "2024-07-23 11:56:34 UTC",
+            "submission_id": "tMCnG2b",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_btDqEIb",
+                "target": false,
+                "type": "comment",
+                "body": "Since you don't use the term  interlock in your post I decided to Google \"ladder logic interlock\" \nThis was the first result and it's programmed in tia portal so I guess it'll solve your problem though I didn't read it\n\n\nhttps://www.theengineeringprojects.com/2022/02/interlock-in-ladder-logic-programming.html",
+                "created_utc": "2024-07-23 12:26:31 UTC",
+                "comment_id": "kFmR0bh",
+                "submission_id": "tMCnG2b",
+                "parent_id": "tMCnG2b"
+            },
+            {
+                "user_id": "subject_y8YOB2h",
+                "target": false,
+                "type": "comment",
+                "body": "Also include a dead timer so while motor is spinning down, reverse direction is not applied which subjects equipment to unnecessary stress",
+                "created_utc": "2024-07-23 12:50:11 UTC",
+                "comment_id": "69Q59C4",
+                "submission_id": "tMCnG2b",
+                "parent_id": "tMCnG2b"
+            },
+            {
+                "user_id": "subject_M6PYEJF",
+                "target": false,
+                "type": "comment",
+                "body": "Most manufacturers supply a mechanical interlock for reversing contactors. I would install this as well as electrical and software interlocking. Software should have a direction change delay too.",
+                "created_utc": "2024-07-23 14:40:51 UTC",
+                "comment_id": "V4Yd6R1",
+                "submission_id": "tMCnG2b",
+                "parent_id": "tMCnG2b"
+            },
+            {
+                "user_id": "subject_2oJqYcz",
+                "target": false,
+                "type": "comment",
+                "body": "Is a VFD out of the question?",
+                "created_utc": "2024-07-23 21:12:59 UTC",
+                "comment_id": "NMeiEoA",
+                "submission_id": "tMCnG2b",
+                "parent_id": "tMCnG2b"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Unfortunately yes",
+                "created_utc": "2024-07-28 09:07:41 UTC",
+                "comment_id": "RWK8vQQ",
+                "submission_id": "tMCnG2b",
+                "parent_id": "NMeiEoA"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Inductive Proximity Sensors",
+            "body": "Hello everyone,\n\nI am working on a project where I use two inductive proximity sensors as limit switches to control the stopping of a motor in both forward and reverse directions. The idea is that when one of the sensors detects a metallic presence, it should immediately stop the motor, regardless of the direction it is moving.\n\nI am programming with TIA Portal V15 and am looking for a simple ladder logic program to achieve this. I've found many examples online, but they mainly focus on speed or temperature counters, and I'm struggling to adapt those solutions to my needs.\n\nHas anyone here worked on a similar program or could point me towards a resource or an example that could help me get started? Any advice or guidance would be greatly appreciated.\n\nThank you in advance for your help!",
+            "created_utc": "2024-08-04 21:28:51 UTC",
+            "submission_id": "Ug21w9x",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_V8xF2ot",
+                "target": false,
+                "type": "comment",
+                "body": "You can\u2019t just survive on example programs\n\nThe skill of PLC programming is not learning how to use the software, it\u2019s learning how to think logically.\n\nWrite down all the steps (no matter how small) of the logic process you need\n\nThat should then build the code you need\n\nThen it\u2019s just a case of writing it in ladder so it achieves what you want it to do",
+                "created_utc": "2024-08-04 22:03:32 UTC",
+                "comment_id": "WLqg0PD",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_xJ04RRy",
+                "target": false,
+                "type": "comment",
+                "body": "I mean, this is pretty simple. \n\nAlso this sounds like homework. \n\nStop looking for a program and start writing one. If it doesn\u2019t work, start fixing it. The best way to learn is by doing.",
+                "created_utc": "2024-08-04 22:04:08 UTC",
+                "comment_id": "4nhUglt",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for your response. \n\nI want to clarify that this isn\u2019t a homework assignment. I asked the question to gather different ideas, opinions, and experiences, which are hard to find through a simple Google search. This project is a personal test that I'm undertaking. I have the necessary equipment, but as I am not an expert in this field, I'm cautious about experimenting without guidance, to avoid damaging my hardware.\n\nAny further advice or resources you could share would be greatly appreciated !",
+                "created_utc": "2024-08-04 22:28:55 UTC",
+                "comment_id": "RQYUP0B",
+                "submission_id": "Ug21w9x",
+                "parent_id": "4nhUglt"
+            },
+            {
+                "user_id": "subject_btDqEIb",
+                "target": false,
+                "type": "comment",
+                "body": "Read the wiring diagrams.\n\nTest the basics of your set up with screw or random piece of iron. \n\nWhat hardware do you have exactly?",
+                "created_utc": "2024-08-04 22:34:41 UTC",
+                "comment_id": "7Mcyqdy",
+                "submission_id": "Ug21w9x",
+                "parent_id": "RQYUP0B"
+            },
+            {
+                "user_id": "subject_btDqEIb",
+                "target": false,
+                "type": "comment",
+                "body": "I think maybe the biggest barrier might be reading the manual actually. I was reading an 800 page PDF at work and someone saw, shit a brick, and asked me if I would really read all of it. People aren't prepared for the amount of effort required and honestly it's not worth it for the money",
+                "created_utc": "2024-08-04 22:38:37 UTC",
+                "comment_id": "ZSKViDx",
+                "submission_id": "Ug21w9x",
+                "parent_id": "WLqg0PD"
+            },
+            {
+                "user_id": "subject_fz6Jd9n",
+                "target": false,
+                "type": "comment",
+                "body": "Assuming you're using a small DC motor being powered through contactors, not directly from the PLC, and under no load, you won't really have to worry about harming anything.\n\nLook at a latching motor starter circuit and go from there. You'll have start/stop switches, possibly a direction switch. The prox switches will just go online with that logic. You'll need to play around with it from there.",
+                "created_utc": "2024-08-04 22:55:34 UTC",
+                "comment_id": "emOVmRb",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_RcYSR81",
+                "target": false,
+                "type": "comment",
+                "body": "We shall leave this an an exercise for the reader to figure out.  This is a very basic control problem that can be solved with a few rungs.  Just note that the inductive sensor only needs to cut the power in one direction so the controller can reverse the drive away from the stop.  In many DC drives this is simply done by using a microswitch with a diode across the NC contacts in series with the motor.  The circuit is arranged so the switch open at the end of travel but the diode (oriented properly) will still allow current to flow to move in the opposite direction to allow moving off the stop.",
+                "created_utc": "2024-08-04 23:51:01 UTC",
+                "comment_id": "70U5JNd",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_W6SMpRD",
+                "target": false,
+                "type": "comment",
+                "body": "You're getting people assuming this is homework that you're trying to cheat because this is literally one of the problems you have when you're on day one of two days of \"introduction to plcs\" in electricians school. I'm pretty sure I have still have my hand drawn logic for this one from 4th year electrical classes.",
+                "created_utc": "2024-08-05 00:49:21 UTC",
+                "comment_id": "MQ8VLRu",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_sBfsqh8",
+                "target": false,
+                "type": "comment",
+                "body": "Or one rung with a lot of branches like one of my old bosses loved to use. Had to scroll over for a while to see the end of the rung.",
+                "created_utc": "2024-08-05 00:57:29 UTC",
+                "comment_id": "mUnrbgH",
+                "submission_id": "Ug21w9x",
+                "parent_id": "70U5JNd"
+            },
+            {
+                "user_id": "subject_Nj5tlrt",
+                "target": false,
+                "type": "comment",
+                "body": "Write a flowchart. Adapt the flowchart to a programming language. Write the program. Debug.",
+                "created_utc": "2024-08-05 01:44:47 UTC",
+                "comment_id": "nNn7E5Z",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_RcYSR81",
+                "target": false,
+                "type": "comment",
+                "body": "There is always that one, endless, permissive string.",
+                "created_utc": "2024-08-05 02:31:48 UTC",
+                "comment_id": "BxN7Mxu",
+                "submission_id": "Ug21w9x",
+                "parent_id": "mUnrbgH"
+            },
+            {
+                "user_id": "subject_eiiHhBw",
+                "target": false,
+                "type": "comment",
+                "body": "No need. Now you can just ask ChatGPT to write incorrect answers.",
+                "created_utc": "2024-08-05 02:34:18 UTC",
+                "comment_id": "Zqqp0GM",
+                "submission_id": "Ug21w9x",
+                "parent_id": "WLqg0PD"
+            },
+            {
+                "user_id": "subject_bxPpLZT",
+                "target": false,
+                "type": "comment",
+                "body": "Test/simulate without the hardware, then test with outputs de-energized.\n\nYour initial description has a typo, or won't work. If you program this so that either prox stops the motor regardless of direction, you'll struggle to move the motor again. Technically a way to make it work with edge contacts, but I'm not sure why you'd want to. This sounds like a basic prox to stop FWD and prox to stop REV issue.",
+                "created_utc": "2024-08-05 03:01:51 UTC",
+                "comment_id": "QyKKD2v",
+                "submission_id": "Ug21w9x",
+                "parent_id": "RQYUP0B"
+            },
+            {
+                "user_id": "subject_s7s5j6n",
+                "target": false,
+                "type": "comment",
+                "body": "I kind of love that everyone unanimously was like \u201cnope\u201d. The number of \u201ccan you guys create this straightforward code for me so I don\u2019t have to\u201d posts on here have hit an all time high. \n\nAnyone have any thoughts as to why? \n\nJust so that I\u2019m not only piling on I\u2019ll offer my obligatory hints for this one.\n\nThink about using flags as a state for your sensors. Don\u2019t just use the sensors themselves as the trigger to sop the motor. This will obviously put you in a stuck null loop situation.",
+                "created_utc": "2024-08-05 10:16:18 UTC",
+                "comment_id": "eRAtSGh",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_7IWyBkc",
+                "target": false,
+                "type": "comment",
+                "body": "Hint: stopping is the easy part. Re-starting takes more thought.",
+                "created_utc": "2024-08-05 12:55:55 UTC",
+                "comment_id": "0DaEbIu",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_75CSY3l",
+                "target": false,
+                "type": "comment",
+                "body": "I think the tjing that helped me the best was writing a flow diagram od the process. Then i could basiclly put it in code.",
+                "created_utc": "2024-08-05 13:58:44 UTC",
+                "comment_id": "bStozJq",
+                "submission_id": "Ug21w9x",
+                "parent_id": "WLqg0PD"
+            },
+            {
+                "user_id": "subject_jxTMzoX",
+                "target": false,
+                "type": "comment",
+                "body": "As long as you don't connect the motor it won't break anything and you can trigger the sensors with a wrench or whatever. you'll want to write yourself an \"e-stop\" button that turns off all PLC outputs in the event you write some cursed code (like turning the contactor on/off every cycle)",
+                "created_utc": "2024-08-05 14:18:48 UTC",
+                "comment_id": "XXrxiVJ",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            },
+            {
+                "user_id": "subject_Fk30a9b",
+                "target": false,
+                "type": "comment",
+                "body": "Start the motor with SET-RESET Block  place the sensor on the reset of the block when sensor gives input contactor stopw",
+                "created_utc": "2024-08-05 18:35:13 UTC",
+                "comment_id": "j0LL7sS",
+                "submission_id": "Ug21w9x",
+                "parent_id": "Ug21w9x"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Seeking Ladder Logic Example for Dual Valve Control with Level Sensors",
+            "body": "Hello everyone,\n\nI'm looking for a Ladder logic example to control two valves in a tank system based on level sensor inputs. The system involves:\n\n* **Two valves**: One for filling the tank via a motor and another for draining it.\n* **Level sensors**: Detect the minimum and maximum levels in the tank.\n* **Control logic**:\n   * When the **max level** is reached, the fill valve closes, preventing manual access to reopen it, while allowing manual control to open or close the drain valve.\n   * When the **min level** is reached, the drain valve closes, preventing manual access to reopen it, while allowing manual control to open or close the fill valve.\n   * If the level is between **min** and **max**, manual control should allow operation of either valve.\n\nI'm interested in finding a similar Ladder program to understand programming techniques and best practices. Any examples or guidance would be greatly appreciated.\n\nThank you in advance!",
+            "created_utc": "2024-08-28 12:59:11 UTC",
+            "submission_id": "P129ofd",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_QLlZJQ6",
+                "target": false,
+                "type": "comment",
+                "body": "As a progression try drawing the logical control with logic gates first then convert to ladder. Or do a truth table then convert to ladder.",
+                "created_utc": "2024-08-28 13:38:06 UTC",
+                "comment_id": "VEXQb8F",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_f89leVC",
+                "target": false,
+                "type": "comment",
+                "body": "Look within my son.",
+                "created_utc": "2024-08-28 14:13:42 UTC",
+                "comment_id": "dXu63mg",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the suggestion! That was actually my first thought\u2014I started by drawing the logical control using Boolean logic, and then planned to convert it to Ladder logic. However, I'm a bit unsure about how to represent the sensors in Boolean logic. Could you provide some guidance or examples on how to accurately represent the sensor inputs in the Boolean equations?",
+                "created_utc": "2024-08-28 14:52:56 UTC",
+                "comment_id": "ESoE3Qw",
+                "submission_id": "P129ofd",
+                "parent_id": "VEXQb8F"
+            },
+            {
+                "user_id": "subject_xJ04RRy",
+                "target": false,
+                "type": "comment",
+                "body": "If you want someone to do the work for you, you\u2019re gonna have to pony up the dough .",
+                "created_utc": "2024-08-28 15:24:12 UTC",
+                "comment_id": "VgcQz1u",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_KsLVLCh",
+                "target": false,
+                "type": "comment",
+                "body": "This feels very much like a school assignment...   \nAnd it's quite simple if you think it through. \n\nShow us what you've come up with to try so far",
+                "created_utc": "2024-08-28 16:51:00 UTC",
+                "comment_id": "RzrVVv4",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_mpa6aaO",
+                "target": false,
+                "type": "comment",
+                "body": "Sounds like he needs a pilgrimage doing IO checking for one of us, to find the knowledge within.",
+                "created_utc": "2024-08-28 17:49:35 UTC",
+                "comment_id": "UizEQS4",
+                "submission_id": "P129ofd",
+                "parent_id": "dXu63mg"
+            },
+            {
+                "user_id": "subject_btDqEIb",
+                "target": false,
+                "type": "comment",
+                "body": "xFillClosed := xMaxFillLevelReached or xFillManualClosed\n\nxDrainClosed := xLowFillLevelReached or xDrainManualClosed",
+                "created_utc": "2024-08-28 21:03:20 UTC",
+                "comment_id": "W4yVjHf",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_FLk5GZV",
+                "target": false,
+                "type": "comment",
+                "body": "One thing I was told very early on is to start with writing down what you want to happen.  A very simple example \u201cif switch is pressed then lamp-on\u201d. Then just replace the words switch, lamp and similar with their corresponding bits.  It obviously gets more complex when adding or words as branches and just more bits.  It\u2019s a good place to start.",
+                "created_utc": "2024-08-29 03:20:57 UTC",
+                "comment_id": "LlZ6st8",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_GQGHB4J",
+                "target": false,
+                "type": "comment",
+                "body": "If only there was a profession who got *paid* to convert a functional description into usable code.",
+                "created_utc": "2024-08-29 03:50:22 UTC",
+                "comment_id": "NJw5VjH",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            },
+            {
+                "user_id": "subject_VFKJxLu",
+                "target": false,
+                "type": "comment",
+                "body": "Paste that question into chatgpt and it'll shit out ladder logic for you.",
+                "created_utc": "2024-08-29 23:58:41 UTC",
+                "comment_id": "ZItwSMX",
+                "submission_id": "P129ofd",
+                "parent_id": "P129ofd"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Simulating Sensors in PLC s7-1200",
+            "body": "Hello everyone,\n\nI\u2019m working on a project where I need to control a motor using two sensors (max and min levels). The idea is to stop the motor once it reaches either of these levels. However, I currently don\u2019t have access to the physical inductive sensors and would like to simulate them directly in my PLC s7-1200 DC/DC/DC to test the response of my program.\n\nHas anyone here simulated sensors in a similar way before? Any advice on how to effectively simulate these sensors within the PLC for testing purposes would be really helpful.\n\nThanks in advance for your help!",
+            "created_utc": "2024-09-02 08:55:26 UTC",
+            "submission_id": "IskdsI2",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_NXpOC8q",
+                "target": false,
+                "type": "comment",
+                "body": "maybe you can try FactoryIO to simulate your program to some sensor available on it. factoryio have a bunch of sensors like proximity, photosensor, etc u can try on. but, if you really need to test on physical io, i guess the closest result to proximity will be using push button as an input device.",
+                "created_utc": "2024-09-02 09:51:30 UTC",
+                "comment_id": "uuNRKJN",
+                "submission_id": "IskdsI2",
+                "parent_id": "IskdsI2"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the suggestion! That\u2019s a great idea. I\u2019ll use push buttons to simulate the sensors in my program for now. It seems like a practical way to test the functionality without having the actual proximity sensors.",
+                "created_utc": "2024-09-02 09:59:01 UTC",
+                "comment_id": "qMII6bW",
+                "submission_id": "IskdsI2",
+                "parent_id": "uuNRKJN"
+            },
+            {
+                "user_id": "subject_NXpOC8q",
+                "target": false,
+                "type": "comment",
+                "body": "i would suggest to match your push button contact (NO/NC) to the proximity u going to use ahead for your project (sink/source). so you dont need to change your program when you actually use the proximity",
+                "created_utc": "2024-09-02 10:03:37 UTC",
+                "comment_id": "IMaN55w",
+                "submission_id": "IskdsI2",
+                "parent_id": "qMII6bW"
+            },
+            {
+                "user_id": "subject_ONGrcWk",
+                "target": false,
+                "type": "comment",
+                "body": "I would just create a new FC and use a counter that is increased when motor is going forward, and decreased when it's going backwards, then with a simple operation (motorPosition > maxLimit) connect it to a coil simulating that sensor, and the same for the other side but negative.\n\nEvery scan cycle the variable would be increased (it will increase very fast as the scan will likelly be 1-5ms), when certain \"simulated position\" is surpassed the simulated sensor would give a signal. If you have a encoder you can use the encoder instead.\n\nThis is a very non-polished way to do it, there is a lot of room for improvement, but if the purpose is just to simulate a travel it should be ennough.",
+                "created_utc": "2024-09-02 15:22:47 UTC",
+                "comment_id": "mGrARIU",
+                "submission_id": "IskdsI2",
+                "parent_id": "IskdsI2"
+            },
+            {
+                "user_id": "subject_vbcyCJR",
+                "target": false,
+                "type": "comment",
+                "body": "Isn't it enough to just force those inputs for testing?",
+                "created_utc": "2024-09-03 20:13:34 UTC",
+                "comment_id": "BLNYi3E",
+                "submission_id": "IskdsI2",
+                "parent_id": "IskdsI2"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Controlling SEW VFD via Modbus RS485 with PLC S7-1200",
+            "body": "Hello everyone,\n\nI am currently working on a project where I need to control a SEW EURODRIVE motor using its variable frequency drive (VFD) via Modbus RS485 communication. I\u2019m using a Siemens S7-1200 PLC and have configured the **MB\\_MASTER** block in TIA Portal to communicate with the VFD.\n\nMy goal is to send commands for forward, reverse, and stop to the VFD. However, I am struggling to identify the correct addresses for these actions in the **MB\\_MASTER** block.\n\nHere\u2019s what I\u2019m looking for:\n\n* **MB\\_ADDR**: The correct Modbus address for the VFD.\n* **MODE**: The communication mode.\n* **DATA\\_ADDR**: The Modbus register addresses to write for the forward, reverse, and stop commands.\n* **DATA\\_LEN**: The length of the data to write.\n\nI have consulted the \"MOVILINK Protocol\\_Modbus RS485\" ([https://x0.at/pYY7.pdf](https://x0.at/pYY7.pdf)) documentation, but I am having difficulty determining which addresses to use for these actions and whether they are bits or HEX registers.\n\nI\u2019ve also attached screenshots of my ladder diagrams to give an idea of the current setup.\n\nI tried to issue a right rotation command based on the documentationon page 4, which indicates that 4000hex = +100% for right rotation. I attempted this in writing mode by setting MODE = 1 and DATA\\_ADDR = 4000hex (16384 in decimal) + 400001 = 4163845, as shown in the attached screenshot.\n\nCould you please confirm if this approach is correct?\n\nHas anyone had experience configuring and controlling SEW EURODRIVE motors via Modbus RS485 with Siemens PLCs? Any guidance or insights would be greatly appreciated!\n\nThanks in advance for your help.\n\nhttps://preview.redd.it/a6by8srlzmnd1.jpg?width=944&format=pjpg&auto=webp&s=28e3114ff50d7695a0b2b678d4c4d7b126c76c0a\n\nhttps://preview.redd.it/ndbhvxrlzmnd1.jpg?width=694&format=pjpg&auto=webp&s=0746db66853ec89644c917a6241435bd5d1b8e58\n\nhttps://preview.redd.it/bylhosrlzmnd1.jpg?width=694&format=pjpg&auto=webp&s=69efabc8049114a21b140379763975c1cb1e1038\n\n  \n",
+            "created_utc": "2024-09-08 19:27:49 UTC",
+            "submission_id": "SdiwcxM",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "MB_ADDR is what you set on the drive.\n\n\nAnd you don't sum the 4000 to the address.\n\n\nAddress 1 is just 400001.",
+                "created_utc": "2024-09-08 19:51:41 UTC",
+                "comment_id": "vqPpJH0",
+                "submission_id": "SdiwcxM",
+                "parent_id": "SdiwcxM"
+            },
+            {
+                "user_id": "subject_1SEvUH6",
+                "target": false,
+                "type": "comment",
+                "body": "Hi, unfortunately, RS485 communication is limited to the Movilink protocol. Modbus is not supported. Which drive do you have exactly?\n\n\nYou can maybe do Modbus TCP, (some Ethernet/IP gateways support this) however Profinet (DFE32/MFE52B) would be simpler then. These units convert fieldbus to Serial Movilink. Although Movilink is well documented, I would not implement it in the PLC if you can buy a gateway.\u00a0\n\n\nIs this a hobby project?\u00a0",
+                "created_utc": "2024-09-08 20:04:36 UTC",
+                "comment_id": "Tx5KYeK",
+                "submission_id": "SdiwcxM",
+                "parent_id": "SdiwcxM"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Hi,\n\nThanks for your reply! I\u2019m working with the drive **MM03C-503-00**. You can find the complete documentation from the manufacturer here: [https://x0.at/doNt.pdf](https://x0.at/doNt.pdf).\n\nOn page 17 of the document, they mention the possibility of controlling the drive as a slave using a PLC master via RS485. It is therefore possible to do this with a Siemens S7-1200 PLC using its **CM1241 RS(422\\_485)** communication module. The only thing missing is inserting the correct **DATA\\_ADDR** values to control the drive for right or left rotation or to stop it.\n\nAs for your question, yes, it\u2019s kind of a hobby project for me to practice, since I have the equipment on hand, I thought I might as well give it a try.\n\nThanks again for your help!\n\nhttps://preview.redd.it/3l3p6bdbuqnd1.jpeg?width=783&format=pjpg&auto=webp&s=2c70c78b6140e03de95ad79328a565ab7cf7b128",
+                "created_utc": "2024-09-09 08:24:18 UTC",
+                "comment_id": "8sIyutv",
+                "submission_id": "SdiwcxM",
+                "parent_id": "Tx5KYeK"
+            },
+            {
+                "user_id": "subject_1SEvUH6",
+                "target": false,
+                "type": "comment",
+                "body": "No, it is not possible with the MB_MASTER block.\u00a0\nThe MM03C only communicates using MOVILINK, and MB_MASTER is for MODBUS.\u00a0\n\n\nYou can implement MOVILINK via Freeport, but there is no ready made FB for this.",
+                "created_utc": "2024-09-09 08:55:44 UTC",
+                "comment_id": "awnbLLg",
+                "submission_id": "SdiwcxM",
+                "parent_id": "8sIyutv"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for your response. However, it is indeed possible with Modbus, not MOVILINK. The MM03C drive supports the Modbus master-slave protocol, as indicated in the communication documentation for the SEW VFD (see attached page).\n\nhttps://preview.redd.it/s1crn3d1kund1.jpeg?width=1240&format=pjpg&auto=webp&s=bf48b9176511c69df4b565c2f32cf1f9605315da",
+                "created_utc": "2024-09-09 20:53:39 UTC",
+                "comment_id": "YOf43PC",
+                "submission_id": "SdiwcxM",
+                "parent_id": "awnbLLg"
+            },
+            {
+                "user_id": "subject_1SEvUH6",
+                "target": false,
+                "type": "comment",
+                "body": "Well, the page doesn't mention Modbus, does it?\n\nNot all RS485 is MODBUS, and not all MODBUS is RS485.\nRS485 defines the hardware signalling and MODBUS defines the data. \n\nYou can have Modbus over TCP and also MOVILINK over RS485. Send those exact bytes over Freeport and it will work. But don't use the Modbus FB",
+                "created_utc": "2024-09-10 23:37:15 UTC",
+                "comment_id": "vdZfbUd",
+                "submission_id": "SdiwcxM",
+                "parent_id": "YOf43PC"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Using Function Keys on HMI KTP400 Basic as Push Buttons",
+            "body": "Hello everyone,\n\nI am working with a Siemens HMI, model **KTP400 Basic (6AV2 123-2DB03-0AX0)**, and I would like to perform a test to see if it's possible to use the four function keys (F1, F2, F3, F4) as push buttons to control a motor.\n\nSpecifically, I want the motor to run when the button is pressed and stop when the button is released. Is this feasible, and what configuration steps would be necessary to achieve this behavior?\n\nPlease see the attached capture showing the four function keys for reference.\n\nThank you for your insights!\n\nhttps://preview.redd.it/rzn61fb53lod1.jpg?width=679&format=pjpg&auto=webp&s=4fb933d04315eb7f54a832ef48d847551f19fae3\n\n",
+            "created_utc": "2024-09-13 14:08:05 UTC",
+            "submission_id": "QozpWJU",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_9l5LLOZ",
+                "target": false,
+                "type": "comment",
+                "body": "ITs possible, IIRC you have to script the buttons to do something such as set/reset a variable",
+                "created_utc": "2024-09-13 14:29:34 UTC",
+                "comment_id": "32eE7HP",
+                "submission_id": "QozpWJU",
+                "parent_id": "QozpWJU"
+            },
+            {
+                "user_id": "subject_dT8vtkj",
+                "target": false,
+                "type": "comment",
+                "body": "They work like any other screen button. Select them, properties tab and then the one that let's you tell it on press/release/click/etc. Is where you'll add the functions.",
+                "created_utc": "2024-09-13 15:01:59 UTC",
+                "comment_id": "hZisThc",
+                "submission_id": "QozpWJU",
+                "parent_id": "32eE7HP"
+            },
+            {
+                "user_id": "subject_KFte0mZ",
+                "target": false,
+                "type": "comment",
+                "body": "The only problem with this is you need an older version of TIA to even program this version of the HMI.\n\nFunction key work, no problem..",
+                "created_utc": "2024-09-13 17:40:04 UTC",
+                "comment_id": "21lwGuD",
+                "submission_id": "QozpWJU",
+                "parent_id": "QozpWJU"
+            },
+            {
+                "user_id": "subject_GQGHB4J",
+                "target": false,
+                "type": "comment",
+                "body": "There is a GSDML you can use to have the pushbuttons show up as IO in the PLC project.",
+                "created_utc": "2024-09-13 18:14:47 UTC",
+                "comment_id": "4JT6t6P",
+                "submission_id": "QozpWJU",
+                "parent_id": "QozpWJU"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much for your reply!\n\nI now understand that the function keys work like regular screen buttons. However, could you guide me a bit more on how to configure the \"on press/release\" actions? Do you have any recommendations on where I can find documentation or maybe an example to help me understand how to assign these functions to the F1 to F4 keys?\n\nI really appreciate your help!",
+                "created_utc": "2024-09-16 14:01:14 UTC",
+                "comment_id": "jfYm2ti",
+                "submission_id": "QozpWJU",
+                "parent_id": "hZisThc"
+            },
+            {
+                "user_id": "subject_dT8vtkj",
+                "target": false,
+                "type": "comment",
+                "body": "I don't have documentation you can review, but:\n\nClick the button when you open a screen, and look in the properties window (typically bottom right if that inspector window is minimized). Under \"Events\" tab, you'll select what you want, I typically do release, and fill out \"<Add function>\" with something you need to do.\n\nCommon options are SetBit/ResetBit, (Increment/Decrement)Tag, etc. Tell those what tag to edit and bam. Done.",
+                "created_utc": "2024-09-16 14:16:23 UTC",
+                "comment_id": "ebNqq8p",
+                "submission_id": "QozpWJU",
+                "parent_id": "jfYm2ti"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "As the attached image, I want to use the function buttons (F1, F2, F3, F4) yes I can add which function like setbit/resetbit, but how to assimilate to (F1, F2, F3, F4) that's the question.\n\nhttps://preview.redd.it/vkknyjxfn6pd1.jpeg?width=1920&format=pjpg&auto=webp&s=75321c67d14b944047e3e19b816ad7ea297ee056",
+                "created_utc": "2024-09-16 14:38:10 UTC",
+                "comment_id": "li60vrK",
+                "submission_id": "QozpWJU",
+                "parent_id": "ebNqq8p"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "An example, I can't add a function for the key function F1.\n\nhttps://preview.redd.it/mbv7vk3hr6pd1.jpeg?width=1919&format=pjpg&auto=webp&s=1c1f45bbb6ec83c71b7587c5157d22a283c2ecf8",
+                "created_utc": "2024-09-16 15:00:50 UTC",
+                "comment_id": "QetvSfj",
+                "submission_id": "QozpWJU",
+                "parent_id": "ebNqq8p"
+            },
+            {
+                "user_id": "subject_dT8vtkj",
+                "target": false,
+                "type": "comment",
+                "body": "That's it. Set/reset and assign a tag there, and the bit should change in your PLC.\n\nWhat do you mean by assimilate? You can set these as global function keys or assign them as screen specific ones. I believe you'd set them in a global template.",
+                "created_utc": "2024-09-16 18:26:41 UTC",
+                "comment_id": "c31YGYx",
+                "submission_id": "QozpWJU",
+                "parent_id": "li60vrK"
+            },
+            {
+                "user_id": "subject_7CDNsFK",
+                "target": false,
+                "type": "comment",
+                "body": "It's locked in the properties tab. There is an option to setup the buttons as global, based on screen template or  for each screen.\n\nYou can then use the SetBitWhileKeyPressed under the press key events.",
+                "created_utc": "2024-09-18 22:11:46 UTC",
+                "comment_id": "KfvycAy",
+                "submission_id": "QozpWJU",
+                "parent_id": "QetvSfj"
+            },
+            {
+                "user_id": "subject_7CDNsFK",
+                "target": false,
+                "type": "comment",
+                "body": "I would not use those buttons for anything, that happens often.\n\nThey are rated for like 100k clicks and they tend to wear out pretty quickly, If you map some basic stuff to them like START or Reset. Get a HW button for those.",
+                "created_utc": "2024-09-18 22:16:18 UTC",
+                "comment_id": "xKijEr7",
+                "submission_id": "QozpWJU",
+                "parent_id": "QozpWJU"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "AS-i Communication connect with S7-1200 and I/O Modules",
+            "body": "Hi everyone!\n\nI have an I/O module connected with two AS-i cables, as shown in the attached image. I'm wondering about the function of these two cables. From what I found online, AS-i communication usually only uses one cable (the yellow one). So why is there a second cable (the black one) in this setup?\n\nAlso, I\u2019d like to connect this I/O module to my S7-1200 PLC (model: 1214C DC/DC/DC - 6ES7 214-1AG40-0XB0), which is already linked to the AS-i communication module (3RK7243-2AA30-0XB0). It seems like this is the only option to communicate with the I/O module (model: 3RK1400-1DQ00-0AA3).\n\nHas anyone configured a system like this before? Is it possible to communicate with multiple I/O modules through the communication module (3RK7243-2AA30-0XB0)?\n\nThanks in advance for your advice and experience!\n\nhttps://preview.redd.it/f05u4phmcyqd1.jpg?width=2136&format=pjpg&auto=webp&s=f8317424989aa440d32a968b98dc07548d2e86a4\n\n",
+            "created_utc": "2024-09-25 12:52:21 UTC",
+            "submission_id": "mlmtpZe",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_uDUOah7",
+                "target": false,
+                "type": "comment",
+                "body": "The yellow one is the AS-I bus on 30VDC. You need only this one if you only have inputs.\n\nThe black one is Aux. 24VDC power for outputs.\n\nCheck out the manual from Siemens. You can have 32 nodes or 64 A/B type nodes per bus. Careful of distances too as past a certain length you will need extenders or repeaters and additional AS-I PSUs.\n\n[Manual](https://support.industry.siemens.com/cs/document/26250840/system-manual-as-interface-(edition-11-2008)-with-supplements-(edition-09-2010-for-displaying-and-configuring-see-entry-id-44365425)?dti=0&lc=en-NL)",
+                "created_utc": "2024-09-25 12:56:29 UTC",
+                "comment_id": "XVwSzAP",
+                "submission_id": "mlmtpZe",
+                "parent_id": "mlmtpZe"
+            },
+            {
+                "user_id": "subject_B1LxPuV",
+                "target": false,
+                "type": "comment",
+                "body": "Yellow is power and data, black is power only. Some things need extra power. Connect it to a 24V PSU, a normal one, not a special AS-i one.",
+                "created_utc": "2024-09-25 12:56:48 UTC",
+                "comment_id": "QjpJe6s",
+                "submission_id": "mlmtpZe",
+                "parent_id": "mlmtpZe"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks for the clarification!\n\nI wanted to ask if the I/O module I have (3RK1400-1DQ00-0AA3) is compatible with my S7-1200 PLC (1214C DC/DC/DC - 6ES7 214-1AG40-0XB0) through the AS-i communication module (3RK7243-2AA30-0XB0). I noticed in the manual that it\u2019s listed with an S300.\n\nhttps://preview.redd.it/kzddtenolyqd1.jpeg?width=663&format=pjpg&auto=webp&s=56ccbfee51dfed82cf47dae5f9e164f9ba5ab22e",
+                "created_utc": "2024-09-25 13:42:19 UTC",
+                "comment_id": "QqmcRJk",
+                "submission_id": "mlmtpZe",
+                "parent_id": "XVwSzAP"
+            },
+            {
+                "user_id": "subject_uDUOah7",
+                "target": false,
+                "type": "comment",
+                "body": "https://preview.redd.it/0pczp3vivyqd1.png?width=718&format=png&auto=webp&s=32b4ea149e2af4a0bc6936c4db5328ecc20eb994\n\nI quickly put those parts together in TIA Selection Tool and it didn't give me any errors.",
+                "created_utc": "2024-09-25 14:38:05 UTC",
+                "comment_id": "wP5IZwE",
+                "submission_id": "mlmtpZe",
+                "parent_id": "QqmcRJk"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "AS-interface mean the I/O module (3RK1400-1DQ00-0AA3) as illustrated in the following image !\n\nhttps://preview.redd.it/16467wzb0zqd1.jpeg?width=620&format=pjpg&auto=webp&s=fc6bb6ae0bc36a70292a3e9c096d739daf01e716",
+                "created_utc": "2024-09-25 15:05:19 UTC",
+                "comment_id": "RTkiSPy",
+                "submission_id": "mlmtpZe",
+                "parent_id": "wP5IZwE"
+            },
+            {
+                "user_id": "subject_uDUOah7",
+                "target": false,
+                "type": "comment",
+                "body": "Yes that's what I selected.",
+                "created_utc": "2024-09-25 15:35:46 UTC",
+                "comment_id": "V8Tvtaz",
+                "submission_id": "mlmtpZe",
+                "parent_id": "RTkiSPy"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "S7-1214 to SEW Motor Control",
+            "body": "Hello everyone,\n\nI\u2019m currently working on a project with an S7-1214 DC/DC/DC PLC (ref. 6ES7214-1AG40-0XB0), and I\u2019ve wired it directly to an SEW MM03C motor control board. I\u2019d like to confirm whether my wiring is correct.\n\nHere\u2019s the motor documentation (page 14):[SEW Motor Documentation](https://download.sew-eurodrive.com/download/pdf/1052701x.pdf)  \n\n\nHere\u2019s what I\u2019ve done:\n\n* I connected the PLC outputs (DQ00, DQ01, DQ03) directly to the control board ports (R, L, f1/f2).\n\nIf I\u2019ve made any mistakes or if there are improvements you\u2019d suggest, I\u2019d greatly appreciate your feedback!\n\nThanks in advance for your help.\n\nhttps://preview.redd.it/1qjkdtnqnasd1.jpg?width=786&format=pjpg&auto=webp&s=216dba3b621f97b9cd3b5d111f4e8684b56b4cd9\n\n",
+            "created_utc": "2024-10-02 07:19:28 UTC",
+            "submission_id": "VXbPxG7",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_iarKXje",
+                "target": false,
+                "type": "comment",
+                "body": "Looks ok, but a fuse for the 24VDC powersupply for the SEW would be great.",
+                "created_utc": "2024-10-02 11:21:56 UTC",
+                "comment_id": "C2wHwif",
+                "submission_id": "VXbPxG7",
+                "parent_id": "VXbPxG7"
+            },
+            {
+                "user_id": "subject_B1LxPuV",
+                "target": false,
+                "type": "comment",
+                "body": "I see you have \"L+\" and \"M\" 3 times on your symbol which is not real. I think you correctly didn't use the \"L+ Out\" but still connect the \"M out\" to ground for noise immunity.  \n\n\nAnd the ground of the outputs is called 3M not 1M, there is also have 3L+ which needs to be connected.\n\nhttps://preview.redd.it/srbkafxsybsd1.png?width=1121&format=png&auto=webp&s=5d96999a59c4e367166a8480b90fae18afe9b70d",
+                "created_utc": "2024-10-02 11:45:15 UTC",
+                "comment_id": "7jJRsPx",
+                "submission_id": "VXbPxG7",
+                "parent_id": "VXbPxG7"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the suggestion! I'll add a fuse for the 24VDC power supply. I was thinking of using a DC fuse rated for 24VDC 2A. Would it be sufficient to place just one fuse between the 3L+ output of the PLC and the 24V input of the SEW VFD?",
+                "created_utc": "2024-10-02 15:21:58 UTC",
+                "comment_id": "c1kNDP8",
+                "submission_id": "VXbPxG7",
+                "parent_id": "C2wHwif"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Identifying male connectors ",
+            "body": "[removed]",
+            "created_utc": "2024-10-03 13:00:46 UTC",
+            "submission_id": "qbtvbq9",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_ZuHcM0B",
+                "target": false,
+                "type": "comment",
+                "body": "Your post has been removed because you appear to be very new to this sub. We encourage all members to participate in the subreddit discussions for at least a short time before posting. Additionally, you should read all of the detailed posting rules in [the wiki](https://www.reddit.com/r/AskEngineers/wiki/rules/#wiki_submission_rules) prior to making your first post. If you feel that your post complies with all the rules outlined there you may message the Mod team for a review of the post, but be aware that it is not guaranteed to be approved.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AskEngineers) if you have any questions or concerns.*",
+                "created_utc": "2024-10-03 13:00:47 UTC",
+                "comment_id": "qGmRdui",
+                "submission_id": "qbtvbq9",
+                "parent_id": "qbtvbq9"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Identifying male connectors",
+            "body": "Hi everyone,\n\nI\u2019m trying to identify these male connectors shown in the attached images (1, 2), but I haven\u2019t been able to find them online. Does anyone know what they\u2019re called or where I could get them?\n\nThanks in advance for any help!\n\nhttps://preview.redd.it/fauqwhwg3ksd1.jpg?width=843&format=pjpg&auto=webp&s=a8bcc994aeb60ac12b8ee43cf6c19679b28b558a\n\n  \n",
+            "created_utc": "2024-10-03 14:58:30 UTC",
+            "submission_id": "rRwg6O1",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_wguCfuB",
+                "target": false,
+                "type": "comment",
+                "body": "Are they for video projector?",
+                "created_utc": "2024-10-03 15:17:44 UTC",
+                "comment_id": "3M7F59x",
+                "submission_id": "rRwg6O1",
+                "parent_id": "rRwg6O1"
+            },
+            {
+                "user_id": "subject_xpQrgAp",
+                "target": false,
+                "type": "comment",
+                "body": "Try https://connectorbook.com/identification.html",
+                "created_utc": "2024-10-03 18:32:45 UTC",
+                "comment_id": "HRUGN4G",
+                "submission_id": "rRwg6O1",
+                "parent_id": "rRwg6O1"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Traceability for Product Repairs in Odoo with Bar/QR Codes ",
+            "body": "Hello everyone,\n\nI\u2019m currently implementing a traceability system in Odoo for my B2B company, and I\u2019m looking for advice on improving the integration of Bar/QR codes into our repair workflow.\n\nThe idea is to generate a Bar/QR code for each product upon acquisition and then track its progress through different stages in Odoo. The Bar/QR code should allow for real-time updates at each stage, such as the repair status or quote approval.\n\nI'm seeking advice from anyone who has developed or customized a similar module in Odoo to:\n\n* Automate the workflow with Bar/QR codes.\n* Improve traceability visualization in Odoo so that all important information (status, dates, etc.) is accessible via the Bar/QR code.\n\nAdditionally, would this kind of application require Odoo\u2019s standard subscription, or would I need a customized setup? I want to know if a standard subscription can handle these workflows or if customization (developer subscription) is needed.\n\nI\u2019ve attached an image to illustrate an example of traceability process I\u2019m aiming for. If anyone has suggestions or code examples, I would really appreciate your input.\n\nI have installed Odoo's Repairs and Barcode modules.\n\nThanks in advance for your help!\n\nhttps://preview.redd.it/060codp9kjtd1.jpg?width=1213&format=pjpg&auto=webp&s=f4d66e2282e27f3f1b6b5c5e3771dada980a827b\n\n",
+            "created_utc": "2024-10-08 14:20:32 UTC",
+            "submission_id": "MREpOvv",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_Dt3ZL8o",
+                "target": false,
+                "type": "comment",
+                "body": "This concept is more or less serialization, a unique identifier per product that can be referenced elsewhere in the system?",
+                "created_utc": "2024-10-08 15:04:08 UTC",
+                "comment_id": "PCOVCmt",
+                "submission_id": "MREpOvv",
+                "parent_id": "MREpOvv"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Yes, that's correct! The concept involves creating a unique identifier for each product that will be tracked solely by our company. This identifier allows us to manage and streamline the repair process internally.\n\nCustomers will receive a tracking link to monitor the status of their product in our repair workflow, but they won't have access to the unique identifiers or detailed internal tracking information. This setup allows our maintenance team to work more efficiently, as it provides a clear reference point for each stage of the repair process, effectively acting as an identity that traces the product's repair journey.",
+                "created_utc": "2024-10-08 15:29:08 UTC",
+                "comment_id": "Jcaw9N4",
+                "submission_id": "MREpOvv",
+                "parent_id": "PCOVCmt"
+            },
+            {
+                "user_id": "subject_Dt3ZL8o",
+                "target": false,
+                "type": "comment",
+                "body": "Yes the unique identifier per instance of a product is called a serial number (which exists in standard) the QR Code in this case is just pointing to a url possibly the traceability report",
+                "created_utc": "2024-10-08 15:31:46 UTC",
+                "comment_id": "ajiUS2q",
+                "submission_id": "MREpOvv",
+                "parent_id": "Jcaw9N4"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Vacuum Switch to a PLC S7-1200",
+            "body": "Hello everyone,\n\n  \nI'm currently working on a project where I need to integrate a **Vacuum Switch VS-V-D PNP SO** with a **Siemens S7-1200 PLC**. My goal is to connect the sensor directly to the PLC without using a communication protocol like **AS-interface**.  \n\n\n* Are there any specific precautions I should take regarding voltage compatibility or input configuration on the PLC?\n\nFor reference, here\u2019s the **datasheet** of the vacuum switch:[ VS-V-D PNP SO Datasheet](https://files.kempstoncontrols.com/files/7d35e160f60a3470e48cb9ef7d45891e/VS-V-D%20PNP.pdf)\n\n\n\nhttps://preview.redd.it/1cfod3yd5wtd1.jpg?width=1600&format=pjpg&auto=webp&s=1a7bc4d30066e3205b0fe5d1185f58ed9c76dda1\n\n  \n  \nThanks in advance for your advice and feedback",
+            "created_utc": "2024-10-10 08:39:56 UTC",
+            "submission_id": "gDaFieJ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_u4yUSed",
+                "target": false,
+                "type": "comment",
+                "body": "Doesn't look like it. You can connect the sensor to 24vdc, and hook the 2 outputs directly to the 1200 digital inputs. Seems like the switch can handle 2 switching points.\n\nI usually choose for sensors with 4-20ma outputs, so I can read the actual value, and have the logic in the plc. Guess I like fancy stuff.",
+                "created_utc": "2024-10-10 08:50:55 UTC",
+                "comment_id": "zExjJ7M",
+                "submission_id": "gDaFieJ",
+                "parent_id": "gDaFieJ"
+            },
+            {
+                "user_id": "subject_bgOnH3J",
+                "target": false,
+                "type": "comment",
+                "body": "Connect:  \nPin 1 to 24V+ from your power supply  \nPin 3 to GND from your power supply  \nPin 2 and 4 would go to your S71200 inputs. \n\nOn the S7 side. Connect GND from your power supply to the input common terminal (M)",
+                "created_utc": "2024-10-10 08:58:26 UTC",
+                "comment_id": "52BnVsT",
+                "submission_id": "gDaFieJ",
+                "parent_id": "gDaFieJ"
+            },
+            {
+                "user_id": "subject_can6y2Q",
+                "target": false,
+                "type": "comment",
+                "body": "I was thinking this too. This sensor is a discrete/relay style signal so it's either on or off. I would prefer an analog-type sensor where the SP is adjustable and you can see the PV. Just my thought.",
+                "created_utc": "2024-10-10 14:03:31 UTC",
+                "comment_id": "8hgX6ko",
+                "submission_id": "gDaFieJ",
+                "parent_id": "zExjJ7M"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Hello [WandererHD](https://www.reddit.com/user/WandererHD/),\n\nThank you for your reply, it's very helpful! Just to confirm, I've attached two configurations (Schema 1 and Schema 2) for connecting the vacuum switch to the PLC:\n\n1. **Schema 1**: Directly connecting the switch output (Pin 2 and Pin 4) to the PLC digital inputs, as per your suggestion. This setup seems correct since the vacuum switch outputs are PNP, so the PLC input should detect a positive signal when the vacuum switch is activated.\n2. **Schema 2**: In this case, I've connected the switch outputs to the **analog inputs** of the PLC. Since the vacuum switch is designed to detect vacuum levels and provide an electrical signal when a defined value is reached, I was wondering if using analog inputs would offer more granularity or benefit in detecting different vacuum levels.\n\nThanks again for your support!\n\nhttps://preview.redd.it/wwein465hhvd1.jpeg?width=1394&format=pjpg&auto=webp&s=91713bd88b87101ec7184ae893ea7e06e1e4a9e2",
+                "created_utc": "2024-10-18 09:27:15 UTC",
+                "comment_id": "IKWJask",
+                "submission_id": "gDaFieJ",
+                "parent_id": "52BnVsT"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for your reply! Since this is a **vacuum sensor**, it detects vacuum levels in a pneumatic system and provides an electrical signal when the vacuum reaches a defined threshold. Based on that, would it still be possible to connect it as shown in **Schema 2** (directly to the analog inputs)?\n\nI'm wondering if that would be more suitable for this type of sensor, or if it's best to stick with the digital inputs as in **Schema 1**.\n\nThanks again for your help!\n\nhttps://preview.redd.it/owxhiwyvhhvd1.jpeg?width=1394&format=pjpg&auto=webp&s=17cfe77d001de8cae4cf7abc223c21ecab329525",
+                "created_utc": "2024-10-18 09:31:51 UTC",
+                "comment_id": "ITL2MIs",
+                "submission_id": "gDaFieJ",
+                "parent_id": "zExjJ7M"
+            },
+            {
+                "user_id": "subject_bgOnH3J",
+                "target": false,
+                "type": "comment",
+                "body": "This is a digital sensor that only provides you with switches which will turn on according to the configuration in the sensor. Analog inputs in the PLC read 0-10V or 4-20mAmp signals from analog sensors.",
+                "created_utc": "2024-10-18 09:37:16 UTC",
+                "comment_id": "0ikJWCv",
+                "submission_id": "gDaFieJ",
+                "parent_id": "IKWJask"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for the clarification! Since it\u2019s a digital sensor, will I be able to read values in my Siemens S7-1200 PLC as discrete states (e.g., switch output 1 and switch output 2), or will the outputs only provide binary values (0 or 1, on or off)?",
+                "created_utc": "2024-10-18 10:11:16 UTC",
+                "comment_id": "q6Pj2xp",
+                "submission_id": "gDaFieJ",
+                "parent_id": "0ikJWCv"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Power and release brake for testing a motor",
+            "body": "Hello everyone,\n\nI\u2019m having an issue with a SEW Eurodrive motor, model **RF67 DT71D4/BMG/MM03**, which is equipped with a **BMG brake**. The motor\u2019s shaft is currently blocked, and based on the datasheet (page 14, link below), the brake seems to be the cause. Here\u2019s the link to the full manual: [SEW Eurodrive manual](https://download.sew-eurodrive.com/download/pdf/1052701x.pdf).\n\nhttps://preview.redd.it/54ho5yltcqud1.jpg?width=578&format=pjpg&auto=webp&s=ce3dcaf644531719e41a8c010675d31ba826bfe2\n\nI\u2019d like to test the motor by supplying it with three-phase power (L1, L2, L3 at 380V) to check its rotation in both directions. However, I\u2019m unsure how to properly deactivate the brake before powering the motor because I don\u2019t want to damage anything.\n\n* How can I supply 24V to the brake so that it disengages and allows the motor to spin freely?\n* Are there any precautions I should take to avoid making a mistake during this test?\n\nThanks in advance for your advice!",
+            "created_utc": "2024-10-14 14:15:05 UTC",
+            "submission_id": "6BSDDdv",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "Testing Motor with Brake without PLC",
+            "body": "Hello everyone,\n\nI\u2019m having an issue with a SEW Eurodrive motor, model **RF67 DT71D4/BMG/MM03**, which is equipped with a **BMG brake**. The motor\u2019s shaft is currently blocked, and based on the datasheet (page 14, link below), the brake seems to be the cause. Here\u2019s the link to the full manual: [SEW Eurodrive manual](https://download.sew-eurodrive.com/download/pdf/1052701x.pdf).\n\nI\u2019d like to test the motor by supplying it with three-phase power (L1, L2, L3 at 380V) to check its rotation in both directions. However, I\u2019m unsure how to properly deactivate the brake before powering the motor because I don\u2019t want to damage anything.\n\n* How can I supply 24V to the brake so that it disengages and allows the motor to spin freely?\n* Are there any precautions I should take to avoid making a mistake during this test?\n\nThanks in advance for your advice!\n\nhttps://preview.redd.it/5wlooolsisud1.jpg?width=578&format=pjpg&auto=webp&s=58baa458472476ae028cdaecaacb8c8feb73df7f\n\n  \n",
+            "created_utc": "2024-10-14 21:31:58 UTC",
+            "submission_id": "NgkrgqA",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_1j2awit",
+                "target": false,
+                "type": "comment",
+                "body": "Nah you got it, might want to strap the motor to your work bench, maybe check the manual, sometimes motor brakes have a physical bypass like some I worked on with little ears to pull out to release the brake",
+                "created_utc": "2024-10-14 21:46:16 UTC",
+                "comment_id": "radRiBM",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            },
+            {
+                "user_id": "subject_Cmh7MOQ",
+                "target": false,
+                "type": "comment",
+                "body": "Our process has almost exclusively SEW Eurodrive. There is a physical bypass to the brake (A small rod with a threaded end that goes into a lever area near the motor case fan)\n\nBut yes, if you power the brake with 24vdc, it will disengage.",
+                "created_utc": "2024-10-14 21:54:14 UTC",
+                "comment_id": "3HSNcNz",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            },
+            {
+                "user_id": "subject_ie7RchZ",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah the fan shroud has a hole in it where you can thread the rod into the brake and manually release it.\n\n\nAlso I have a feeling the brake is not driven by 24V, I believe ours were roughly 90VDC, rectified from the mainstream.\u00a0 But maybe this model is different.",
+                "created_utc": "2024-10-14 22:37:45 UTC",
+                "comment_id": "aO7CzAo",
+                "submission_id": "NgkrgqA",
+                "parent_id": "3HSNcNz"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks for the advice! \n\nthe brake is motorized, and to deactivate it, I need to short-circuit two pins (RD, WH, BL). I haven\u2019t come across the type of brake with \u201cears\u201d or a mechanical release before.",
+                "created_utc": "2024-10-14 22:41:31 UTC",
+                "comment_id": "PF4S1f5",
+                "submission_id": "NgkrgqA",
+                "parent_id": "radRiBM"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "I\u2019ll definitely check out the option of manually releasing the brake near the fan as you mentioned. As for the electrical option, just to confirm: To disengage the brake with 24V DC, do I need to supply 24V directly to the pins \"RD, WH, BL\"? Is that correct ?",
+                "created_utc": "2024-10-14 22:48:50 UTC",
+                "comment_id": "fXZKOMu",
+                "submission_id": "NgkrgqA",
+                "parent_id": "3HSNcNz"
+            },
+            {
+                "user_id": "subject_rzC5Abg",
+                "target": false,
+                "type": "comment",
+                "body": "Typically SEW motors/gearmotors have a manual mechanical brake release (non-locking).",
+                "created_utc": "2024-10-14 22:54:15 UTC",
+                "comment_id": "zhXKUa3",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            },
+            {
+                "user_id": "subject_fRkglPs",
+                "target": false,
+                "type": "comment",
+                "body": "Just for clarity here, you have to HOLD the brake open with the lever. It\u2019s not an on or off thing, it springs back to set the brake when you release it. \n\nAssuming that it is 24v then you wire that to the brake rectifier which is not shown on this drawing.",
+                "created_utc": "2024-10-14 23:19:06 UTC",
+                "comment_id": "wvfmEwl",
+                "submission_id": "NgkrgqA",
+                "parent_id": "fXZKOMu"
+            },
+            {
+                "user_id": "subject_1j2awit",
+                "target": false,
+                "type": "comment",
+                "body": "They exist, you\u2019ll a see one day",
+                "created_utc": "2024-10-14 23:20:14 UTC",
+                "comment_id": "5u1SI5i",
+                "submission_id": "NgkrgqA",
+                "parent_id": "PF4S1f5"
+            },
+            {
+                "user_id": "subject_I5tWlOo",
+                "target": false,
+                "type": "comment",
+                "body": "Why can't you just pull back on the manual release or simply jump 24 volts to the brake output? \n\nThis kind of sounds like your in over your head my dude.",
+                "created_utc": "2024-10-15 01:17:38 UTC",
+                "comment_id": "29IulTz",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            },
+            {
+                "user_id": "subject_WZ6gmsR",
+                "target": false,
+                "type": "comment",
+                "body": "Not for SEW motors but in a pinch I have used a cordless drill battery to open the\nbrake for testing reasons\n\u00a0\nBut normally in a cabinet that has drives in it there's a 24vdc power supply.",
+                "created_utc": "2024-10-15 01:53:12 UTC",
+                "comment_id": "HEzg3m2",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            },
+            {
+                "user_id": "subject_qLE8tIr",
+                "target": false,
+                "type": "comment",
+                "body": "I see some people talking about the hand release. If there\u2019s no /HR or /HF in the type code on the nameplate, it doesn\u2019t have one. In that case, you can mechanically release the brake by loosening the three adjustment nuts equally until the springs inside no longer have enough force on the pressure plate to create the braking torque. Once you\u2019re done you want tighten them all back down (equally) until they\u2019re snug, then back them off half a turn. There\u2019s technically an air gap that you\u2019re supposed to measure with a feeler gauge, but this method should put you within that tolerance.",
+                "created_utc": "2024-10-15 02:24:27 UTC",
+                "comment_id": "xWicL4w",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            },
+            {
+                "user_id": "subject_7Hbt2hY",
+                "target": false,
+                "type": "comment",
+                "body": "Place the engine on a fixed base, disassemble the brake assembly, don't forget to mark the position of the springs. Easy and practical!",
+                "created_utc": "2024-10-15 15:01:25 UTC",
+                "comment_id": "DfATenK",
+                "submission_id": "NgkrgqA",
+                "parent_id": "NgkrgqA"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_VJT4kXj",
+            "target": true,
+            "type": "submission",
+            "title": "5/2 Valve and Suction System with S7-1200",
+            "body": "Hello everyone,\n\nA robot is using a pneumatic suction system to handle objects as illustrated in the attached image. The suction cup is controlled by a \"5/2-way\" valve, and I\u2019m looking to understand the exact relationship between these two components. Specifically, I would like to know how the 5/2-way valve controls the airflow in the suction system and how I can connect and program these systems with a Siemens S7-1200 PLC.\n\nHere\u2019s what I would like to clarify:\n\n1. **How does the 5/2-way valve work in the context of a pneumatic suction cup?**\n2. **What is the best way to interface the valve and suction cup with a Siemens S7-1200 PLC?**\n3. **How can I use the PLC to control the valve activation and, in turn, the suction to grab and release objects?**\n4. **Is it necessary to add sensors (like vacuum or pressure sensors) to provide precise feedback to the PLC?**\n\nI would appreciate any suggestions and advice on both the hardware and software setup to make this system efficient and reliable.\n\nThanks in advance for your help!\n\nhttps://preview.redd.it/w3oiqd3d33vd1.png?width=1432&format=png&auto=webp&s=931b834c81ba841765aa244a53303197508a9be8\n\n",
+            "created_utc": "2024-10-16 09:05:21 UTC",
+            "submission_id": "4d3Tupv",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_R5CEhUb",
+                "target": false,
+                "type": "comment",
+                "body": "Feels like I'm working for free but...\n\nTo create a vacuum, you need to use a \"pneumatic ejector\". Otherwise you need a vacuum pump.\n\nThe 5/2 valve is either bistable or monostable, for your application you should use a monostable unless you want to keep an object sucked in if an electrical power loss occurs.\n\nBasically you link your electrically controlled monostable 5/2 to an output of your PLC.  \nOn the pneumatic side, the input to your P+, the output to your ejector, and the ejector's vacuum to the suction cups. For the other valve's position, either you add an exhaust, or if needed instead of vacuum you give it a P+ if you're working really fast and need the suction to stop faster, and in this case you may want to reduce the diameter through any mean to avoid wasting pressure. \n\nKeep your tubes as short as possible as always between the valve and whatever element it's controlling.\n\nOn the programming side, simply set the valve's to 24V if you want suction, or 0V if you want to let loose whatever you're holding. You can activate suction before the cups are in contact, it should work just as good.",
+                "created_utc": "2024-10-16 10:04:07 UTC",
+                "comment_id": "bdQseNo",
+                "submission_id": "4d3Tupv",
+                "parent_id": "4d3Tupv"
+            },
+            {
+                "user_id": "subject_VJT4kXj",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for detailed explanation, it really helps clarify things! \n\nYou're right, I will definitely go with monostable 5/2 valves to ensure the object stays in case of electrical power loss, especially considering the weight and  size of the metal plates we'll be handling,For reference, I'll ising at least 10 pneumatic suction cups, and they'll be lifting heavy metl plates.",
+                "created_utc": "2024-10-16 13:11:46 UTC",
+                "comment_id": "mJXsPSl",
+                "submission_id": "4d3Tupv",
+                "parent_id": "bdQseNo"
+            },
+            {
+                "user_id": "subject_R5CEhUb",
+                "target": false,
+                "type": "comment",
+                "body": "You also may want a pressure sensor to be sure your input pressure is enough, and maybe also a sensor to know that the metal plate you're holding is still in place.",
+                "created_utc": "2024-10-16 15:09:59 UTC",
+                "comment_id": "X5Y3Z8X",
+                "submission_id": "4d3Tupv",
+                "parent_id": "mJXsPSl"
+            },
+            {
+                "user_id": "subject_3KRqhaY",
+                "target": false,
+                "type": "comment",
+                "body": "what does your risk assessment say about compressed air loss and dropping the heavy metal plates?",
+                "created_utc": "2024-10-16 16:38:34 UTC",
+                "comment_id": "7xbLH9x",
+                "submission_id": "4d3Tupv",
+                "parent_id": "mJXsPSl"
+            },
+            {
+                "user_id": "subject_kqBOhZy",
+                "target": false,
+                "type": "comment",
+                "body": "If you want the valve to keep suppling air to the ejector / vacuum pump in the event of power loss you need to use dual solenoid detented valve , monostable and bistable are big words for me but I think that bistable is what you are looing for .  \n\nOn a 5/2 value you will need to block off one of the ports , to run an ejector you only need a 3/2 valve\n\nAlso for the detented valve  you need two outputs from your PLC \n\nIf you are lifting heavy plates I would suggest also use multiple ejectors plumed to separate sets of cups. If you have all your cups on one circuit loss of contact on one cup will cause all cups to loose vacuum.\n\nI assume the PLC is controlling some type of linear actuator so you need to move down to contact your stack of plates.   I suggest mounting a prox to pick up when the spring compensators move so that you know when you are in contact with the plate.\n\nA Magnetic switch may be a better or safer option as loss of air pressure will not allow the plate to fall.",
+                "created_utc": "2024-10-16 16:46:46 UTC",
+                "comment_id": "FTgl2ez",
+                "submission_id": "4d3Tupv",
+                "parent_id": "mJXsPSl"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2018 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_hBipolY",
+            "target": false,
+            "type": "submission",
+            "title": "Bioengineers, what was your career path?",
+            "body": "Example:   Quality Engineer -> Manufacturing Engineer -> Etc.",
+            "created_utc": "2024-06-20 16:30:25 UTC",
+            "submission_id": "MJfTivU",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Biomedical engineer w/ specialization in devices in college \n\nStraight into being a biotech field service engineer",
+                "created_utc": "2024-06-20 16:44:14 UTC",
+                "comment_id": "LUBNzlV",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_2kkUpL1",
+                "target": false,
+                "type": "comment",
+                "body": "Degree in Biomedical Engineering --> Graduate role (oxygen concentrator prototyping) --> Device technician (cancer diagnostics) --> Development Engineer (cardiovascular grafts)",
+                "created_utc": "2024-06-20 17:59:57 UTC",
+                "comment_id": "vwDM6f3",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_oTsuj9x",
+                "target": false,
+                "type": "comment",
+                "body": "BS Bionegineering with a focus on instrumentation/robotics -> MS Electric Engineering-> Aerospace GNC engineer \ud83e\udd23\ud83d\ude05 After 5 years in the field I work a bit closer now with human factors so some of my bioengineering has become relevant again",
+                "created_utc": "2024-06-20 18:46:44 UTC",
+                "comment_id": "iiK3j3x",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_9PLlgzo",
+                "target": false,
+                "type": "comment",
+                "body": "BME Degree -> Data Migration Consultant -> Design Verification Test Engineer -> Quality Assurance Engineer (Product Returns) -> Senior Design Verification Engineer (at multiple companies)",
+                "created_utc": "2024-06-20 19:09:31 UTC",
+                "comment_id": "eBns2TB",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_fgwHkSD",
+                "target": false,
+                "type": "comment",
+                "body": "BS Bioengineering, job in R&D then Validation, then took evening classes for a MSc, then research associate and engineer in R&D (development of immunoassays) for a big red company. Last week they annonce Laying off the whole team. I don't know if I want to keep on keeping on in this field though.",
+                "created_utc": "2024-06-20 19:11:36 UTC",
+                "comment_id": "z426SIx",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_YCxXhlC",
+                "target": false,
+                "type": "comment",
+                "body": "Same",
+                "created_utc": "2024-06-20 19:37:07 UTC",
+                "comment_id": "e1nREe3",
+                "submission_id": "MJfTivU",
+                "parent_id": "LUBNzlV"
+            },
+            {
+                "user_id": "subject_3Nqnrtl",
+                "target": false,
+                "type": "comment",
+                "body": "Bioengineer -> Software in totally different industry",
+                "created_utc": "2024-06-20 19:44:59 UTC",
+                "comment_id": "Hu6Kp5m",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_n0gs51m",
+                "target": false,
+                "type": "comment",
+                "body": "Ingeniera bi\u00f3loga con tendencia a desarrollar proyecto terminal en ingenier\u00eda de tejidos y biomateriales enfocados a la biomedicina, posteriormente hacer una maestr\u00eda en ingenier\u00eda de materiales",
+                "created_utc": "2024-06-20 23:39:16 UTC",
+                "comment_id": "Rj1tUcC",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_NJetish",
+                "target": false,
+                "type": "comment",
+                "body": "Did you get a graduate degree? I finished my PhD a year ago and am just hanging out doing post docs until I can get an industry position (not easy). Cardiovascular (material properties) and device specialized.",
+                "created_utc": "2024-06-21 01:18:25 UTC",
+                "comment_id": "6oJcpYC",
+                "submission_id": "MJfTivU",
+                "parent_id": "vwDM6f3"
+            },
+            {
+                "user_id": "subject_hMo0E2A",
+                "target": false,
+                "type": "comment",
+                "body": "Started out as a lab tech, went into application engineering, then project management and that's where I am now",
+                "created_utc": "2024-06-21 03:32:54 UTC",
+                "comment_id": "dH09cZh",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_B2Mv1IG",
+                "target": false,
+                "type": "comment",
+                "body": "how did you manage to get into project management, could you please guide me?",
+                "created_utc": "2024-06-21 06:43:51 UTC",
+                "comment_id": "HDkeTl1",
+                "submission_id": "MJfTivU",
+                "parent_id": "dH09cZh"
+            },
+            {
+                "user_id": "subject_2kkUpL1",
+                "target": false,
+                "type": "comment",
+                "body": "I'm UK-based so I did an integrated masters (MEng/MSc) which is the level below a PhD - have considered going back but not 100% on board yet. Lots of great research going on in the area but know a lot of people have struggled after PhDs finding a good position in industry!",
+                "created_utc": "2024-06-21 10:44:29 UTC",
+                "comment_id": "3S1QQkt",
+                "submission_id": "MJfTivU",
+                "parent_id": "6oJcpYC"
+            },
+            {
+                "user_id": "subject_81ZpPPE",
+                "target": false,
+                "type": "comment",
+                "body": "Internship as a biomedical investigator in a Medical Image Research Group -> Bioengineering degree -> Data Analyst in the same company where I did the internship. \n\nCurrently pursuing an MSc in Statistics",
+                "created_utc": "2024-06-21 11:59:35 UTC",
+                "comment_id": "x7HrJI5",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_tanUKyx",
+                "target": false,
+                "type": "comment",
+                "body": "BS/MS in BME -> R&D internship at a medical device company -> lead reviewer/biomedical engineer at the FDA -> medical device regulatory consulting -> now about to join the RA department at a medical device company\n\n\nWorking at the FDA wasn't a goal of mine in college, but I loved it and learned a ton",
+                "created_utc": "2024-06-22 12:00:13 UTC",
+                "comment_id": "t3iyZKC",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_7SpkHca",
+                "target": false,
+                "type": "comment",
+                "body": "Does being a service engineer entail working in hospitals and doing repairs on machines/devices?",
+                "created_utc": "2024-06-22 19:35:17 UTC",
+                "comment_id": "GwEDpdO",
+                "submission_id": "MJfTivU",
+                "parent_id": "LUBNzlV"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m in a bit of weird position. My main \u201cterritory\u201d as a field service engineer is the headquarters of my company. So about 80% of my time is spent in house, 20% is in universities or hospital/laboratories doing repairs. \n\nWhile I\u2019m in house I\u2019m either doing repairs or working with R&D on designing things for serviceability",
+                "created_utc": "2024-06-22 19:36:43 UTC",
+                "comment_id": "LZrMihy",
+                "submission_id": "MJfTivU",
+                "parent_id": "GwEDpdO"
+            },
+            {
+                "user_id": "subject_7SpkHca",
+                "target": false,
+                "type": "comment",
+                "body": "Development engineering interests me the most. What does a typical work day look like for u?",
+                "created_utc": "2024-06-22 19:37:04 UTC",
+                "comment_id": "hWysn6p",
+                "submission_id": "MJfTivU",
+                "parent_id": "vwDM6f3"
+            },
+            {
+                "user_id": "subject_7SpkHca",
+                "target": false,
+                "type": "comment",
+                "body": "So u work with r&d to optimize machines to make them easier to work on most of the time?",
+                "created_utc": "2024-06-22 19:37:56 UTC",
+                "comment_id": "6IHMD2s",
+                "submission_id": "MJfTivU",
+                "parent_id": "LZrMihy"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Probably about 15 to 20% of the time, we have a lot of machines in house that I spend time working on. \n\nBut honestly I work from home atleast 2 days a week, I don\u2019t have any oversight, it\u2019s a good gig",
+                "created_utc": "2024-06-22 19:39:01 UTC",
+                "comment_id": "b2e6K3B",
+                "submission_id": "MJfTivU",
+                "parent_id": "6IHMD2s"
+            },
+            {
+                "user_id": "subject_64yAYYb",
+                "target": false,
+                "type": "comment",
+                "body": "Can I ask what a typical day looks like for you?",
+                "created_utc": "2024-06-22 21:29:24 UTC",
+                "comment_id": "3hHm7kR",
+                "submission_id": "MJfTivU",
+                "parent_id": "LUBNzlV"
+            },
+            {
+                "user_id": "subject_7SpkHca",
+                "target": false,
+                "type": "comment",
+                "body": "Oh wow. Do u make salary?",
+                "created_utc": "2024-06-22 21:34:59 UTC",
+                "comment_id": "iXIhRmq",
+                "submission_id": "MJfTivU",
+                "parent_id": "b2e6K3B"
+            },
+            {
+                "user_id": "subject_2kkUpL1",
+                "target": false,
+                "type": "comment",
+                "body": "It can vary depending on project stages/other deadlines but my usual workload at the moment looks like a few hours per day in the lab & the rest desk-based. The main projects I'm involved in include:\n\nProject 1 (Existing product): Making document updates for the design history file - requires a lot of attention to detail, using the right type of language so that they're audit-proof & bugging people in other departments to get them to agree to changes for set deadlines\n\nProject 2(Product in development): We've recently started some testing with new manufactured samples so developing test methods & required equipment (a few 3D printers in house we can use, or getting parts machined externally), writing protocols and then running different tests (simulated and tensile testing of the full system, other testing on specific components to test performance at worst-case).\n\nProject 3(Product in development): Writing reports to document recent surgeon visits and their feedback on potential new devices so we have a record of what has been tried/tested and why those decisions were made. Prepping manufacturing documents to allow samples to be made for surgeons and to do some more development testing. Everything is documented so that if the development has to be stopped and picked up a few years down the line, we still have a record of what's happened.\n\nEveryone has slightly different roles between different projects so it means no two people will be doing exactly the same as most people eventually find their niche (I've only been there a year so still finding where is best to specialise!)\n\nThe projects themselves are very different but there's a lot happening in parallel so it's a case of progressing everything as much as you can and picking it up again once you get feedback through. The work is mostly hybrid but with the expectation that you'll be onsite when needed for testing/collaboration/visits etc - my average is 1-2 days wfh/week\n\nHappy to answer any other ques :)",
+                "created_utc": "2024-06-22 21:38:22 UTC",
+                "comment_id": "aFEHwPZ",
+                "submission_id": "MJfTivU",
+                "parent_id": "hWysn6p"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Nope. Hourly and it helps me substantially. I travel sometimes to other states, my 40/week is 74k, but I\u2019m on pace to make 92k this year due to hourly.",
+                "created_utc": "2024-06-22 21:58:07 UTC",
+                "comment_id": "ikIZc3s",
+                "submission_id": "MJfTivU",
+                "parent_id": "iXIhRmq"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Average day is I go into work whenever I want, usually 6:30, I check to see if there are any service calls, if not I do a PM (presentations maintenance), if there is I troubleshoot and then usually replace 1 or two parts. \n\nIf I have no PM\u2019s for the month or have extra time I can all down to R&D and work with some of my colleagues on designs",
+                "created_utc": "2024-06-22 21:59:29 UTC",
+                "comment_id": "m2jCsrd",
+                "submission_id": "MJfTivU",
+                "parent_id": "3hHm7kR"
+            },
+            {
+                "user_id": "subject_64yAYYb",
+                "target": false,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-06-22 22:51:07 UTC",
+                "comment_id": "OH87RhA",
+                "submission_id": "MJfTivU",
+                "parent_id": "m2jCsrd"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Of course, let me know if you have any more questions. Best of luck!",
+                "created_utc": "2024-06-23 14:27:59 UTC",
+                "comment_id": "gnggCQC",
+                "submission_id": "MJfTivU",
+                "parent_id": "OH87RhA"
+            },
+            {
+                "user_id": "subject_7zSDCj0",
+                "target": false,
+                "type": "comment",
+                "body": "BS in BME \u2014> Unemployed",
+                "created_utc": "2024-06-23 20:00:51 UTC",
+                "comment_id": "lelr6ID",
+                "submission_id": "MJfTivU",
+                "parent_id": "MJfTivU"
+            },
+            {
+                "user_id": "subject_jiIINH1",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m deciding between BME and MechE. A lot of people have been shitting on BME due to job prospects. My main problem with BME is that I\u2019m not sure if that\u2019s what I want to do with the rest of my life (biotech, etc.), but right now it definitely piques my interest. Based on what you know, do you know if BMEs can break into other fields like other engineering majors can? And do you think it would be better to major in BME or mechanical engineering or something more traditional get biotech/biotech related jobs?",
+                "created_utc": "2024-06-24 00:41:04 UTC",
+                "comment_id": "pg81Hks",
+                "submission_id": "MJfTivU",
+                "parent_id": "LUBNzlV"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "How's the salary compared to other jobs in the US",
+                "created_utc": "2024-06-29 09:58:59 UTC",
+                "comment_id": "yzvyy7u",
+                "submission_id": "MJfTivU",
+                "parent_id": "LUBNzlV"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "So I\u2019m actually hourly because I travel a bunch, but for my 40 hr/wk salary I am in the top 7% of my age, for my expected income this year, top 4%. \n\nFor overall in the US, top 30% and top 22%",
+                "created_utc": "2024-06-29 14:07:51 UTC",
+                "comment_id": "7L2UFuU",
+                "submission_id": "MJfTivU",
+                "parent_id": "yzvyy7u"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "Annually how much do you make. And now that Im doing more research, im looking forward to pursue masters in bioinformatics instead of biomedical engineering since the career path looks more promising",
+                "created_utc": "2024-06-29 14:10:03 UTC",
+                "comment_id": "Urpwlx5",
+                "submission_id": "MJfTivU",
+                "parent_id": "7L2UFuU"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "75k base, on path for 92k. Not including my bonus\u2019s.",
+                "created_utc": "2024-06-29 14:10:46 UTC",
+                "comment_id": "4TSNt7W",
+                "submission_id": "MJfTivU",
+                "parent_id": "Urpwlx5"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "Got it. Thanks. Is this with just bachelors degree or masters degree too",
+                "created_utc": "2024-06-29 14:11:49 UTC",
+                "comment_id": "R1fX6Fg",
+                "submission_id": "MJfTivU",
+                "parent_id": "4TSNt7W"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Just my bachelors, I\u2019m currently getting my masters in engineering management but just slowly part time.",
+                "created_utc": "2024-06-29 14:12:38 UTC",
+                "comment_id": "PIXJVu3",
+                "submission_id": "MJfTivU",
+                "parent_id": "R1fX6Fg"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "Engineering management???",
+                "created_utc": "2024-06-29 14:29:14 UTC",
+                "comment_id": "kDuDdNG",
+                "submission_id": "MJfTivU",
+                "parent_id": "PIXJVu3"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "Yea getting an MBA in engineering management, Didn\u2019t want to take any more engineering courses and I don\u2019t wanna be an engineering forever",
+                "created_utc": "2024-06-29 14:31:07 UTC",
+                "comment_id": "9Pe2ruZ",
+                "submission_id": "MJfTivU",
+                "parent_id": "kDuDdNG"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "What career paths ae open with an MBA in engineering management",
+                "created_utc": "2024-06-29 14:32:18 UTC",
+                "comment_id": "mR11EGz",
+                "submission_id": "MJfTivU",
+                "parent_id": "9Pe2ruZ"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "My current trajectory is FSE-PLSM-Area Service Manager - director of Service \n\nI\u2019m not really too worried with what the degree is in, I\u2019m pretty much just getting one b cause my company is fully paying for it and I figured why not do an easy one",
+                "created_utc": "2024-06-29 14:36:10 UTC",
+                "comment_id": "sqHJJcj",
+                "submission_id": "MJfTivU",
+                "parent_id": "mR11EGz"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "Thats great dude. Also, how's the bioinformatics job market in the US",
+                "created_utc": "2024-06-29 14:40:53 UTC",
+                "comment_id": "cqRPpke",
+                "submission_id": "MJfTivU",
+                "parent_id": "sqHJJcj"
+            },
+            {
+                "user_id": "subject_bU0ofrx",
+                "target": false,
+                "type": "comment",
+                "body": "Yes even i have the same dilemma. I have a bachelors in biotechnology. All this while i thought of pursuing masters in bioengineering. I thought the job prospects were good until i reached this subb. I dont know if i should shift to mechanical now",
+                "created_utc": "2024-07-02 06:28:20 UTC",
+                "comment_id": "aFZCDuT",
+                "submission_id": "MJfTivU",
+                "parent_id": "pg81Hks"
+            },
+            {
+                "user_id": "subject_kQzX6Ts",
+                "target": false,
+                "type": "comment",
+                "body": "Hey:- I have been in AI in Bioengineering, how shall I find jobs in this, have been doing phd, i don\u2019t think my prof is good in supervision, so i need a switch",
+                "created_utc": "2024-07-03 17:58:00 UTC",
+                "comment_id": "FwaANbc",
+                "submission_id": "MJfTivU",
+                "parent_id": "LUBNzlV"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Hi,did you get your bachelor\u2019s from a prestigious and well known university?",
+                "created_utc": "2024-07-22 20:59:22 UTC",
+                "comment_id": "KEvEg6b",
+                "submission_id": "MJfTivU",
+                "parent_id": "PIXJVu3"
+            },
+            {
+                "user_id": "subject_S0RVCMo",
+                "target": false,
+                "type": "comment",
+                "body": "It\u2019s ABET acredited and known, but not prestigious",
+                "created_utc": "2024-07-22 23:59:39 UTC",
+                "comment_id": "ZnVt9pd",
+                "submission_id": "MJfTivU",
+                "parent_id": "KEvEg6b"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you",
+                "created_utc": "2024-07-23 13:00:32 UTC",
+                "comment_id": "gB9Mq0U",
+                "submission_id": "MJfTivU",
+                "parent_id": "ZnVt9pd"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_7lBN8G9",
+            "target": true,
+            "type": "submission",
+            "title": "Need help",
+            "body": " When I assign x a number greater than or equal to y nothing happens.Duck said code was ok and made me add a few extra things.Still not working",
+            "created_utc": "2024-09-25 19:07:23 UTC",
+            "submission_id": "Tua4Mae",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_4JAeMKK",
+                "target": false,
+                "type": "comment",
+                "body": "Can you try and show us some more information? This code looks alright to me.",
+                "created_utc": "2024-09-25 19:15:40 UTC",
+                "comment_id": "VFfiu3O",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_2wCHoOS",
+                "target": false,
+                "type": "comment",
+                "body": "Following, curious why this isn't working as expected. Looks like solid code to me.",
+                "created_utc": "2024-09-25 19:18:12 UTC",
+                "comment_id": "nLtLQ4D",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_Rw2JqUc",
+                "target": false,
+                "type": "comment",
+                "body": "Are you actually calling main?",
+                "created_utc": "2024-09-25 19:19:26 UTC",
+                "comment_id": "XmclVwU",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_cwzayYe",
+                "target": false,
+                "type": "comment",
+                "body": "code looks good and it should work  \nand use [cs50.dev](http://cs50.dev) to use cs50.h",
+                "created_utc": "2024-09-25 19:21:53 UTC",
+                "comment_id": "JoVcyJ2",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "hi, this is what the terminal looks like \n\n    $ make compare\n    $ ./compare\n    whats x ?3\n    whats y ?1\n    $ \n    $ \n    $ make compare\n    $ ./compare\n    whats x ?1\n    whats y ?3\n    x is less than y\n    $ ./compare\n    whats x ?1\n    whats y ?1\n    $",
+                "created_utc": "2024-09-25 19:24:16 UTC",
+                "comment_id": "WDQns2y",
+                "submission_id": "Tua4Mae",
+                "parent_id": "VFfiu3O"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "hi, this is what the terminal looks like\n\n$ make compare\n\n$ ./compare\n\nwhats x ?3\n\nwhats y ?1\n\n$ \n\n$ \n\n$ make compare\n\n$ ./compare\n\nwhats x ?1\n\nwhats y ?3\n\nx is less than y\n\n$ ./compare\n\nwhats x ?1\n\nwhats y ?1\n\n$",
+                "created_utc": "2024-09-25 19:25:47 UTC",
+                "comment_id": "lwvuqLk",
+                "submission_id": "Tua4Mae",
+                "parent_id": "nLtLQ4D"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "thats what I'm using but it doesn't work",
+                "created_utc": "2024-09-25 19:28:10 UTC",
+                "comment_id": "ZGXsGdT",
+                "submission_id": "Tua4Mae",
+                "parent_id": "JoVcyJ2"
+            },
+            {
+                "user_id": "subject_2wCHoOS",
+                "target": false,
+                "type": "comment",
+                "body": "Try make compare again. It looks like your changes aren't reflected in the terminal cause you haven't recompiled the program.",
+                "created_utc": "2024-09-25 19:29:08 UTC",
+                "comment_id": "dFg7Ici",
+                "submission_id": "Tua4Mae",
+                "parent_id": "lwvuqLk"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you, tried but still not working",
+                "created_utc": "2024-09-25 19:31:41 UTC",
+                "comment_id": "CjzSwHx",
+                "submission_id": "Tua4Mae",
+                "parent_id": "dFg7Ici"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Sorry don\u2019t know what you mean by that",
+                "created_utc": "2024-09-25 19:32:19 UTC",
+                "comment_id": "0QaR5U7",
+                "submission_id": "Tua4Mae",
+                "parent_id": "XmclVwU"
+            },
+            {
+                "user_id": "subject_2wCHoOS",
+                "target": false,
+                "type": "comment",
+                "body": "Your results are exactly the same as before? I'm seeing that you have \"What's\" in the code but \"whats\" in the (edit)terminal. Which are you seeing now?",
+                "created_utc": "2024-09-25 19:32:53 UTC",
+                "comment_id": "plbdNAV",
+                "submission_id": "Tua4Mae",
+                "parent_id": "CjzSwHx"
+            },
+            {
+                "user_id": "subject_3jPokj9",
+                "target": false,
+                "type": "comment",
+                "body": "try and make only if statements. Your code should work, but just for testing. So instead of \"else if \" and \"else\" just make three if statements.\n\nedit: anoder test, coment out <cs50.h> and hard code x and y with the current code",
+                "created_utc": "2024-09-25 19:33:23 UTC",
+                "comment_id": "NAjqIFE",
+                "submission_id": "Tua4Mae",
+                "parent_id": "WDQns2y"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "noticed that now \n\n$ make compare\n\n$ ./compare\n\nwhats x ?4\n\nwhats y ?1\n\n$ \n\n$ \n\nit looks like this",
+                "created_utc": "2024-09-25 19:35:59 UTC",
+                "comment_id": "sKkqjx0",
+                "submission_id": "Tua4Mae",
+                "parent_id": "plbdNAV"
+            },
+            {
+                "user_id": "subject_2wCHoOS",
+                "target": false,
+                "type": "comment",
+                "body": "So I can tell that the code you have on your picture is not being run in the terminal because the code says \"What's\" and the terminal says \"whats\".\n\nYou said you already did \"make compare\" again and still see \"whats\". So next look at the top of your good code and make sure the filename is compare.c and not something else or a misspelling?",
+                "created_utc": "2024-09-25 19:38:35 UTC",
+                "comment_id": "ULtW9zn",
+                "submission_id": "Tua4Mae",
+                "parent_id": "sKkqjx0"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "thank you, tried but still doesn't work",
+                "created_utc": "2024-09-25 19:38:55 UTC",
+                "comment_id": "7NPOcNo",
+                "submission_id": "Tua4Mae",
+                "parent_id": "NAjqIFE"
+            },
+            {
+                "user_id": "subject_EE0QIOY",
+                "target": false,
+                "type": "comment",
+                "body": "Have you actually saved compare.c since you made these changes? There's no need to \"make compare\" before each execution, but if you haven't actually saved the file, this won't reflect correctly. After  you save the file, do \"make compare\" one more time.",
+                "created_utc": "2024-09-25 19:40:01 UTC",
+                "comment_id": "gADXNg3",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_7kKjsrx",
+                "target": false,
+                "type": "comment",
+                "body": "Are you in the correct directory? Can you show us the output of typing the following in the terminal:\n\n`ls -l`\n\nThose are both lowercase L.",
+                "created_utc": "2024-09-25 19:40:42 UTC",
+                "comment_id": "yC1kCZe",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_cwzayYe",
+                "target": false,
+                "type": "comment",
+                "body": "    #include <cs50.h>\n    #include <stdio.h>\n    \n    int main(){\n    \n    \u00a0 \u00a0 int x = get_int(\"enter the value of x\\n\");\n    \u00a0 \u00a0 int y = get_int(\"enter the value of y\\n\");\n    \n    \u00a0 \u00a0 if (x>y)\n    \u00a0 \u00a0 {\n    \u00a0 \u00a0 \u00a0 \u00a0 printf(\"x is greater than y\\n\");\n    \u00a0 \u00a0 }\n    \u00a0 \u00a0 \u00a0 \u00a0 else if (y>x)\n    \u00a0 \u00a0 \u00a0 \u00a0 {\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 printf(\" y is greater than x\\n\");\n    \u00a0 \u00a0 \u00a0 \u00a0 }\n    \n    \u00a0 \u00a0 \u00a0 \u00a0 else\n    \u00a0 \u00a0 \u00a0 \u00a0 {\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 printf(\"x is equal to y\\n\");\n    \n    \u00a0 \u00a0 \u00a0 \u00a0 }\n    \n    return 0;\n    \n    \n    }\n    \n    //i exactly did what you did but i can do every operation",
+                "created_utc": "2024-09-25 19:40:54 UTC",
+                "comment_id": "nilw6N2",
+                "submission_id": "Tua4Mae",
+                "parent_id": "ZGXsGdT"
+            },
+            {
+                "user_id": "subject_3jPokj9",
+                "target": false,
+                "type": "comment",
+                "body": "even with hardcoded variables?",
+                "created_utc": "2024-09-25 19:41:18 UTC",
+                "comment_id": "X309EdG",
+                "submission_id": "Tua4Mae",
+                "parent_id": "7NPOcNo"
+            },
+            {
+                "user_id": "subject_4JAeMKK",
+                "target": false,
+                "type": "comment",
+                "body": "Very weird. I don't know what the problem might be, maybe there's more knowledgable people here.",
+                "created_utc": "2024-09-25 19:41:27 UTC",
+                "comment_id": "fJwwLMI",
+                "submission_id": "Tua4Mae",
+                "parent_id": "WDQns2y"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much it was a misspelling.Since the first command seemed to be working I didn\u2019t check that carefully.",
+                "created_utc": "2024-09-25 19:46:02 UTC",
+                "comment_id": "Fquo30m",
+                "submission_id": "Tua4Mae",
+                "parent_id": "ULtW9zn"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you for helping it was a misspelling",
+                "created_utc": "2024-09-25 19:47:00 UTC",
+                "comment_id": "WAVKjEY",
+                "submission_id": "Tua4Mae",
+                "parent_id": "fJwwLMI"
+            },
+            {
+                "user_id": "subject_2wCHoOS",
+                "target": false,
+                "type": "comment",
+                "body": "Yay I'm pleased to have helped! I'm only on week 5 but I'm glad to see I've learned enough to help others :)",
+                "created_utc": "2024-09-25 19:49:44 UTC",
+                "comment_id": "0kD5nm4",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Fquo30m"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Hi, it was a misspelling in the file name",
+                "created_utc": "2024-09-25 19:55:55 UTC",
+                "comment_id": "5Q6PBHD",
+                "submission_id": "Tua4Mae",
+                "parent_id": "yC1kCZe"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much again you really did help me! I\u2019ll be more careful next time :))",
+                "created_utc": "2024-09-25 19:59:35 UTC",
+                "comment_id": "T96OX5N",
+                "submission_id": "Tua4Mae",
+                "parent_id": "0kD5nm4"
+            },
+            {
+                "user_id": "subject_b5Ncb7d",
+                "target": false,
+                "type": "comment",
+                "body": "Your function should return something. 0 if everything goes well.",
+                "created_utc": "2024-09-25 20:11:59 UTC",
+                "comment_id": "rlbPM5Z",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_gt84BhI",
+                "target": false,
+                "type": "comment",
+                "body": "wtf is this indentation",
+                "created_utc": "2024-09-25 20:27:52 UTC",
+                "comment_id": "DYIHVJV",
+                "submission_id": "Tua4Mae",
+                "parent_id": "nilw6N2"
+            },
+            {
+                "user_id": "subject_gt84BhI",
+                "target": false,
+                "type": "comment",
+                "body": "Code is indeed ok, maybe you should recompile/compile your program and add \"return 0;\" in the end",
+                "created_utc": "2024-09-25 20:28:38 UTC",
+                "comment_id": "DCJITCt",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks everyone it was a typo in the file name for anyone wondering",
+                "created_utc": "2024-09-25 21:00:53 UTC",
+                "comment_id": "5kWBlSx",
+                "submission_id": "Tua4Mae",
+                "parent_id": "Tua4Mae"
+            },
+            {
+                "user_id": "subject_7yVsYlZ",
+                "target": false,
+                "type": "comment",
+                "body": "Just for future reference, check the file\u2019s date and time. You can check if it was modified recently",
+                "created_utc": "2024-09-26 05:01:39 UTC",
+                "comment_id": "v23NuJt",
+                "submission_id": "Tua4Mae",
+                "parent_id": "5kWBlSx"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_7lBN8G9",
+            "target": true,
+            "type": "submission",
+            "title": "Is the problem just the job market",
+            "body": "This subreddit is filled with people hating this degree and most suggest majoring in more general engineering like EE ME or cs but their subreddits are also filled with people hating their degree and problems in job search seems the same.They have more opportunities but also over saturated.My reason for choosing this degree wasn\u2019t even for the job opportunities I was genuinely interested and just thought if I was a good engineer I could find my way but this place made me very anxious.I don\u2019t know which path to take.",
+            "created_utc": "2024-10-03 12:47:29 UTC",
+            "submission_id": "VtoHxLj",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_ODh4ISq",
+                "target": false,
+                "type": "comment",
+                "body": "A couple of things at play:\n\nPeople are much more vocal about problems than they are successes. People come here looking for advice and to complain, so neither of those types of posts are going to bring success stories out of the woodwork like they bring stories of failure. Certainly, some people find successful careers with BME degrees, but they likely aren't posting about it here for you to read.\n\nSecondly, BME is a niche field that simply doesn't exist in all the locales that other, more traditional fields must exist. For instance, most towns/cities need electrical engineers to run the grids, civil engineers to design freeways and plan the city, industrial engineers to build the buildings, mechanical engineers to run them. But if there isn't a specific company doing BME work, then there aren't going to be BME jobs like there are other engineering jobs that are simply required for cities continued existence/maintenance. \n\nSo, there's going to be fewer BME specific jobs, full stop. This is partly why it's recommended to not get a BME degree - simply, being location locked and only having specific job opportunities will make it harder to succeed than someone's who could find jobs in almost any city/town due to the necessity of their field. Being an ME means you can find gainful employment is many more places than you could as a BME. But, being an ME also allows you the opportunity to work as a BME in many cases, while the opposite isn't so true. This means that it's simply safer to get a traditional engineering degree, since there's simply more job opportunities. \n\nPersonally, I think of it like those silly little \"put the block through the right shaped hole\" toys for babies - the cylindrical block (assuming the sizing is correct for the analogy) can fit through both the circle shaped hole and the square hole, while the square block only fits in the square hole. BMEs are the square block, EEs/MEs/ChemEs are the circle block. Why make yourself a limited square block when you can still fit in the square space and circle space as a cylindrical block?\n\nFinally, you can do everything right and still fail. You can be a good engineer, and still never get a job in engineering. 10-20 years ago, most any good engineers would have work. But field saturation exists and as more and more degrees are conferred year over year, companies are finding themselves with their pick of the litter for the cool jobs (which most of BME is, for better or for worse, outside of QA/QC which is generally not considered as desirable). So, being good isn't exactly enough anymore. While C grades do in fact result in degrees, having a degree is no longer the bar you have to reach. Instead, you need to be in the top 10% of applicants for most jobs. That's not good, that's expecting you to be great. So, with high standards and expectations, it's hard for people to recommend getting a niche degree with fewer job opportunities than a degree that allows you those same opportunities plus a bunch more.\n\nAgain, personally, I think your college degree should be chosen based off how well it prepares you for success after college. Choosing 4 years of interesting classes now for fewer job opportunities in the future seems short sighted to me. We don't live in an ideal world where higher education is obtained for the pure purpose of learning new things. A degree is a stepping stone to work that pays well enough for you to survive comfortably. Sure, you can choose fun classes for fun, but for many people, that just isn't financially realistic.",
+                "created_utc": "2024-10-03 13:14:27 UTC",
+                "comment_id": "L6HBKEW",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_ASmkI8K",
+                "target": false,
+                "type": "comment",
+                "body": "Learn with us. If you want to work in any regular consulting company, any engineering degree will work just fine. But if you want to do research and really get things done, it's better to be an expert in that thing. That means either focusing on EE, or on math, or in chemistry, etc. All of these and more are learned in Biomedical, which means you don't really get to focus and be an expert in any of these, only at a greater cost.\n\n  \nStill, I am a Biomedical Msc, PhD and now a post-doc. I still work on what I love, so you will survive and be just fine as long as you adapt.",
+                "created_utc": "2024-10-03 13:16:47 UTC",
+                "comment_id": "AKSh32Y",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_X5GjihB",
+                "target": false,
+                "type": "comment",
+                "body": "Job search is difficult for everyone right now - not just within the US but globally. Entry level job seekers sometimes have an even harder time because many companies have unrealistic expectations for entry-level jobs and they look for overqualified people and want to underpay them. The tech industry seems pretty badly affected (you must have heard about the surge in mass layoffs) and since many who work in the industry are CS, ME, and EE graduates, it seems to be affecting them.\n\nWith a bachelor's degree in BME, the major issues that most people complain about (and IMO, rightfully so) is that it is too broad of a degree and it leaves people feeling like they are the jack-of-all-trades in a comparatively smaller industry but they don't have a specialized and consistent skill set compared to MEs or EEs. Job prospects are hard because most entry-level positions that BMEs are hired for are open to others with degrees in ChemE, EE, ME or even biomedical sciences, pharma etc. It's also a degree where many go on to seek a MS or PhD to specialize in a specific industry, On top of all that, the current job market is making things harder.\n\nIf you enjoy BME, you can stick to it. Many of us (including me) did so and successfully found jobs in the industry of our choice. The interdisciplinary nature of it has been helpful for many and you're also seeing so much criticism for the degree because most people that are happy in their career are not on this subreddit seeking answers. That being said, you will notice the relatively fewer internship and job opportunities if you compare it to other engineering fields (just so you can make an informed decision). Things will be much easier if you happen to be around the biotech hub areas, and if you gain good experience through internships and/or research. At the end of the day, experience and networking help much more than anything else,",
+                "created_utc": "2024-10-03 13:29:05 UTC",
+                "comment_id": "BMnLl3C",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_mWchk3K",
+                "target": false,
+                "type": "comment",
+                "body": "I would like to add that on paper there was a predicted increased demand for biomedical devices  and biotech but pure degrees are still more prefered than someone who can integrate many concepts across biology and math and design. And for the record I have a two friend with a bachelors in bio or biochem who aren\u2019t premed. One is in Boston and works at Lilly and the other is in nyc and can\u2019t get a job in a lab or industry in nyc. So it seems like location is more imprint than degree title",
+                "created_utc": "2024-10-03 13:43:24 UTC",
+                "comment_id": "1oMHBLG",
+                "submission_id": "VtoHxLj",
+                "parent_id": "L6HBKEW"
+            },
+            {
+                "user_id": "subject_ODh4ISq",
+                "target": false,
+                "type": "comment",
+                "body": "Location is absolutely a huge piece of the puzzle. It really can't be overstated how much location matters.\n\nThe predicted increase in demand wasn't necessarily wrong, it's just that entry level positions want one person that actually knows all the basics of ME or EE or ChemE. Entry level roles are not designed to be taken on by someone who only knows the biomedical applications of each of those topics. So, traditional degrees (or pure degrees, if I've understood what you've said correctly!) tend to be favored. \n\nPlus, there's much much more standardization of ME/EE/ChemE educations. You can assume that, regardless of program, every ME with a BS has the same base of knowledge, and similarly for EEs and ChemEs. The same can't be said of BME. Sure, ABET accreditation does exist, but that really mostly covers fundamentals of engineering (heat transport, fluids, mass, thermo, statics, dynamics, circuits, physics, calc, etc). The BS i got in BME was 100% the same coursework as the ChemE students, with the addition of BME electives. Other programs have their students take the entire gamut of ME coursework plus BME electives. Obviously, those two degrees will have the same title but our abilities will have minimal overlap and we won't be looking for the same jobs. \n\nIn this way, hiring a BME can be more unpredictable than someone with an ME/EE/ChemE degree. At the entry level, there's just absolutely no reason to risk that. Lets say a hiring manager needs someone who can use CAD to design the body of a medical device within certain specs under a certain budget with specific manufacturing capabilities for an entry level position. They could hire a BME who says on their resume they have experience with these things, or they can hire an ME who's resume also says they have experience. The difference here is that it's much more likely that the ME actually took coursework on things like designing for manufacturing, failure analysis, etc whereas you just have to trust the BME that they really do have that experience as you can't assume it was part of their education.",
+                "created_utc": "2024-10-03 14:36:19 UTC",
+                "comment_id": "CIaBWvl",
+                "submission_id": "VtoHxLj",
+                "parent_id": "1oMHBLG"
+            },
+            {
+                "user_id": "subject_mWchk3K",
+                "target": false,
+                "type": "comment",
+                "body": "Part of me sees your point, but if the persons transcript shows they did take such coursework then there\u2019s little room to say the BME doesn\u2019t know the stuff. My own university had a general core (but BME versions): standard circuits, bioelectricy (computational neuro with applications to heart and brain and cell membranes ), statics, dynamics, solid body mechanics (biomechanics bc of bio applications), biofluids, genetic engineering (gene circuits and basic biotech). Afterwards people chose a track and took specialized coursework from BME and related fields in pure mech, electrical, cs, biology, and chem. In one case for medical physics, also physics. Most graduates from my university did get in depth coursework from non BME departments when in the BME program but I will acknowledge that not all universities do it this way. But it is short sighted to dismiss BME automatically and not take a nuanced approach by evaluating portfolios from classes or a transcript",
+                "created_utc": "2024-10-03 15:10:54 UTC",
+                "comment_id": "I6eoeLB",
+                "submission_id": "VtoHxLj",
+                "parent_id": "CIaBWvl"
+            },
+            {
+                "user_id": "subject_ODh4ISq",
+                "target": false,
+                "type": "comment",
+                "body": "Most hiring managers aren't looking at transcripts before they decide not to move forwards either your application. You can list the courses you took, but a hiring manager has like, 60 seconds at most to look at a resume before trashing it these days (if it even gets to human eyes) and why would they dig through your coursework when they can safely assume the ME has it without having to really look? \n\nIts great your university provides such in depth knowledge to their graduates, but unless the hiring manager knows that your university does that, they can't assume it. They would have to look carefully at your experience to know if you, a BME, can do the ME work they're hiring for. While some will choose the BME, most will choose the reliable ME instead of the potentially reliable BME. \n\nUnfortunately, hiring managers really don't have to take any kind of nuanced approach. They don't have to look at your transcripts or read through your relevant coursework on your resume. That takes more time and effort than when they see \"ME\" and immediately know what coursework that entailed. Surely it is short sighted to function this way! But we have no power to force hiring managers to be nuanced and careful.",
+                "created_utc": "2024-10-03 15:36:20 UTC",
+                "comment_id": "nOdio9e",
+                "submission_id": "VtoHxLj",
+                "parent_id": "I6eoeLB"
+            },
+            {
+                "user_id": "subject_mWchk3K",
+                "target": false,
+                "type": "comment",
+                "body": "And I presume this applies to biotech - ignore coursework listed in favor of seeing BME and not knowing for sure a resume course list is accurate? Why would a recruiter disregard the course list on a resume?",
+                "created_utc": "2024-10-03 15:39:48 UTC",
+                "comment_id": "RWKpyds",
+                "submission_id": "VtoHxLj",
+                "parent_id": "nOdio9e"
+            },
+            {
+                "user_id": "subject_qD8MbiG",
+                "target": false,
+                "type": "comment",
+                "body": "Don\u2019t get too discouraged by Reddit, it tends to be an echo chamber of complaints. It is definitely possible to make it as a BME. That being said, it\u2019s a competitive field and as such it will likely not be enough to just be a \u201cgood engineer\u201d (regardless of your major). You really need a well thought out plan to gain the right experience and skills for specific jobs that you\u2019ve verified exist somewhat locally to you. Start by figuring out the end goal and then plan your path accordingly.",
+                "created_utc": "2024-10-03 16:02:05 UTC",
+                "comment_id": "pPmOirX",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_nKpYJ8M",
+                "target": false,
+                "type": "comment",
+                "body": "When u write top 10%, that means 90% of people are perceived to be unqualified. That\u2019s just unrealistic. You won\u2019t want someone who only got a cGPA of 2.0 in engineering but limiting it to top 10% leaves many unemployed or underemployed",
+                "created_utc": "2024-10-03 17:19:32 UTC",
+                "comment_id": "DtyoP2l",
+                "submission_id": "VtoHxLj",
+                "parent_id": "L6HBKEW"
+            },
+            {
+                "user_id": "subject_ODh4ISq",
+                "target": false,
+                "type": "comment",
+                "body": "Why would a recruiter spend extra time reviewing a course list if they can hire someone who doesn't require it? Online apps mean many entry level positions get tens of hundreds, maybe even thousands of resumes for desirable jobs. Why spend extra time reviewing courses when you know that ME grads reliably possess the skills necessary for the position? \n\nIts less about choosing to not believe it and more about deciding they just don't need to even look at it if they just hire an ME instead.",
+                "created_utc": "2024-10-03 19:11:48 UTC",
+                "comment_id": "xqAJ8WT",
+                "submission_id": "VtoHxLj",
+                "parent_id": "RWKpyds"
+            },
+            {
+                "user_id": "subject_ODh4ISq",
+                "target": false,
+                "type": "comment",
+                "body": "It doesn't seem that crazy - there's at least an order of magnitude difference between the amount of new grads entering engineering vs how many new/open entry level jobs exist each year across industries (except electrical engineering - i believe that specific industry is actually much more closely matched between entry jobs and new grads). In 2022, there were 8000 BME grads across the country and only 1000 new jobs. That's 8 BME only grads fighting for 1 job, before we include the MEs, EEs, and ChemEs that want these jobs. So, being in the top 10% doesn't seem unrealistic to me when there's literally 8x as many BMEs as there are entry level jobs for them to fill before we count other majors who are applying.",
+                "created_utc": "2024-10-03 19:19:43 UTC",
+                "comment_id": "vPnWtPg",
+                "submission_id": "VtoHxLj",
+                "parent_id": "DtyoP2l"
+            },
+            {
+                "user_id": "subject_hUl5I1f",
+                "target": false,
+                "type": "comment",
+                "body": "You can go into BE with a degree in ME.\n\nMost BE companies I worked/applied to actually hired more MEs and BEs.\n\nME is just a safer bet. I did BE as well because I genuinely enjoyed it but I regret not having done ME. A lot more options and honestly I don't feel like doing BE gave me any advantage whatsoever in the BE job market",
+                "created_utc": "2024-10-03 21:34:22 UTC",
+                "comment_id": "jOvLAon",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_Z681HpN",
+                "target": false,
+                "type": "comment",
+                "body": "Studying electrical or mechanical engineering vs biomedical gives you leverage to work both biomedical and your respective specialization. Furthermore, you'll have a stronger knowledge of mechanical or electrical instead if you studying them in the biomedical program. Furthermore, a lot of BME jobs require a masters in BME, for which you having a bachelors in BME won't really change your position.\n\nI suggest to study mech or elec and do your electives in BME. Once you graduate you can do general jobs if you're unsuccessful in finding a BME one then you can do a masters which will build upon the skills you have. \n\nThat is unless you LOVE biomedical engineering specific topics like prosthetics, implants, or 3D printed tissue which then you'll probably benefit way more from the BME program.\n\nTo summarize, a bme degree could get you a bme job, but a mech/elec degree could get you a mech/elect job or a bme one. Some of those who found a joh easily will say if you do X, Y, Z you're guaranteed success, but there are a lot of factors to consider like university, interests, and geographic location.",
+                "created_utc": "2024-10-03 23:16:15 UTC",
+                "comment_id": "TbSXBPA",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_1S1Ub7T",
+                "target": false,
+                "type": "comment",
+                "body": "I was not expecting this to be a worldwide issue",
+                "created_utc": "2024-10-04 17:59:38 UTC",
+                "comment_id": "dYM3afe",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            },
+            {
+                "user_id": "subject_iQOze2K",
+                "target": false,
+                "type": "comment",
+                "body": "Some BMEs will be pre-med/pre-dental, so those numbers are subtracted.",
+                "created_utc": "2024-10-05 03:24:18 UTC",
+                "comment_id": "rqGzkUN",
+                "submission_id": "VtoHxLj",
+                "parent_id": "vPnWtPg"
+            },
+            {
+                "user_id": "subject_tcqNg9L",
+                "target": false,
+                "type": "comment",
+                "body": "I recently graduated with a Biomedical Engineering Bachelor's at USC, and had to get an electronics technician at a medical device company. I am probably going to use this time to develop a basis of projects I can do at home and try to sell myself for electrical engineering positions. I really want to get into the design process, as I find that much more interesting, though this job has given me a lot of insight on cultural norms in the industry and documentation you just don't learn in college.\n\nI hope to get into an engineering position within a year from now, and start my Master's degree for Electrical Engineering. I know it basically gives you an additional 2 years of experience in the job market.\n\nAdditionally I know I want to work on brain-computer interfaces in the future so if I can get a degree specializing in that, that would be perfect.\n\nI really liked learning BME even if it was convoluted, hard, and unspecialized. USC let me take an emphasis in Electrical Engineering.",
+                "created_utc": "2024-10-06 22:51:36 UTC",
+                "comment_id": "gV03nlu",
+                "submission_id": "VtoHxLj",
+                "parent_id": "VtoHxLj"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_7lBN8G9",
+            "target": true,
+            "type": "submission",
+            "title": "Need advice ",
+            "body": "Late period,increase in appetite,bad mood and tiredness.Happens nearly every month.Doctors never help and say it\u2019s because of young age and never run any tests.What should I do?",
+            "created_utc": "2024-10-05 14:21:07 UTC",
+            "submission_id": "EM18j62",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_w89FsSf",
+                "target": false,
+                "type": "comment",
+                "body": "Depends on how severe your symptoms affect your life, and what you are willing to do to change. Easiest way out would be the pill, which would most likely make you get rid of all these period associated symptoms.",
+                "created_utc": "2024-10-05 15:46:45 UTC",
+                "comment_id": "0lXStXw",
+                "submission_id": "EM18j62",
+                "parent_id": "EM18j62"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "I want to avoid the pill as much as I can. Struggle with tiredness and appetite everyday and have very painful periods. Spearmint tea ,exercises and cutting out sugar is what I try now and willing to do more",
+                "created_utc": "2024-10-05 16:14:01 UTC",
+                "comment_id": "K2GKyyK",
+                "submission_id": "EM18j62",
+                "parent_id": "0lXStXw"
+            },
+            {
+                "user_id": "subject_w89FsSf",
+                "target": false,
+                "type": "comment",
+                "body": "You know that there are dozens of pills around with different substances and different side effects. Cutting out sugar will do nothing and spearmint tea will do exactly nothing. It\u2019s a proven fact.  If you\u2019re looking for pseudo medical stuff try dark chocolate, there are substances like theobromine in dark chocolate where evidence suggest could work against mood things very mildly.",
+                "created_utc": "2024-10-19 07:44:00 UTC",
+                "comment_id": "Fe8Xjin",
+                "submission_id": "EM18j62",
+                "parent_id": "K2GKyyK"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "A proven fact and pseudo medical stuff? Spearmint maybe but hormones are interconnected and insulin affect the way other hormones work. Limiting sugar and high glycemic food intake is effective when it comes to controlling insulin metabolism.",
+                "created_utc": "2024-10-19 11:11:22 UTC",
+                "comment_id": "8xpZUHg",
+                "submission_id": "EM18j62",
+                "parent_id": "Fe8Xjin"
+            },
+            {
+                "user_id": "subject_w89FsSf",
+                "target": false,
+                "type": "comment",
+                "body": "Spearmint has no real effect on hormones. And of course you are right, hormones are interconnected, and as anyone can see in PCOS there is a connection between insulin and estrogens. But, for non diabetic people there is no connection from sugar to periods. I promise you cutting out sugar will not change anything about your symptoms besides a placebo effect. Probably magnesium could help, but evidence for that is weak.",
+                "created_utc": "2024-10-27 06:17:12 UTC",
+                "comment_id": "H0C7Dem",
+                "submission_id": "EM18j62",
+                "parent_id": "8xpZUHg"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_PXChPWs",
+            "target": false,
+            "type": "submission",
+            "title": "I don\u2019t know what to do with my arms when I\u2019m walking",
+            "body": "They don't swing naturally. ",
+            "created_utc": "2024-10-07 00:59:31 UTC",
+            "submission_id": "iunlS5v",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_Ev2s9Q8",
+                "target": false,
+                "type": "comment",
+                "body": "wait, like \"going out for a walk\" type walking, or walking walking?",
+                "created_utc": "2024-10-07 01:03:17 UTC",
+                "comment_id": "mKQmfXM",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_PXChPWs",
+                "target": false,
+                "type": "comment",
+                "body": "Any type of walking.\u00a0",
+                "created_utc": "2024-10-07 01:04:39 UTC",
+                "comment_id": "Qk0m6JK",
+                "submission_id": "iunlS5v",
+                "parent_id": "mKQmfXM"
+            },
+            {
+                "user_id": "subject_a9LfoEI",
+                "target": false,
+                "type": "comment",
+                "body": "Zoomer brain rot exhibit Z",
+                "created_utc": "2024-10-07 01:04:52 UTC",
+                "comment_id": "wsuxM5a",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_PXChPWs",
+                "target": false,
+                "type": "comment",
+                "body": "Lol, I literally walk like the virgin in the virgin versus Chad meme\u00a0",
+                "created_utc": "2024-10-07 01:06:15 UTC",
+                "comment_id": "sfQQduT",
+                "submission_id": "iunlS5v",
+                "parent_id": "wsuxM5a"
+            },
+            {
+                "user_id": "subject_EE1NT6W",
+                "target": false,
+                "type": "comment",
+                "body": "First result on google \n\nhttps://www.reddit.com/r/autism/comments/le91z6/does_anyone_else_here_not_naturally_swing_their/",
+                "created_utc": "2024-10-07 01:08:23 UTC",
+                "comment_id": "D4ZXJ4H",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_e6ijJTi",
+                "target": false,
+                "type": "comment",
+                "body": "women used to have babies in their arms and didnt have to worry about how they swing",
+                "created_utc": "2024-10-07 01:09:28 UTC",
+                "comment_id": "CuZAtFG",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_Ev2s9Q8",
+                "target": false,
+                "type": "comment",
+                "body": "shit, i have no idea tbh",
+                "created_utc": "2024-10-07 01:10:55 UTC",
+                "comment_id": "WN6pjAL",
+                "submission_id": "iunlS5v",
+                "parent_id": "Qk0m6JK"
+            },
+            {
+                "user_id": "subject_A792kWA",
+                "target": false,
+                "type": "comment",
+                "body": "I hang mine to my side like a Neanderthal and let them swing like a grandfather clock",
+                "created_utc": "2024-10-07 01:12:44 UTC",
+                "comment_id": "HEizo9h",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_wnwxVjY",
+                "target": false,
+                "type": "comment",
+                "body": "yeah that's what started the whole thing, it was initially just /r9k/ freaks trying to psychologically torture their weaker boardmates by pointing out their neuroses but eventually it got remixed into a comparison template.",
+                "created_utc": "2024-10-07 01:17:20 UTC",
+                "comment_id": "tAD4bRM",
+                "submission_id": "iunlS5v",
+                "parent_id": "sfQQduT"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Manually swing them. Trust me on this",
+                "created_utc": "2024-10-07 01:19:14 UTC",
+                "comment_id": "IqT7kiO",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_PXChPWs",
+                "target": false,
+                "type": "comment",
+                "body": "Got my ass\u00a0",
+                "created_utc": "2024-10-07 01:23:41 UTC",
+                "comment_id": "z5ol3g1",
+                "submission_id": "iunlS5v",
+                "parent_id": "D4ZXJ4H"
+            },
+            {
+                "user_id": "subject_EE1NT6W",
+                "target": false,
+                "type": "comment",
+                "body": "The funny part was I was checking to see if this was a sign of anything I should warn you about lol",
+                "created_utc": "2024-10-07 01:25:11 UTC",
+                "comment_id": "spOaYZc",
+                "submission_id": "iunlS5v",
+                "parent_id": "z5ol3g1"
+            },
+            {
+                "user_id": "subject_9lQx2d7",
+                "target": false,
+                "type": "comment",
+                "body": "Wear a jacket or a sweater with pockets at waist height and put them in there.",
+                "created_utc": "2024-10-07 01:47:44 UTC",
+                "comment_id": "Lji1Dgu",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[removed]",
+                "created_utc": "2024-10-07 01:54:03 UTC",
+                "comment_id": "E7YyJeH",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_XinN8rN",
+                "target": false,
+                "type": "comment",
+                "body": "People genuinely practice walking in an attractive way. its an art.",
+                "created_utc": "2024-10-07 02:11:16 UTC",
+                "comment_id": "2x9RC4Q",
+                "submission_id": "iunlS5v",
+                "parent_id": "wsuxM5a"
+            },
+            {
+                "user_id": "subject_a9LfoEI",
+                "target": false,
+                "type": "comment",
+                "body": "Yes losers do this",
+                "created_utc": "2024-10-07 02:16:47 UTC",
+                "comment_id": "Xu2hfTY",
+                "submission_id": "iunlS5v",
+                "parent_id": "2x9RC4Q"
+            },
+            {
+                "user_id": "subject_7Brmxlc",
+                "target": false,
+                "type": "comment",
+                "body": "So do supermodels. It\u2019s a horseshoe.",
+                "created_utc": "2024-10-07 02:19:58 UTC",
+                "comment_id": "1rGssYg",
+                "submission_id": "iunlS5v",
+                "parent_id": "Xu2hfTY"
+            },
+            {
+                "user_id": "subject_a9LfoEI",
+                "target": false,
+                "type": "comment",
+                "body": "Yes. They do that because it's their job to walk down runways. It is not a horseshoe theory at all",
+                "created_utc": "2024-10-07 02:21:56 UTC",
+                "comment_id": "DV2PEZY",
+                "submission_id": "iunlS5v",
+                "parent_id": "1rGssYg"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[removed]",
+                "created_utc": "2024-10-07 02:45:43 UTC",
+                "comment_id": "SOzVq1A",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_XinN8rN",
+                "target": false,
+                "type": "comment",
+                "body": "I think its everyone's job to look their best :D",
+                "created_utc": "2024-10-07 03:10:59 UTC",
+                "comment_id": "g4MiO4T",
+                "submission_id": "iunlS5v",
+                "parent_id": "DV2PEZY"
+            },
+            {
+                "user_id": "subject_eWdyjov",
+                "target": false,
+                "type": "comment",
+                "body": "It always cracks me up when people just walk around with their arms stiff at their sides like they're forever doomed to march drills alone.",
+                "created_utc": "2024-10-07 03:17:08 UTC",
+                "comment_id": "ss4SiC2",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_Dq2Rhyb",
+                "target": false,
+                "type": "comment",
+                "body": "Autism posting is welcome",
+                "created_utc": "2024-10-07 03:30:26 UTC",
+                "comment_id": "7TfSTMD",
+                "submission_id": "iunlS5v",
+                "parent_id": "wsuxM5a"
+            },
+            {
+                "user_id": "subject_0Rc18Rl",
+                "target": false,
+                "type": "comment",
+                "body": "ugh",
+                "created_utc": "2024-10-07 04:11:23 UTC",
+                "comment_id": "xiR9VLr",
+                "submission_id": "iunlS5v",
+                "parent_id": "SOzVq1A"
+            },
+            {
+                "user_id": "subject_qBp31vP",
+                "target": false,
+                "type": "comment",
+                "body": "piece of paper in your hand. looks important",
+                "created_utc": "2024-10-07 04:40:51 UTC",
+                "comment_id": "2gKtIRF",
+                "submission_id": "iunlS5v",
+                "parent_id": "E7YyJeH"
+            },
+            {
+                "user_id": "subject_r8l2D27",
+                "target": false,
+                "type": "comment",
+                "body": "I have the same problem but at concerts or in clubs. Feels weird to just stand there with your arms hanging, so I hsve to have a beer in my hand at all times leading me to drinking a lot lol\u00a0",
+                "created_utc": "2024-10-07 08:59:09 UTC",
+                "comment_id": "yJu7b6S",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_JVYK0Hz",
+                "target": false,
+                "type": "comment",
+                "body": "Pockets or crossed behind your back",
+                "created_utc": "2024-10-07 12:03:43 UTC",
+                "comment_id": "7m2JUDD",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_RyAwHIl",
+                "target": false,
+                "type": "comment",
+                "body": "Zoomers stay unintentionally stealing Seinfeld bits (the ick, rawdogging flights, now this)",
+                "created_utc": "2024-10-07 12:09:16 UTC",
+                "comment_id": "WUiHfkv",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Hold on to your bag. Backpacks are the best. Probably looks weirder but comfortable for me",
+                "created_utc": "2024-10-07 19:03:38 UTC",
+                "comment_id": "J89o4bX",
+                "submission_id": "iunlS5v",
+                "parent_id": "iunlS5v"
+            },
+            {
+                "user_id": "subject_PXChPWs",
+                "target": false,
+                "type": "comment",
+                "body": "I care too much about what people think of me to walk around everywhere wearing a backpack like some student. It\u2019s a symbol of oppression. And I don\u2019t want people to identify me with the oppressed. I want to be seen as a winner. Or at least a based sigma. Which I basically am I just wanna polish up the whole package.\u00a0\u00a0 \u00a0\u00a0 \u00a0\n\nAnyways, Lame attempts at humor aside, the backstory of me posting this is that I recently got a job where I\u2019m walking around in front of people all the time instead of sitting behind a desk and it made me realize that I just really don\u2019t know how to fucking walk normally and it\u2019s kind of annoying since everyone else does it. \u00a0\u00a0\u00a0\n\n\u00a0\u00a0When I am out walking around on the street, I always have a bag or backpack or some other prop to give me a natural excuse to not have to move my arms even just texting on my phone or holding my phone at the ready to take pictures. But that is a Nono in an environment where you are being judged by the bosses because customers are present and they have an image they want to maintain.\u00a0",
+                "created_utc": "2024-10-07 19:14:13 UTC",
+                "comment_id": "NCShsqD",
+                "submission_id": "iunlS5v",
+                "parent_id": "J89o4bX"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Oh I am some student. I was planning to get a boyfriend to hold on to after my years of pupildom end but never thought of an office environment. You made me realize I need some better planning on this",
+                "created_utc": "2024-10-07 19:45:24 UTC",
+                "comment_id": "ZtlUIR7",
+                "submission_id": "iunlS5v",
+                "parent_id": "NCShsqD"
+            },
+            {
+                "user_id": "subject_cE04AUJ",
+                "target": false,
+                "type": "comment",
+                "body": "This is also my downfall.",
+                "created_utc": "2024-10-07 23:29:29 UTC",
+                "comment_id": "J3EvPXQ",
+                "submission_id": "iunlS5v",
+                "parent_id": "yJu7b6S"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_4xtUCAh",
+            "target": false,
+            "type": "submission",
+            "title": "Does anyone here actually follow a daily routine? ",
+            "body": "Morning, evening, or both. I've never in my life been able to stick to one and I feel that if I did it would fix me. If you have one please share I'm curious.",
+            "created_utc": "2024-10-17 10:42:21 UTC",
+            "submission_id": "Z2oskMX",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_EztW6gh",
+                "target": false,
+                "type": "comment",
+                "body": "I had one and fell out of it cause of moving and changes in travel schedule but basically my morning routine was \n- poop \n- smoke \n- skincare/spf/shower \n- take my little supplements, make my little protein shake, make breakfast \n- have a nice little beverage \n\nIf I don\u2019t have my morning poo or smoke it is sure to be. A bad day",
+                "created_utc": "2024-10-17 11:12:36 UTC",
+                "comment_id": "XE2OQPC",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_MMSwwst",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m the opposite, I try to make every day as much of an exact copy as the previous one as possible. I get up about 1.25hrs before I have to leave for work and get the coffeemaker going, then get the cast iron hot and throw some butter and eggs on it, and toast in the toaster oven (must be timed well). When eggs are done throw some cheese on them and fetch toast, by now the coffee is ready, eat breakfast while scrolling Twitter if hockey isn\u2019t in season, if it\u2019s hockey season check scores and storylines from previous night\u2019s games. Now if everything went well and I made my lunch for work last night I\u2019ll have about 45 minutes to lay on my side on the couch and if I\u2019m not being too lazy read some poetry, otherwise scroll more, answer texts, watch the reels I was sent overnight, etc. all the while drinking coffee and having a piece of dark chocolate as a treat. This is always the best part of my day",
+                "created_utc": "2024-10-17 11:13:58 UTC",
+                "comment_id": "Bqzj8PD",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_z5AoPW7",
+                "target": false,
+                "type": "comment",
+                "body": "Poop before smoke is crazy, respect though",
+                "created_utc": "2024-10-17 11:22:16 UTC",
+                "comment_id": "eqB8gsh",
+                "submission_id": "Z2oskMX",
+                "parent_id": "XE2OQPC"
+            },
+            {
+                "user_id": "subject_EztW6gh",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m a different kind of beast and sometimes I combine them",
+                "created_utc": "2024-10-17 11:23:16 UTC",
+                "comment_id": "trWgUWw",
+                "submission_id": "Z2oskMX",
+                "parent_id": "eqB8gsh"
+            },
+            {
+                "user_id": "subject_z5AoPW7",
+                "target": false,
+                "type": "comment",
+                "body": "Ciggie on the shitter is a form of mindfulness",
+                "created_utc": "2024-10-17 11:27:14 UTC",
+                "comment_id": "1Nf9MyZ",
+                "submission_id": "Z2oskMX",
+                "parent_id": "trWgUWw"
+            },
+            {
+                "user_id": "subject_Xj2Htq9",
+                "target": false,
+                "type": "comment",
+                "body": "i do because i feel really dumb and delirious at the beginning and end of the day. now i can autopilot picking out my clothes for the next day, making coffee in the morning, etc",
+                "created_utc": "2024-10-17 11:47:47 UTC",
+                "comment_id": "bF74DHd",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_Kn798Qk",
+                "target": false,
+                "type": "comment",
+                "body": "chill",
+                "created_utc": "2024-10-17 11:49:48 UTC",
+                "comment_id": "kOHb4YQ",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Bqzj8PD"
+            },
+            {
+                "user_id": "subject_er4FeHF",
+                "target": false,
+                "type": "comment",
+                "body": "I used to but now I work from home and it\u2019s all gone out the window",
+                "created_utc": "2024-10-17 12:27:06 UTC",
+                "comment_id": "QvIxwTr",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_8EhpOZQ",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019ve been keeping the same routine for a few months now and it\u2019s really improved my mood. Depending on how much time I have in the morning it goes like:\u00a0\n\n- Make myself coffee and whatever I\u2019m feeling for breakfast.\u00a0\n\n- About 40 minutes of Pilates\u00a0\n\n- Shower & skincare\u00a0\n\n- Read if I still have some time before I have to leave\u00a0\n\nI try to keep it simple and achievable.\u00a0",
+                "created_utc": "2024-10-17 12:50:02 UTC",
+                "comment_id": "uk3ru3b",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_Qc2nPGE",
+                "target": false,
+                "type": "comment",
+                "body": "In the fall and winter I'm militant about taking a 30+ minute walk every morning and I always drink a big smoothie with protein and fat (peanut butter) before I go.\n\nA daily routine could mean a million things but getting morning sunlight, eating at the same times and getting exercise are the big things that everything else is downstream from.",
+                "created_utc": "2024-10-17 13:00:37 UTC",
+                "comment_id": "QxznF60",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_MMSwwst",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m passionate about my morning ritual",
+                "created_utc": "2024-10-17 13:11:14 UTC",
+                "comment_id": "1fqnLdX",
+                "submission_id": "Z2oskMX",
+                "parent_id": "kOHb4YQ"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "That's fascinating, thanks. I can never make up my mind on morning vs. evening showers \ud83e\udd14 Both have their benefits. Rn I'm mostly an evening showerer.",
+                "created_utc": "2024-10-17 13:30:36 UTC",
+                "comment_id": "Em3gOsq",
+                "submission_id": "Z2oskMX",
+                "parent_id": "XE2OQPC"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "Very male coded morning routine but it sounds pretty nice.",
+                "created_utc": "2024-10-17 13:31:11 UTC",
+                "comment_id": "jNckZxn",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Bqzj8PD"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "40 minutes of pilates! Living like a wellness influencer, I can respect it",
+                "created_utc": "2024-10-17 13:33:28 UTC",
+                "comment_id": "OWtntPm",
+                "submission_id": "Z2oskMX",
+                "parent_id": "uk3ru3b"
+            },
+            {
+                "user_id": "subject_MMSwwst",
+                "target": false,
+                "type": "comment",
+                "body": "I am indeed male, but I think with a few tweaks it\u2019s at least a good structure to follow as far as morning routines go. Good luck !",
+                "created_utc": "2024-10-17 13:44:43 UTC",
+                "comment_id": "EpJJZdS",
+                "submission_id": "Z2oskMX",
+                "parent_id": "jNckZxn"
+            },
+            {
+                "user_id": "subject_2Q4BDbd",
+                "target": false,
+                "type": "comment",
+                "body": "Suggest a sleep study.  I used to feel like shit in the mornings but got some issues fixed and now I'm, if not enthused at waking up, useful before noon.",
+                "created_utc": "2024-10-17 13:52:49 UTC",
+                "comment_id": "c7qNEjh",
+                "submission_id": "Z2oskMX",
+                "parent_id": "bF74DHd"
+            },
+            {
+                "user_id": "subject_W9LDDMJ",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah. I mean you kind of have to do a bunch of the same shit in the morning to get ready for the day. How do you not follow a morning routine?",
+                "created_utc": "2024-10-17 14:44:11 UTC",
+                "comment_id": "2iWOAOA",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_GEJoFvi",
+                "target": false,
+                "type": "comment",
+                "body": "\nWhat did they diagnose you with? I got one as a kid and they said that they didn\u2019t find anything and that I prob couldn\u2019t sleep because of anxiety or something. I want to go back again but my family never hears me snore or anything. I also technically sleep through the night, it\u2019s just that getting up is always a struggle",
+                "created_utc": "2024-10-17 15:03:23 UTC",
+                "comment_id": "DIQ407E",
+                "submission_id": "Z2oskMX",
+                "parent_id": "c7qNEjh"
+            },
+            {
+                "user_id": "subject_2Q4BDbd",
+                "target": false,
+                "type": "comment",
+                "body": "Apnea and deviated septum.  I got my nose broken as a kid and didn't get taken to hospital and never fixed.  I would usually sleep through the night as well but yeah waking up was a huge struggle.",
+                "created_utc": "2024-10-17 15:06:52 UTC",
+                "comment_id": "srpc4qG",
+                "submission_id": "Z2oskMX",
+                "parent_id": "DIQ407E"
+            },
+            {
+                "user_id": "subject_XinN8rN",
+                "target": false,
+                "type": "comment",
+                "body": "wakeup \n\nstretches (neck and shoulder focused)\n\nwater , then coffee\n\nbreakfast\n\nrun \n\npilates\n\ncooldown watch / read\n\nshower / skincare",
+                "created_utc": "2024-10-17 15:16:38 UTC",
+                "comment_id": "X0JAU29",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_K6Pq4m1",
+                "target": false,
+                "type": "comment",
+                "body": "(try to) wake up at the same time every day\n\nhour walk outside during lunch \n\nworkout or lessons after work \n\nshower\n\nmeditate \n\nread \n\nMost of these I manage to do 80% of the time, I try not to be too strict because it stresses me out",
+                "created_utc": "2024-10-17 15:36:28 UTC",
+                "comment_id": "R75tnxW",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_a9LfoEI",
+                "target": false,
+                "type": "comment",
+                "body": "No i am mentally ill",
+                "created_utc": "2024-10-17 15:46:42 UTC",
+                "comment_id": "uHOuwcX",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_XRlvWl2",
+                "target": false,
+                "type": "comment",
+                "body": "I have a pretty consistent routine that is good for me but probably sounds depressing to others haha \n\nUsually it\u2019s wake up, scroll through the apps to catch up, get ready for work/the day, take my vitamins, get out to where I gotta go, get coffee if needed, make it to work/my destination, have lunch (alone), finish workday, workout (alone), go home, have dinner, decompress (alone) OR work on my projects (alone) and go to bed (how??? you guessed it!\u2026. Alone..)\n\nAnything outside of my daily routine is usually a social thing or I\u2019m not feeling my best. Again, it works for me \ud83d\udc4d\ud83c\udffe",
+                "created_utc": "2024-10-17 15:51:37 UTC",
+                "comment_id": "8pEAi9b",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_ev0b7Yz",
+                "target": false,
+                "type": "comment",
+                "body": "\"ciggie on the shitter\" is such chimney sweep posting",
+                "created_utc": "2024-10-17 16:28:09 UTC",
+                "comment_id": "YGXu9sR",
+                "submission_id": "Z2oskMX",
+                "parent_id": "1Nf9MyZ"
+            },
+            {
+                "user_id": "subject_ev0b7Yz",
+                "target": false,
+                "type": "comment",
+                "body": "Nice, how much time do you give yourself between waking up and going to work to complete this?",
+                "created_utc": "2024-10-17 16:31:21 UTC",
+                "comment_id": "UbtWiZq",
+                "submission_id": "Z2oskMX",
+                "parent_id": "uk3ru3b"
+            },
+            {
+                "user_id": "subject_8EhpOZQ",
+                "target": false,
+                "type": "comment",
+                "body": "Usually 2 1/2 hours. It helps that work usually starts a little later in the morning for me",
+                "created_utc": "2024-10-17 16:54:36 UTC",
+                "comment_id": "bkCEigF",
+                "submission_id": "Z2oskMX",
+                "parent_id": "UbtWiZq"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "I enjoyed reading this",
+                "created_utc": "2024-10-17 17:14:36 UTC",
+                "comment_id": "8UdO5k8",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Bqzj8PD"
+            },
+            {
+                "user_id": "subject_qnF1Rf9",
+                "target": false,
+                "type": "comment",
+                "body": "military and tism means i have a ton of routines my problem is i feel cheesy and fake following them all because i have a false sense of self as some bohemian layabout (hence posting here) the irony being that my mood and creativity are so much better when im on the wagon\n\ni need to embrace my inner engineer and just be one of those guys who gets really enthusiastic about 3d printing and woodworking or some shit",
+                "created_utc": "2024-10-17 17:17:32 UTC",
+                "comment_id": "OPT2mq9",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_EztW6gh",
+                "target": false,
+                "type": "comment",
+                "body": "When traveling i am known to do both \ud83e\udd76 but i think evening showers can be superior so u can wash off all the weird stuff ppl spit in ur direction during the day",
+                "created_utc": "2024-10-17 18:07:41 UTC",
+                "comment_id": "W7bJlhk",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Em3gOsq"
+            },
+            {
+                "user_id": "subject_MMSwwst",
+                "target": false,
+                "type": "comment",
+                "body": "Thx im glad :)",
+                "created_utc": "2024-10-17 18:10:35 UTC",
+                "comment_id": "vROqoU0",
+                "submission_id": "Z2oskMX",
+                "parent_id": "8UdO5k8"
+            },
+            {
+                "user_id": "subject_dAhxmco",
+                "target": false,
+                "type": "comment",
+                "body": "Bf wakes me up with coffee before he leaves. I cuddle my cat til the last possible second then throw my clothes on in a flurry and burst out of the door to the bus. Almost always forget something.",
+                "created_utc": "2024-10-17 19:26:06 UTC",
+                "comment_id": "10lYROa",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_wZvUWUT",
+                "target": false,
+                "type": "comment",
+                "body": "American Psycho coded breakfast",
+                "created_utc": "2024-10-17 19:39:10 UTC",
+                "comment_id": "Vf4W622",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Bqzj8PD"
+            },
+            {
+                "user_id": "subject_LdepRuZ",
+                "target": false,
+                "type": "comment",
+                "body": "I'm terrible at establishing routines. The only one I've gotten good at is taking my meds and supplements. And skincare. Beyond that, and beyond the confines of the office, I am driven by desire and impulse\u00a0",
+                "created_utc": "2024-10-17 20:11:44 UTC",
+                "comment_id": "BrkxsDd",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_aGsMMmn",
+                "target": false,
+                "type": "comment",
+                "body": "I try to take a workout class most mornings. If I\u2019m sore or don\u2019t have time I still put on gym clothes and do a 10 minute stretch routine and take a 5 min walk around the neighborhood. I keep a gratitude journal and read my horoscope either before or right after my workout. Then breakfast, shower, skincare, makeup, hair. Honestly I think the gym clothes right away makes the biggest difference. Even if I choose an outfit the night before I usually end up switching it in the morning, and getting dressed even before I actually have an outfit picked out makes me feel so much more awake.",
+                "created_utc": "2024-10-17 20:25:10 UTC",
+                "comment_id": "CEjAs5l",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Z2oskMX"
+            },
+            {
+                "user_id": "subject_MMSwwst",
+                "target": false,
+                "type": "comment",
+                "body": "I am regular",
+                "created_utc": "2024-10-17 20:29:39 UTC",
+                "comment_id": "ux7UJGG",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Vf4W622"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "I've never worked a 9-5, that's how. I do usually wake up at 7.30 every day because that's when my husband gets up for work, and I usually make him oatmeal in the morning, so I guess that's a daily routine of sorts. But for me, whether I want to eat first thing or wait til later, whether I want to shower or not, want to do skincare or not, whether I get changed before he leaves or after, it's all up in the air and I'm rarely consistent. I get bored very easily and feel the need to break routines. For a while I was trying to get up before him and exercise and draw in the morning, but it didn't stick.",
+                "created_utc": "2024-10-17 23:46:24 UTC",
+                "comment_id": "yraQzmG",
+                "submission_id": "Z2oskMX",
+                "parent_id": "2iWOAOA"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "Aw this has messy but lovable tv show protagonist energy.",
+                "created_utc": "2024-10-17 23:52:47 UTC",
+                "comment_id": "bz3k1Xj",
+                "submission_id": "Z2oskMX",
+                "parent_id": "10lYROa"
+            },
+            {
+                "user_id": "subject_W9LDDMJ",
+                "target": false,
+                "type": "comment",
+                "body": "You should probably do stuff like wash your body and do skincare every morning. I guess the other stuff doesn\u2019t really matter.",
+                "created_utc": "2024-10-17 23:55:59 UTC",
+                "comment_id": "yENzDj7",
+                "submission_id": "Z2oskMX",
+                "parent_id": "yraQzmG"
+            },
+            {
+                "user_id": "subject_dAhxmco",
+                "target": false,
+                "type": "comment",
+                "body": "One must oft romanticise in order to function\ud83e\udd0d",
+                "created_utc": "2024-10-17 23:56:17 UTC",
+                "comment_id": "Nr9dgfp",
+                "submission_id": "Z2oskMX",
+                "parent_id": "bz3k1Xj"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "Being alone has its pros and cons, I live with my partner but when he's away I find I'm a lot more productive and creative. I hope you're making time to spend with friends and family though, too much alone time can drive you a bit crazy \u2764\ufe0f",
+                "created_utc": "2024-10-18 00:00:59 UTC",
+                "comment_id": "JUmE4KY",
+                "submission_id": "Z2oskMX",
+                "parent_id": "8pEAi9b"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "I love evening showering at the moment. I do wash my face every morning but just with water. Sometimes my skin is best when I skip skincare for a day.",
+                "created_utc": "2024-10-18 00:02:43 UTC",
+                "comment_id": "nLDQJGD",
+                "submission_id": "Z2oskMX",
+                "parent_id": "yENzDj7"
+            },
+            {
+                "user_id": "subject_4xtUCAh",
+                "target": false,
+                "type": "comment",
+                "body": "Very true!",
+                "created_utc": "2024-10-18 00:03:36 UTC",
+                "comment_id": "TOaTRpf",
+                "submission_id": "Z2oskMX",
+                "parent_id": "Nr9dgfp"
+            },
+            {
+                "user_id": "subject_XRlvWl2",
+                "target": false,
+                "type": "comment",
+                "body": "Haha don\u2019t worry, I remember to be social. I\u2019m an INFJ so I\u2019m a bit of an extrovert despite being introvert. Either way, I\u2019m aware when I\u2019m a bit too inside my head lol",
+                "created_utc": "2024-10-18 02:36:44 UTC",
+                "comment_id": "TQ0JPA9",
+                "submission_id": "Z2oskMX",
+                "parent_id": "JUmE4KY"
+            },
+            {
+                "user_id": "subject_r8l2D27",
+                "target": false,
+                "type": "comment",
+                "body": "Regular psycho",
+                "created_utc": "2024-10-18 05:31:28 UTC",
+                "comment_id": "7k6E9Em",
+                "submission_id": "Z2oskMX",
+                "parent_id": "ux7UJGG"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_7lBN8G9",
+            "target": true,
+            "type": "submission",
+            "title": "Confusion ",
+            "body": "Saw this on a billboard today. Something\u2019s wrong with it but idk what",
+            "created_utc": "2024-10-22 16:01:18 UTC",
+            "submission_id": "poSjcWN",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_gNjYQtR",
+                "target": false,
+                "type": "comment",
+                "body": "She seems about 15% surprised to be there.",
+                "created_utc": "2024-10-22 16:10:04 UTC",
+                "comment_id": "0kLMpIo",
+                "submission_id": "poSjcWN",
+                "parent_id": "poSjcWN"
+            },
+            {
+                "user_id": "subject_Owf0pXM",
+                "target": false,
+                "type": "comment",
+                "body": "The lighting makes her skin and top blend into each other in some places. At first she appeared confusingly amorphous",
+                "created_utc": "2024-10-22 16:14:05 UTC",
+                "comment_id": "rB4255s",
+                "submission_id": "poSjcWN",
+                "parent_id": "poSjcWN"
+            },
+            {
+                "user_id": "subject_aScJVIk",
+                "target": false,
+                "type": "comment",
+                "body": "\u201cLazy contempt\u201d is the female soy face -u/DickPillSoupKitchen",
+                "created_utc": "2024-10-22 17:19:44 UTC",
+                "comment_id": "tKrDinO",
+                "submission_id": "poSjcWN",
+                "parent_id": "poSjcWN"
+            },
+            {
+                "user_id": "subject_zTrS9Ei",
+                "target": false,
+                "type": "comment",
+                "body": "her hair is styled really poorly i think",
+                "created_utc": "2024-10-23 19:32:26 UTC",
+                "comment_id": "cYDebDY",
+                "submission_id": "poSjcWN",
+                "parent_id": "poSjcWN"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_7lBN8G9",
+            "target": true,
+            "type": "submission",
+            "title": "Literal devils lettuce",
+            "body": "Slit my hand open while I was trying to cut lettuce. Whole kitchen turned into a crime scene in like seconds. Rushed to the ER and ended up getting stitches and a tetanus shot. Came home and realized I have no one to whine about it besides my mother. Had to reconsider my life decisions for a while. Mom stayed on the phone with me for some time. Now my lymph nodes are swollen because of the shot and am unable to use a whole part of my body because of pain. Mom doesn\u2019t stay on the phone for that long anymore since the shock is gone and isn\u2019t that worried now. Realized I am still a child",
+            "created_utc": "2024-10-23 17:45:00 UTC",
+            "submission_id": "im04Aen",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_iYx26qo",
+                "target": false,
+                "type": "comment",
+                "body": "In the year 459 bc a impish ancestor of yours broke into my ancestors pigpen, releasing \n 14 hogs of whom only 9 were recovered, causing great grief among my house. We put a curse upon your house, that the 100 generation would suffer great tragedy. It appears to have paid off, I would like to apologize for my families curse.",
+                "created_utc": "2024-10-23 18:09:31 UTC",
+                "comment_id": "y21t0f8",
+                "submission_id": "im04Aen",
+                "parent_id": "im04Aen"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "cautious gullible tart friendly pocket overconfident label swim cover absurd\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*",
+                "created_utc": "2024-10-23 19:26:41 UTC",
+                "comment_id": "rBUG8zu",
+                "submission_id": "im04Aen",
+                "parent_id": "im04Aen"
+            },
+            {
+                "user_id": "subject_Cm4MrFS",
+                "target": false,
+                "type": "comment",
+                "body": "Don't worry bout it",
+                "created_utc": "2024-10-24 01:02:56 UTC",
+                "comment_id": "2SRHVzE",
+                "submission_id": "im04Aen",
+                "parent_id": "im04Aen"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "It all makes sense now thank you",
+                "created_utc": "2024-10-24 07:51:17 UTC",
+                "comment_id": "yzcgo1H",
+                "submission_id": "im04Aen",
+                "parent_id": "y21t0f8"
+            },
+            {
+                "user_id": "subject_1fM6dqb",
+                "target": false,
+                "type": "comment",
+                "body": "did you get any photos of the blood-spattered lettuce\n\nalways looking for fall plating inspo",
+                "created_utc": "2024-10-24 07:54:07 UTC",
+                "comment_id": "fYWwVn3",
+                "submission_id": "im04Aen",
+                "parent_id": "im04Aen"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "How would you define schizo posting? And it is real and it is very uncomfortable thank you",
+                "created_utc": "2024-10-24 07:56:04 UTC",
+                "comment_id": "3D8ePeK",
+                "submission_id": "im04Aen",
+                "parent_id": "rBUG8zu"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "https://preview.redd.it/m20ka8dsvnwd1.png?width=2411&format=png&auto=webp&s=dd6528df9fdb3c39ac2268e2b04c6ee938f2be96\n\nWashed it all up and made turkey salad with it for lunch",
+                "created_utc": "2024-10-24 08:05:37 UTC",
+                "comment_id": "M8j9Yli",
+                "submission_id": "im04Aen",
+                "parent_id": "fYWwVn3"
+            },
+            {
+                "user_id": "subject_1fM6dqb",
+                "target": false,
+                "type": "comment",
+                "body": "awesome\n\nopening a pomegranate recently I made a mistake and got what looked like blood spatter on my wall\n\nmaybe I\u2019ll incorporate that into a halloween salad\n\nthanks!",
+                "created_utc": "2024-10-24 08:17:35 UTC",
+                "comment_id": "Y0j9VlU",
+                "submission_id": "im04Aen",
+                "parent_id": "M8j9Yli"
+            },
+            {
+                "user_id": "subject_7lBN8G9",
+                "target": true,
+                "type": "comment",
+                "body": "Red turnips pickle juice can give a similar effect and goes well with cottage cheese if you\u2019re looking for something more savory",
+                "created_utc": "2024-10-24 08:25:19 UTC",
+                "comment_id": "m3avMgw",
+                "submission_id": "im04Aen",
+                "parent_id": "Y0j9VlU"
+            },
+            {
+                "user_id": "subject_LHaedZm",
+                "target": false,
+                "type": "comment",
+                "body": "last thanksgiving i did a friendsgiving and while preparing the turkey i cut deep into my hand but we were all already drunk and i didnt want to pay for an ambulance so i taped a shirt around my hand and finished cooking dinner\n\nwent to patient first the next day wildly hungover and they said i should have gotten stitches but it was too late, cleaned it and gave me a butterfly bandage, and charged me $300 after waiting for 2 hours",
+                "created_utc": "2024-10-24 15:28:39 UTC",
+                "comment_id": "1SqUq3o",
+                "submission_id": "im04Aen",
+                "parent_id": "im04Aen"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_7lBN8G9",
+            "target": true,
+            "type": "submission",
+            "title": "Chinese prints",
+            "body": "Each represent different levels of human consciousness. Great as a gift or a tattoo. Which one are you?",
+            "created_utc": "2024-10-26 08:19:47 UTC",
+            "submission_id": "kGD8CPQ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_TrFQqhu",
+                "target": false,
+                "type": "comment",
+                "body": "Do you know where this comes from and where I can read more about this? Would love to find out more about esoteric Chinese ideas about consciousness.",
+                "created_utc": "2024-10-26 18:15:51 UTC",
+                "comment_id": "vRdf106",
+                "submission_id": "kGD8CPQ",
+                "parent_id": "kGD8CPQ"
+            },
+            {
+                "user_id": "subject_5QAYhIF",
+                "target": false,
+                "type": "comment",
+                "body": "Gotta be a huge asshole to be any of these tbh \ud83d\ude09",
+                "created_utc": "2024-10-26 18:50:08 UTC",
+                "comment_id": "xmms2Yv",
+                "submission_id": "kGD8CPQ",
+                "parent_id": "kGD8CPQ"
+            },
+            {
+                "user_id": "subject_5QAYhIF",
+                "target": false,
+                "type": "comment",
+                "body": "https://en.m.wikipedia.org/wiki/Yuzuan_yizong_jinjian\u00a0\n\n\u00a0The good news is they are esoteric chinese ideas, but the bad news is they aren\u2019t about consciousness",
+                "created_utc": "2024-10-26 18:54:36 UTC",
+                "comment_id": "0Jm51aO",
+                "submission_id": "kGD8CPQ",
+                "parent_id": "vRdf106"
+            },
+            {
+                "user_id": "subject_TrFQqhu",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah it\u2019s about hemorrhoids which is less interesting.",
+                "created_utc": "2024-10-26 19:18:28 UTC",
+                "comment_id": "vUiNOAA",
+                "submission_id": "kGD8CPQ",
+                "parent_id": "0Jm51aO"
+            }
+        ]
+    }
+]

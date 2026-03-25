@@ -1,0 +1,1558 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Why for the queen it's la Reina but for the king it's al rey?",
+            "body": "",
+            "created_utc": "2024-05-25 19:05:36 UTC",
+            "submission_id": "n1qc0MC",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_xnWr3OB",
+                "target": false,
+                "type": "comment",
+                "body": "\u2018The king\u2019 is \u2018el rey\u2019. \u2018Al\u2019 is a contraction of \u2018a+el\u2019 so the equivalent of \u2018al rey\u2019 is \u2018a la reina\u2019.",
+                "created_utc": "2024-05-25 19:13:03 UTC",
+                "comment_id": "bTzcRtE",
+                "submission_id": "n1qc0MC",
+                "parent_id": "n1qc0MC"
+            },
+            {
+                "user_id": "subject_gU676Md",
+                "target": false,
+                "type": "comment",
+                "body": "\nQueen = reina = feminine -> la\n\n-\n\nKing = rey = masculine -> el",
+                "created_utc": "2024-05-25 19:13:35 UTC",
+                "comment_id": "srAHoN8",
+                "submission_id": "n1qc0MC",
+                "parent_id": "n1qc0MC"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! So does that mean you can only use\" al \"when it's masculine?",
+                "created_utc": "2024-05-25 19:19:08 UTC",
+                "comment_id": "NO1WiCq",
+                "submission_id": "n1qc0MC",
+                "parent_id": "bTzcRtE"
+            },
+            {
+                "user_id": "subject_In2HIPI",
+                "target": false,
+                "type": "comment",
+                "body": "Al is \"a + el\"\n\nSo, yes, it can only be used for \"masculine type of words\"... but only when both \"a\" and \"el\" are needed.\n\nAl isn't an article.\n\nIt's a contraction.\n\nAl Rey =/= the king...\n\nThe king is still el Rey\n\nNote:\n\nThis rule applies with 'de' as well.\n\nI am going to the king's party:\n\nLiterally \"voy a la fiesta de el rey\" but because we contract:\n\nVoy a la fiesta del rey\"\n\nFor another \"a + el\":\n\nI walk to the car.\n\nCamino al carro.\n\nAl carro here means to the car.\n\nAl =/= el.",
+                "created_utc": "2024-05-25 19:28:56 UTC",
+                "comment_id": "Wa93gVI",
+                "submission_id": "n1qc0MC",
+                "parent_id": "NO1WiCq"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you that actually makes sense now! I was confused because of Duolingo aha",
+                "created_utc": "2024-05-25 19:40:50 UTC",
+                "comment_id": "KP78ekY",
+                "submission_id": "n1qc0MC",
+                "parent_id": "Wa93gVI"
+            },
+            {
+                "user_id": "subject_In2HIPI",
+                "target": false,
+                "type": "comment",
+                "body": "Don't worry, it can definitely get confusing(even for native speakers of all languages... there's always something that you just \"accept\" haha)\n\nI would highly recommend looking at the unit notes before starting a unit, to familiarize yourself with what you are going to learn. Sometimes, these unit notes will teach you the grammar concept, so they can be handy.\n\nKeep on learning!",
+                "created_utc": "2024-05-25 19:56:59 UTC",
+                "comment_id": "PF0y1TM",
+                "submission_id": "n1qc0MC",
+                "parent_id": "KP78ekY"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "How do I get the unit notes sorry aha I've never heard of it.",
+                "created_utc": "2024-05-25 20:03:52 UTC",
+                "comment_id": "qmeMJ8q",
+                "submission_id": "n1qc0MC",
+                "parent_id": "PF0y1TM"
+            },
+            {
+                "user_id": "subject_In2HIPI",
+                "target": false,
+                "type": "comment",
+                "body": "No worries! [Here is an example](https://imgur.com/gallery/r9EKwbU) using the unit(on my course tree) that has the \"al and del\" there is a picture including where the unit note is, and another image that I screenshotted the unit note page.",
+                "created_utc": "2024-05-25 20:10:27 UTC",
+                "comment_id": "wDLtt33",
+                "submission_id": "n1qc0MC",
+                "parent_id": "qmeMJ8q"
+            },
+            {
+                "user_id": "subject_In2HIPI",
+                "target": false,
+                "type": "comment",
+                "body": "I guess it is called \"unit guidebook\" not unit notes lol",
+                "created_utc": "2024-05-25 20:12:46 UTC",
+                "comment_id": "sfQzeZh",
+                "submission_id": "n1qc0MC",
+                "parent_id": "qmeMJ8q"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much! I found it and I had no clue this whole time. I'm on section 4 not sure if that's good or not aha but I will deffo be using this!",
+                "created_utc": "2024-05-25 20:22:49 UTC",
+                "comment_id": "ji2Wqfu",
+                "submission_id": "n1qc0MC",
+                "parent_id": "sfQzeZh"
+            },
+            {
+                "user_id": "subject_Z0u8hJy",
+                "target": false,
+                "type": "comment",
+                "body": "For the queen it's either 'la reina' (the queen) or 'a la reina' (to the queen), and for the king it's 'el rey' (the king) or 'al rey' (to the king).\n\n  \nYou use 'la reina' or 'el rey' if the queen or king is the subject of the sentence.  You use 'a la reina' or 'al rey' if the queen or king is not the subject but is the direct or indirect object of the sentence because of the personal \"a\" rule making it \"a\" la reina or \"a\" el rey (which you need to contract to \"al\" rey).  \n\n  \nHere are some real examples:  \n\n1. [https://www.youtube.com/watch?v=jDVJiG3SNXo](https://www.youtube.com/watch?v=jDVJiG3SNXo)  \n\nAt 0:13 he says \"El rey intenta retroceder, pero la caballer\u00eda del enemigo lo acorrala.\"  The king intended to retreat, but the enemy's cavalry surrounds him.  So the subject is the king and thus you would use el rey.    \n\n\n2.  [https://www.youtube.com/watch?v=8JwGNXFVuQc](https://www.youtube.com/watch?v=8JwGNXFVuQc)\n\nAt 0:05 he says \"He\u00a0pintado\u00a0muchas\u00a0veces\u00a0al\u00a0Rey\u00a0Juan\u00a0Carlos.\"  I have painted King Juan Carlos many times.  So the subject is \"he\" (I) and the direct object is \"Rey Juan Carlos\" (King Juan Carlos), so you would use \"al rey\" because of the personal a rule.  \n\n\n\n3.  [https://www.youtube.com/watch?v=-tHQS8cm8L8](https://www.youtube.com/watch?v=-tHQS8cm8L8)\n\nAt 2:35 he says \"Cuando\u00a0el\u00a0rey\u00a0se\u00a0enferm\u00f3,\u00a0convoc\u00f3\u00a0al\u00a0famoso\u00a0doctor\u00a0para\u00a0que\u00a0lo\u00a0atendiera.\"  When the king fell ill, he summoned the famous doctor to treat him.   Here like in the first example the king is the subject of the sentence so you would use \"el rey\".",
+                "created_utc": "2024-05-26 01:16:22 UTC",
+                "comment_id": "goORz63",
+                "submission_id": "n1qc0MC",
+                "parent_id": "n1qc0MC"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you soo much! You actually helped me a lot\u263a\ufe0f",
+                "created_utc": "2024-05-26 11:02:43 UTC",
+                "comment_id": "CFFexsH",
+                "submission_id": "n1qc0MC",
+                "parent_id": "goORz63"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "I'm struggling to improve my Spanish ",
+            "body": "I've had Duolingo for 2 years now but I'm only on a2. Not sure what that means but I would like to try something else and also improve being fluent. If theres any tips or apps or videos I'd really appreciate that thank you!",
+            "created_utc": "2024-05-25 19:48:30 UTC",
+            "submission_id": "VJ8rEcs",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_DbKSYmI",
+                "target": false,
+                "type": "comment",
+                "body": "Get a cheap used year 1 spanish college textbook, duolingo is a supplement, it's not enough on its own",
+                "created_utc": "2024-05-25 20:27:21 UTC",
+                "comment_id": "yg4xM7w",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_A028SG3",
+                "target": false,
+                "type": "comment",
+                "body": "try Busuu app ;D",
+                "created_utc": "2024-05-25 21:00:37 UTC",
+                "comment_id": "QGlgMqE",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_yeJ08K1",
+                "target": false,
+                "type": "comment",
+                "body": "Talk to yourself and have \u201cconversations\u201d out loud. I\u2019m finding that it\u2019s even more helpful than writing down pages of definitions and conjugations, or getting through a set of slides on the app.",
+                "created_utc": "2024-05-26 00:16:15 UTC",
+                "comment_id": "hq90wXL",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_l2GCR2K",
+                "target": false,
+                "type": "comment",
+                "body": "Language Transfer.",
+                "created_utc": "2024-05-26 00:41:13 UTC",
+                "comment_id": "bfBPCED",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_stMDlnE",
+                "target": false,
+                "type": "comment",
+                "body": "I really hate Duolingo. Of course it serves a purpose, which usually is just getting off the mark when you know nothing. But to really succeed and improve, I find nothing works for me in the way that good old fashion classes do. \n\nI\u2019d fucked around with Duolingo for a year on and off before finally doing a month long Spanish intensive course in Barcelona and that changed the game for me. I was able to navigate South America on a 3 month trip and speaking Spanish every day (badly, but enough to get by).",
+                "created_utc": "2024-05-26 03:37:40 UTC",
+                "comment_id": "8SISV2G",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_TGvqXGk",
+                "target": false,
+                "type": "comment",
+                "body": "Google kwiziq, it's very good for learning spanish.",
+                "created_utc": "2024-05-26 09:44:10 UTC",
+                "comment_id": "Aetvupy",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! I've took the test to start and now I'm not sure what to do! Is there lessons or practice because I'm not sure aha.",
+                "created_utc": "2024-05-26 10:51:43 UTC",
+                "comment_id": "hXpvwQA",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "Aetvupy"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! Could I get that in the library?",
+                "created_utc": "2024-05-26 10:52:12 UTC",
+                "comment_id": "cOL1DTK",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "yg4xM7w"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "I will thank you! I have heard of it ages ago but weren't sure if it was good!",
+                "created_utc": "2024-05-26 10:52:50 UTC",
+                "comment_id": "ZBaw1FI",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "QGlgMqE"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! Might be a stupid question but are these in England too?",
+                "created_utc": "2024-05-26 10:54:57 UTC",
+                "comment_id": "tnqj3a5",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "8SISV2G"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "I will try this thank you! Whenever I write pages I never remember anything so I hope this works!",
+                "created_utc": "2024-05-26 10:55:49 UTC",
+                "comment_id": "DI59ccH",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "hq90wXL"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "I'm on lesson 4 now! It actually makes sense thank you!",
+                "created_utc": "2024-05-26 10:56:22 UTC",
+                "comment_id": "43YJDzA",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "bfBPCED"
+            },
+            {
+                "user_id": "subject_DbKSYmI",
+                "target": false,
+                "type": "comment",
+                "body": "It's possible but I was thinking online would be a good place to look, or maybe at a used book store or good will or something",
+                "created_utc": "2024-05-26 11:26:44 UTC",
+                "comment_id": "Cx4lxFo",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "cOL1DTK"
+            },
+            {
+                "user_id": "subject_A028SG3",
+                "target": false,
+                "type": "comment",
+                "body": "I find it more useful than duolingo, more organised, less random phrases, with real people from different places so you get used to the pronunciation. You also have exercises where you record your voice and other speakers will check it and help you. \nAs duolingo, it keeps telling you to suscribe, but you can use it free .",
+                "created_utc": "2024-05-26 11:37:59 UTC",
+                "comment_id": "qx9B6OU",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "ZBaw1FI"
+            },
+            {
+                "user_id": "subject_kXCBdou",
+                "target": false,
+                "type": "comment",
+                "body": "Firstly, don't feel bad. I'm only at B1/B2 level after many, many years. It also depends on how many hours a day you put in. \n\nTo be candid, I suggest you ditch the apps and find a human. Can you talk to anyone in Spanish? Have you tried Italki?",
+                "created_utc": "2024-05-26 12:30:36 UTC",
+                "comment_id": "gMScFAd",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_Trdgu1s",
+                "target": false,
+                "type": "comment",
+                "body": "Try conversational classes with native speakers, there are some academies that have online courses too",
+                "created_utc": "2024-05-26 12:44:35 UTC",
+                "comment_id": "kDlJmQY",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_ykSQ3vd",
+                "target": false,
+                "type": "comment",
+                "body": "Why don't you take classes? Even online classes should do the job.",
+                "created_utc": "2024-05-26 14:20:59 UTC",
+                "comment_id": "LeTyqpJ",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Could I do this at 14?",
+                "created_utc": "2024-05-26 16:48:04 UTC",
+                "comment_id": "OBNCprE",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "LeTyqpJ"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Where could I access that? Thank you",
+                "created_utc": "2024-05-26 17:13:10 UTC",
+                "comment_id": "0ZyTvJd",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "kDlJmQY"
+            },
+            {
+                "user_id": "subject_Trdgu1s",
+                "target": false,
+                "type": "comment",
+                "body": "In this academy they got online courses from A1 to C2 and also conversational classes https://www.vivespanish.com/en/spanish-courses/\nThey are located in Valencia, Spain",
+                "created_utc": "2024-05-26 17:30:05 UTC",
+                "comment_id": "PDN3AtF",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "0ZyTvJd"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much!",
+                "created_utc": "2024-05-26 18:32:00 UTC",
+                "comment_id": "xW4rY1k",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "PDN3AtF"
+            },
+            {
+                "user_id": "subject_ykSQ3vd",
+                "target": false,
+                "type": "comment",
+                "body": "Actually you can, for example. Im taking spanish classes online through university of buenos aires and I have a colleague from russia that is 16yo. His dad just had to pay and authorize I believe.",
+                "created_utc": "2024-05-26 18:58:32 UTC",
+                "comment_id": "FzJKmQn",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "OBNCprE"
+            },
+            {
+                "user_id": "subject_yubUc8X",
+                "target": false,
+                "type": "comment",
+                "body": "You need more tools to reach fluency. Duolingo can only teach you so much. Try reading and creating a YouTube channel with only Spanish content. You can learn a lot of mew words in context and improve listening/comprehension. Also a grammar book is really helpful to learn Spanish structure and word order.",
+                "created_utc": "2024-05-26 19:35:44 UTC",
+                "comment_id": "8YcEPYA",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "VJ8rEcs"
+            },
+            {
+                "user_id": "subject_stMDlnE",
+                "target": false,
+                "type": "comment",
+                "body": "You can find them for sure, I know London has some. It depends on whether that\u2019s feasible for you. I\u2019m a freelancer so easily took a few months off to study, if you have a full time job that won\u2019t be possible. But you could still do a few hours lessons a week too.\n\nA cheap way of doing lessons is using Preply. I had an Argentinian teacher who was only \u00a311 an hour.",
+                "created_utc": "2024-05-26 20:20:48 UTC",
+                "comment_id": "YylBeGk",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "tnqj3a5"
+            },
+            {
+                "user_id": "subject_tstCGag",
+                "target": false,
+                "type": "comment",
+                "body": "It should give you a list of 10 lessons it thinks you should learn next. That's your study list. Read through each lesson and answer the mini quiz at the end. Then \"quiz your study list\" (answer one question from each of the 10 lessons). Based on how you do, it'll update your current list of 10 lessons, keeping some and replacing others.\n\nThe lesson explanations are *really* good.",
+                "created_utc": "2024-05-27 05:03:35 UTC",
+                "comment_id": "2lUsgbT",
+                "submission_id": "VJ8rEcs",
+                "parent_id": "hXpvwQA"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Use of \"yendo\"",
+            "body": "I'm not sure how it's used can anyone help please!",
+            "created_utc": "2024-05-25 19:52:25 UTC",
+            "submission_id": "18Harm0",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_HZrvbT8",
+                "target": false,
+                "type": "comment",
+                "body": "It is used to describe an ongoing action or a state of continuous movement. Here are a couple of examples:\n\n1. \"Estoy yendo al trabajo\" translates to  \"I'm on my way to work\" (or I'm going to work)\n2. \"Ellos est\u00e1n yendo al parque\" translates to \"They are going to the park.\"\n\nJust like in English, the gerund is often used with the verb estar to form the present progressive tense, indicating an action that is currently happening but not always.\n\nFor example, they ask you: Are you going to wait until your sister finishes school to go home with her?\nYou answer: \"No, yo voy yendo\" (meaning that you are not waiting for her, that you are going home now).\n\nI hope it helps.",
+                "created_utc": "2024-05-25 20:22:00 UTC",
+                "comment_id": "v93tECO",
+                "submission_id": "18Harm0",
+                "parent_id": "18Harm0"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Yes thank you so much! And can it be used in both formal and informal situations?",
+                "created_utc": "2024-05-25 20:25:44 UTC",
+                "comment_id": "VpMdb9C",
+                "submission_id": "18Harm0",
+                "parent_id": "v93tECO"
+            },
+            {
+                "user_id": "subject_HZrvbT8",
+                "target": false,
+                "type": "comment",
+                "body": "Firsts examples, sure. The last one, \"voy yendo\" is redundant and only used in informal situations (but is used, at least in spanish from Spain).\n\nTo give you another hint: \"Voy\" is typically used for simple present tense, while \"estoy yendo\" emphasizes the ongoing nature of the action.",
+                "created_utc": "2024-05-25 20:33:43 UTC",
+                "comment_id": "FaOugfW",
+                "submission_id": "18Harm0",
+                "parent_id": "VpMdb9C"
+            },
+            {
+                "user_id": "subject_GqHmaWj",
+                "target": false,
+                "type": "comment",
+                "body": "Me voy a ir yendo.",
+                "created_utc": "2024-05-25 21:32:46 UTC",
+                "comment_id": "3TSdkVc",
+                "submission_id": "18Harm0",
+                "parent_id": "18Harm0"
+            },
+            {
+                "user_id": "subject_CeryEJy",
+                "target": false,
+                "type": "comment",
+                "body": "I love it! It means \"it's time for me to go\".",
+                "created_utc": "2024-05-26 01:26:36 UTC",
+                "comment_id": "R1RY1pc",
+                "submission_id": "18Harm0",
+                "parent_id": "3TSdkVc"
+            },
+            {
+                "user_id": "subject_JD5XMOj",
+                "target": false,
+                "type": "comment",
+                "body": "Voy es el presente de indicativo\n\nIr es el infinitivo\n\nYendo es el gerundio",
+                "created_utc": "2024-05-26 04:43:19 UTC",
+                "comment_id": "DYeSQD3",
+                "submission_id": "18Harm0",
+                "parent_id": "18Harm0"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you so much!",
+                "created_utc": "2024-05-26 11:04:10 UTC",
+                "comment_id": "X3RfJ1E",
+                "submission_id": "18Harm0",
+                "parent_id": "DYeSQD3"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-26 11:05:33 UTC",
+                "comment_id": "wltrKHR",
+                "submission_id": "18Harm0",
+                "parent_id": "3TSdkVc"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "This helped thank you!",
+                "created_utc": "2024-05-26 11:06:30 UTC",
+                "comment_id": "k1LxG75",
+                "submission_id": "18Harm0",
+                "parent_id": "FaOugfW"
+            },
+            {
+                "user_id": "subject_ASENnEw",
+                "target": false,
+                "type": "comment",
+                "body": "Almost a direct translation of \u201cI\u2019m gonna get going,\u201d which we say all the time in the Midwestern US.",
+                "created_utc": "2024-05-26 19:49:37 UTC",
+                "comment_id": "nqnP9M1",
+                "submission_id": "18Harm0",
+                "parent_id": "R1RY1pc"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "I go to to go going?",
+                "created_utc": "2024-05-27 13:37:51 UTC",
+                "comment_id": "n8zjqlS",
+                "submission_id": "18Harm0",
+                "parent_id": "3TSdkVc"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_EhCgTmJ",
+            "target": false,
+            "type": "submission",
+            "title": "questions abt my hair",
+            "body": "so basically i (17m) grew up with relatively straight and really thick hair my dad and mum both have it and had mostly straight hair but around the time of 14 i grew it to about 15cm and it grew kind of like a ice team cut it all went out so i cut it and when i was 15 to now i haven\u2019t cut it so it\u2019s gotten really long and for some reason curly kinda  i get ringlets and it\u2019s really wavy and i wanna cut it because it\u2019s really long but im scared of it going straight i like the curliness to my hair and if its gonna go straight it wont look right with how i dress and look",
+            "created_utc": "2024-05-26 15:24:49 UTC",
+            "submission_id": "LRwh9mr",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "From my experience when I cut my hair it bounced up and became curlier! I'm not sure why but I'm guessing because of the weight when it was longer? Hope this helps!",
+                "created_utc": "2024-05-26 18:42:28 UTC",
+                "comment_id": "MDb2mNP",
+                "submission_id": "LRwh9mr",
+                "parent_id": "LRwh9mr"
+            },
+            {
+                "user_id": "subject_rRaSrNG",
+                "target": false,
+                "type": "comment",
+                "body": "Most people's hair gets curlier the shorter it is because the weight doesn't pull on the curls. Mines the exact opposite, shorter is 2c waves, long is 3B curls.",
+                "created_utc": "2024-05-26 19:18:19 UTC",
+                "comment_id": "rIDzE6I",
+                "submission_id": "LRwh9mr",
+                "parent_id": "LRwh9mr"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_GP4vfyX",
+            "target": false,
+            "type": "submission",
+            "title": "is there a substitute for gel?",
+            "body": "I can't get gel so is there anything that's similar to it? if not can I just use leave in?",
+            "created_utc": "2024-05-26 08:06:49 UTC",
+            "submission_id": "bdDtjuq",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_TgGIiEv",
+                "target": false,
+                "type": "comment",
+                "body": "Curling cream and mousse, both have a bit less hold though I believe",
+                "created_utc": "2024-05-26 09:16:34 UTC",
+                "comment_id": "5h1gZeh",
+                "submission_id": "bdDtjuq",
+                "parent_id": "bdDtjuq"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "A strong hold mousse!",
+                "created_utc": "2024-05-26 18:46:43 UTC",
+                "comment_id": "WynaX99",
+                "submission_id": "bdDtjuq",
+                "parent_id": "bdDtjuq"
+            },
+            {
+                "user_id": "subject_8nIzHlH",
+                "target": false,
+                "type": "comment",
+                "body": "You can just use a leave in if you aren't concerned as much with hold. Also, the closest thing to a gel/leave in I have tried is the Olaplex 9 serum. It's CG and has a gel texture, provides light hold and curl memory but also makes my hair super soft and not weighed down.",
+                "created_utc": "2024-05-27 00:54:11 UTC",
+                "comment_id": "kNrJhXj",
+                "submission_id": "bdDtjuq",
+                "parent_id": "bdDtjuq"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Friend quest",
+            "body": "How do I set it up or do it? Ive seen it on here and had no clue it existed. And is there anyone who I could do it with on here as I haven't got any friends on Duolingo aha",
+            "created_utc": "2024-05-26 20:00:08 UTC",
+            "submission_id": "9rAO2r9",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Duolingo Support**  \nIf you need help with your Duolingo account, begin by submitting the form using this link: [Duolingo Bug Report Form](https://preview.duolingo.com/help/bug-report). All issues related to subscriptions or billing must be submitted to the Duolingo support team (which you can do through the bug report form by selecting Purchase Issue).\n\nFor urgent issues that directly impact your ability to use the Duolingo app and are not related to subscriptions or billing, you can contact Tracee Miller (Reddit username: Tracee-at-Duolingo), a Duolingo staff member who tries to help out in this subreddit. When you message Tracee, be sure to include a short (1-sentence) description of your issue, as well as your Duolingo username and the ticket number from your support request.\n\nPlease note that while Tracee will do her best to assist, she may not be able to respond to all messages. She will not respond to non-critical issues (issues that do not prevent you from being able to use Duolingo) or to messages that do not include the information listed above. She appreciates your understanding. [Click here on this link to message Tracee Miller for help](https://www.reddit.com/message/compose?to=Tracee-at-Duolingo&subject=I need help with my Duolingo account).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/duolingo) if you have any questions or concerns.*",
+                "created_utc": "2024-05-26 20:00:09 UTC",
+                "comment_id": "veKNVet",
+                "submission_id": "9rAO2r9",
+                "parent_id": "9rAO2r9"
+            },
+            {
+                "user_id": "subject_8NuXVzs",
+                "target": false,
+                "type": "comment",
+                "body": "Go make 5 or so friends. You can find some people at https://www.reddit.com/r/duolingo/comments/1cy3u6z/weekly_friends_followers_thread/. \n\nThe quest begins Tuesday and they usually start making assignments Sunday, so if you do that now, you might get a match this week. You can only be matched with people you have friended who have also friended you back. \n\nIf everyone is already matched then you wait until the next week.",
+                "created_utc": "2024-05-26 20:07:52 UTC",
+                "comment_id": "fuN1ehl",
+                "submission_id": "9rAO2r9",
+                "parent_id": "9rAO2r9"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_1vrWdt9",
+            "target": false,
+            "type": "submission",
+            "title": "Never seen before words",
+            "body": "Had anyone else been having trouble with this part of the app where it's only supposed to give you words you've seen before?\nThe past 2 days I've suddenly gotten words I've never seen before. Not even in the listening or reading stories part.\nI can usually guess them after a time or 2, but was wondering if anyone else was having the same issue?",
+            "created_utc": "2024-05-26 16:45:53 UTC",
+            "submission_id": "upVCnhX",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "It's introducing new words to you! If its underlined in purple but if it's not then ignore me aha. If you not sure what it means you can still click on the word and it will tell you.",
+                "created_utc": "2024-05-26 20:03:55 UTC",
+                "comment_id": "O4vjxAW",
+                "submission_id": "upVCnhX",
+                "parent_id": "upVCnhX"
+            },
+            {
+                "user_id": "subject_1vrWdt9",
+                "target": false,
+                "type": "comment",
+                "body": "I don't believe it is underlined.\nThis is the flashcards one.\nSo I have the correct option in the list. But I've never seen the word before so I have to guess which one it is.",
+                "created_utc": "2024-05-26 20:19:24 UTC",
+                "comment_id": "BF06QPJ",
+                "submission_id": "upVCnhX",
+                "parent_id": "O4vjxAW"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Do you mean you have to guess in lessons? If you do the words will be underlined in the lessons sorry I didn't say it clearly aha",
+                "created_utc": "2024-05-26 20:28:07 UTC",
+                "comment_id": "RySpFHw",
+                "submission_id": "upVCnhX",
+                "parent_id": "BF06QPJ"
+            },
+            {
+                "user_id": "subject_1vrWdt9",
+                "target": false,
+                "type": "comment",
+                "body": "No. These aren't in the normal lessons. \nThese are in the practice hub.\nWhere all the stuff that's practiced is stuff that's been seen before.\nBut they've been throwing new words in that I haven't gotten to in the main lessions yet.",
+                "created_utc": "2024-05-26 22:51:34 UTC",
+                "comment_id": "ZhTPnLh",
+                "submission_id": "upVCnhX",
+                "parent_id": "RySpFHw"
+            },
+            {
+                "user_id": "subject_el94jgD",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, I just had this happen to me as well. I guessed at the meaning of the words. The new words aren't listed on the vocabulary screen but show up on the practice screen. It's the only place I've seen these new words so far.  I thought it was some new learning tactic.",
+                "created_utc": "2024-05-27 11:18:45 UTC",
+                "comment_id": "nJ5m4Fr",
+                "submission_id": "upVCnhX",
+                "parent_id": "upVCnhX"
+            },
+            {
+                "user_id": "subject_1vrWdt9",
+                "target": false,
+                "type": "comment",
+                "body": "I mean... I do learn new words  but I wish it was an option you could turn on to learn words this way.",
+                "created_utc": "2024-05-27 14:28:34 UTC",
+                "comment_id": "ZWep0DE",
+                "submission_id": "upVCnhX",
+                "parent_id": "nJ5m4Fr"
+            },
+            {
+                "user_id": "subject_qlpNtL4",
+                "target": false,
+                "type": "comment",
+                "body": "I got the same issue now, there are lots of words which isn't covered. Do we need to learn from the list or they cover those in following lessons\u00a0",
+                "created_utc": "2024-07-26 20:57:02 UTC",
+                "comment_id": "Gr4spnQ",
+                "submission_id": "upVCnhX",
+                "parent_id": "upVCnhX"
+            },
+            {
+                "user_id": "subject_1vrWdt9",
+                "target": false,
+                "type": "comment",
+                "body": "I haven't gotten them in following lessons yet. \nThough it's a good way of introducing new words,  I feel like it should be optional to add words you haven't see before into the mix.",
+                "created_utc": "2024-07-26 20:59:40 UTC",
+                "comment_id": "Jz7sO1O",
+                "submission_id": "upVCnhX",
+                "parent_id": "Gr4spnQ"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Can anyone add me please!",
+            "body": "I really want to do the friend quests as I had no idea it existed! And now I found out I had to have more than 5 friends aha. If you could add me I would appreciate I thank you!",
+            "created_utc": "2024-05-27 18:33:04 UTC",
+            "submission_id": "6ZSmXjw",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Duolingo Support**  \nIf you need help with your Duolingo account, begin by submitting the form using this link: [Duolingo Bug Report Form](https://preview.duolingo.com/help/bug-report). All issues related to subscriptions or billing must be submitted to the Duolingo support team (which you can do through the bug report form by selecting Purchase Issue).\n\nFor urgent issues that directly impact your ability to use the Duolingo app and are not related to subscriptions or billing, you can contact Tracee Miller (Reddit username: Tracee-at-Duolingo), a Duolingo staff member who tries to help out in this subreddit. When you message Tracee, be sure to include a short (1-sentence) description of your issue, as well as your Duolingo username and the ticket number from your support request.\n\nPlease note that while Tracee will do her best to assist, she may not be able to respond to all messages. She will not respond to non-critical issues (issues that do not prevent you from being able to use Duolingo) or to messages that do not include the information listed above. She appreciates your understanding. [Click here on this link to message Tracee Miller for help](https://www.reddit.com/message/compose?to=Tracee-at-Duolingo&subject=I need help with my Duolingo account).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/duolingo) if you have any questions or concerns.*",
+                "created_utc": "2024-05-27 18:33:06 UTC",
+                "comment_id": "TF64BgX",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_cQyofiw",
+                "target": false,
+                "type": "comment",
+                "body": "Added you! @lolobugz",
+                "created_utc": "2024-05-27 18:54:08 UTC",
+                "comment_id": "JbCVPkY",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-27 18:56:23 UTC",
+                "comment_id": "bHiU0I1",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "JbCVPkY"
+            },
+            {
+                "user_id": "subject_8NuXVzs",
+                "target": false,
+                "type": "comment",
+                "body": "I don't think you HAVE to have five. But having at least five probably increases your chances of a match. (I just followed you.)\n\nTry following the people here https://www.reddit.com/r/duolingo/comments/1cy3u6z/weekly_friends_followers_thread/",
+                "created_utc": "2024-05-27 19:05:05 UTC",
+                "comment_id": "6HV0EXk",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_qYMo2fN",
+                "target": false,
+                "type": "comment",
+                "body": "I was mutual with 2 accounts and had 6 more that followed me and Im able to do friends quests. Idk how the matching system works but having 5 moots is not necessary",
+                "created_utc": "2024-05-27 19:10:34 UTC",
+                "comment_id": "Z34Tb18",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6HV0EXk"
+            },
+            {
+                "user_id": "subject_qYMo2fN",
+                "target": false,
+                "type": "comment",
+                "body": "Followed(Icantthinkofaname. I am great with names)",
+                "created_utc": "2024-05-27 19:11:21 UTC",
+                "comment_id": "73j77z8",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Sorry and thank you! I didn't know that existed",
+                "created_utc": "2024-05-27 19:18:20 UTC",
+                "comment_id": "9pASnom",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6HV0EXk"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-27 19:18:38 UTC",
+                "comment_id": "sN8vsXL",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "73j77z8"
+            },
+            {
+                "user_id": "subject_ndhTNb0",
+                "target": false,
+                "type": "comment",
+                "body": "I'm officially follower #7 \ud83d\ude0d",
+                "created_utc": "2024-05-27 19:19:46 UTC",
+                "comment_id": "SLQ89R3",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-27 19:21:36 UTC",
+                "comment_id": "J5octy7",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "SLQ89R3"
+            },
+            {
+                "user_id": "subject_8NuXVzs",
+                "target": false,
+                "type": "comment",
+                "body": "No problem. I hope you get a quest this week. They usually begin matching people on Sunday, so if you don't make it this week you probably will next week.",
+                "created_utc": "2024-05-27 19:25:08 UTC",
+                "comment_id": "RdKumzv",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "9pASnom"
+            },
+            {
+                "user_id": "subject_j4zKhFL",
+                "target": false,
+                "type": "comment",
+                "body": "I added you\nNathanS809",
+                "created_utc": "2024-05-27 19:25:52 UTC",
+                "comment_id": "q0edQm6",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-27 19:32:34 UTC",
+                "comment_id": "rtqytD7",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "q0edQm6"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! I think I just missed it aha",
+                "created_utc": "2024-05-27 19:33:43 UTC",
+                "comment_id": "12PCxYX",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "RdKumzv"
+            },
+            {
+                "user_id": "subject_QsCVlvS",
+                "target": false,
+                "type": "comment",
+                "body": "Added",
+                "created_utc": "2024-05-27 19:58:52 UTC",
+                "comment_id": "0XwgmEm",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "i\u2019m alex_pug, we can do a friend quest next week if u want. i followed u, and i got first in the diamond league a few weeks ago\ud83c\udf89",
+                "created_utc": "2024-05-27 20:11:06 UTC",
+                "comment_id": "mf4tz1V",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-27 20:51:43 UTC",
+                "comment_id": "rxXr9qP",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "0XwgmEm"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! I got into diamond league but got demoted straight away because I went on holiday aha",
+                "created_utc": "2024-05-27 20:52:23 UTC",
+                "comment_id": "WqFl28w",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "mf4tz1V"
+            },
+            {
+                "user_id": "subject_IEy5jK3",
+                "target": false,
+                "type": "comment",
+                "body": "Added. I\u2019m @kessycat",
+                "created_utc": "2024-05-27 23:00:58 UTC",
+                "comment_id": "0eIFzel",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_xIz7al1",
+                "target": false,
+                "type": "comment",
+                "body": "Followed \ud83d\ude0a (yorkshiredeebee)",
+                "created_utc": "2024-05-27 23:32:32 UTC",
+                "comment_id": "8CZgmFJ",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_4P2bR3w",
+                "target": false,
+                "type": "comment",
+                "body": "I just did",
+                "created_utc": "2024-05-28 01:14:06 UTC",
+                "comment_id": "fOIExca",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_6ioAoYq",
+                "target": false,
+                "type": "comment",
+                "body": "Sure (I'd rather not say my username as I stupidly made it my full name). If you wanna find me, just check for someone who;s learning the exact same languages as I am (Dutch, German, Norwegian Bokmal)",
+                "created_utc": "2024-05-28 06:07:35 UTC",
+                "comment_id": "J6iJQ5v",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_OMPoqnf",
+                "target": false,
+                "type": "comment",
+                "body": "Added \u263a\ufe0f I'm @Dommyn1",
+                "created_utc": "2024-05-28 09:43:21 UTC",
+                "comment_id": "x3yGuNr",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-28 09:49:18 UTC",
+                "comment_id": "gqj0FXl",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "0eIFzel"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-28 09:49:33 UTC",
+                "comment_id": "aAdoFMw",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "8CZgmFJ"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! I changed my name too many times because it was my real one too aha",
+                "created_utc": "2024-05-28 09:50:14 UTC",
+                "comment_id": "b48C5CL",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "J6iJQ5v"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you!",
+                "created_utc": "2024-05-28 09:50:22 UTC",
+                "comment_id": "maSiNlP",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "x3yGuNr"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "lmao, but nice try!",
+                "created_utc": "2024-05-28 11:08:05 UTC",
+                "comment_id": "P5m6mNJ",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "WqFl28w"
+            },
+            {
+                "user_id": "subject_6ioAoYq",
+                "target": false,
+                "type": "comment",
+                "body": "Also, I've switched Norwegian out for French because I have OCD and don't wanna have a course I'm not doing just lying about. Plus I'm also finding Norwegian a bit sifficult with pronunciations, but that's my opinion",
+                "created_utc": "2024-05-28 17:10:17 UTC",
+                "comment_id": "Bc08erq",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "b48C5CL"
+            },
+            {
+                "user_id": "subject_l7gEJPF",
+                "target": false,
+                "type": "comment",
+                "body": "Added!",
+                "created_utc": "2024-05-28 17:39:12 UTC",
+                "comment_id": "m5ltnjt",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you! It won't let me follow anyone back now for some reason but as soon I I can I will follow you back!",
+                "created_utc": "2024-05-28 20:47:07 UTC",
+                "comment_id": "Lu4kejM",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "m5ltnjt"
+            },
+            {
+                "user_id": "subject_qfCLe8h",
+                "target": false,
+                "type": "comment",
+                "body": "I will add you :) My username is Ero1s if you guys want to add me! :D",
+                "created_utc": "2024-08-05 07:27:35 UTC",
+                "comment_id": "vA4oidM",
+                "submission_id": "6ZSmXjw",
+                "parent_id": "6ZSmXjw"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "I can't add anyone back!",
+            "body": "Last night I made a post with my Duolingo account to be able to do Friend quests which I didn't know existed. I woke up with 50 new people and I was only able to follow back like 25? It keeps saying error occurred. Anyone know why? Thanks",
+            "created_utc": "2024-05-28 10:02:32 UTC",
+            "submission_id": "yQ7Fpbe",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_psL6mhn",
+                "target": false,
+                "type": "comment",
+                "body": "**Duolingo Support**  \nIf you need help with your Duolingo account, begin by submitting the form using this link: [Duolingo Bug Report Form](https://preview.duolingo.com/help/bug-report). All issues related to subscriptions or billing must be submitted to the Duolingo support team (which you can do through the bug report form by selecting Purchase Issue).\n\nFor urgent issues that directly impact your ability to use the Duolingo app and are not related to subscriptions or billing, you can contact Tracee Miller (Reddit username: Tracee-at-Duolingo), a Duolingo staff member who tries to help out in this subreddit. When you message Tracee, be sure to include a short (1-sentence) description of your issue, as well as your Duolingo username and the ticket number from your support request.\n\nPlease note that while Tracee will do her best to assist, she may not be able to respond to all messages. She will not respond to non-critical issues (issues that do not prevent you from being able to use Duolingo) or to messages that do not include the information listed above. She appreciates your understanding. [Click here on this link to message Tracee Miller for help](https://www.reddit.com/message/compose?to=Tracee-at-Duolingo&subject=I need help with my Duolingo account).\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/duolingo) if you have any questions or concerns.*",
+                "created_utc": "2024-05-28 10:02:33 UTC",
+                "comment_id": "92D0lSx",
+                "submission_id": "yQ7Fpbe",
+                "parent_id": "yQ7Fpbe"
+            },
+            {
+                "user_id": "subject_2f2dDdp",
+                "target": false,
+                "type": "comment",
+                "body": "Maybe you were adding too much people too fast. Try waiting a couple of hours then try again",
+                "created_utc": "2024-05-28 10:22:02 UTC",
+                "comment_id": "4mfHvnZ",
+                "submission_id": "yQ7Fpbe",
+                "parent_id": "yQ7Fpbe"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Okay thank you!",
+                "created_utc": "2024-05-28 10:30:34 UTC",
+                "comment_id": "gk1uiLG",
+                "submission_id": "yQ7Fpbe",
+                "parent_id": "4mfHvnZ"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Mistakes",
+            "body": "When your speaking to natives in Spanish is it a massive deal if you mix the genders up or use the wrong por or para. I don't know if im overthinking it but I would definitely make some mistakes when speaking. So if I was to make a mistake would they completely not understand me or do I have to get it spot on. ",
+            "created_utc": "2024-05-28 10:59:42 UTC",
+            "submission_id": "8RjQARZ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_OwyKkxq",
+                "target": false,
+                "type": "comment",
+                "body": "It's not a big deal if you are learning and trying to improve. You will most likely be understood and even appreciated for trying. I find pronunciation can be more of a barrier to being understood than correct grammar. Think about your experience listening to people speaking broken English.",
+                "created_utc": "2024-05-28 11:19:15 UTC",
+                "comment_id": "eDgYhv2",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_0kjAebc",
+                "target": false,
+                "type": "comment",
+                "body": "It's the same as if someone from a foreign country spoke to you in broken english and said \"she\" instead of \"he\". Would that be a complete breakdown in communication? Unlikely. English is my second language, and for the first few years I have been living in the UK, I was mixing he with she, have with has, and had no understanding of any tenses. I got by. Even if you use single words without any grammar, people will make the effort to understand you. Like you would with a foreigner making an effort in English.",
+                "created_utc": "2024-05-28 11:56:36 UTC",
+                "comment_id": "s7yynWZ",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_GgZVVlt",
+                "target": false,
+                "type": "comment",
+                "body": "How long have you been learning English? Sounds like you've got it down now!",
+                "created_utc": "2024-05-28 12:10:06 UTC",
+                "comment_id": "lZtFZTl",
+                "submission_id": "8RjQARZ",
+                "parent_id": "s7yynWZ"
+            },
+            {
+                "user_id": "subject_0kjAebc",
+                "target": false,
+                "type": "comment",
+                "body": "I moved to the UK 20 years ago and have been learning ever since. I still mispronounce some words, to the great joy of my children who bully me relentlessly every time. Just yesterday I have been laughed at for mispronouncing \"wound\" that sounded more like \"\"wand\".\n\nHappy Cake Day! \ud83c\udf82 \ud83e\udd73",
+                "created_utc": "2024-05-28 12:20:32 UTC",
+                "comment_id": "geAPYPZ",
+                "submission_id": "8RjQARZ",
+                "parent_id": "lZtFZTl"
+            },
+            {
+                "user_id": "subject_2RKysMO",
+                "target": false,
+                "type": "comment",
+                "body": "I mix up gendered terms all the time (constantly correctly myself and practicing) and I think I generally get por and para right these days just based on what sounds right, as well as ser and estar (those two I know I still mess up on the regular) and have little trouble being understood. \n\nThe only time I think these particular mistakes really impair comprehension is if the person your speaking with isn\u2019t generally exposed to any kind of language learner. I live in a very multicultural area and everyone is used to many people speaking in varying levels of broken Spanish, so they\u2019re far more used to parsing through what learners are trying to say.",
+                "created_utc": "2024-05-28 12:36:54 UTC",
+                "comment_id": "gMEYPJp",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_Ya4aguK",
+                "target": false,
+                "type": "comment",
+                "body": "It's distracting, but it's not that big of a deal.\n\nAs long as the rest is okay, even if you mix up genders and por/para, the native will 100% understand what you're trying to say.",
+                "created_utc": "2024-05-28 12:42:38 UTC",
+                "comment_id": "fdSZnq9",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_GgZVVlt",
+                "target": false,
+                "type": "comment",
+                "body": "That's awesome and thank you so much!",
+                "created_utc": "2024-05-28 12:45:30 UTC",
+                "comment_id": "pXJl3bz",
+                "submission_id": "8RjQARZ",
+                "parent_id": "geAPYPZ"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Okay thanks I understand!",
+                "created_utc": "2024-05-28 12:53:12 UTC",
+                "comment_id": "hLUxoNp",
+                "submission_id": "8RjQARZ",
+                "parent_id": "fdSZnq9"
+            },
+            {
+                "user_id": "subject_DC9OIea",
+                "target": false,
+                "type": "comment",
+                "body": "Like if someone comes up to you and asks \"What time you eated luch this day?\" even though it's wrong you understand and will try to help them out and speak slower and pronounce things clearer.\n\nSimilar idea. Sometimes it's really frustrating because you can have a really high level otherwise but don't necessary just have a \"feel\" for the genders of a word.",
+                "created_utc": "2024-05-28 13:13:21 UTC",
+                "comment_id": "sToveNs",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_Np2YFtY",
+                "target": false,
+                "type": "comment",
+                "body": "Generally you will be understood.\n\nI'm blessed to have coworkers (Mexicans, mostly) that will gently correct me when I use the wrong words or genders. Or when I don't use subjunctive when I should. They also know if they talk a little slower than they're used to,  more often than not, I can understand them. Obviously, not everyone wants to be your teacher and that's fine; they aren't required to be.\n\nBut it is nice to find people that understand you're a learner and will help facilitate that.",
+                "created_utc": "2024-05-28 15:23:43 UTC",
+                "comment_id": "bbyB0Lm",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_phPEKX3",
+                "target": false,
+                "type": "comment",
+                "body": "Not really, they\u2019ll correct you more than likely. I have friends who are fluent in English who still make small mistakes with prepositions and I always understand them fine. I still sometimes occasionally make mistakes in Spanish with prepositions also in the middle of long/complex conversations, and it never causes them to clarify. \n\nNative speakers will usually correct you when you make mistakes in those situations, because the context clarifies a lot. Context usually makes it super clear. I think using the wrong conjugations/pronouns is probably much more confusing than mistakes with prepositions. If you\u2019re doing *that* correctly, I think making small mistakes with prepositions and gender is a very normal part of learning. \n\nIf you really mess up the conjugations paired with the pronouns, I\u2019ve noticed they won\u2019t even correct you. It can be confusing enough to ask you to rephrase to make sure they understand you, so I think those are the mistakes that cause most confusion. I think prepositions on the other hand are easy to make mistakes with even as you advance, but are usually quite easily understood. They still typically translate pretty well from Spanish to English, but sometimes not exactly how you\u2019d think. Sometimes it\u2019s just plain memorization. \n\nBy the way, I think por vs para are some of the more rule based, sensible prepositions in Spanish (not all are). \n\nPor (through) = on behalf of an entity or person, or because of something (once again, on behalf of).\n\nPor (other uses) - trading (once again, on behalf of, I\u2019ll give you this \u201cpor\u201d that), \u201cthrough\u201d or \u201cby means of\u201d (something you did por a period of time, walking through a space, calling by (por) phone, etc. \n\nPara = to do a verb, or an action \u201cpara\u201d a person. It often functions like the preposition \u201cto\u201d when used for location, and with deadlines it functions like \u201cfor\u201d (I need you to finish this \u201cpara\u201d Tuesday)\n\n\u201chey, I really appreciate all the hard work you\u2019re doing planning this party for (\u201cpor\u201d if it\u2019s the party was a request on behalf of John, \u201cpara\u201d for a surprise party) John! I hope you don\u2019t mind, but I wanted to make it easier \u201cfor\u201d (para) you, so I bought this cake \u201cfor\u201d (para) the party!\u201d You can use \u201cpor\u201d at the end too, like if she can\u2019t make it to the store and you were already there or whatever, and you say \u201cpor ti\u201d. It just changes the context slightly, I don\u2019t think either is really outright correct \n\nIt\u2019s a little reductive but it\u2019s a helpful way of framing it when you start off. Other prepositions are not always as exact, por vs para benefits from being extremely formulaic. Make those mistakes and get corrected, it\u2019ll be easier to learn it",
+                "created_utc": "2024-05-28 15:50:36 UTC",
+                "comment_id": "fR3D4uZ",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            },
+            {
+                "user_id": "subject_vwEFnIl",
+                "target": false,
+                "type": "comment",
+                "body": "Wound like the injury (woo-nd) or wound like wrapped around (wow-nd)?\n\nIsn\u2019t English great? :)",
+                "created_utc": "2024-05-28 19:18:53 UTC",
+                "comment_id": "OWkBm4L",
+                "submission_id": "8RjQARZ",
+                "parent_id": "geAPYPZ"
+            },
+            {
+                "user_id": "subject_0kjAebc",
+                "target": false,
+                "type": "comment",
+                "body": "Lol. Wound, as in the injury.",
+                "created_utc": "2024-05-28 19:39:09 UTC",
+                "comment_id": "xrznSBQ",
+                "submission_id": "8RjQARZ",
+                "parent_id": "OWkBm4L"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "What is the point of this question lol? Mistakes make you sound non-native and there is no point in trying to deny that. Whether they make you unintelligible depends on how severe/often they are. Most of the time, people try to understand you and should be able to get the gist of it.",
+                "created_utc": "2024-05-29 01:01:34 UTC",
+                "comment_id": "jrzv3i8",
+                "submission_id": "8RjQARZ",
+                "parent_id": "8RjQARZ"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Subjunctive mood",
+            "body": "I'm stuck on subjunctive mood and when to use it and how! I've watched loads on videos on it and I just can't get my head around it. Is there a simplified way of explaining it?",
+            "created_utc": "2024-06-15 19:39:54 UTC",
+            "submission_id": "0jKfcuf",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_AsQZSaj",
+                "target": false,
+                "type": "comment",
+                "body": "It's really hard to try and learn it based on studying all the rules around it. I think the best way is to just learn the common triggers (\"Espero que...\", \"Es bueno que...\" \"Dudo que...\", etc.) and then spend a lot of time consuming content and/or talking to people and looking out for it. It becomes natural after a while.",
+                "created_utc": "2024-06-15 20:14:23 UTC",
+                "comment_id": "28dF0Ck",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_yXAICWN",
+                "target": false,
+                "type": "comment",
+                "body": "Like the other comment said, you need to learn the triggers and just practice. You\u2019ll get it. \n\nYou will eventually cringe when you hear \u201cquiero que me dices\u201d because it can only ever be \u201cquiero que me digas\u201d",
+                "created_utc": "2024-06-15 21:56:50 UTC",
+                "comment_id": "i9xszpb",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_oy0Ng3X",
+                "target": false,
+                "type": "comment",
+                "body": "It's helpful to know the phrases that commonly precede the subjunctive, but research has shown that subjunctive competency correlates more with voluntary reading than anything else, including time spent in Spanish speaking countries. Classroom time spent studying the subjunctive had no correlation. \n\nAs with pretty much every other aspect of the language, it becomes natural over time, even if it never ends up making sense, and if your internal linguistics system isn't ready for it, you won't internalize it no matter what you do.",
+                "created_utc": "2024-06-15 22:10:28 UTC",
+                "comment_id": "YucYvre",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_JKDt2WS",
+                "target": false,
+                "type": "comment",
+                "body": "A simplified way is: use indicativo for plain statements of fact and subjuntivo for anything else.  This is a very rough and approximate guide, but it's a start. \n\nI find textbooks and grammar books much better at explaining grammar than videos from YT.",
+                "created_utc": "2024-06-15 22:12:49 UTC",
+                "comment_id": "oaMiMMK",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_6Tz0tRO",
+                "target": false,
+                "type": "comment",
+                "body": "Native English speaker here. For me, the subjunctive is something that, once you see and feel it, you won't unsee nor unreel it. To me, the subjunctive centers around irreality. Or, a sort of parallel reality, or an imagined reality that could be, but that hasn't yet happened in our current reality.\n\nThe actual language instructors here will be able to describe the grammar better than I can (and I hope they do). But your question is not really how to construct the subjunctive, because you can just go and memorize the subjunctive rules. You're really asking about how to actually feel when to use it.\n\nFor example: \"I hope that the Boston Celtics lose the series.\" This is a subjunctive situation for two reasons. First, I am ascribing some emotional value to this (\"I hope\"). I am envisioning a world in which the Celtics, having been up 3-0 against Dallas, might blow this lead and lose the finals. That is a non-reality for now, but is a possible future reality, and I mean this in sort of sci-fi terms. But also, notice the structure of the sentence: there are two subjects, two verbs going on. There's \"I hope...\" which is really a complete sentence in itself, but there's also a dependent clause, a minor sentence that can't stand on its own: \"...that the Boston Celtics lose the series.\"\n\nWhen you have this dependent clause situation, that's a subjunctive situation. Depending on how you look at it, this dependent clause construction might be \\*the\\* subjunctive trigger. Such as:\n\n* She wants me to go to the store. \\*Ella quiere que vaya a la bodega.\\*\n* She hopes that I go to the store. \\*Ella espera que vaya a la bodega.\\*\n* I'll do that when they arrive. \\*Lo voy a hacer cuando (que) llegen.\\*\n* She'll stop by before she heads home. \\*Ella nos va a visitor antes de que regrese a la casa.\\*\n\nNotice the last two examples are actions that will occur relative to \\*anticipated future events,\\* which is also a \"subjunctive trigger\" that are taught to us to memorize, but they all have a grammatical thing in common, which is that there is a dependent clause.\n\nBut the way I see it, I'm imagining a future world in which she is heading home, and in that currently non-real situation, she has already come to visit us. Because I'm imagining a sort of parallel universe (in this case, a future universe), that's a subjunctive for me.\n\nIn the first two examples, the imaginary world is the one that actually exists in someone's head: in her mind, she is imagining that I'm going to the store. This world isn't \"real\" per se, because it's a world she's imagining. She is exerting will over me, in a sense, to get me to go to the store. That's why it's subjunctive. Along those lines, asking someone or commanding someone to do something is also a subjunctive situation.\n\n* She requested that I go to the store. \\*Ella pidi\u00f3 que vaya a la bodega.\\*\n\nThis is why they say that expressions of hope, wish, desire, etc., are subjunctive \"triggers.\" But looking at things this way makes a lot more sense to me. And once I started seeing and feeling the subjunctive, it started feeling odd \\*not\\* to use it when I should be doing so.\n\nI know how unusual this description may sound, and again, there are going to be better grammatical explanations from people who actually know it. I admittedly do not describe grammar very well even in my language (like I don't know what a perfect tense is in English, no idea what that means, but I guarantee I use it) so those of you out there who are good at grammar should feel free to chime in so maybe I can finally learn grammar rules lol. But I hope this sort of helps.\n\nOne last parting comment is this -- speaking as a native English speaker, I've found that native Spanish speakers have trouble explaining the subjunctive in a way that consistently makes sense to us. They talk about how we use the subjunctive in situations that \"may not happen,\" but then English speakers will notice that the indicative is used for future events all the time. Like, why is the subjunctive not used when we say that the sun rises in the morning? Sunrise is an anticipated future event, isn't it? The take home message is that the subjunctive doesn't make as much sense in English language terms, because we don't necessarily observe the subjunctive as much, even though (as you can see above) it \\*does\\* technically exist. We just don't conjugate verbs differently (well, actually, at all) in a subjunctive construction. The key is that you have to understand the subjunctive from the point of view of a native Spanish speaker, without thinking about how we would say it in English, because Spanish is a different language, and native Spanish speakers use the subjunctive naturally. You need to actually create a new mental framework in your head, a Spanish framework, in order to understand the subjunctive.",
+                "created_utc": "2024-06-15 22:41:37 UTC",
+                "comment_id": "uDjuTcy",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_YRCwiES",
+                "target": false,
+                "type": "comment",
+                "body": "I think the most important thing to know about the subjunctive is that it is the mood of subordination. It\u2019s almost always found in subordinated clauses. This means that there is a main clause that triggers the subjunctive.\u00a0\n\nMe alegro (main clause) \u00a0de que est\u00e9s aqu\u00ed. (Subordinated)\u00a0\n\nThe subjunctive says, \u201cthis statement\u2019s meaning is dependent in some significant way on the main clause that I\u2019m subordinated to so you listener respond to the whole sentence and not just this statement.\u201d Take a look at these two sentences:\u00a0\n\n#1 Temo que mi esposa est\u00e9 muerta (\u201cI fear that my wife is dead.\u201d) the person doesn\u2019t know his wife is dead because the main idea is about his fear.\u00a0\n\n#2 Temo que mi esposa est\u00e1 muerta (\u201cI\u2019m afraid that my wife is dead.\u201d This is what a doctor might say in English \u201cI\u2019m afraid he didn\u2019t survive.\u201d This is saying that the wife is indeed dead.)\u00a0\n\nIt\u2019s not really about \u201creality\u201d vs. \u201cirreality\u201d because you can say \u201cme alegro de que est\u00e9s aqu\u00ed\u201d to someone who is standing in front of you. They are very much there. But you are using the subjunctive to comment on your feelings about that fact and not focusing on the fact itself.\u00a0",
+                "created_utc": "2024-06-16 00:34:22 UTC",
+                "comment_id": "vzlRgxD",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_bBuGyMo",
+                "target": false,
+                "type": "comment",
+                "body": "Learn common triggers and use it when there is a subject chance, i.e.  \u201cI want you to take out the trash\u201d. \n\nBoom. EZ.  Shaved off about 8 months of frustration with one sentence.  \n\nAnd yes, it\u2019s literally that simple.  The subjunctive is not hard, but newbs and failed learners constantly promulgate that it is.\n\nGuarantee you had to look up the word promulgate.  \n\nYou\u2019re welcome.",
+                "created_utc": "2024-06-16 00:40:31 UTC",
+                "comment_id": "q4oYR6J",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            },
+            {
+                "user_id": "subject_XJpn4a0",
+                "target": false,
+                "type": "comment",
+                "body": "If I say 'The students speak Spanish', then , well, they speak Spanish. Or if I say 'The students don't speak Spanish,' then they don't.\n\nBut if I say 'I hope that the students speak Spanish,' or 'It's important that the students speak Spanish,' I'm not saying that they speak Spanish, but rather expressing my own opinion. Or if I say 'I doubt the students speak Spanish', obviously I'm not saying they speak Spanish.\n\nSo in all these cases Spanish doesn't let you use the normal (indicative) form *hablan*. You have to use the subjunctive (*hablen*) to show that even though you're mentioning that they speak, this isn't the point of the sentence.",
+                "created_utc": "2024-06-16 11:23:52 UTC",
+                "comment_id": "FYOIx91",
+                "submission_id": "0jKfcuf",
+                "parent_id": "0jKfcuf"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Confused",
+            "body": "I understand the sentence and how al sort of translates to upon but i dont understand how you would know what tense or who is doing It. Can someone help please!",
+            "created_utc": "2024-08-28 10:01:31 UTC",
+            "submission_id": "qbkRmrz",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_0xJawDh",
+                "target": false,
+                "type": "comment",
+                "body": "It\u2019s the indicative preterite. This page shows you the full conjugation and how to find the tense. \n\nhttps://ellaverbs.com/spanish-verbs/empezar-conjugation/amp.html#preterite-indicative",
+                "created_utc": "2024-08-28 10:41:18 UTC",
+                "comment_id": "p2AGrQL",
+                "submission_id": "qbkRmrz",
+                "parent_id": "qbkRmrz"
+            },
+            {
+                "user_id": "subject_Mto6Brd",
+                "target": false,
+                "type": "comment",
+                "body": "I'm not Op, but this makes me stumble as well. Does this sentence structure only work when we have the second half? For instance, I could not say \"al escuchar la musica\". Because then the essential tense and actor information is not conveyed?",
+                "created_utc": "2024-08-28 14:19:29 UTC",
+                "comment_id": "oeSQRsv",
+                "submission_id": "qbkRmrz",
+                "parent_id": "p2AGrQL"
+            },
+            {
+                "user_id": "subject_0xJawDh",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m afraid I know no more! I googled the answer. I\u2019m a few modules behind you folks, I think!",
+                "created_utc": "2024-08-28 16:02:19 UTC",
+                "comment_id": "8CVFPHR",
+                "submission_id": "qbkRmrz",
+                "parent_id": "oeSQRsv"
+            },
+            {
+                "user_id": "subject_2tHorYC",
+                "target": false,
+                "type": "comment",
+                "body": "\u201cAl escuchar la m\u00fasica\u201d could very well be translated as \u201cupon hearing the music\u201d, and both work alone as badly.",
+                "created_utc": "2024-08-28 17:49:08 UTC",
+                "comment_id": "1966FOX",
+                "submission_id": "qbkRmrz",
+                "parent_id": "oeSQRsv"
+            },
+            {
+                "user_id": "subject_73A70VO",
+                "target": false,
+                "type": "comment",
+                "body": "A much more constructive manner of translating this would be \"At hearing the music...\"\n\n\"Upon\" may be the more natural preposition in English, but \"At\" still makes sense and will help you keep this construction straight. Then the English and Spanish construction are the same.\n\n~~\"At+infinitive\" and \"Al+infinitive\"~~\n\nEdit: mean to say \"At+gerund\" and \"Al+infinitive\" because Spanish uses infinitives in place of gerunds as nouns.",
+                "created_utc": "2024-08-28 21:25:07 UTC",
+                "comment_id": "OKNovgH",
+                "submission_id": "qbkRmrz",
+                "parent_id": "qbkRmrz"
+            },
+            {
+                "user_id": "subject_y7DF5nA",
+                "target": false,
+                "type": "comment",
+                "body": "It's not a more constructive manner of translation, because \"at hearing the music\" is not actually a correct English expression.\n\nEven if it were, the construction would not be the same, because \"hearing\" is not an infinitive; it's a present participle.",
+                "created_utc": "2024-08-28 23:44:34 UTC",
+                "comment_id": "I4hwWOE",
+                "submission_id": "qbkRmrz",
+                "parent_id": "OKNovgH"
+            },
+            {
+                "user_id": "subject_73A70VO",
+                "target": false,
+                "type": "comment",
+                "body": "This is incorrect on all accounts. Even if we change the preposition to \"Upon\" to make it more natural, the usage of \"hearing\" after it is a gerund, which while the present participle is used to form a gerund, a gerund fills its own grammatical role as a noun. I used the wrong word, admittedly; I meant to write \"Al+infinitive\" and \"At+gerund,\" which IS correct.\n\nAnd even though it's not as natural of a construction in English, it is grammatically sound. At+noun (and gerunds are nouns) is a totally valid construction.",
+                "created_utc": "2024-08-29 02:41:18 UTC",
+                "comment_id": "S5O6Hof",
+                "submission_id": "qbkRmrz",
+                "parent_id": "I4hwWOE"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "Fila and cola",
+            "body": "When to use and not to use them. Duolingo introduces a lot of new words but im not sure most of the time if they are used in different contexts.",
+            "created_utc": "2024-08-31 08:40:27 UTC",
+            "submission_id": "9durZ4h",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_s89gx6o",
+                "target": false,
+                "type": "comment",
+                "body": "Fila: a line\n\nHacer cola: to wait in line",
+                "created_utc": "2024-08-31 19:11:26 UTC",
+                "comment_id": "xSY8XLz",
+                "submission_id": "9durZ4h",
+                "parent_id": "9durZ4h"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you and could you use cola without hacer to mean line or is It not interchangeable?",
+                "created_utc": "2024-08-31 20:57:52 UTC",
+                "comment_id": "2EF46Id",
+                "submission_id": "9durZ4h",
+                "parent_id": "xSY8XLz"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Thank you and could you use cola without hacer to mean line or is It not interchangeable?",
+                "created_utc": "2024-08-31 20:58:29 UTC",
+                "comment_id": "HrMHVWY",
+                "submission_id": "9durZ4h",
+                "parent_id": "xSY8XLz"
+            },
+            {
+                "user_id": "subject_In2HIPI",
+                "target": false,
+                "type": "comment",
+                "body": "I think this is a carro/coche type situation.\n\nYou should be fine to use either.",
+                "created_utc": "2024-09-01 03:31:55 UTC",
+                "comment_id": "7cZQZFo",
+                "submission_id": "9durZ4h",
+                "parent_id": "HrMHVWY"
+            },
+            {
+                "user_id": "subject_Tu4Rhqu",
+                "target": true,
+                "type": "comment",
+                "body": "Ah okay thank you",
+                "created_utc": "2024-09-03 10:24:43 UTC",
+                "comment_id": "uC2nC1h",
+                "submission_id": "9durZ4h",
+                "parent_id": "7cZQZFo"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_Tu4Rhqu",
+            "target": true,
+            "type": "submission",
+            "title": "How to say \"what do you mean\"",
+            "body": "I know theres a lot of ways in spanish to say It but what do natives say when they dont understand something or want to say \" what does ___ mean\"\nThanks",
+            "created_utc": "2024-10-22 16:01:35 UTC",
+            "submission_id": "MSgGCs4",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_YnQ2mKk",
+                "target": false,
+                "type": "comment",
+                "body": "Qu\u00e9 quieres decir? - What do you mean?\n\nQu\u00e9 significa X ? - What does X mean?",
+                "created_utc": "2024-10-22 16:17:19 UTC",
+                "comment_id": "p3DOBSP",
+                "submission_id": "MSgGCs4",
+                "parent_id": "MSgGCs4"
+            },
+            {
+                "user_id": "subject_lIYB3K9",
+                "target": false,
+                "type": "comment",
+                "body": "\u00bfQue insinuas? \n\u00bfQue implicas? \n\u00bfQue dices?",
+                "created_utc": "2024-10-22 16:26:42 UTC",
+                "comment_id": "rCQt33f",
+                "submission_id": "MSgGCs4",
+                "parent_id": "MSgGCs4"
+            },
+            {
+                "user_id": "subject_KOi8Lpk",
+                "target": false,
+                "type": "comment",
+                "body": "Also used: \"How do you say?\"",
+                "created_utc": "2024-10-22 17:12:47 UTC",
+                "comment_id": "GcLL0hP",
+                "submission_id": "MSgGCs4",
+                "parent_id": "MSgGCs4"
+            },
+            {
+                "user_id": "subject_qjAIvKL",
+                "target": false,
+                "type": "comment",
+                "body": "No entiendo \\_\\_\\_\\_\\_\\_\\_. Qu\u00e9 significa?\n\nQu\u00e9 significa \\_\\_\\_\\_\\_\\_\\_?\n\nA qu\u00e9 te refieres con \\_\\_\\_\\_\\_\\_\\_?\n\nQu\u00e9 quieres decir con \\_\\_\\_\\_\\_\\_\\_?\n\n\n\nC\u00f3mo se dice \\_\\_\\_\\_\\_?\n\nC\u00f3mo digo que \\_\\_\\_\\_\\_?",
+                "created_utc": "2024-10-22 17:35:47 UTC",
+                "comment_id": "KzPEUsx",
+                "submission_id": "MSgGCs4",
+                "parent_id": "MSgGCs4"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3301 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "I need help taking out rusted stripped triangle screw for Nintendo DsLite",
+            "body": "I was trying to fix my Nintendo DsLite R and L but one of the triangle screw was rusted and I accidentally stripped it in the process of trying to take it out. Already tried using a rubber to help but no luck.",
+            "created_utc": "2024-04-06 04:25:28 UTC",
+            "submission_id": "mBDN1E9",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_7AxPV5b",
+                "target": false,
+                "type": "comment",
+                "body": "In this case i would recommend getting one of [these](https://www.ifixit.com/products/precision-screw-extractor-set)",
+                "created_utc": "2024-04-06 05:23:59 UTC",
+                "comment_id": "3cFyWKU",
+                "submission_id": "mBDN1E9",
+                "parent_id": "mBDN1E9"
+            },
+            {
+                "user_id": "subject_jEjy0pf",
+                "target": false,
+                "type": "comment",
+                "body": "try just cutting a line through the screw and then use flathead?",
+                "created_utc": "2024-04-06 12:55:54 UTC",
+                "comment_id": "gBsDAzh",
+                "submission_id": "mBDN1E9",
+                "parent_id": "mBDN1E9"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "What do I cut a line with cuz it's a small hole",
+                "created_utc": "2024-04-06 21:59:04 UTC",
+                "comment_id": "hgz1iG3",
+                "submission_id": "mBDN1E9",
+                "parent_id": "gBsDAzh"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Alright I'll try and buy one see if it'll fix",
+                "created_utc": "2024-04-06 21:59:41 UTC",
+                "comment_id": "gs5ovyA",
+                "submission_id": "mBDN1E9",
+                "parent_id": "3cFyWKU"
+            },
+            {
+                "user_id": "subject_jEjy0pf",
+                "target": false,
+                "type": "comment",
+                "body": "i know its a small hole. maybe use an xacto knife or one of those box cutters. you don't really have a lot of options for a stripped screw that small.",
+                "created_utc": "2024-04-06 22:02:00 UTC",
+                "comment_id": "VpxMlFQ",
+                "submission_id": "mBDN1E9",
+                "parent_id": "hgz1iG3"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Alright I'll try it rn",
+                "created_utc": "2024-04-06 22:03:13 UTC",
+                "comment_id": "V3N0PEh",
+                "submission_id": "mBDN1E9",
+                "parent_id": "VpxMlFQ"
+            },
+            {
+                "user_id": "subject_jEjy0pf",
+                "target": false,
+                "type": "comment",
+                "body": "maybe try something to get rid of the rust first",
+                "created_utc": "2024-04-06 22:10:28 UTC",
+                "comment_id": "wU2TpqR",
+                "submission_id": "mBDN1E9",
+                "parent_id": "V3N0PEh"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Haven't tried it yet I need to buy a thing to take off rust and a something to cut it with",
+                "created_utc": "2024-04-07 22:00:34 UTC",
+                "comment_id": "2TgN3sz",
+                "submission_id": "mBDN1E9",
+                "parent_id": "wU2TpqR"
+            },
+            {
+                "user_id": "subject_jEjy0pf",
+                "target": false,
+                "type": "comment",
+                "body": "ok",
+                "created_utc": "2024-04-07 22:14:12 UTC",
+                "comment_id": "oPuGXKb",
+                "submission_id": "mBDN1E9",
+                "parent_id": "2TgN3sz"
+            },
+            {
+                "user_id": "subject_ILLZGTA",
+                "target": false,
+                "type": "comment",
+                "body": "The cheapest option i have in mind is using some souble sided tape, and put it on the screwdriver for that little extra friction, but that only works when the screw isnt too tight, otherwise you will pinch trough the tape and it wont have any effect\n\n(Ikr it sounds dumb, but i once got a screw out bc of this xD)",
+                "created_utc": "2024-04-10 22:46:40 UTC",
+                "comment_id": "ZmzUqI7",
+                "submission_id": "mBDN1E9",
+                "parent_id": "mBDN1E9"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "My sister wants me to mod her 3ds xl for her birthday but I don't want to brick it because she's already on the Internet and her Nintendo account is already on it and I don't know if you can brick.",
+            "body": "In a few days is my sister's birthday and she's been asking to mod her 3ds and I was gonna mod it for her birthday and surprise her but she's already connected to the Internet and she already has her Nintendo account connected so I wanted to ask if being already on Internet and connected to to your Nintendo account brick the 3ds if you mod it.",
+            "created_utc": "2024-04-14 23:24:27 UTC",
+            "submission_id": "JkepFzj",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_MwgVPYI",
+                "target": false,
+                "type": "comment",
+                "body": "3ds online services are down so shouldn't be a worry about anything online. Potential to brick it if you mess it up but that really hard to do if your not an idiot. Follow 3ds hacks guide website and not video guides foe best chance of success",
+                "created_utc": "2024-04-14 23:42:37 UTC",
+                "comment_id": "9ZTviJQ",
+                "submission_id": "JkepFzj",
+                "parent_id": "JkepFzj"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Is there any way you can give me links to the guides I need and thank you for telling me",
+                "created_utc": "2024-04-14 23:47:45 UTC",
+                "comment_id": "GHcdpzN",
+                "submission_id": "JkepFzj",
+                "parent_id": "9ZTviJQ"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-14 23:48:18 UTC",
+                "comment_id": "WOTICnt",
+                "submission_id": "JkepFzj",
+                "parent_id": "JkepFzj"
+            },
+            {
+                "user_id": "subject_MwgVPYI",
+                "target": false,
+                "type": "comment",
+                "body": "https://3ds.hacks.guide/ has all the information you need. Not sure if it talks about hshop but look into hshop and you sister will get an even better gift",
+                "created_utc": "2024-04-14 23:50:52 UTC",
+                "comment_id": "8KggOK1",
+                "submission_id": "JkepFzj",
+                "parent_id": "GHcdpzN"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Alright thank you the man and have a good rest of your day. Won't forget to mention you helped me when I mod her 3ds for her.",
+                "created_utc": "2024-04-14 23:53:06 UTC",
+                "comment_id": "qYDXVqn",
+                "submission_id": "JkepFzj",
+                "parent_id": "8KggOK1"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Alright thanks will start doing that. Thanks.",
+                "created_utc": "2024-04-14 23:53:44 UTC",
+                "comment_id": "f7AieB2",
+                "submission_id": "JkepFzj",
+                "parent_id": "WOTICnt"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-04-15 02:50:19 UTC",
+                "comment_id": "GKi670u",
+                "submission_id": "JkepFzj",
+                "parent_id": "GHcdpzN"
+            },
+            {
+                "user_id": "subject_cK7EUQm",
+                "target": false,
+                "type": "comment",
+                "body": "The guide is so simple, it\u2019s pretty idiot proof. Unless you\u2019re an advanced idiot",
+                "created_utc": "2024-04-15 03:50:01 UTC",
+                "comment_id": "UtVy0ni",
+                "submission_id": "JkepFzj",
+                "parent_id": "GKi670u"
+            },
+            {
+                "user_id": "subject_bRv4nTS",
+                "target": false,
+                "type": "comment",
+                "body": "Just modded my 3DS yesterday. Super easy and quick process. You can do it!",
+                "created_utc": "2024-04-15 05:44:18 UTC",
+                "comment_id": "H9pdYeQ",
+                "submission_id": "JkepFzj",
+                "parent_id": "JkepFzj"
+            },
+            {
+                "user_id": "subject_Pid3FC4",
+                "target": false,
+                "type": "comment",
+                "body": "one more thing op, you\u2019ll need a micro sd card for them to install stuff to, anything from 32-128 gb will work fine but if you go over 32gb you\u2019ll need to format it a certain way, which the aforementioned guide will cover",
+                "created_utc": "2024-04-15 13:25:47 UTC",
+                "comment_id": "3XMDYqf",
+                "submission_id": "JkepFzj",
+                "parent_id": "qYDXVqn"
+            },
+            {
+                "user_id": "subject_VEAmthR",
+                "target": false,
+                "type": "comment",
+                "body": "Unless you specifically go off track from the established guide you won't brick it",
+                "created_utc": "2024-04-15 15:29:41 UTC",
+                "comment_id": "bHakMMu",
+                "submission_id": "JkepFzj",
+                "parent_id": "JkepFzj"
+            },
+            {
+                "user_id": "subject_saHm0Px",
+                "target": false,
+                "type": "comment",
+                "body": "It's safe, go ahead",
+                "created_utc": "2024-04-16 15:45:12 UTC",
+                "comment_id": "En6bO34",
+                "submission_id": "JkepFzj",
+                "parent_id": "JkepFzj"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "Can anyone explain why there's a random little girl for the thumbnail on bunk'd for Netflix?????",
+            "body": "Me and my brother were roaming through Netflix when we saw Bunk'd, an old show we used to watch, so we went on it to see if they made new seasons, but when we checked, we found something odd, which was a picture of a little girl. So we went through Google trying to search why she was on the thumbnails of the show but couldn't find anything, so then we used Google Lens, but it still didn't show anything. We thought it was just a glitch on the TV version of Netflix, but we went to Mobile Netflix, and it was the same. Me and my brother came up with a theory on why it was there and what it was, and this is probably the most secure theory. It might sound dumb, but just listen. There were 5 episodes in total with the same picture, and the picture thing started on season 5, episode 14, and then we went to season 6, and there were 4 total episodes of the same picture (which were episode 6, episode 16, episode 26, and episode 30), and we thought the reason why there's 4 pictures of the girl on season 6 is because it indicates 666 because all the first 3 episodes end with a number 6 and the last episode 30 has a 3 as the first number, which is indicating there are three 6's. and we also think there's a reason why season 5 episode 14 is also a picture of the girl, because it indicates that there's 5 pictures of her and 4 pictures of her on the last season. That's our theory, or maybe it could just be us becoming crazy. You guys can check for yourselves, but we just want an explanation of why she's there.",
+            "created_utc": "2024-04-23 07:03:31 UTC",
+            "submission_id": "feDBAlc",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_06vs5Mo",
+                "target": false,
+                "type": "comment",
+                "body": "Is it a frame from the intro that just kept getting picked for the thumbnail?",
+                "created_utc": "2024-04-23 08:01:46 UTC",
+                "comment_id": "mZ5GHXm",
+                "submission_id": "feDBAlc",
+                "parent_id": "feDBAlc"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Checked and there's no picture of the girl from the thumbnail at all not even in the intro.",
+                "created_utc": "2024-04-23 08:04:45 UTC",
+                "comment_id": "pUphQwr",
+                "submission_id": "feDBAlc",
+                "parent_id": "mZ5GHXm"
+            },
+            {
+                "user_id": "subject_Tu2seqs",
+                "target": false,
+                "type": "comment",
+                "body": "try /r/conspiracy",
+                "created_utc": "2024-04-23 20:03:35 UTC",
+                "comment_id": "8j9V263",
+                "submission_id": "feDBAlc",
+                "parent_id": "feDBAlc"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Alright thanks hoping someone can help figure out why Netflix has this",
+                "created_utc": "2024-04-23 20:58:14 UTC",
+                "comment_id": "C4SqRgu",
+                "submission_id": "feDBAlc",
+                "parent_id": "8j9V263"
+            },
+            {
+                "user_id": "subject_BZokacp",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m guessing maybe it\u2019s an episode cover for another show on Netflix that glitched into this show. It looks like it could be on unsolved mysteries or someplace other true crime Netflix show.",
+                "created_utc": "2024-04-24 01:38:35 UTC",
+                "comment_id": "TUgI68q",
+                "submission_id": "feDBAlc",
+                "parent_id": "feDBAlc"
+            },
+            {
+                "user_id": "subject_OSfzCeK",
+                "target": false,
+                "type": "comment",
+                "body": "At the end of every episode of Bunkd, it shows the production companies that help produce the show, and one of those companies is called it\u2019s a laugh productions, and their logo is that little girl who keeps showing up in the thumbnail, and because that logo is shown at the end of every episode, that\u2019s why you are seeing her.",
+                "created_utc": "2024-08-03 07:06:36 UTC",
+                "comment_id": "fUbqGKN",
+                "submission_id": "feDBAlc",
+                "parent_id": "feDBAlc"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "Can anyone explain why there's a random little girl for the thumbnail on bunk'd for Netflix?????",
+            "body": "[removed]",
+            "created_utc": "2024-04-23 20:57:30 UTC",
+            "submission_id": "tJHZOby",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "Is this model good for modding?",
+            "body": "I wanna mod my PlayStation 3 slim and when I went searching on how to do it, it said I needed a date code to make sure it's good for modding because I don't just want hen for modding my PlayStation 3 but I can't find my date code and it says it was manufactured April 2010 but idk if that's the date code. Could someone help me figure out about this.",
+            "created_utc": "2024-04-30 19:56:46 UTC",
+            "submission_id": "eIgwq21",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_a1SOneX",
+                "target": false,
+                "type": "comment",
+                "body": "just use [minverchk](https://ps3xploit.me/files/minvercheck.zip) if you're paranoid about connecting your ps3 to internet.  \n  \nread here for more info, or just search yt.",
+                "created_utc": "2024-04-30 20:13:04 UTC",
+                "comment_id": "PIMmPEg",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_lY9BfBL",
+                "target": false,
+                "type": "comment",
+                "body": "this one should be cfw compatible though",
+                "created_utc": "2024-04-30 20:21:39 UTC",
+                "comment_id": "w7rAVvb",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_PRaRoOV",
+                "target": false,
+                "type": "comment",
+                "body": "What you're looking for is the model number, the CECH 2100 number. Since it's 2100, you're good. If it was like 2500, may not be compatible for CFW.",
+                "created_utc": "2024-04-30 20:26:10 UTC",
+                "comment_id": "BpNmjL5",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_tnyJrC8",
+                "target": false,
+                "type": "comment",
+                "body": "the only ones you can only mod with HEN are the super slim",
+                "created_utc": "2024-05-01 03:01:49 UTC",
+                "comment_id": "jAOdqX1",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Wrong.",
+                "created_utc": "2024-05-01 03:41:46 UTC",
+                "comment_id": "7QSbttL",
+                "submission_id": "eIgwq21",
+                "parent_id": "jAOdqX1"
+            },
+            {
+                "user_id": "subject_tnyJrC8",
+                "target": false,
+                "type": "comment",
+                "body": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+                "created_utc": "2024-05-01 03:42:08 UTC",
+                "comment_id": "4U8UD0B",
+                "submission_id": "eIgwq21",
+                "parent_id": "7QSbttL"
+            },
+            {
+                "user_id": "subject_PyEcHLV",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, it supports CFW. This particular one is the absolute most reliable PS3 model, too.  \n  \nThe two character date code is only visible on European units. However, knowing the manufacturing date is ONLY required for CECH-25xx series consoles. The older 20xx and 21xx are ALWAYS CFW compatible because they were always made before 2011.",
+                "created_utc": "2024-05-01 04:13:45 UTC",
+                "comment_id": "23FEYHz",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_Zn4qJGL",
+                "target": false,
+                "type": "comment",
+                "body": "3000 Slims can only have HEN, and same goes for some 2500 slims (it depends on minimum fw version)",
+                "created_utc": "2024-05-01 06:30:39 UTC",
+                "comment_id": "MJBG0yv",
+                "submission_id": "eIgwq21",
+                "parent_id": "jAOdqX1"
+            },
+            {
+                "user_id": "subject_ejc3AG7",
+                "target": false,
+                "type": "comment",
+                "body": "Have the same one yes",
+                "created_utc": "2024-05-01 06:39:41 UTC",
+                "comment_id": "QhLV3Eo",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_g0JXJ9r",
+                "target": false,
+                "type": "comment",
+                "body": "I prefer to check it with software called minvercheck. Motherboard could be replaced, sticker could be replaced too. I've had one ps3 with replaced motherboard with sticker from 20xx while it wasn't CFW compatible.",
+                "created_utc": "2024-05-01 08:57:25 UTC",
+                "comment_id": "8WquAB1",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Even so cfw wouldn\u2019t let you install and tell you it\u2019s not compatible",
+                "created_utc": "2024-05-01 11:33:17 UTC",
+                "comment_id": "oSWcTej",
+                "submission_id": "eIgwq21",
+                "parent_id": "8WquAB1"
+            },
+            {
+                "user_id": "subject_McEWWUn",
+                "target": false,
+                "type": "comment",
+                "body": "of course!  It's one of the best slim models out there",
+                "created_utc": "2024-05-01 11:42:13 UTC",
+                "comment_id": "23v2IdK",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_ddiUg9N",
+                "target": false,
+                "type": "comment",
+                "body": "The ps3 toolset will check and tell you if it is a moddable console, I\u2019m not sure any other ways",
+                "created_utc": "2024-05-01 11:49:44 UTC",
+                "comment_id": "0OyL1t6",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_QeBK9G4",
+                "target": false,
+                "type": "comment",
+                "body": "All models support HEN, it\u2019s just more ideal to use CFW which not all models support. Super Slims being one of those models.",
+                "created_utc": "2024-05-01 13:53:34 UTC",
+                "comment_id": "kaUAYX6",
+                "submission_id": "eIgwq21",
+                "parent_id": "jAOdqX1"
+            },
+            {
+                "user_id": "subject_xYfh3tO",
+                "target": false,
+                "type": "comment",
+                "body": "Yep, you\u2019re all set for CFW",
+                "created_utc": "2024-05-01 13:56:37 UTC",
+                "comment_id": "lZurdzF",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "I do not see what is so funny.\n\nLate SLIM production runs can also only use HEN. That is why you have to be careful checking the manufacturing date for 2500 SLIM models to see if they can do CFW or not.",
+                "created_utc": "2024-05-01 15:04:02 UTC",
+                "comment_id": "RnhaNNT",
+                "submission_id": "eIgwq21",
+                "parent_id": "4U8UD0B"
+            },
+            {
+                "user_id": "subject_TxKL6WR",
+                "target": false,
+                "type": "comment",
+                "body": "That\u2019s the best ps3 model in general",
+                "created_utc": "2024-05-01 15:33:06 UTC",
+                "comment_id": "2XVSmUq",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Use an e3 Flasher to downgrade it before attempting cfw",
+                "created_utc": "2024-05-01 16:12:51 UTC",
+                "comment_id": "YPZ0pAT",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "subject_g0JXJ9r",
+                "target": false,
+                "type": "comment",
+                "body": "Oh I didn't know that, thanks for correcting me mate.",
+                "created_utc": "2024-05-01 17:31:10 UTC",
+                "comment_id": "4lMZwew",
+                "submission_id": "eIgwq21",
+                "parent_id": "oSWcTej"
+            },
+            {
+                "user_id": "subject_PyEcHLV",
+                "target": false,
+                "type": "comment",
+                "body": "It sounds like you haven't been in the scene in years. \n\nFor one, you can just do noFSM and directly install CFW afterward without any unnecessary downgrading. \n\nFor two, those same noFSM patches can be done on the PS3 web browser instead of only though a NOR flashing tool.",
+                "created_utc": "2024-05-01 17:52:44 UTC",
+                "comment_id": "P2MaPpJ",
+                "submission_id": "eIgwq21",
+                "parent_id": "YPZ0pAT"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "I know how it works lol you need to flash the bios",
+                "created_utc": "2024-05-01 17:53:43 UTC",
+                "comment_id": "k2PFfXp",
+                "submission_id": "eIgwq21",
+                "parent_id": "P2MaPpJ"
+            },
+            {
+                "user_id": "subject_PyEcHLV",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah, without a flasher. Not sure why it was mentioned?",
+                "created_utc": "2024-05-01 18:00:42 UTC",
+                "comment_id": "dfJrnbq",
+                "submission_id": "eIgwq21",
+                "parent_id": "k2PFfXp"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "It depends on the current firmware the ps3 is on. Most needs to be flashed by the bios",
+                "created_utc": "2024-05-01 18:15:05 UTC",
+                "comment_id": "4unxIrd",
+                "submission_id": "eIgwq21",
+                "parent_id": "dfJrnbq"
+            },
+            {
+                "user_id": "subject_PyEcHLV",
+                "target": false,
+                "type": "comment",
+                "body": "NoFSM can literally be flashed regardless of OFW version as long as bgtoolset supports it. If you're on something older than 4.70 then you can just update to that or newer and do the patch. The only thing that matters is if the console has metldr and not metldr2.",
+                "created_utc": "2024-05-01 18:16:22 UTC",
+                "comment_id": "I6KNVPa",
+                "submission_id": "eIgwq21",
+                "parent_id": "4unxIrd"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Am I really that out of touch \ud83e\udd26 shit I was always downgrading and jailbreaking ps3s. I still have 3 cfws in my cupboard \ud83d\ude05",
+                "created_utc": "2024-05-01 18:20:34 UTC",
+                "comment_id": "WcI8G6U",
+                "submission_id": "eIgwq21",
+                "parent_id": "I6KNVPa"
+            },
+            {
+                "user_id": "subject_90Fmt2G",
+                "target": false,
+                "type": "comment",
+                "body": "Haven\u2019t needed e3flasher for years, bgtoolset can flash bios via the web browser on latest ofw. Been that way for like 5 years",
+                "created_utc": "2024-05-01 18:23:16 UTC",
+                "comment_id": "M6wIYjZ",
+                "submission_id": "eIgwq21",
+                "parent_id": "WcI8G6U"
+            },
+            {
+                "user_id": "subject_90Fmt2G",
+                "target": false,
+                "type": "comment",
+                "body": "Actually any model of PS3 can run HEN. Any fat, slim or super slim can run it.",
+                "created_utc": "2024-05-01 18:31:10 UTC",
+                "comment_id": "VUUfZT7",
+                "submission_id": "eIgwq21",
+                "parent_id": "RnhaNNT"
+            },
+            {
+                "user_id": "subject_eDg1IG3",
+                "target": false,
+                "type": "comment",
+                "body": "My 2500 has cfw",
+                "created_utc": "2024-05-01 20:07:37 UTC",
+                "comment_id": "HPxIcry",
+                "submission_id": "eIgwq21",
+                "parent_id": "BpNmjL5"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Tried searching on YouTube but I can't find one that helps me. Mind if you explain on how to do it and my bad if I'm being a bother asking how to do it.",
+                "created_utc": "2024-05-02 05:32:25 UTC",
+                "comment_id": "A18YVoE",
+                "submission_id": "eIgwq21",
+                "parent_id": "PIMmPEg"
+            },
+            {
+                "user_id": "subject_k2zU4l1",
+                "target": false,
+                "type": "comment",
+                "body": "Some 25000 models are cfw compatible and some not",
+                "created_utc": "2024-05-02 10:50:33 UTC",
+                "comment_id": "AK3lIFQ",
+                "submission_id": "eIgwq21",
+                "parent_id": "HPxIcry"
+            },
+            {
+                "user_id": "subject_vKWmlkD",
+                "target": false,
+                "type": "comment",
+                "body": "Yes every single PS3 manufactured December 2010 and back are all CFW compatible.",
+                "created_utc": "2024-05-02 21:49:54 UTC",
+                "comment_id": "pgivyF2",
+                "submission_id": "eIgwq21",
+                "parent_id": "eIgwq21"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Is it still cex and dex cfws, or has all that changed as well?",
+                "created_utc": "2024-05-03 09:00:24 UTC",
+                "comment_id": "cIKYsLp",
+                "submission_id": "eIgwq21",
+                "parent_id": "M6wIYjZ"
+            },
+            {
+                "user_id": "subject_90Fmt2G",
+                "target": false,
+                "type": "comment",
+                "body": "There\u2019s pretty much only one CFW that\u2019s still being developed now called Evilnat, here are the different versions of it. As far as I know rebug, ferrox and rogero etc haven\u2019t been updated in years.\n\nhttps://www.psx-place.com/threads/cfw-4-91-2-evilnat-cobra-8-5-beta7-cex-dex-pex-d-pex.39743/\n\nCEX, DEX, PEX and D-PEX",
+                "created_utc": "2024-05-03 09:06:25 UTC",
+                "comment_id": "uTMJoY0",
+                "submission_id": "eIgwq21",
+                "parent_id": "cIKYsLp"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "So, no rogero or anything like that now? Shit I've been out of the cfw game way too long \ud83d\ude05\ud83d\ude05",
+                "created_utc": "2024-05-03 09:07:59 UTC",
+                "comment_id": "a9OOtUF",
+                "submission_id": "eIgwq21",
+                "parent_id": "uTMJoY0"
+            },
+            {
+                "user_id": "subject_90Fmt2G",
+                "target": false,
+                "type": "comment",
+                "body": "Nope, as mentioned",
+                "created_utc": "2024-05-03 09:08:25 UTC",
+                "comment_id": "7ZtEeWX",
+                "submission_id": "eIgwq21",
+                "parent_id": "a9OOtUF"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Looks like I'm gonna be digging out my dex cfw and upgrading it \ud83d\ude05 thanks man \ud83d\udc4d",
+                "created_utc": "2024-05-03 09:10:13 UTC",
+                "comment_id": "TvcRtuc",
+                "submission_id": "eIgwq21",
+                "parent_id": "7ZtEeWX"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "I can't hear sound",
+            "body": "I downloaded a video and the file type was MKV but when I went to watch it on Media Payer I couldn't hear sound so I used VLC to watch it and the sound was working so I converted it to MP4 thinking I couldn't hear sound was because the file was a MKV but after it was done downloading I still couldn't hear sound so I don't know what to do at this point because I was getting ready put the video on my USB drive and put it in my PlayStation 3 to watch it.",
+            "created_utc": "2024-05-02 05:45:26 UTC",
+            "submission_id": "iGhnxpw",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_anbQmaZ",
+                "target": false,
+                "type": "comment",
+                "body": "It's going to have decoding limitations, so try MPEG-4 and mpeg-2 set to quality 0 (highest) in the hardbrake video encoder program.\u00a0 Good luck, there has been work to compile vlc for the ps3, but via a version of Yellow Dog Linux which is setup for the power-pc processor, even macs used to use, before apple switched to using Intel, most likely for software compatibility.\n\n\nMPEG-2 is what dvd uses, mpeg-4 is slightly newer with more data saving, so hopefully it allows more video length.\u00a0 I read the ps3 uses fat32 format, is this correct, does it support ext2,3,4 or other filesystems?\u00a0 If not, you are limited to a maximun of 4GB for a file size. This should be fine as a movie might only take abouf half that if using the above formats.\n\n\n\nSo that will probably be too much work, and make it difficult to use for your existing games, so re-encoding to a compatible format will be the easiest and most effective solution.\n\n\nSome tips in handbrake, set framerate to samr as source option, and for audio, find the format used, select that same format in handbrake and choose \"passthrough\" so it doesn't re-encode the sound, which may decrease sound quality.\n\n\nOff topic\n\n\nHave you tried playing your music slower?\u00a0 Doing so on a computer actually works the same as analog, but most programs, including vlc, do pitch-control, so when you speed up a podcast, it sounds the same instead of chipmunks.\n\n\nSlowing things down with this special effect causes the sound to become choppy or robotic, especially with speeds like 0.75 and half speed 0.5\n\n\nVLC is the only media player I know that allows turning off this effect, which will alos reduce or increase the pitch of all notes, so chipmunks or really deep voices compared to original speed\u00a0\n\n\nIt's either that or all sounds especially drums and guitars being very distorted.\n\n\nGive it a try with your music, and start with near normal speeds like 0.97\n\n\nIt is not yet possible to pick a nearby speed, as dragging the slider only starts to move when there is a large change.\u00a0 And the arrows are set for 5% changes.\n\n\nThe range is also way too large, and I hope to convince the devs to limit it by default 60 - 110%.\n\n\nThe slider would be easier to use with 1 5 10 % orange lines, making it clear how much to move to get to a speed.\n\n\nFinally I'd really like a way to save multiple speeds per song, which is halfway built in already.\u00a0 Bookmarks save the progress in a song or video, and the current save speed function saves each time it is changed, so just combine the two existing features.\u00a0 This way you don't need to remember which speed sounded good with a song.\n\n\n\nThe timestretch feature should be renamed to something like allow pitch changes and be visible directly on the slider, not hidden in advanced settings.\n\n\nSo I know it's a bit tedious to pick different speeds and I hope the devs are interested enough to put in these changes.",
+                "created_utc": "2024-05-02 18:37:40 UTC",
+                "comment_id": "QEb6iJw",
+                "submission_id": "iGhnxpw",
+                "parent_id": "iGhnxpw"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks for helping it worked your a real one!",
+                "created_utc": "2024-05-04 03:27:05 UTC",
+                "comment_id": "IaYZWyH",
+                "submission_id": "iGhnxpw",
+                "parent_id": "QEb6iJw"
+            },
+            {
+                "user_id": "subject_anbQmaZ",
+                "target": false,
+                "type": "comment",
+                "body": "I forgot to add, disable all filters in handbrake filter section.\u00a0 I would like to know how this helped, and what settings did you use to make it work, like video format, quality level.\n\n\nI like keeping hardware if it can still be used, damn planned hardware / software abandon, and corporate greed.\u00a0 If it were easy to play the games you have and add a working version of vlc to the system, you could test playback speed there too, more options etc, but the powerpc makes that quite complicated, more than just getting vlc itself but all the video format reading software as well, just not worth the effort.",
+                "created_utc": "2024-05-04 04:09:15 UTC",
+                "comment_id": "N1EifEV",
+                "submission_id": "iGhnxpw",
+                "parent_id": "IaYZWyH"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "When I clicked the file I wanted, it put MP4 and I didn't change anything. Then I went to the Video page, and the only thing I changed was the video encoder and constant quality. I put it to mpeg-4 for the video encoder and set the constant quality to 1, then started the encode. After it was done, I tried putting it in my USB drive, but it was over 4 GB, so I went back to Handbrake and selected the file I changed, then changed the preset to PlayStation 1080p30 surround. After it was done, it reduced the 4GB to 1GB. I put the file into my USB drive and put it in my PlayStation 3, and enjoyed it with my girlfriend.",
+                "created_utc": "2024-05-04 06:43:49 UTC",
+                "comment_id": "RqDiTMn",
+                "submission_id": "iGhnxpw",
+                "parent_id": "N1EifEV"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks again for helping!",
+                "created_utc": "2024-05-04 06:49:06 UTC",
+                "comment_id": "JT8tqPo",
+                "submission_id": "iGhnxpw",
+                "parent_id": "iGhnxpw"
+            },
+            {
+                "user_id": "subject_anbQmaZ",
+                "target": false,
+                "type": "comment",
+                "body": "Glad that preset worked, but I'm going to nitpick a couple details.\n\n\nI always recommend setting framerate to \"same as source\" soit doesn't change how it plays.\u00a0 Also try using the mkv format and using the settings for that, so not just sticking with the preset.\u00a0 If quality 0 or quality 1 is too high, try quality 4, or quality 6.\u00a0 Make sure again all filters are off, and also clear the text of \"extra options* if it adds any.\n\n\nSet audio to the same format used originally if you are able to find out what it was, (I don't know how, unless it is a dvd / bluray that standardize on one) or use FLAC (no loss in quality) to copy the sound as-is.\n\n\nAC-3 is used by dvd, but no idea what bluray or mkv videos may use.\u00a0 AAC is apple's advanced video codec, usually a default setting in handbrake, a decent default, great quality, but will most likely be re-encoding the audio again, slightly reducing quality just by doing so, AAC is an excellent format for music / audio, but format conversion will reduce quality from original.\n\n\nTry a few more custom settings in video, and try to keep it mkv, if you can (if it's not 4GB) and you might get a slightly better video.\n\n\nI guess it depends on how much it matters, I just like figuring out what works best, so play with the settings for a few days, and compare video quality from the exported files, just play them on pc to compare.\n\n\nAlso, I hope you give slower music a try, it's fairly popular from youtube uploads, with some videos (though of already well-known songs) have over a million views for the slower version.\u00a0 And that's one video.\u00a0 So it shows that there is a hidden interest in this feature that people are completely unaware vlc can do.\u00a0 I hope to help some of those uploaders learn of this feature, and help share it with others.",
+                "created_utc": "2024-05-04 14:44:09 UTC",
+                "comment_id": "6kE1dsV",
+                "submission_id": "iGhnxpw",
+                "parent_id": "RqDiTMn"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "Can someone help me sign this account out",
+            "body": "I found my old PlayStation 3 and I wanted to play online with my brother cuz he has his own PlayStation 3 and we wanted to play online on Call of Duty Black Ops 2 but I can't because my dad use to control the console when I was young and now that I'm older I wanted to sign into my own PSN account but when I try to it says I can't use a different email and I don't want to make another profile because it doesn't let me transfer my save for skate 3 and LittleBigPlanet 2 and 3 to another profile. Someone please help me.",
+            "created_utc": "2024-05-09 02:21:03 UTC",
+            "submission_id": "4uHRb6F",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_KEaLul4",
+                "target": false,
+                "type": "comment",
+                "body": "Profiles are created without a psn account, and its common to have the profile name match the one used on PSN.\n\nBut if you try to recreate the profile, the saves wouldn't work.",
+                "created_utc": "2024-05-09 02:40:18 UTC",
+                "comment_id": "0fVpD1P",
+                "submission_id": "4uHRb6F",
+                "parent_id": "4uHRb6F"
+            },
+            {
+                "user_id": "subject_yVMrYL5",
+                "target": false,
+                "type": "comment",
+                "body": "The PSN email is tied to a specific local User on your PS3.  You cant swap them.  You have to make a new local user and sign in on that.",
+                "created_utc": "2024-05-09 02:40:50 UTC",
+                "comment_id": "U0nRWf3",
+                "submission_id": "4uHRb6F",
+                "parent_id": "4uHRb6F"
+            },
+            {
+                "user_id": "subject_CRxPOlY",
+                "target": false,
+                "type": "comment",
+                "body": "\u00a0But the data remains no? \u00a0Wouldn\u2019t a format be needed?",
+                "created_utc": "2024-05-09 03:00:08 UTC",
+                "comment_id": "DNQrHvX",
+                "submission_id": "4uHRb6F",
+                "parent_id": "U0nRWf3"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "I think I have a virus I need help",
+            "body": "[removed]",
+            "created_utc": "2024-06-09 22:46:27 UTC",
+            "submission_id": "U6yOa6b",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_nEzEak1",
+                "target": false,
+                "type": "comment",
+                "body": "Go to settings-apps-chrome-storage and clear cache and data.",
+                "created_utc": "2024-06-09 22:51:52 UTC",
+                "comment_id": "1qJTsx6",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_5uNJD8h",
+                "target": false,
+                "type": "comment",
+                "body": "Stop using chrome problem solved",
+                "created_utc": "2024-06-09 22:51:53 UTC",
+                "comment_id": "MmDeG95",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_hQNorvH",
+                "target": false,
+                "type": "comment",
+                "body": "Put it in some rice. If that don\u2019t work burn it.",
+                "created_utc": "2024-06-09 22:56:13 UTC",
+                "comment_id": "3EJw7ZZ",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_Gq9vrhi",
+                "target": false,
+                "type": "comment",
+                "body": "Most likely not a virus.\n\nIf its full screen, as in not just a random link on Chrome, its most likely an ad from some app installed on your phone. Certain apps, once granted permission, can show you full screen spam and make it look more serious than it is. \n\nThe most common types of apps that do this are weather, Bible, \"cleaning\", or apps with a gimmick use like a leveler or claim to make your phone faster. Eliminate every app you don't need and you'll probably stop this issue.",
+                "created_utc": "2024-06-09 22:59:11 UTC",
+                "comment_id": "supj0hn",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_JBP9rvd",
+                "target": false,
+                "type": "comment",
+                "body": "Porn is a hell of a drug.",
+                "created_utc": "2024-06-09 23:00:36 UTC",
+                "comment_id": "OE6kmVi",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_DPSAWaA",
+                "target": false,
+                "type": "comment",
+                "body": "Phones don\u2019t get viruses, you\u2019re using some sort of garbage app. Are you getting pop ups all the time or just in chrome?",
+                "created_utc": "2024-06-09 23:00:59 UTC",
+                "comment_id": "CzajfRX",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_5DzvWHi",
+                "target": false,
+                "type": "comment",
+                "body": "Dear AT&T customer \ud83d\ude02",
+                "created_utc": "2024-06-09 23:05:04 UTC",
+                "comment_id": "A1ilGbf",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_giooagE",
+                "target": false,
+                "type": "comment",
+                "body": "Phones CAN get infected, androids are more susceptible to viruses than an iOS device but that\u2019s just because they are open source. This is just adware from either an app installed OR directly from the Chrome app. Just needs to clear cache and erase last few hours worth of history. Done and done. But mobile devices, while seldom targeted, can actually be infected.",
+                "created_utc": "2024-06-09 23:09:36 UTC",
+                "comment_id": "tjpjTID",
+                "submission_id": "U6yOa6b",
+                "parent_id": "CzajfRX"
+            },
+            {
+                "user_id": "subject_DPSAWaA",
+                "target": false,
+                "type": "comment",
+                "body": "To download a virus wouldn\u2019t you have to side load a bad APK?",
+                "created_utc": "2024-06-09 23:16:20 UTC",
+                "comment_id": "USFhOMP",
+                "submission_id": "U6yOa6b",
+                "parent_id": "tjpjTID"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-06-09 23:45:26 UTC",
+                "comment_id": "QRFI0nZ",
+                "submission_id": "U6yOa6b",
+                "parent_id": "MmDeG95"
+            },
+            {
+                "user_id": "subject_BBrkAUf",
+                "target": false,
+                "type": "comment",
+                "body": "Wow 255,149 files\u2026.\ud83d\ude02",
+                "created_utc": "2024-06-09 23:45:39 UTC",
+                "comment_id": "IbpBpjO",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_zKYvtkc",
+                "target": false,
+                "type": "comment",
+                "body": "The fact that Android is open source has nothing to do with the presence or not of viruses. Microsoft Windows, which is the most vulnerable OS, is not open source.",
+                "created_utc": "2024-06-09 23:46:34 UTC",
+                "comment_id": "jHTaslC",
+                "submission_id": "U6yOa6b",
+                "parent_id": "tjpjTID"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Clear your browsing data and then download Firefox or another browser like it that allows a strong popup blocker. That will stop most of the domains that serve up these weird ads.",
+                "created_utc": "2024-06-09 23:46:38 UTC",
+                "comment_id": "qA4xg36",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_giooagE",
+                "target": false,
+                "type": "comment",
+                "body": "No I know, I was just saying, it\u2019s more common for an android than an iOS device. It was worded improperly. Android has a massive grip on the mobile device market worldwide compared to iOS. It\u2019s easier to write up a malicious app for Android and windows than it is for iOS or MacOS but they are still out there.",
+                "created_utc": "2024-06-09 23:49:01 UTC",
+                "comment_id": "o3hAGyd",
+                "submission_id": "U6yOa6b",
+                "parent_id": "jHTaslC"
+            },
+            {
+                "user_id": "subject_uwaVwK0",
+                "target": false,
+                "type": "comment",
+                "body": "You could always run Malwarebytes if you're worried",
+                "created_utc": "2024-06-09 23:50:38 UTC",
+                "comment_id": "b6DIgSw",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_5uNJD8h",
+                "target": false,
+                "type": "comment",
+                "body": "Because apps utilize chrome exploits to force pop up ads\u2026 people dont understand and just downvote",
+                "created_utc": "2024-06-10 00:12:20 UTC",
+                "comment_id": "gKT7KaF",
+                "submission_id": "U6yOa6b",
+                "parent_id": "QRFI0nZ"
+            },
+            {
+                "user_id": "subject_zGBxKPu",
+                "target": false,
+                "type": "comment",
+                "body": "One would hope so, but Google doesn\u2019t keep a very tight grip on what\u2019s allowed in the Play Store and some nefarious apps have definitely slipped in. Could have also come from a sketchy website even if no APK was installed by exploiting browser vulnerabilities",
+                "created_utc": "2024-06-10 00:16:42 UTC",
+                "comment_id": "s7rVT2n",
+                "submission_id": "U6yOa6b",
+                "parent_id": "USFhOMP"
+            },
+            {
+                "user_id": "subject_zGBxKPu",
+                "target": false,
+                "type": "comment",
+                "body": "Android and Windows both allow applications to interact with more parts of the system then iOS or Mac OS. Pros and cons since it enables some super useful apps but also allows bad actors to do a lot more bad things.",
+                "created_utc": "2024-06-10 00:18:48 UTC",
+                "comment_id": "1Pynebf",
+                "submission_id": "U6yOa6b",
+                "parent_id": "o3hAGyd"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "I'm only getting it in chrome tho only when on the T-Mobile version if I open a tab it'll put me in normal chrome and won't pop up with a scam",
+                "created_utc": "2024-06-10 00:23:01 UTC",
+                "comment_id": "G84qHDv",
+                "submission_id": "U6yOa6b",
+                "parent_id": "CzajfRX"
+            },
+            {
+                "user_id": "subject_8rcB6sT",
+                "target": false,
+                "type": "comment",
+                "body": "I got this same exact thing yesterday, Don't know what caused it, I have cleared cache and data and disabled chrome, I didn't download anything, and it kept popping up whenever I went to a website",
+                "created_utc": "2024-06-10 00:36:03 UTC",
+                "comment_id": "OYITRkv",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Firefox with Ublock Origin extension",
+                "created_utc": "2024-06-10 01:56:26 UTC",
+                "comment_id": "fifkybk",
+                "submission_id": "U6yOa6b",
+                "parent_id": "qA4xg36"
+            },
+            {
+                "user_id": "subject_TyLOt18",
+                "target": false,
+                "type": "comment",
+                "body": "This is the way",
+                "created_utc": "2024-06-10 02:02:54 UTC",
+                "comment_id": "WNXdm4I",
+                "submission_id": "U6yOa6b",
+                "parent_id": "fifkybk"
+            },
+            {
+                "user_id": "subject_TyLOt18",
+                "target": false,
+                "type": "comment",
+                "body": "This most likely isn\u2019t anything malware related, just malicious websites. Use Firefox + Ublock origin",
+                "created_utc": "2024-06-10 02:03:41 UTC",
+                "comment_id": "jwP5OPS",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_f2SMTuE",
+                "target": false,
+                "type": "comment",
+                "body": "Odds of having an android 99.9%",
+                "created_utc": "2024-06-10 03:46:03 UTC",
+                "comment_id": "AvPMR1q",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_c46BIGA",
+                "target": false,
+                "type": "comment",
+                "body": "Is this a joke?",
+                "created_utc": "2024-06-10 04:32:00 UTC",
+                "comment_id": "WVIRGbY",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_JZEwWbj",
+                "target": false,
+                "type": "comment",
+                "body": "So not a tmobile issue",
+                "created_utc": "2024-06-10 07:47:44 UTC",
+                "comment_id": "UZ2Kjm7",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_R1GAP0y",
+                "target": false,
+                "type": "comment",
+                "body": "Check installed apps and delete the apps you don't recognize",
+                "created_utc": "2024-06-10 08:31:30 UTC",
+                "comment_id": "9IwkR6b",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_4DSjhzw",
+                "target": false,
+                "type": "comment",
+                "body": "I think you can reset Chrome in your settings, but that'll log you out of everything.",
+                "created_utc": "2024-06-10 13:21:38 UTC",
+                "comment_id": "6ir4fJQ",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            },
+            {
+                "user_id": "subject_ZkLVK8j",
+                "target": false,
+                "type": "comment",
+                "body": "Removed - Rule 5: Your post is off-topic or not relevant to the subreddit in some way. This subreddit is for T-Mobile news and discussion.",
+                "created_utc": "2024-06-10 17:14:13 UTC",
+                "comment_id": "oxXE9Ew",
+                "submission_id": "U6yOa6b",
+                "parent_id": "U6yOa6b"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "my sd card isn't working",
+            "body": "[removed]",
+            "created_utc": "2024-08-17 21:26:33 UTC",
+            "submission_id": "xmjtEgT",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_fiEU81G",
+                "target": false,
+                "type": "comment",
+                "body": "You can fix it by posting in the right sub or smashing it with a hammer. This ain't tech support, your card is dead",
+                "created_utc": "2024-08-17 21:32:13 UTC",
+                "comment_id": "zX6MnTy",
+                "submission_id": "xmjtEgT",
+                "parent_id": "xmjtEgT"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "I'll try the second method. thank you for giving me the heads up\ud83d\ude4f",
+                "created_utc": "2024-08-17 21:33:40 UTC",
+                "comment_id": "syxseOU",
+                "submission_id": "xmjtEgT",
+                "parent_id": "zX6MnTy"
+            },
+            {
+                "user_id": "subject_Cfoo4Df",
+                "target": false,
+                "type": "comment",
+                "body": "Try recuva. It should recover the files of the sd card.",
+                "created_utc": "2024-08-17 21:50:46 UTC",
+                "comment_id": "sRY50uu",
+                "submission_id": "xmjtEgT",
+                "parent_id": "xmjtEgT"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "my sd card isn't working please help",
+            "body": "My sd card isn't working and I don't know why. it was working just fine but a day later it just stopped working. I use my sd card for my Nintendo Dsi to listen to music and it reads good every time I put it in the Dsi but when I put it devices it doesn't work. it becomes slow and it doesn't let me put stuff in the SD card or out the SD card and when I try to it stays stuck at 0 then says there was an error. I've tried putting it in other devices and it still doesn't work and when I try to remove it safely it doesn't let me and makes me wait a long time. I also tried to formate it but it doesn't let me. I also use this program called fre:ac to turn mp3's into m4a's if that helps. I also try and use disk management but every time I do it loads infinitely and doesn't change but going into disk management is no problem when I don't have the SD card in. and the SD card I use is a sd card I got from those KJV audio Bible player I got from my grandma. is there any way I can fix it?\n\nhttps://imgur.com/a/Seaoxic",
+            "created_utc": "2024-08-17 21:47:34 UTC",
+            "submission_id": "fusxKpx",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_4E9c8dt",
+            "target": false,
+            "type": "submission",
+            "title": "Update on the SESAC/YouTube renewal situation",
+            "body": "This is on the SESAC account, if you go to their latest post (a shout out?) this should be the top reply. \n\nSo for everyone wondering if there is an estimated time, theres not.\n\nIf you have any other artists, please comment and I will edit this post and add them!",
+            "created_utc": "2024-09-29 15:14:06 UTC",
+            "submission_id": "BtZT0GB",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_9h2ivRz",
+                "target": false,
+                "type": "comment",
+                "body": "As a note, flobots is also blocked now",
+                "created_utc": "2024-09-29 17:35:20 UTC",
+                "comment_id": "JJWirwY",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_AA3rWNR",
+                "target": false,
+                "type": "comment",
+                "body": "Add Sebnem Ferah, Sam Smith",
+                "created_utc": "2024-09-29 17:43:28 UTC",
+                "comment_id": "fYkc3kJ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_jcDJapX",
+                "target": false,
+                "type": "comment",
+                "body": "Zac Brown Band is a big one",
+                "created_utc": "2024-09-29 17:44:37 UTC",
+                "comment_id": "Z57oXJT",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_f3s2Uji",
+                "target": false,
+                "type": "comment",
+                "body": "The Cure also",
+                "created_utc": "2024-09-29 17:48:37 UTC",
+                "comment_id": "Jq6PJ4z",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_5O6dj7M",
+                "target": false,
+                "type": "comment",
+                "body": "i think just one from Toy-Box which is Superstar",
+                "created_utc": "2024-09-29 17:49:07 UTC",
+                "comment_id": "7sva9fY",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_JieLDmU",
+                "target": false,
+                "type": "comment",
+                "body": "The Times They Are A-Changin\u2019 by Bob Dylan is blocked. Found this out when I saw an upload of the Watchmen movie intro had been blocked",
+                "created_utc": "2024-09-29 17:49:07 UTC",
+                "comment_id": "f2tEMmn",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_q4Xf4nw",
+                "target": false,
+                "type": "comment",
+                "body": "Losing so much from green day :(",
+                "created_utc": "2024-09-29 17:49:21 UTC",
+                "comment_id": "YCQBuIk",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-09-29 17:49:52 UTC",
+                "comment_id": "fU5qRgO",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_q4Xf4nw",
+                "target": false,
+                "type": "comment",
+                "body": "Time to move to Apple Music, I\u2019ve had it for a while and chosen to use yt music, been a good run",
+                "created_utc": "2024-09-29 17:51:00 UTC",
+                "comment_id": "uDy3FWa",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_As5Zc20",
+                "target": false,
+                "type": "comment",
+                "body": "Kesha's rainbow album is ripped",
+                "created_utc": "2024-09-29 17:52:53 UTC",
+                "comment_id": "NG382Cv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_7IsHg97",
+                "target": false,
+                "type": "comment",
+                "body": "I've lost Man of Constant Sorrow by Home Free. Their Sea Shanty Medley is still available though",
+                "created_utc": "2024-09-29 17:54:27 UTC",
+                "comment_id": "XWpgDx4",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_23R2t27",
+                "target": false,
+                "type": "comment",
+                "body": "Mariah Carey is missing many songs off across all of her albums.",
+                "created_utc": "2024-09-29 17:54:59 UTC",
+                "comment_id": "Rqw30pW",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_ujtsg0s",
+                "target": false,
+                "type": "comment",
+                "body": "And my they took away some bob marley, like what a sad day man \ud83d\ude22",
+                "created_utc": "2024-09-29 17:55:53 UTC",
+                "comment_id": "Kfyl4Bp",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_ON43sCo",
+                "target": false,
+                "type": "comment",
+                "body": "Half of Ye\u2019s songs are go e",
+                "created_utc": "2024-09-29 17:56:45 UTC",
+                "comment_id": "kKFoI6l",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_KOtJJO6",
+                "target": false,
+                "type": "comment",
+                "body": "Some of skillets music is gone too",
+                "created_utc": "2024-09-29 18:04:01 UTC",
+                "comment_id": "ScadfSW",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_eqZe9Oc",
+                "target": false,
+                "type": "comment",
+                "body": "Most of Brand New\u2019s discography is gone",
+                "created_utc": "2024-09-29 18:07:48 UTC",
+                "comment_id": "dftTvWU",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_KOtJJO6",
+                "target": false,
+                "type": "comment",
+                "body": "I lost some Ledger music",
+                "created_utc": "2024-09-29 18:08:32 UTC",
+                "comment_id": "H2JPjcm",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Pwunoxz",
+                "target": false,
+                "type": "comment",
+                "body": "Didn't they literally just raise the price for everyone?",
+                "created_utc": "2024-09-29 18:09:02 UTC",
+                "comment_id": "4329UND",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_cDpUo1p",
+                "target": false,
+                "type": "comment",
+                "body": "This is starting to get annoying. I\u2019m considering other options.\u00a0",
+                "created_utc": "2024-09-29 18:15:47 UTC",
+                "comment_id": "QcxwOAB",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Pq9BeQN",
+                "target": false,
+                "type": "comment",
+                "body": "Two Gorillaz albums and at least one to two songs off every Kanye album (they took POWER \ud83d\ude2b), pretty much all of Sam Smith's The Thrill Of It All, my favorite fucking song off of Channel Orange. My playlists have been ripped to shreds.\n\nJust found out all of Glass Animal's How To Be A Human Being is gone, how am I supposed to live without Cane Suga???? And Zaba, both entire albums.",
+                "created_utc": "2024-09-29 18:17:23 UTC",
+                "comment_id": "v9kYuW9",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Pq9BeQN",
+                "target": false,
+                "type": "comment",
+                "body": "I'm still struggling with the loss \ud83d\ude14 I took you for granted Ascension, please come back to me baby.",
+                "created_utc": "2024-09-29 18:23:34 UTC",
+                "comment_id": "09GqP7N",
+                "submission_id": "BtZT0GB",
+                "parent_id": "VuzJfA3"
+            },
+            {
+                "user_id": "subject_VJTWG2c",
+                "target": false,
+                "type": "comment",
+                "body": "Carly Rae Jepsen is missing her best song run away with me.",
+                "created_utc": "2024-09-29 18:24:17 UTC",
+                "comment_id": "uiSL6Ro",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Pq9BeQN",
+                "target": false,
+                "type": "comment",
+                "body": "Kanye, Gorillaz, and Sam Smith.",
+                "created_utc": "2024-09-29 18:24:50 UTC",
+                "comment_id": "1kZHtBl",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_LYXVVwN",
+                "target": false,
+                "type": "comment",
+                "body": "The Uncluded should also be included.",
+                "created_utc": "2024-09-29 18:26:17 UTC",
+                "comment_id": "qUomG5D",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_xZYkQaB",
+                "target": false,
+                "type": "comment",
+                "body": "No not Glass Animals!\ud83d\ude1f",
+                "created_utc": "2024-09-29 18:26:53 UTC",
+                "comment_id": "XKV37DJ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_i8aBmTD",
+                "target": false,
+                "type": "comment",
+                "body": "I am missing some Backstreet Boys and some Jo Dee Messina songs too",
+                "created_utc": "2024-09-29 18:30:12 UTC",
+                "comment_id": "hBSgRqk",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_2Ctad89",
+                "target": false,
+                "type": "comment",
+                "body": "I might as well join Pandora instead of YouTube Music because of this controversy and if they won't find an agreement sooner or later.",
+                "created_utc": "2024-09-29 18:35:13 UTC",
+                "comment_id": "wqRL4FS",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_8mYIk8B",
+                "target": false,
+                "type": "comment",
+                "body": "https://preview.redd.it/kymg5k0rlsrd1.jpeg?width=1284&format=pjpg&auto=webp&s=4133449f655a5743ee69c76800fc45208b1b4829\n\nDoing my part",
+                "created_utc": "2024-09-29 18:36:18 UTC",
+                "comment_id": "wYntp4h",
+                "submission_id": "BtZT0GB",
+                "parent_id": "bb9GFv7"
+            },
+            {
+                "user_id": "subject_2TCVCUl",
+                "target": false,
+                "type": "comment",
+                "body": "Killswitch engage",
+                "created_utc": "2024-09-29 18:37:04 UTC",
+                "comment_id": "BzsNCQf",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_NBXuvde",
+                "target": false,
+                "type": "comment",
+                "body": "Alice In Chains is heavily affected too most songs are gone",
+                "created_utc": "2024-09-29 18:38:17 UTC",
+                "comment_id": "J0MaD7e",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_tfBUTqt",
+                "target": false,
+                "type": "comment",
+                "body": "Lilly allen ia gone too",
+                "created_utc": "2024-09-29 18:40:12 UTC",
+                "comment_id": "Ayn1RxC",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_ifZuBgO",
+                "target": false,
+                "type": "comment",
+                "body": "All of Guns n Roses music is gone as well.",
+                "created_utc": "2024-09-29 18:40:15 UTC",
+                "comment_id": "SYFBian",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_i5rlo4x",
+                "target": false,
+                "type": "comment",
+                "body": "Guns N\u2019 Roses is missing too",
+                "created_utc": "2024-09-29 18:44:57 UTC",
+                "comment_id": "H4GgLTY",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_FLvExpB",
+                "target": false,
+                "type": "comment",
+                "body": "Ahhh, corporate greed strikes again. These investment companies are going to ruin streaming.\n\nBRB.......going to see if I still have that hat with the skull and crossbones on it. Gonna' need it soon I suspect.",
+                "created_utc": "2024-09-29 18:51:00 UTC",
+                "comment_id": "QQVm6WW",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_dM3kaPz",
+                "target": false,
+                "type": "comment",
+                "body": "Add Wavves to the list. Is it time to just buy albums again fucking hell lol",
+                "created_utc": "2024-09-29 18:52:09 UTC",
+                "comment_id": "KwJxTxv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "[deleted]",
+                "created_utc": "2024-09-29 18:52:26 UTC",
+                "comment_id": "7Qh0a7x",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_jbviyBf",
+                "target": false,
+                "type": "comment",
+                "body": "Porter Robinson's songs Fellow Feeling and Vandalism got hit",
+                "created_utc": "2024-09-29 18:55:30 UTC",
+                "comment_id": "eUTfDve",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_IOmIRcj",
+                "target": false,
+                "type": "comment",
+                "body": "I've already mentioned them somewhere else here, but back number (a jpop group) is also affected.",
+                "created_utc": "2024-09-29 18:58:30 UTC",
+                "comment_id": "jrTiiAH",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_lqlZ7pL",
+                "target": false,
+                "type": "comment",
+                "body": "Jim Brickman and Ricky Martin are affected.",
+                "created_utc": "2024-09-29 19:01:18 UTC",
+                "comment_id": "nFBjY1G",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_0LYsTiJ",
+                "target": false,
+                "type": "comment",
+                "body": "I'm seeing songs from these artists that are now unavailable. I don't know the reason(s), but I assume it's the SESAC thing. Is there some way to confirm?\n\n- Agnes Obel\n- Amber Run\n- Blacklite District\n- Charles Bradley\n- Cuts\n- DJ Shadow\n- Fort Minor\n- Jacob Banks\n- Killswitch Engage\n- Max Richter\n- Sam Tinnesz\n- Sigur R\u00f3s\n- Struggle Jennings\n- Yelawolf",
+                "created_utc": "2024-09-29 19:04:52 UTC",
+                "comment_id": "usPpeqe",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_btYHiwa",
+                "target": false,
+                "type": "comment",
+                "body": "I just wanted to listen to Your Favorite Weapon goddammit",
+                "created_utc": "2024-09-29 19:05:11 UTC",
+                "comment_id": "DvzKPIw",
+                "submission_id": "BtZT0GB",
+                "parent_id": "7cuTCwI"
+            },
+            {
+                "user_id": "subject_RoK6yy3",
+                "target": false,
+                "type": "comment",
+                "body": "Here's what I know. All of The Alan Parson's Project besides 7 songs are down. Two Pink Floyd Songs, Childhood's End & Eclipse, are down. Only one Rush song is available, The Speed of Love. There are also several Yes songs down as well.",
+                "created_utc": "2024-09-29 19:05:36 UTC",
+                "comment_id": "7VLlfPn",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_ksmDMWF",
+                "target": false,
+                "type": "comment",
+                "body": "These are the artists and songs that won't work, but Avicii's song \"The Nights\" works\n\nMumford and sons \"i will wait\"\nAvicii \"wake me up\" \nAdele \"someone like you\" \"hello\"\nLauren Daigle \"you say\"\nKALEO \"way down we go\"\nSam Smith \"stay with me\"\nCold Play \"hymn of the weekend\"",
+                "created_utc": "2024-09-29 19:05:41 UTC",
+                "comment_id": "hKdnkhd",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_4h3iCD2",
+                "target": false,
+                "type": "comment",
+                "body": "grlwood seems to be blocked, cant play some uploads of bisexual :(",
+                "created_utc": "2024-09-29 19:06:08 UTC",
+                "comment_id": "bfLpejH",
+                "submission_id": "BtZT0GB",
+                "parent_id": "jaMb95V"
+            },
+            {
+                "user_id": "subject_UGg4Y59",
+                "target": false,
+                "type": "comment",
+                "body": "Add Mariah Carey to that list of effected artist",
+                "created_utc": "2024-09-29 19:07:58 UTC",
+                "comment_id": "7HdanYH",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_HsF7GAm",
+                "target": false,
+                "type": "comment",
+                "body": "Some STARSET songs are missing as well. I hope this gets resolved soon so that everyone's music can go back up",
+                "created_utc": "2024-09-29 19:10:22 UTC",
+                "comment_id": "GiFPoDK",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_MgVmx9U",
+                "target": false,
+                "type": "comment",
+                "body": "Inxs",
+                "created_utc": "2024-09-29 19:11:36 UTC",
+                "comment_id": "eXDICwI",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_C1EMIgE",
+                "target": false,
+                "type": "comment",
+                "body": "Some of Madonna\u2019s songs are blocked as well",
+                "created_utc": "2024-09-29 19:12:41 UTC",
+                "comment_id": "e9sK9rf",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_wGOY0Dl",
+                "target": false,
+                "type": "comment",
+                "body": "No Guns N\u2019 Roses either",
+                "created_utc": "2024-09-29 19:14:25 UTC",
+                "comment_id": "NGvmg4B",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_btYHiwa",
+                "target": false,
+                "type": "comment",
+                "body": "Saves the Day is gone too",
+                "created_utc": "2024-09-29 19:15:41 UTC",
+                "comment_id": "29RYFCH",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_cv8JbwT",
+                "target": false,
+                "type": "comment",
+                "body": "And Twista",
+                "created_utc": "2024-09-29 19:17:20 UTC",
+                "comment_id": "D1xiBSa",
+                "submission_id": "BtZT0GB",
+                "parent_id": "vCMFeEm"
+            },
+            {
+                "user_id": "subject_hNj4yfg",
+                "target": false,
+                "type": "comment",
+                "body": "tbh my price has never risen",
+                "created_utc": "2024-09-29 19:17:56 UTC",
+                "comment_id": "fEODewP",
+                "submission_id": "BtZT0GB",
+                "parent_id": "bb9GFv7"
+            },
+            {
+                "user_id": "subject_tsLWGh4",
+                "target": false,
+                "type": "comment",
+                "body": "j cole is missing some music too",
+                "created_utc": "2024-09-29 19:21:00 UTC",
+                "comment_id": "VR8XicJ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_7AUrM36",
+                "target": false,
+                "type": "comment",
+                "body": "The Soft Pack's whole library is gone too",
+                "created_utc": "2024-09-29 19:23:58 UTC",
+                "comment_id": "MF50iCB",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_4ptpUMf",
+                "target": false,
+                "type": "comment",
+                "body": "Some of Keith Urban\u2019s songs like Sweet Thing and Kiss a Girl have been hit with this. That\u2019s how I found about about this whole mess",
+                "created_utc": "2024-09-29 19:24:14 UTC",
+                "comment_id": "amzeXJd",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_WhTlnmf",
+                "target": false,
+                "type": "comment",
+                "body": "Guns N' Roses\n\n\nColdplay\n\n\nAnd composer Christophe Beck",
+                "created_utc": "2024-09-29 19:26:18 UTC",
+                "comment_id": "qYaed7x",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_jvX6Umu",
+                "target": false,
+                "type": "comment",
+                "body": "I wanted to listen to Daylight Dies album last night and was crushed when the only song that remains is the Holy Diver cover.",
+                "created_utc": "2024-09-29 19:28:49 UTC",
+                "comment_id": "B8Yzi8a",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BzsNCQf"
+            },
+            {
+                "user_id": "subject_WhTlnmf",
+                "target": false,
+                "type": "comment",
+                "body": "I loved his stuff in Iron Man 3, \"Can You Dig It?\" Is such a bop\u00a0",
+                "created_utc": "2024-09-29 19:30:03 UTC",
+                "comment_id": "8ztbbMR",
+                "submission_id": "BtZT0GB",
+                "parent_id": "xInRMjX"
+            },
+            {
+                "user_id": "subject_WNd1lKc",
+                "target": false,
+                "type": "comment",
+                "body": "I was just thinking,  imagine if Taylor Swift's music was blocked.  Her crew of Swifties (my daughter included) would have put up such a stink this would have been resolved 5 minutes after it started",
+                "created_utc": "2024-09-29 19:33:07 UTC",
+                "comment_id": "1faOgKt",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_H3jA7NV",
+                "target": false,
+                "type": "comment",
+                "body": "I love his Assassin\u2019s Creed works! I\u2019m fortunate not to be affected by this SESAC crap but I\u2019m sorry for your loss, hope it\u2019s restored soon",
+                "created_utc": "2024-09-29 19:35:03 UTC",
+                "comment_id": "bF17nFq",
+                "submission_id": "BtZT0GB",
+                "parent_id": "xInRMjX"
+            },
+            {
+                "user_id": "subject_cH2d6lc",
+                "target": false,
+                "type": "comment",
+                "body": "The Ataris, Finch, The Starting Line, and The Fall of Troy are all gone as well.",
+                "created_utc": "2024-09-29 19:35:41 UTC",
+                "comment_id": "F9j4pg3",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_H3jA7NV",
+                "target": false,
+                "type": "comment",
+                "body": "Yes it is specific to the US",
+                "created_utc": "2024-09-29 19:36:12 UTC",
+                "comment_id": "nrDWSwb",
+                "submission_id": "BtZT0GB",
+                "parent_id": "FIyxe1x"
+            },
+            {
+                "user_id": "subject_V4mzVWA",
+                "target": false,
+                "type": "comment",
+                "body": "I happened to have a Nirvana search up in my YTM tab, and it looks like only official album releases are affected. Live tracks that weren't released on an album are still there.",
+                "created_utc": "2024-09-29 19:36:46 UTC",
+                "comment_id": "bV50jRW",
+                "submission_id": "BtZT0GB",
+                "parent_id": "6ricOwn"
+            },
+            {
+                "user_id": "subject_5RO5raD",
+                "target": false,
+                "type": "comment",
+                "body": "Nelly Furtado has been affected as well",
+                "created_utc": "2024-09-29 19:37:18 UTC",
+                "comment_id": "PIINakc",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_6x13Ii6",
+                "target": false,
+                "type": "comment",
+                "body": "Is this a US thing? I get GnR, green day, who ever is soft pack. Am I missing something?",
+                "created_utc": "2024-09-29 19:39:38 UTC",
+                "comment_id": "WSh8tUA",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_SANxowj",
+                "target": false,
+                "type": "comment",
+                "body": "Motley Crew is also down",
+                "created_utc": "2024-09-29 19:41:18 UTC",
+                "comment_id": "9o9Hxp9",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_6x13Ii6",
+                "target": false,
+                "type": "comment",
+                "body": "I get Puddles Pitty Party and that\u2019s all I need.",
+                "created_utc": "2024-09-29 19:41:40 UTC",
+                "comment_id": "cCyWk1F",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_3E9gxU7",
+                "target": false,
+                "type": "comment",
+                "body": "A couple of EXO\u2019s music videos are gone too.",
+                "created_utc": "2024-09-29 19:42:11 UTC",
+                "comment_id": "vIGuoYn",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_UUQGVAW",
+                "target": false,
+                "type": "comment",
+                "body": "Britney Spears\nPitbull\nPsy\nGreen Day\u00a0\n=\nMISSING",
+                "created_utc": "2024-09-29 19:43:03 UTC",
+                "comment_id": "TgKFRqK",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_xFVRYq3",
+                "target": false,
+                "type": "comment",
+                "body": "Albums/Songs that I have noticed:\nDayseeker: What it means to be defeated: Full album missing\nDayseeker: Origins Deluxe: Almost whole album missing\nThe plot in you: all albums exept swan song\nThat's all that I've noticed in my playlist",
+                "created_utc": "2024-09-29 19:43:32 UTC",
+                "comment_id": "Oh3mUny",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Fzwqb8l",
+                "target": false,
+                "type": "comment",
+                "body": "I don\u2019t understand, does this only affect Americans I\u2019m listening to ascension right now on yt music",
+                "created_utc": "2024-09-29 19:44:57 UTC",
+                "comment_id": "hNLK7aa",
+                "submission_id": "BtZT0GB",
+                "parent_id": "09GqP7N"
+            },
+            {
+                "user_id": "subject_Fp1SU9w",
+                "target": false,
+                "type": "comment",
+                "body": "Likewise, I do not have an estimate of when I will pay you.",
+                "created_utc": "2024-09-29 19:45:04 UTC",
+                "comment_id": "sQQnP7G",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_6PgZmJx",
+                "target": false,
+                "type": "comment",
+                "body": "Silverstein is missing a bunch of their early albums.",
+                "created_utc": "2024-09-29 19:45:13 UTC",
+                "comment_id": "Azyf2fO",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_w829CKw",
+                "target": false,
+                "type": "comment",
+                "body": "I'm not American so this hasn't affected me yet but wow. \n\nI might still switch because of this incompetence.",
+                "created_utc": "2024-09-29 19:46:03 UTC",
+                "comment_id": "o098mm5",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_lCJtKLZ",
+                "target": false,
+                "type": "comment",
+                "body": "Inxs is missing",
+                "created_utc": "2024-09-29 19:47:07 UTC",
+                "comment_id": "BSMvmid",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_3WMbkap",
+                "target": false,
+                "type": "comment",
+                "body": "American Football's entire discography is missing.",
+                "created_utc": "2024-09-29 19:49:31 UTC",
+                "comment_id": "tj1C25w",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_seV46MY",
+                "target": false,
+                "type": "comment",
+                "body": "Yes, from what I'm aware the SESAC content block only affects US, Canada, and *maybe* Mexico.",
+                "created_utc": "2024-09-29 19:50:25 UTC",
+                "comment_id": "fj6aeoV",
+                "submission_id": "BtZT0GB",
+                "parent_id": "hNLK7aa"
+            },
+            {
+                "user_id": "subject_t1TDKpr",
+                "target": false,
+                "type": "comment",
+                "body": "Cults\nJ Cole\nSam tinnesz \nA k I n a\nConnor \nSoap&skin\nPhantogram\nKali uchis\nValley of wolves \nKatie (Skyfall) \nRuelle \nKALEO\nLouis futon and opia\n Bruh it's rough out here \ud83d\ude2d",
+                "created_utc": "2024-09-29 19:51:02 UTC",
+                "comment_id": "LuNeIYm",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Z7vEBWl",
+                "target": false,
+                "type": "comment",
+                "body": "Literally went looking for Sweet Child o Mine. \ud83d\ude13",
+                "created_utc": "2024-09-29 19:51:37 UTC",
+                "comment_id": "5ElLpUC",
+                "submission_id": "BtZT0GB",
+                "parent_id": "T21srUe"
+            },
+            {
+                "user_id": "subject_qu9usQe",
+                "target": false,
+                "type": "comment",
+                "body": "I\u2019m in Mexico, no issues here.",
+                "created_utc": "2024-09-29 19:53:47 UTC",
+                "comment_id": "4OyajpG",
+                "submission_id": "BtZT0GB",
+                "parent_id": "fj6aeoV"
+            },
+            {
+                "user_id": "subject_oq4AcbB",
+                "target": false,
+                "type": "comment",
+                "body": "All That Remains, G-Eazy, Yelawolf",
+                "created_utc": "2024-09-29 19:53:54 UTC",
+                "comment_id": "QKgyP0O",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_XgChnmB",
+                "target": false,
+                "type": "comment",
+                "body": "So this is why I can't listen to Nirvana \ud83e\udd7a",
+                "created_utc": "2024-09-29 19:55:19 UTC",
+                "comment_id": "KeSbob2",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_DreZIXF",
+                "target": false,
+                "type": "comment",
+                "body": "Alex G too :(",
+                "created_utc": "2024-09-29 19:55:43 UTC",
+                "comment_id": "DNX6NKs",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_XhjZ4yy",
+                "target": false,
+                "type": "comment",
+                "body": "Some Sabaton songs as well",
+                "created_utc": "2024-09-29 19:55:50 UTC",
+                "comment_id": "X2lEU2m",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_HZZKxGi",
+                "target": false,
+                "type": "comment",
+                "body": "Zack bryan also had a song down",
+                "created_utc": "2024-09-29 19:57:26 UTC",
+                "comment_id": "iyv9MFS",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_fCEFrIL",
+                "target": false,
+                "type": "comment",
+                "body": "and Kanye, some MF DOOM, danny brown, Earl sweatshirt, j. Cole, frank ocean, outkast, and schoolboy Q",
+                "created_utc": "2024-09-29 20:03:52 UTC",
+                "comment_id": "6iliMlc",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_HSm95Sc",
+                "target": false,
+                "type": "comment",
+                "body": "Nirvana Catalog, that's all it matters to me.",
+                "created_utc": "2024-09-29 20:04:51 UTC",
+                "comment_id": "z9YL8sT",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_4G8sEwW",
+                "target": false,
+                "type": "comment",
+                "body": "I haven't lost anyone because I download my music from Deezer then upload it to YTM.",
+                "created_utc": "2024-09-29 20:06:34 UTC",
+                "comment_id": "mlHlWj1",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_cNnbQFU",
+                "target": false,
+                "type": "comment",
+                "body": "Everyone \n\nWe lost Gangnam Style",
+                "created_utc": "2024-09-29 20:06:35 UTC",
+                "comment_id": "2g7JxY8",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_66b2Kzb",
+                "target": false,
+                "type": "comment",
+                "body": "And Guns N\u2019 Roses",
+                "created_utc": "2024-09-29 20:07:05 UTC",
+                "comment_id": "mFNR5Ze",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_HhTGcAp",
+                "target": false,
+                "type": "comment",
+                "body": "Id like to add, they got MGMT and Gnarles Barkley\n(my little dark age and Crazy)",
+                "created_utc": "2024-09-29 20:09:26 UTC",
+                "comment_id": "1OlI2Is",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_MLDCRKx",
+                "target": false,
+                "type": "comment",
+                "body": "Flo rida song \"wild ones\" is blocked too",
+                "created_utc": "2024-09-29 20:09:27 UTC",
+                "comment_id": "Q9VU6vt",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_aUcuQVb",
+                "target": false,
+                "type": "comment",
+                "body": "Here's an idea, find info of these SESAC people and dox them!\n\nTheir HQ is in Nashville, Tennessee.\n\nAdd more info here if you must.\n\nPS - Missing artists include Alan Parsons, REO Speedwagon, The Ronettes, Jamiroquai (sp?), George Clinton, Rush to name a few.\n\nPPS - The SESAC bleeps are even blocking live performances and COVERS of these artists too! If there ever was a moment to recreate the \"Boston Tea Party,\" this is it!",
+                "created_utc": "2024-09-29 20:09:32 UTC",
+                "comment_id": "YoJ7gDl",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_3xDHoab",
+                "target": false,
+                "type": "comment",
+                "body": "Sorry if any of these are repeats:\nMurphy Lee Shake Ya Tailfeather\nEve Tambourine \nTrick Daddy Bet That \nSnoop Dogg Who Am I?\nJagged Edge Where The Party At \nNotorious BIG Party and Bullshit \nSalt N Pepa What a Man\nP!nk multiple songs \nLudacris Go 2 Sleep, Get The Fuck Back\nSay Grace You don't Own Me\n50 Cent Crack a Bottle\nToya I Do\nBusta Rhymes Calm Down, Pass the courvossier\nMissy Elliot The Rain \n20 Fingers Short Dick Man",
+                "created_utc": "2024-09-29 20:10:05 UTC",
+                "comment_id": "3C4yRjT",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_cNnbQFU",
+                "target": false,
+                "type": "comment",
+                "body": "Coldplay's blocked? Which albums, my playlist is still intact",
+                "created_utc": "2024-09-29 20:10:11 UTC",
+                "comment_id": "mjpiAeY",
+                "submission_id": "BtZT0GB",
+                "parent_id": "qYaed7x"
+            },
+            {
+                "user_id": "subject_WRr5AEV",
+                "target": false,
+                "type": "comment",
+                "body": "The Fall of Troy is slowly disappearing, some albums are entirely missing",
+                "created_utc": "2024-09-29 20:16:35 UTC",
+                "comment_id": "TFPQoVW",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_V5RUWAn",
+                "target": false,
+                "type": "comment",
+                "body": "Cameo (Word Up namely), New Found Glory (all of their early material including Sticks and Stones)",
+                "created_utc": "2024-09-29 20:17:36 UTC",
+                "comment_id": "u1NUSsr",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_2V77DwV",
+                "target": false,
+                "type": "comment",
+                "body": "Kanye and gorrilaz are out \ud83d\ude2d",
+                "created_utc": "2024-09-29 20:18:05 UTC",
+                "comment_id": "0359r84",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_ty6YVVN",
+                "target": false,
+                "type": "comment",
+                "body": "he did the score for the new transformers movie and other series\u2019, hes great",
+                "created_utc": "2024-09-29 20:20:11 UTC",
+                "comment_id": "cloWVhb",
+                "submission_id": "BtZT0GB",
+                "parent_id": "xInRMjX"
+            },
+            {
+                "user_id": "subject_ASelsh4",
+                "target": false,
+                "type": "comment",
+                "body": "SESAC collects on behalf of songwriters, so it really depends on who wrote the song, not who performed it.",
+                "created_utc": "2024-09-29 20:20:41 UTC",
+                "comment_id": "uJXrwDX",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "can't listen to Earl sweatshirt \ud83d\ude2d\ud83d\ude14",
+                "created_utc": "2024-09-29 20:22:03 UTC",
+                "comment_id": "TISWeIv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Psy is also affected",
+                "created_utc": "2024-09-29 20:22:22 UTC",
+                "comment_id": "1CKDalk",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_HgCUe2H",
+                "target": false,
+                "type": "comment",
+                "body": "I hate Blackrock (actually I hate greedy shareholders)",
+                "created_utc": "2024-09-29 20:24:10 UTC",
+                "comment_id": "8wEJOVl",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Tc4VenR",
+                "target": false,
+                "type": "comment",
+                "body": "I have to do this im sorry. You labeled Alice In Chains as rock, it needs to be grunge.",
+                "created_utc": "2024-09-29 20:25:12 UTC",
+                "comment_id": "GSg9eTi",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_HhUvyzQ",
+                "target": false,
+                "type": "comment",
+                "body": "Try using a VPN and switch countries",
+                "created_utc": "2024-09-29 20:27:45 UTC",
+                "comment_id": "pe7wWRV",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_Gc6XzZL",
+                "target": false,
+                "type": "comment",
+                "body": "Also GRLwoods first album",
+                "created_utc": "2024-09-29 20:28:02 UTC",
+                "comment_id": "C8hifoR",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_WhTlnmf",
+                "target": false,
+                "type": "comment",
+                "body": "Hymm for The Weekend is blocked, not sure if any other songs are affected. Though strangely it's only some videos that use the song but not all. For example I can still find a live performance, covers, etc but a few of Coldplay's own videos of it and some lyric videos are indeed blocked.\n\n\nI'm really only aware of this one specifically because I used it for a YT short and it's been affected",
+                "created_utc": "2024-09-29 20:32:53 UTC",
+                "comment_id": "g1KeMrb",
+                "submission_id": "BtZT0GB",
+                "parent_id": "mjpiAeY"
+            },
+            {
+                "user_id": "subject_rRKy3ba",
+                "target": false,
+                "type": "comment",
+                "body": "Glass Animals!\u00a0",
+                "created_utc": "2024-09-29 20:33:33 UTC",
+                "comment_id": "Bahl3fo",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_N8sDYuT",
+                "target": false,
+                "type": "comment",
+                "body": "add Weezer",
+                "created_utc": "2024-09-29 20:34:33 UTC",
+                "comment_id": "9SpwjAm",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_hpI02EB",
+                "target": false,
+                "type": "comment",
+                "body": "Add Sublime, Kings of Leon, Jcole to the list. This is awful, i didnt think id ever see anything like this. I mean yeah, it makes sense, licensing issues and what not but ive been exclusively listening to music on youtube since i was a kid, now with this happening its like ??? no way im going to spotify bro....",
+                "created_utc": "2024-09-29 20:35:30 UTC",
+                "comment_id": "WHPJaOn",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_s7IUYWa",
+                "target": false,
+                "type": "comment",
+                "body": "Youtube cutting off our supply early so by the time they \"reach a deal\" with SESAC, our withdrawal symptoms will have us happily paying more :D",
+                "created_utc": "2024-09-29 20:39:02 UTC",
+                "comment_id": "RzOoIwW",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_4KlvETy",
+                "target": false,
+                "type": "comment",
+                "body": "Black sheep by metric",
+                "created_utc": "2024-09-29 20:39:45 UTC",
+                "comment_id": "YNrVaHe",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_XDQDVwZ",
+                "target": false,
+                "type": "comment",
+                "body": "Also Title Fight \ud83d\ude2d",
+                "created_utc": "2024-09-29 20:40:55 UTC",
+                "comment_id": "WGSf7H9",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_eQDhUlG",
+                "target": false,
+                "type": "comment",
+                "body": "Psy as well\u2026. Don\u2019t ask how I came to find that out.",
+                "created_utc": "2024-09-29 20:41:22 UTC",
+                "comment_id": "N2dwlOJ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_24whj1Q",
+                "target": false,
+                "type": "comment",
+                "body": "2Pac",
+                "created_utc": "2024-09-29 20:43:55 UTC",
+                "comment_id": "enbOKRH",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_cNnbQFU",
+                "target": false,
+                "type": "comment",
+                "body": "I looked it up because it's the only Coldplay song blocked that I've seen, and I think it's because Avicii worked on it, some of his songs are blocked too, like Wake Me Up",
+                "created_utc": "2024-09-29 20:44:32 UTC",
+                "comment_id": "iG4qV0L",
+                "submission_id": "BtZT0GB",
+                "parent_id": "g1KeMrb"
+            },
+            {
+                "user_id": "subject_79cuoxR",
+                "target": false,
+                "type": "comment",
+                "body": "Brand new\nSome - the loved ones\nKid Dynamite\n\nI'm sure the list is super long but those were others I found while looking after coheed.",
+                "created_utc": "2024-09-29 20:46:18 UTC",
+                "comment_id": "5YrJXZr",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_ZTI0njS",
+                "target": false,
+                "type": "comment",
+                "body": "Hatebreed is missing a lot of music too :/",
+                "created_utc": "2024-09-29 20:47:32 UTC",
+                "comment_id": "30qdOoI",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_WhTlnmf",
+                "target": false,
+                "type": "comment",
+                "body": "Ah that makes sense. Well, silver lining, at least Coldplay fans aren't massively affected then",
+                "created_utc": "2024-09-29 20:52:34 UTC",
+                "comment_id": "65JCR0H",
+                "submission_id": "BtZT0GB",
+                "parent_id": "iG4qV0L"
+            },
+            {
+                "user_id": "subject_w6tDgD6",
+                "target": false,
+                "type": "comment",
+                "body": "mumford and sons is missing some music like the cave and believe",
+                "created_utc": "2024-09-29 20:52:43 UTC",
+                "comment_id": "DYjqGcR",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_hKrMN1C",
+                "target": false,
+                "type": "comment",
+                "body": "Alice In Chains as well",
+                "created_utc": "2024-09-29 20:53:20 UTC",
+                "comment_id": "Hb2uMNy",
+                "submission_id": "BtZT0GB",
+                "parent_id": "jaMb95V"
+            },
+            {
+                "user_id": "subject_seV46MY",
+                "target": false,
+                "type": "comment",
+                "body": "I figured Mexico was fine but I wasn't completely sure. Thanks for the confirmation.",
+                "created_utc": "2024-09-29 20:53:29 UTC",
+                "comment_id": "bolV5wj",
+                "submission_id": "BtZT0GB",
+                "parent_id": "4OyajpG"
+            },
+            {
+                "user_id": "subject_lzpMwkv",
+                "target": false,
+                "type": "comment",
+                "body": "Skindred, Skin Yard, Jerry Cantrell, Whitewoods, La Sera, The Cure, Clan of Xymox, Wavves, Cults, Beach Fossils, Title Fight, Basement, and MGMT are all also down... literally such a large chunk of the music I listen to </3.",
+                "created_utc": "2024-09-29 20:55:58 UTC",
+                "comment_id": "5WDSrt0",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_vOetSkd",
+                "target": false,
+                "type": "comment",
+                "body": "Floral Green by Title Fight and Rising Tied by Fort Minor are also unavailable.",
+                "created_utc": "2024-09-29 20:57:49 UTC",
+                "comment_id": "hxzZkt5",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_jdj9LgY",
+                "target": false,
+                "type": "comment",
+                "body": "MGMT as well",
+                "created_utc": "2024-09-29 20:58:04 UTC",
+                "comment_id": "0G3gYtq",
+                "submission_id": "BtZT0GB",
+                "parent_id": "vCMFeEm"
+            },
+            {
+                "user_id": "subject_oyvFuBP",
+                "target": false,
+                "type": "comment",
+                "body": "I saw Transformers One and his score of the movie made the fight between Megatron and Optimus Prime so epic. He\u2019s awesome!",
+                "created_utc": "2024-09-29 20:58:17 UTC",
+                "comment_id": "A3wDEFq",
+                "submission_id": "BtZT0GB",
+                "parent_id": "cloWVhb"
+            },
+            {
+                "user_id": "subject_kvakmQx",
+                "target": false,
+                "type": "comment",
+                "body": "The cure too \ud83d\ude15",
+                "created_utc": "2024-09-29 20:58:26 UTC",
+                "comment_id": "wPIsTV3",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_jdj9LgY",
+                "target": false,
+                "type": "comment",
+                "body": "MGMT too",
+                "created_utc": "2024-09-29 20:58:29 UTC",
+                "comment_id": "s0DOser",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_SA4el6e",
+                "target": false,
+                "type": "comment",
+                "body": "THEY BLOCKED GANGNAM STYLE! THIS IS BULLSHIT!",
+                "created_utc": "2024-09-29 20:58:51 UTC",
+                "comment_id": "kgm2CCv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_t6QuyaX",
+                "target": false,
+                "type": "comment",
+                "body": "cigarettes after sex was affected too, \"keep on loving you\" was removed",
+                "created_utc": "2024-09-29 21:02:05 UTC",
+                "comment_id": "EkTnjWK",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_l35fDFP",
+                "target": false,
+                "type": "comment",
+                "body": "Add Guns N\u2019 Roses they were affected too and so did the SpongeBob movie soundtrack\u00a0",
+                "created_utc": "2024-09-29 21:04:05 UTC",
+                "comment_id": "PDeXdOK",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_lyaJFrm",
+                "target": false,
+                "type": "comment",
+                "body": "You kinda forgot trapt and killswitch engage were affected",
+                "created_utc": "2024-09-29 21:09:32 UTC",
+                "comment_id": "Q3s0lRE",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_lpsOpSk",
+                "target": false,
+                "type": "comment",
+                "body": "MGMT",
+                "created_utc": "2024-09-29 21:11:25 UTC",
+                "comment_id": "HlugGeY",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_PFmI1AH",
+                "target": false,
+                "type": "comment",
+                "body": "Young the giant is also gone",
+                "created_utc": "2024-09-29 21:12:27 UTC",
+                "comment_id": "vq0bW8e",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_41QDCq8",
+                "target": false,
+                "type": "comment",
+                "body": "and Alex g",
+                "created_utc": "2024-09-29 21:17:59 UTC",
+                "comment_id": "T9boKP6",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_w3JIxiN",
+                "target": false,
+                "type": "comment",
+                "body": "If you go [here](https://www.sesac.com/repertory/) you can look up artist and songs under SESAC. Or you can download a pdf of all of them (its over 44,000 pages)",
+                "created_utc": "2024-09-29 21:18:13 UTC",
+                "comment_id": "Etzfbxi",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_p01nanN",
+                "target": false,
+                "type": "comment",
+                "body": "Project 86 self titled album is gone.",
+                "created_utc": "2024-09-29 21:18:36 UTC",
+                "comment_id": "OyyOIAe",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_rDbSwUF",
+                "target": false,
+                "type": "comment",
+                "body": "Tech n9ne",
+                "created_utc": "2024-09-29 21:19:41 UTC",
+                "comment_id": "qoGCHjs",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_rDbSwUF",
+                "target": false,
+                "type": "comment",
+                "body": "Tech n9ne!!!",
+                "created_utc": "2024-09-29 21:20:53 UTC",
+                "comment_id": "R9Imul9",
+                "submission_id": "BtZT0GB",
+                "parent_id": "6ricOwn"
+            },
+            {
+                "user_id": "subject_XXXPJ2X",
+                "target": false,
+                "type": "comment",
+                "body": "Shits so gay dude I wanted to listen to date rape by sublime and it\u2019s block then learned about all this\u2026might need to consider going to Spotify cause I\u2019m not dealing with this \ud83d\ude02(sorry I\u2019m pissed had to rant) hope not a lot of the songs I listen too are blocked but guess I\u2019ll find out over time",
+                "created_utc": "2024-09-29 21:21:10 UTC",
+                "comment_id": "siQvW9J",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_2JVf9L3",
+                "target": false,
+                "type": "comment",
+                "body": ">\u201d about the money \u201c\n\npoetic.",
+                "created_utc": "2024-09-29 21:21:12 UTC",
+                "comment_id": "yecBdfD",
+                "submission_id": "BtZT0GB",
+                "parent_id": "FAUs7jS"
+            },
+            {
+                "user_id": "subject_nikm8yD",
+                "target": false,
+                "type": "comment",
+                "body": "Disturbed Prayer",
+                "created_utc": "2024-09-29 21:22:26 UTC",
+                "comment_id": "d9e53EK",
+                "submission_id": "BtZT0GB",
+                "parent_id": "vCMFeEm"
+            },
+            {
+                "user_id": "subject_2xQuGzW",
+                "target": false,
+                "type": "comment",
+                "body": "Great source. Thanks.",
+                "created_utc": "2024-09-29 21:23:11 UTC",
+                "comment_id": "PdCljGA",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Etzfbxi"
+            },
+            {
+                "user_id": "subject_bo1qbqX",
+                "target": false,
+                "type": "comment",
+                "body": "PSY - Gangnam Style was also taken down (to go psy's channel and look at the most popular videos the music video isn't there)",
+                "created_utc": "2024-09-29 21:28:56 UTC",
+                "comment_id": "0NDiT6w",
+                "submission_id": "BtZT0GB",
+                "parent_id": "vCMFeEm"
+            },
+            {
+                "user_id": "subject_rDbSwUF",
+                "target": false,
+                "type": "comment",
+                "body": "Tech n9ne, the song delusional is gone. Kings of Leon, timbaland, Nelly furtado, Hatebreed, all that remains, skillet, health,  Papa Roach, motley Crue, snake river conspiracy, Alice in chains,  sevendust, righteous vendetta, brokenrail, code orange, Hurt, crazy town, left to suffer, like moths to flames, limp Bizkit, disturbed. All of these are artists I've found missing music!!!",
+                "created_utc": "2024-09-29 21:32:52 UTC",
+                "comment_id": "ZawO8GL",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_panGRop",
+                "target": false,
+                "type": "comment",
+                "body": "Cage the Elephant is on there too. Tried to listen to trouble and I couldn't",
+                "created_utc": "2024-09-29 21:35:18 UTC",
+                "comment_id": "33Ab1hb",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_E9HD8NN",
+                "target": false,
+                "type": "comment",
+                "body": "thanks for the effort you've put into this, but why don't you make the list just text inside the post so you can edit it instead of posting new images every time?\u00a0",
+                "created_utc": "2024-09-29 21:39:37 UTC",
+                "comment_id": "CRuzv3k",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_XgChnmB",
+                "target": false,
+                "type": "comment",
+                "body": "Same man, I had just learned \"Rape Me\" on guitar and wanted play along to the song, but obviously I can't now. \ud83e\udd7a",
+                "created_utc": "2024-09-29 21:41:47 UTC",
+                "comment_id": "iUTeDjj",
+                "submission_id": "BtZT0GB",
+                "parent_id": "z9YL8sT"
+            },
+            {
+                "user_id": "subject_hFMHpIk",
+                "target": false,
+                "type": "comment",
+                "body": "Kings of Leon - all albums with the exception of the last two newest albums.",
+                "created_utc": "2024-09-29 21:44:05 UTC",
+                "comment_id": "JZzCQ3J",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_VMJztab",
+                "target": false,
+                "type": "comment",
+                "body": "Thank god you can download these on archive and upload it to YouTube music",
+                "created_utc": "2024-09-29 21:46:16 UTC",
+                "comment_id": "kuziCbV",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_8TlGCWS",
+                "target": false,
+                "type": "comment",
+                "body": "If YouTube paid the artists the fees that they\u2019re asking for this would immediately end up",
+                "created_utc": "2024-09-29 21:46:40 UTC",
+                "comment_id": "moIBw55",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_ipXqJUw",
+                "target": false,
+                "type": "comment",
+                "body": "I need Humanz NOW",
+                "created_utc": "2024-09-29 21:47:09 UTC",
+                "comment_id": "BQNb3dv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_LZJZ3Wy",
+                "target": false,
+                "type": "comment",
+                "body": "NO ALICE IN CHAINS SOMEONE HELP!!!!!",
+                "created_utc": "2024-09-29 21:48:49 UTC",
+                "comment_id": "2cjIPAC",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_HSm95Sc",
+                "target": false,
+                "type": "comment",
+                "body": "\ud83d\ude2e\u200d\ud83d\udca8 rn use spotify for Nirvana only. Pending to switch to Spotify.",
+                "created_utc": "2024-09-29 21:48:57 UTC",
+                "comment_id": "Smlo2H2",
+                "submission_id": "BtZT0GB",
+                "parent_id": "iUTeDjj"
+            },
+            {
+                "user_id": "subject_3d85qRk",
+                "target": false,
+                "type": "comment",
+                "body": "Nobody by Skindred is unavailable too. Fucking hate SESAC",
+                "created_utc": "2024-09-29 21:50:42 UTC",
+                "comment_id": "O5EfbpM",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_sQtroCz",
+                "target": false,
+                "type": "comment",
+                "body": "I hope so. Because now I\u2019m back to ordering CD\u2019s again.",
+                "created_utc": "2024-09-29 21:52:47 UTC",
+                "comment_id": "bBwKDrX",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_zhMm0vT",
+                "target": false,
+                "type": "comment",
+                "body": "JOA, Cap\u2019n jazz. Lots of obscure artists have music missing rn too the best way to tell is by checking here https://www.sesac.com/repertory/",
+                "created_utc": "2024-09-29 21:53:54 UTC",
+                "comment_id": "ZysE77E",
+                "submission_id": "BtZT0GB",
+                "parent_id": "jaMb95V"
+            },
+            {
+                "user_id": "subject_ej0XqQD",
+                "target": false,
+                "type": "comment",
+                "body": "MGMT as well",
+                "created_utc": "2024-09-29 21:54:00 UTC",
+                "comment_id": "dQsAhtz",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_fDcnlVU",
+                "target": false,
+                "type": "comment",
+                "body": "Good",
+                "created_utc": "2024-09-29 21:54:19 UTC",
+                "comment_id": "M16kYU5",
+                "submission_id": "BtZT0GB",
+                "parent_id": "fU5qRgO"
+            },
+            {
+                "user_id": "subject_d3Y655V",
+                "target": false,
+                "type": "comment",
+                "body": "New Found Glory can be added as well",
+                "created_utc": "2024-09-29 22:00:45 UTC",
+                "comment_id": "e0Q6hRe",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_ireyjmZ",
+                "target": false,
+                "type": "comment",
+                "body": "I've lost songs from MGMT, Metric, Glass Animals, Young the Giant, The Happy Fits, and Lady Gaga",
+                "created_utc": "2024-09-29 22:02:00 UTC",
+                "comment_id": "dwilTGB",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_AxnqacZ",
+                "target": false,
+                "type": "comment",
+                "body": "I went to try to play some American Football and it was blocked. :(",
+                "created_utc": "2024-09-29 22:04:07 UTC",
+                "comment_id": "I8MCZaJ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_YHy2Shf",
+                "target": false,
+                "type": "comment",
+                "body": "Alex G is missing",
+                "created_utc": "2024-09-29 22:04:37 UTC",
+                "comment_id": "VHYcOmG",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_5q5peSE",
+                "target": false,
+                "type": "comment",
+                "body": "Magic sword. Why are you trying to compile them all. It\u2019s likely in the hundreds.",
+                "created_utc": "2024-09-29 22:06:07 UTC",
+                "comment_id": "AUwMeB5",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_UUDSFcO",
+                "target": false,
+                "type": "comment",
+                "body": "Darrius Rucker as well",
+                "created_utc": "2024-09-29 22:08:06 UTC",
+                "comment_id": "LEpf0gQ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_x4jmDHk",
+                "target": false,
+                "type": "comment",
+                "body": "Missing motley Crue",
+                "created_utc": "2024-09-29 22:09:49 UTC",
+                "comment_id": "96MQkal",
+                "submission_id": "BtZT0GB",
+                "parent_id": "Nac94OB"
+            },
+            {
+                "user_id": "subject_y4GM0fx",
+                "target": false,
+                "type": "comment",
+                "body": "The Cure as well",
+                "created_utc": "2024-09-29 22:10:14 UTC",
+                "comment_id": "3vFlspJ",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_RLsGcwo",
+                "target": false,
+                "type": "comment",
+                "body": "Omfg...",
+                "created_utc": "2024-09-29 22:10:26 UTC",
+                "comment_id": "RTTUnAf",
+                "submission_id": "BtZT0GB",
+                "parent_id": "H4GgLTY"
+            },
+            {
+                "user_id": "subject_JYUfUEm",
+                "target": false,
+                "type": "comment",
+                "body": "Yeah I have a bunch of random Britney Spears songs blocked, Drop Dead Beautiful, Selfish, Do You Wanna Come Over? \nHard To Forget Ya, Work Bitch, Alien, half of Blackout and Circus, S&M Remix with Rihanna",
+                "created_utc": "2024-09-29 22:11:54 UTC",
+                "comment_id": "dM5QJJ8",
+                "submission_id": "BtZT0GB",
+                "parent_id": "KFZ947u"
+            },
+            {
+                "user_id": "subject_fDcnlVU",
+                "target": false,
+                "type": "comment",
+                "body": "Trouble by Cage the Elephant",
+                "created_utc": "2024-09-29 22:15:42 UTC",
+                "comment_id": "39YMxDL",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_6TBYueP",
+                "target": false,
+                "type": "comment",
+                "body": "Shit man hope they get that fixed quick. That\u2019s ass",
+                "created_utc": "2024-09-29 22:19:08 UTC",
+                "comment_id": "sAKVzat",
+                "submission_id": "BtZT0GB",
+                "parent_id": "nrDWSwb"
+            },
+            {
+                "user_id": "subject_0IWw0uM",
+                "target": false,
+                "type": "comment",
+                "body": "A$AP Rocky has some songs missing as well.",
+                "created_utc": "2024-09-29 22:26:15 UTC",
+                "comment_id": "JJbF0RA",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_4zLcs0L",
+                "target": false,
+                "type": "comment",
+                "body": "At least some of Roxette's videos are blocked. Joyride for sure. I didn't go check for more.\u00a0",
+                "created_utc": "2024-09-29 22:28:06 UTC",
+                "comment_id": "n1tcDyz",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_zMEM7xc",
+                "target": false,
+                "type": "comment",
+                "body": "You won\u2019t believe how fast I cancelled a subscription after seeing this.",
+                "created_utc": "2024-09-29 22:28:44 UTC",
+                "comment_id": "3hU6P5N",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_p8SMTy3",
+                "target": false,
+                "type": "comment",
+                "body": "ive said this under a different post, but its weird that some albums/artists have some songs affected while others are fine. I believe like half of yeezus was taken down but the other half is fine. IDK why that would be because the whole album would be owned by SESAC",
+                "created_utc": "2024-09-29 22:33:56 UTC",
+                "comment_id": "TMeHsTv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_MbgdFbU",
+                "target": false,
+                "type": "comment",
+                "body": "I saw Marcos Witt Poema de Salvacion got the Sesac treatment too",
+                "created_utc": "2024-09-29 22:34:30 UTC",
+                "comment_id": "9xOtnfP",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_i8Aq1Qp",
+                "target": false,
+                "type": "comment",
+                "body": "Agnes Obel",
+                "created_utc": "2024-09-29 22:34:32 UTC",
+                "comment_id": "xjL4uR9",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_aE4S4lg",
+                "target": false,
+                "type": "comment",
+                "body": "^[Sokka-Haiku](https://www.reddit.com/r/SokkaHaikuBot/comments/15kyv9r/what_is_a_sokka_haiku/) ^by ^Professional_Test_74:\n\n*I saw Marcos Witt*\n\n*Poema de Salvacion got*\n\n*The Sesac treatment too*\n\n---\n^Remember ^that ^one ^time ^Sokka ^accidentally ^used ^an ^extra ^syllable ^in ^that ^Haiku ^Battle ^in ^Ba ^Sing ^Se? ^That ^was ^a ^Sokka ^Haiku ^and ^you ^just ^made ^one.",
+                "created_utc": "2024-09-29 22:34:46 UTC",
+                "comment_id": "DXUiULM",
+                "submission_id": "BtZT0GB",
+                "parent_id": "9xOtnfP"
+            },
+            {
+                "user_id": "subject_ttnSHzs",
+                "target": false,
+                "type": "comment",
+                "body": "Buck Cherry, New Medicine, Manic Bloom, the Nearly Deads and some of Ice Nine Kills as well are unavailable.",
+                "created_utc": "2024-09-29 22:35:05 UTC",
+                "comment_id": "hcLntOV",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_F6ZxgZx",
+                "target": false,
+                "type": "comment",
+                "body": "Guns N' Roses is missing some of their songs as well :(",
+                "created_utc": "2024-09-29 22:36:58 UTC",
+                "comment_id": "aaHGcOC",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "Same, I went to listen to my favorite live Sublime album yesterday and was like WTAF. Bizarre to just be ... totally locked out ...of hearing something I wanted to listen to. Luckily I have my own uploaded mp3s as a backup. \n\nHaving seamless access to your upload is one of the reasons I like YouTube music, ironically.\n\nBut yeah, I've been a subscriber since the Google Play Music days, and Spotify's interface annoys the hell outta me. This is such horseshit.",
+                "created_utc": "2024-09-29 22:43:14 UTC",
+                "comment_id": "smZb8NR",
+                "submission_id": "BtZT0GB",
+                "parent_id": "WHPJaOn"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "You can add Cake's cover of \"I Will Survive\", that's blocked too. Just that one song off of Fashion Nugget. But weirdly the OG Gloria Gaynor version is still available.",
+                "created_utc": "2024-09-29 22:45:50 UTC",
+                "comment_id": "Uf3OHuk",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_SXkQfCA",
+                "target": false,
+                "type": "comment",
+                "body": "They removed Jerma985s harvester part 2 stream... don't know why...",
+                "created_utc": "2024-09-29 22:47:21 UTC",
+                "comment_id": "f1r0vl7",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "So frustrating! I kept trying to listen to different random things I hadn't listened to in a while yesterday and I just kept getting the unavailable messag. \n\nReally feels like a r/fuckyouinparticular kinda thing.",
+                "created_utc": "2024-09-29 22:48:35 UTC",
+                "comment_id": "xxdYla5",
+                "submission_id": "BtZT0GB",
+                "parent_id": "5WDSrt0"
+            },
+            {
+                "user_id": "subject_HFndVQs",
+                "target": false,
+                "type": "comment",
+                "body": "Tranz being gone is my personal 9/11",
+                "created_utc": "2024-09-29 22:48:48 UTC",
+                "comment_id": "nMznyTI",
+                "submission_id": "BtZT0GB",
+                "parent_id": "VuzJfA3"
+            },
+            {
+                "user_id": "subject_fJEQIGl",
+                "target": false,
+                "type": "comment",
+                "body": "Here's a sneak peek of /r/FUCKYOUINPARTICULAR using the [top posts](https://np.reddit.com/r/FUCKYOUINPARTICULAR/top/?sort=top&t=year) of the year!\n\n\\#1: [Fuck this tick in particular ](https://v.redd.it/kzqhfwlz960c1) | [936 comments](https://np.reddit.com/r/FUCKYOUINPARTICULAR/comments/17ujknj/fuck_this_tick_in_particular/)  \n\\#2: [fuck her speed abilities \ud83d\udc80\ud83d\udc80](https://v.redd.it/kt5078hhj49c1) | [779 comments](https://np.reddit.com/r/FUCKYOUINPARTICULAR/comments/18t8kuy/fuck_her_speed_abilities/)  \n\\#3: [fuck the countdown](https://v.redd.it/7jvnt5bnc29c1) | [316 comments](https://np.reddit.com/r/FUCKYOUINPARTICULAR/comments/18sy3fk/fuck_the_countdown/)\n\n----\n^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| ^^[Contact](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| ^^[Info](https://np.reddit.com/r/sneakpeekbot/) ^^| ^^[Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/o8wk1r/blacklist_ix/) ^^| ^^[GitHub](https://github.com/ghnr/sneakpeekbot)",
+                "created_utc": "2024-09-29 22:48:48 UTC",
+                "comment_id": "hVCOrJN",
+                "submission_id": "BtZT0GB",
+                "parent_id": "xxdYla5"
+            },
+            {
+                "user_id": "subject_osRdhnc",
+                "target": false,
+                "type": "comment",
+                "body": "Some songs by skillet are unavailable like resistance \ud83d\ude2d",
+                "created_utc": "2024-09-29 22:51:37 UTC",
+                "comment_id": "4dEhINh",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "Are you sure you didn't mean the [Fuck Owls](https://pbs.twimg.com/media/EWpykS-U8AAVkYV?format=jpg&name=large)?",
+                "created_utc": "2024-09-29 22:52:56 UTC",
+                "comment_id": "DDDQmma",
+                "submission_id": "BtZT0GB",
+                "parent_id": "8137J7r"
+            },
+            {
+                "user_id": "subject_Lr9necq",
+                "target": false,
+                "type": "comment",
+                "body": "Brazi",
+                "created_utc": "2024-09-29 22:53:57 UTC",
+                "comment_id": "vlH0lBj",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_7QOAt4t",
+                "target": false,
+                "type": "comment",
+                "body": "I went to listen to a video playlist called Unintentionally Creepy Oldies. Not sure which tracks on there are blocked, but I know I can't access it.",
+                "created_utc": "2024-09-29 22:54:23 UTC",
+                "comment_id": "gMfYcs0",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "Wait which RHCP is missing? I just checked BSSM and only see \"They're Red Hot\" is blocked (which, I'm pretty okay with haha, not my favorite on that album).",
+                "created_utc": "2024-09-29 22:55:36 UTC",
+                "comment_id": "6reqh34",
+                "submission_id": "BtZT0GB",
+                "parent_id": "baZq9Fl"
+            },
+            {
+                "user_id": "subject_LfR1vTg",
+                "target": false,
+                "type": "comment",
+                "body": "The artist \"Nine Lashes\".",
+                "created_utc": "2024-09-29 22:56:10 UTC",
+                "comment_id": "eBME6Rq",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "Those fucks. How dare they.",
+                "created_utc": "2024-09-29 22:56:38 UTC",
+                "comment_id": "3zvVbXv",
+                "submission_id": "BtZT0GB",
+                "parent_id": "z9YL8sT"
+            },
+            {
+                "user_id": "subject_90LZjZO",
+                "target": false,
+                "type": "comment",
+                "body": "haikusbot opt out",
+                "created_utc": "2024-09-29 22:57:09 UTC",
+                "comment_id": "ZcRivhA",
+                "submission_id": "BtZT0GB",
+                "parent_id": "9yKIHET"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "Noooooo!",
+                "created_utc": "2024-09-29 22:57:52 UTC",
+                "comment_id": "IjLys90",
+                "submission_id": "BtZT0GB",
+                "parent_id": "iNm3Ozb"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "Thank fuck we still have Plastic Beach though.",
+                "created_utc": "2024-09-29 22:58:55 UTC",
+                "comment_id": "EF8xCGt",
+                "submission_id": "BtZT0GB",
+                "parent_id": "v9kYuW9"
+            },
+            {
+                "user_id": "subject_kopnvNn",
+                "target": false,
+                "type": "comment",
+                "body": "and i forgot to add this too but uhhh also tally hall\u2019s \u201ca lady\u201d \ud83d\ude14",
+                "created_utc": "2024-09-29 22:59:40 UTC",
+                "comment_id": "kg1MRmF",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_YxOH6pr",
+                "target": false,
+                "type": "comment",
+                "body": "They didn't even ask for a reason when I cancelled. They have a thing at the top talking about this though. Its like they don't even want the metrics of why we are cancelling. Whatever, my car has a Spotify app, it doesn't have ytmusic. I get weird looks when I say I use ytmusic over literally anything, but I always explain the family plan is decent price plus no YouTube ads either.  Guess I'll just use Spotify like everyone else.\n\nhttps://preview.redd.it/3d868gwrwtrd1.png?width=1008&format=pjpg&auto=webp&s=38dce1f726f917199fe88d2cd55650cdd3b8838e",
+                "created_utc": "2024-09-29 22:59:40 UTC",
+                "comment_id": "2WctMNk",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_LqSjB12",
+                "target": false,
+                "type": "comment",
+                "body": "Gorillaz and Yelawolf have been affected aswell",
+                "created_utc": "2024-09-29 23:04:01 UTC",
+                "comment_id": "5kNPs1S",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_qXtjVfU",
+                "target": false,
+                "type": "comment",
+                "body": "You can add Gavin Castleton. At least one full album of his is gone, and only a couple songs aee available on at least two other albums.\n\nAlso at least on Dave Matthews Band song affected (Let You Down off of Crash).\n\nOutkast is another.\n\nEric Clapton.\n\nJoni Mitchell\n\nSimon and Garfunkel\n\nNick Drake\n\nJoe Cocker\n\nSZA\n\nHerbie Hancock\n\nFKJ\n\nElliott Smith\n\nThe Ziggens\n\nVan Morrison",
+                "created_utc": "2024-09-29 23:04:06 UTC",
+                "comment_id": "ExPJGXI",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            },
+            {
+                "user_id": "subject_WWXfwNZ",
+                "target": false,
+                "type": "comment",
+                "body": "A lot of glass animals songs are region locked too",
+                "created_utc": "2024-09-29 23:10:20 UTC",
+                "comment_id": "5mfj2gt",
+                "submission_id": "BtZT0GB",
+                "parent_id": "BtZT0GB"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_v4QoYLZ",
+            "target": true,
+            "type": "submission",
+            "title": "is it just me or doesn't the song birds of a feather sound similar to baby I'm back by baby bash",
+            "body": "thought birds of a feather sounded similar to the hook from baby I'm back by baby bash not the lyrics the beat",
+            "created_utc": "2024-10-08 07:30:41 UTC",
+            "submission_id": "OaPZNFR",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_zcJjWsl",
+            "target": false,
+            "type": "submission",
+            "title": "Kodak Easyshare M530",
+            "body": "First time here! I have absolutely no photography skills. I just wanna share this because I think it looks good.",
+            "created_utc": "2024-01-18 11:18:22 UTC",
+            "submission_id": "tiQPpFq",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_iPjiutu",
+                "target": false,
+                "type": "comment",
+                "body": "Hi and welcome to the community. Glad you've gotten into this hobby! We love these old little digicams around here.\nFor the future please read and follow the rules. You're in violation of Rule 11.",
+                "created_utc": "2024-01-19 20:30:09 UTC",
+                "comment_id": "xpdG8Ug",
+                "submission_id": "tiQPpFq",
+                "parent_id": "tiQPpFq"
+            },
+            {
+                "user_id": "subject_zcJjWsl",
+                "target": false,
+                "type": "comment",
+                "body": "I'm sorry, my bad! I will take note of that in the future",
+                "created_utc": "2024-01-20 12:52:37 UTC",
+                "comment_id": "pHjgExn",
+                "submission_id": "tiQPpFq",
+                "parent_id": "xpdG8Ug"
+            },
+            {
+                "user_id": "subject_OVAuT1I",
+                "target": false,
+                "type": "comment",
+                "body": "hello! niche question but, can it zoom in and out while recording video?",
+                "created_utc": "2024-03-10 23:38:37 UTC",
+                "comment_id": "SSCZnhu",
+                "submission_id": "tiQPpFq",
+                "parent_id": "tiQPpFq"
+            },
+            {
+                "user_id": "subject_zcJjWsl",
+                "target": false,
+                "type": "comment",
+                "body": "yup!",
+                "created_utc": "2024-03-11 11:27:27 UTC",
+                "comment_id": "IfIV7cu",
+                "submission_id": "tiQPpFq",
+                "parent_id": "SSCZnhu"
+            },
+            {
+                "user_id": "subject_6gxSSrU",
+                "target": false,
+                "type": "comment",
+                "body": "what sd card would i use for this camera?",
+                "created_utc": "2024-07-03 15:49:15 UTC",
+                "comment_id": "leirUEC",
+                "submission_id": "tiQPpFq",
+                "parent_id": "tiQPpFq"
+            },
+            {
+                "user_id": "subject_v4QoYLZ",
+                "target": true,
+                "type": "comment",
+                "body": "what kind of SD card do you use",
+                "created_utc": "2024-10-08 23:41:52 UTC",
+                "comment_id": "J31SmkS",
+                "submission_id": "tiQPpFq",
+                "parent_id": "IfIV7cu"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1000 @@
+[
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "KENNER SUPER POWERS : The DARKSEID SAGA | Fan Animation",
+            "body": "",
+            "created_utc": "2024-09-23 15:31:27 UTC",
+            "submission_id": "mqh6uWD",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "KENNER SUPER POWERS : The DARKSEID SAGA",
+            "body": "",
+            "created_utc": "2024-09-23 15:33:46 UTC",
+            "submission_id": "uIGkSvw",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_pMvxMPo",
+                "target": false,
+                "type": "comment",
+                "body": "That is excellent. I had to look at the credits to see how much of it was fan made. The audio track is from a 1984 Kenner Toys record that probably came alongside the first wave of Super Powers toys. (I had all of the toys, but i have never seen the record sadly.)\n\nBut all of the animation was made by you. It's absolutely on brand. Great work.",
+                "created_utc": "2024-09-23 16:43:58 UTC",
+                "comment_id": "aE5fyGP",
+                "submission_id": "uIGkSvw",
+                "parent_id": "uIGkSvw"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "Yeah record was a mail-away, I think it came with Steppenwolf to promote the 2nd wave of figures. It has been stuck in my head ever since. Thought it would be fun to design and animate it. Glad you dig it, thanks!",
+                "created_utc": "2024-09-24 12:57:37 UTC",
+                "comment_id": "YuaQjV1",
+                "submission_id": "uIGkSvw",
+                "parent_id": "aE5fyGP"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "KENNER SUPER POWERS : The DARKSEID SAGA | Fan Animation",
+            "body": "",
+            "created_utc": "2024-09-24 12:59:46 UTC",
+            "submission_id": "3eTvCLw",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "PS Layer Comps to AE",
+            "body": "A client gave me a 4K Photoshop file and is assembling their designs using Layer Comps. As an AE animtor I\u2019ve never worked with PS Layer Comps before, since AE to my knowledge, sorts PSDs by *Layers*.\n\nIs there a workflow to export/assemble the PSD Layer Comps to AE?\n\nThanks!",
+            "created_utc": "2024-09-25 19:33:34 UTC",
+            "submission_id": "hPOSZqu",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_5yVZD75",
+                "target": false,
+                "type": "comment",
+                "body": "https://preview.redd.it/4aiykc8sn0rd1.png?width=1283&format=png&auto=webp&s=d57c0b47c00b00c81b7cc421ecb8b478b532aadb\n\nYou can try to export main psd into multiple psd files to open them in after effects, 17 years using photoshop i never had heard of layer comps.",
+                "created_utc": "2024-09-25 20:38:48 UTC",
+                "comment_id": "3QGiLlj",
+                "submission_id": "hPOSZqu",
+                "parent_id": "hPOSZqu"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "I never had either. I can't export the Layer Comp as anything other than a flat image file, when I need to Layers in order to animate them.",
+                "created_utc": "2024-09-25 20:50:23 UTC",
+                "comment_id": "8g2qza5",
+                "submission_id": "hPOSZqu",
+                "parent_id": "3QGiLlj"
+            },
+            {
+                "user_id": "subject_5yVZD75",
+                "target": false,
+                "type": "comment",
+                "body": "Can you share the psd file?",
+                "created_utc": "2024-09-25 20:55:46 UTC",
+                "comment_id": "myaP24J",
+                "submission_id": "hPOSZqu",
+                "parent_id": "8g2qza5"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "Unfortunately I don't have permission (also it's huge).",
+                "created_utc": "2024-09-25 20:57:28 UTC",
+                "comment_id": "kBXdp10",
+                "submission_id": "hPOSZqu",
+                "parent_id": "myaP24J"
+            },
+            {
+                "user_id": "subject_5yVZD75",
+                "target": false,
+                "type": "comment",
+                "body": "https://preview.redd.it/0ji06ddrt0rd1.png?width=1319&format=png&auto=webp&s=7c3ff97e6eb77ede9f370bbf4c46ee8fac805750\n\nIt worked for me. I made two comps: one with just the rectangle and another with both the text and the rectangle, and it worked. I'm using Photoshop 25.7.0.",
+                "created_utc": "2024-09-25 21:13:58 UTC",
+                "comment_id": "cDeL7D7",
+                "submission_id": "hPOSZqu",
+                "parent_id": "kBXdp10"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks for trying, appreciate it. I tried to export a single Layer Comp as a PSD but the size was too big.\n\nhttps://preview.redd.it/rsl38f74w0rd1.png?width=453&format=png&auto=webp&s=9361c295ed53f2e9d43e0555dace0149c3be144d",
+                "created_utc": "2024-09-25 21:26:59 UTC",
+                "comment_id": "BZ55vue",
+                "submission_id": "hPOSZqu",
+                "parent_id": "cDeL7D7"
+            },
+            {
+                "user_id": "subject_5yVZD75",
+                "target": false,
+                "type": "comment",
+                "body": "Hmm, what happens when you open this huge 4k psd in after effects? Logically it will open all layer comps as precomps",
+                "created_utc": "2024-09-25 21:50:10 UTC",
+                "comment_id": "ZoAMHLF",
+                "submission_id": "hPOSZqu",
+                "parent_id": "BZ55vue"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "It won't import into AE, it's too large. I was going to cut it up into separate art boards but the Layers aren't organized because everything is designed in these Layer Comps.",
+                "created_utc": "2024-09-25 21:53:44 UTC",
+                "comment_id": "96TZ7a2",
+                "submission_id": "hPOSZqu",
+                "parent_id": "ZoAMHLF"
+            },
+            {
+                "user_id": "subject_5yVZD75",
+                "target": false,
+                "type": "comment",
+                "body": "1.Try saving as psb then trying layer comps to file again\n\n2.Manually export multiple psd-s\n\n3.Ask your client to send separated scenes/designs/layouts in multiple psd-s",
+                "created_utc": "2024-09-25 22:02:22 UTC",
+                "comment_id": "gDgdvjd",
+                "submission_id": "hPOSZqu",
+                "parent_id": "96TZ7a2"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "Thanks again. It actually already is a psb. I'm going to try to delete some of the content and then attempt an export. If that doesn't work I'll just send it back to the client. If no one can crack this, the designer is prepping the files wrong.",
+                "created_utc": "2024-09-25 22:49:27 UTC",
+                "comment_id": "0ulydJ9",
+                "submission_id": "hPOSZqu",
+                "parent_id": "gDgdvjd"
+            },
+            {
+                "user_id": "subject_zxs0tgt",
+                "target": false,
+                "type": "comment",
+                "body": "No piracy on this subreddit, please. If this post was flagged in error, please message the moderators for review. \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AfterEffects) if you have any questions or concerns.*",
+                "created_utc": "2024-09-25 22:49:27 UTC",
+                "comment_id": "9OMkLWn",
+                "submission_id": "hPOSZqu",
+                "parent_id": "0ulydJ9"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "KENNER SUPER POWERS : The DARKSEID SAGA ",
+            "body": "",
+            "created_utc": "2024-11-04 21:40:36 UTC",
+            "submission_id": "cHHRKp5",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_gSd60oX",
+                "target": false,
+                "type": "comment",
+                "body": "I enjoyed this. Thank you for posting.",
+                "created_utc": "2024-11-05 02:28:22 UTC",
+                "comment_id": "GLgN6lC",
+                "submission_id": "cHHRKp5",
+                "parent_id": "cHHRKp5"
+            },
+            {
+                "user_id": "subject_rE5elLi",
+                "target": false,
+                "type": "comment",
+                "body": "Oh man i still have a ton of these action figures from being a kid in the early-mid 80s.\ud83d\ude1d sadly no kids to pass them down to",
+                "created_utc": "2024-11-06 17:02:52 UTC",
+                "comment_id": "cjdYz7D",
+                "submission_id": "cHHRKp5",
+                "parent_id": "cHHRKp5"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "KENNER SUPER POWERS : The DARKSEID SAGA",
+            "body": "",
+            "created_utc": "2024-11-05 14:28:47 UTC",
+            "submission_id": "g1ocHSG",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_E42Tr3X",
+                "target": false,
+                "type": "comment",
+                "body": "![gif](giphy|l3q2XhfQ8oCkm1Ts4|downsized)",
+                "created_utc": "2024-11-06 18:23:35 UTC",
+                "comment_id": "sStP1T1",
+                "submission_id": "g1ocHSG",
+                "parent_id": "g1ocHSG"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_vB5rjlz",
+            "target": false,
+            "type": "submission",
+            "title": "Is Vimeo dead?",
+            "body": "I haven't made my own projects in about 6 years. Back then Vimeo was \"the filmmakers' video website\" and it made sense to put shorts and music videos and that sort of thing up there. When people would ask for a portfolio I'd send them my Vimeo.\n\nIt seems like the landscape has changed a bit since then. Youtube video quality has increased dramatically. TikTok and Reels dominate the medium. It seems a bit silly to send people to some website no one uses where my best videos have only like 300 views. Even the dashboard seems clunky and neglected.\n\nIs sending vimeo links an old man move these days? Do people still use it? Is there any upside? What's everyone's thoughts?\n\nEdit: Thanks everyone. It seems vimeo is still useful for embedding on other sites due to it's customization and it's lack of ads, the latter of which makes it still a viable place to host reels and shorts. The site itself, however is quite dead and the interface is frustrating to use.",
+            "created_utc": "2024-01-24 00:31:13 UTC",
+            "submission_id": "g5WR2nJ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_UsX27Mp",
+                "target": false,
+                "type": "comment",
+                "body": "it may as well be. they tried to pivot to being a notes and review utility but frame IO took over there. they're not good for much more than video hosting for embedding video into websites. last I checked their search function didnt work either",
+                "created_utc": "2024-01-24 00:40:11 UTC",
+                "comment_id": "mqQHJhg",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_0g9ybhK",
+                "target": false,
+                "type": "comment",
+                "body": "I see it being used to share reels, short film work, etc but I am open to other options since their quality has dropped massively and their UI sucks now.",
+                "created_utc": "2024-01-24 00:49:46 UTC",
+                "comment_id": "MBYSQMW",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "quicksand quickest aback melodic panicky hospital ad hoc wipe disarm wistful\n\n *This post was mass deleted and anonymized with [Redact](https://redact.dev)*",
+                "created_utc": "2024-01-24 01:00:44 UTC",
+                "comment_id": "T0zW4nc",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_2Jxzdul",
+                "target": false,
+                "type": "comment",
+                "body": "Sort of. They shifted away from being a creative YouTube competitor to become more of a corporate media hosting service. I still use it all the time cause some of the companies I work for have big business accounts and use vimeo to share and review edits of features and shows.",
+                "created_utc": "2024-01-24 01:14:50 UTC",
+                "comment_id": "YlZ6cqz",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_2FvkMhM",
+                "target": false,
+                "type": "comment",
+                "body": "We are hoping to fill that gap for shorts.",
+                "created_utc": "2024-01-24 01:24:09 UTC",
+                "comment_id": "PPR1ZQn",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_XghyRKo",
+                "target": false,
+                "type": "comment",
+                "body": "As far as I know, still the most common way I\u2019ve seen video links shared between filmmakers and colleagues\u00a0",
+                "created_utc": "2024-01-24 01:36:43 UTC",
+                "comment_id": "5wNSTRs",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_22un5mr",
+                "target": false,
+                "type": "comment",
+                "body": "Why not use YouTube for embedding",
+                "created_utc": "2024-01-24 01:44:27 UTC",
+                "comment_id": "Z137nxO",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "mqQHJhg"
+            },
+            {
+                "user_id": "subject_8L51Phv",
+                "target": false,
+                "type": "comment",
+                "body": "With Vimeo you can customize what\u2019s seen in the UI, so you can take off the Vimeo link, title, etc. it looks clean and custom. \n\nI\u2019m not sure, but if a YouTube video is embedded will it run ads?",
+                "created_utc": "2024-01-24 01:52:49 UTC",
+                "comment_id": "kpmjeti",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "Z137nxO"
+            },
+            {
+                "user_id": "subject_Y5wVm8p",
+                "target": false,
+                "type": "comment",
+                "body": "YouTube also has crappy compression. Vimeo looks nicer.\u00a0",
+                "created_utc": "2024-01-24 01:54:29 UTC",
+                "comment_id": "pTlkGNT",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "Z137nxO"
+            },
+            {
+                "user_id": "subject_VjBs7xQ",
+                "target": false,
+                "type": "comment",
+                "body": "Yes it will absolutely run ads + show recommended videos at the end. Vimeo is still the king for embedded videos.",
+                "created_utc": "2024-01-24 01:58:40 UTC",
+                "comment_id": "R2JcQH1",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "kpmjeti"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Not dead.  Just not a platform to get tons of views on in the same way YouTubers gain viewers and subscribers.\n\nI\u2019ve always thought of Vimeo as a professional marketing tool where I can host and set custom parameters for calling card videos, reels, short films, etc.\n\nAnd I do feel the compression looks a little better.\n\nBut\u2026 if at some point another hosting service with similarly custom tailored options prevails over Vimeo then I\u2019ll probably switch to whatever that will be.\n\nYouTube is more of a wide open public marketing space than Vimeo is.",
+                "created_utc": "2024-01-24 01:59:42 UTC",
+                "comment_id": "OnADmlr",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_jzShR4y",
+                "target": false,
+                "type": "comment",
+                "body": "This is the reason I still use Vimeo for my portfolio site.",
+                "created_utc": "2024-01-24 02:11:50 UTC",
+                "comment_id": "GMB4ajP",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "kpmjeti"
+            },
+            {
+                "user_id": "subject_9HQtgEP",
+                "target": false,
+                "type": "comment",
+                "body": "As a place to host your short films? Yes. \n\nAs a place to host reels/portfolios and corporate videos for embeds on third-party content sites? No.\n\nAs a place to host password-protected assemblies, rough cuts, and other non-locked versions? No.\n\nETA: My \"yes/no's\" are confusing because I was responding to OP's question which was \"Is Vimeo dead\" So a \"no\" means \"no, Vimeo is NOT dead and is still good for this purpose.\"",
+                "created_utc": "2024-01-24 02:33:54 UTC",
+                "comment_id": "coXYTGo",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_MdOG5c4",
+                "target": false,
+                "type": "comment",
+                "body": "What are some alternatives? Desperately looking for something that has:\n\n1. Stack reels\nReally wanting somewhere I can host videos and quickly make different stack reels for clients. \n\n2. Add copy/text \nThe ability to add small amount of copy/text in addition to the file name. Needing a way to add some context.\n\n3. Clean design \nClean minimalist design with ability to upload branding elements like a company logo etc.",
+                "created_utc": "2024-01-24 03:25:13 UTC",
+                "comment_id": "7AOWhLB",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_s4B0N0k",
+                "target": false,
+                "type": "comment",
+                "body": "Their UI gets worse every \"update\". I've never been so frustrated trying to change my own video's settings. It's awful.",
+                "created_utc": "2024-01-24 03:36:32 UTC",
+                "comment_id": "hijfcxW",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "MBYSQMW"
+            },
+            {
+                "user_id": "subject_tix3cXR",
+                "target": false,
+                "type": "comment",
+                "body": "what do you use for password-protected rough cuts? I usually use vimeo as it\u2019s easy and the one most clients are familiar with.",
+                "created_utc": "2024-01-24 04:20:23 UTC",
+                "comment_id": "gMVVpCv",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "coXYTGo"
+            },
+            {
+                "user_id": "subject_cNrOxWd",
+                "target": false,
+                "type": "comment",
+                "body": "I'm only using Vimeo for my website. Like previous comments, it's great to have the level of customization for video embedding. It's easy for me to make adjustments to video settings and have preset settings saved. Other than that, yeah........the app is unbearably useless. Navigating to view someone's video in their profile is a cluster .",
+                "created_utc": "2024-01-24 04:24:00 UTC",
+                "comment_id": "KQpeLRg",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_VlrOukh",
+                "target": false,
+                "type": "comment",
+                "body": "In addition to what others have said, Vimeo didn't check for copyright protection on unlisted videos.\n\nSo when I put together a reel from shows I've worked on I don't have to worry about automated systems taking it down.",
+                "created_utc": "2024-01-24 05:53:03 UTC",
+                "comment_id": "c3ZAVzL",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "Z137nxO"
+            },
+            {
+                "user_id": "subject_fg452JL",
+                "target": false,
+                "type": "comment",
+                "body": "You can also swap vids in Vimeo if you need to update something.  You can keep your titles, descriptions, and not lose any view count. YouTube doesn\u2019t have replace functionality.",
+                "created_utc": "2024-01-24 05:54:54 UTC",
+                "comment_id": "FdsEJ0V",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "Z137nxO"
+            },
+            {
+                "user_id": "subject_hS3EjTX",
+                "target": false,
+                "type": "comment",
+                "body": "I was thinking about canceling, but I don\u2019t want to lose what I have uploaded. Will those videos get deleted if I do?",
+                "created_utc": "2024-01-24 06:46:47 UTC",
+                "comment_id": "TamgqZo",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_5tB3PhH",
+                "target": false,
+                "type": "comment",
+                "body": "What do you do for embeds on third party sites?",
+                "created_utc": "2024-01-24 06:57:00 UTC",
+                "comment_id": "3gDB2t8",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "coXYTGo"
+            },
+            {
+                "user_id": "subject_5tB3PhH",
+                "target": false,
+                "type": "comment",
+                "body": "I use it, it works and looks good. I can put things on my website and it looks clean with a lot of embedding customization. Would love something free, but I also don't mind paying.",
+                "created_utc": "2024-01-24 06:57:41 UTC",
+                "comment_id": "ipovoWk",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_XrnZZrX",
+                "target": false,
+                "type": "comment",
+                "body": "The fact that it's add-free is a huge positive for me. I've almost maxed out my free account though and don't plan to pay. Might just need to delete some old stuff.",
+                "created_utc": "2024-01-24 07:32:57 UTC",
+                "comment_id": "1d3zxw1",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_g9Z5Wnb",
+                "target": false,
+                "type": "comment",
+                "body": ">Stack reels\n\nwhat's a stack reel? im not a pro, just curious what this is\n\n>Add copy/text The ability to add small amount of copy/text in addition to the file name. Needing a way to add some context.\n\nwhat's the need for adding context on filename when there's a title and description? again im not sure how vimeo is used much in the video industry but want to know why add more text to the filename uploaded to vimeo?",
+                "created_utc": "2024-01-24 10:50:48 UTC",
+                "comment_id": "uyzpIKk",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "7AOWhLB"
+            },
+            {
+                "user_id": "subject_VQJqCaX",
+                "target": false,
+                "type": "comment",
+                "body": "Some festivals (usually the ones that arent on filmfreeway) require a vimeo link of your film because it has a password feature. So its good to have one just for that.",
+                "created_utc": "2024-01-24 10:53:40 UTC",
+                "comment_id": "AGLchS3",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_vTJuGNp",
+                "target": false,
+                "type": "comment",
+                "body": "Do you mean like the actual image quality? Asking because I'm also a researcher and Vimeo is the go-to. Compared to Youtube, the image quality is jsut far superior. YouTube gets compressed very aggressively, and often comparing the same ad or music video on YouTube vs Vimeo the difference is very noticeable",
+                "created_utc": "2024-01-24 11:04:42 UTC",
+                "comment_id": "WQH2t10",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "MBYSQMW"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Where do people host their short films now?",
+                "created_utc": "2024-01-24 11:48:15 UTC",
+                "comment_id": "qPrRFEc",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "coXYTGo"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "Vimeo doesn\u2019t have ads, which is the main benefit over YT for portfolio work. Nothing sets the mood for a portfolio like a plaque psoriasis ad.",
+                "created_utc": "2024-01-24 11:52:25 UTC",
+                "comment_id": "8Xy95yU",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_vTJuGNp",
+                "target": false,
+                "type": "comment",
+                "body": "Their search function now defaults to searching amongst your own videos, so you have to click on the little arrow in the search box and select \"search all of Vimeo\". Silly that it does that by default though, this should be an option when in your actual library. Not sure if that was your issue but happened to me a while back",
+                "created_utc": "2024-01-24 13:32:50 UTC",
+                "comment_id": "N4KjJ9d",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "mqQHJhg"
+            },
+            {
+                "user_id": "subject_vTJuGNp",
+                "target": false,
+                "type": "comment",
+                "body": "Also Youtube just has higher compression and generally looks worse. Not always so important, but if it's for showing to a client I'd like it to look as clean and crispy as possible",
+                "created_utc": "2024-01-24 13:35:15 UTC",
+                "comment_id": "WE1I5FI",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "kpmjeti"
+            },
+            {
+                "user_id": "subject_0X1ibgU",
+                "target": false,
+                "type": "comment",
+                "body": "Somehow it went from a simple, single page where you can change your videos settings. Now there are like three different interfaces for changing settings, opening in different tabs / windows, clunky UI and too easy to make a ton of changes without \u201csaving\u201d so you have to start over. So annoying.",
+                "created_utc": "2024-01-24 14:12:38 UTC",
+                "comment_id": "4J1phDl",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "hijfcxW"
+            },
+            {
+                "user_id": "subject_8zckUeA",
+                "target": false,
+                "type": "comment",
+                "body": "YouTube\u2019s compression is for streaming massive numbers of videos over unreliable wireless connections to phone screens. It looks only as good as it needs to in order to keep people from leaving the site.",
+                "created_utc": "2024-01-24 14:23:22 UTC",
+                "comment_id": "QlOYzHq",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "pTlkGNT"
+            },
+            {
+                "user_id": "subject_Hrv7CBE",
+                "target": false,
+                "type": "comment",
+                "body": "YouTube quality is still crap.\nI only use Vimeo",
+                "created_utc": "2024-01-24 14:38:56 UTC",
+                "comment_id": "tMDGW1h",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_YASl3EU",
+                "target": false,
+                "type": "comment",
+                "body": "Vimeo allows replacing a video with a new version without changing the link. That is excellent for sharing a in-progress project.\u00a0",
+                "created_utc": "2024-01-24 14:52:26 UTC",
+                "comment_id": "sNGvpYJ",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_UsX27Mp",
+                "target": false,
+                "type": "comment",
+                "body": "ah, so there is a way to fix that. I found it extremely strange that it was only searching my own videos. basically is why I abandoned it for anything that wasnt a youtube alternative video hosting",
+                "created_utc": "2024-01-24 17:16:45 UTC",
+                "comment_id": "J7qgoiI",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "N4KjJ9d"
+            },
+            {
+                "user_id": "subject_JxfKRfO",
+                "target": false,
+                "type": "comment",
+                "body": "Vimeo now I see just commercial work on there really... and corporate media.\n\nAlso, with YouTube increasing in quality and not limiting your upload size it's by far the better option. Who wants to spend money to be able to upload a short to Vimeo?",
+                "created_utc": "2024-01-24 17:25:06 UTC",
+                "comment_id": "iKk4dds",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_ZtCLDB9",
+                "target": false,
+                "type": "comment",
+                "body": "Works fine.",
+                "created_utc": "2024-01-24 17:25:16 UTC",
+                "comment_id": "1Q8wL0s",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_IeFjJ6Y",
+                "target": false,
+                "type": "comment",
+                "body": "Vimeo is much more for direct sharing and hosting now than it is about the social video platform it used to be.\n\nThe UI sucks, but it still has significantly better video quality than YouTube. I use to to work on drafts with clients; it has a really useful client review tool. I also host my website videos on Vimeo. Just looks nicer than a YouTube window playing.",
+                "created_utc": "2024-01-24 18:24:46 UTC",
+                "comment_id": "PWYod9G",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_nuRDF89",
+                "target": false,
+                "type": "comment",
+                "body": "If you know how to encode correctly the difference isn\u2019t as huge anymore today as it used to be.",
+                "created_utc": "2024-01-24 19:10:18 UTC",
+                "comment_id": "VFFIFGf",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "WE1I5FI"
+            },
+            {
+                "user_id": "subject_vTJuGNp",
+                "target": false,
+                "type": "comment",
+                "body": "Do you have any tutorials or resources to show the best encoding settings? I often get a bit lost with all the different options, even the first ones that show up with most views are all different from each other. I have tried a few but I can never get it to be as good as Vimeo. If you have any recommendations would be much appreciated!",
+                "created_utc": "2024-01-24 19:28:41 UTC",
+                "comment_id": "y4AphLW",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "VFFIFGf"
+            },
+            {
+                "user_id": "subject_4dVyqQw",
+                "target": false,
+                "type": "comment",
+                "body": "TLDR: WordPress + bunny.net for the win.\n\nVimeo is grotesquely overpriced if you need to host a lot of work, or longer form, higher-quality stuff. YouTube is a shitshow, with your prospects or customers seeing ads and recommended videos.\n\nFor those of you hosting extensive or frequently rotating portfolios on custom websites, have longer pieces (large files), and stuff that doesn't work well on frame.io - using bunny.net streaming service with your custom website (and creating a custom WordPress website if you don't already have one) - is vastly more cost-effective than Vimeo, and customizable too.\n\nGreat video quality, no ads on your videos, secure embedding controls, customizable and clean player with automatic bandwidth scaling, fast worldwide CDN (and you can choose CDN locations and limit them to save even more money). And WordPress can handle password access to pages.\n\nThe only downside I see is the slightest bit more learning curve than Vimeo. SLIGHTEST.",
+                "created_utc": "2024-01-24 19:28:50 UTC",
+                "comment_id": "RalfpB0",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_vTJuGNp",
+                "target": false,
+                "type": "comment",
+                "body": "yeah they did that like a year ago if I recall correctly. Weird move, but yeah it still works",
+                "created_utc": "2024-01-24 19:29:39 UTC",
+                "comment_id": "I2deAOz",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "J7qgoiI"
+            },
+            {
+                "user_id": "subject_4dVyqQw",
+                "target": false,
+                "type": "comment",
+                "body": "I just posted a reply in the top/OP about WordPress + bunny.net - you should check it out.",
+                "created_utc": "2024-01-24 19:31:37 UTC",
+                "comment_id": "msaD9Kf",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "7AOWhLB"
+            },
+            {
+                "user_id": "subject_5JEVZoW",
+                "target": false,
+                "type": "comment",
+                "body": "I use it to send unlisted self tapes to my agent for them to download and that\u2019s it.",
+                "created_utc": "2024-01-24 20:47:13 UTC",
+                "comment_id": "Ym5geDr",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_nuRDF89",
+                "target": false,
+                "type": "comment",
+                "body": "Just search for best encoding settings for YouTube on YouTube. Essentially it\u2019s best to upload in 4K and at the highest possible Bitrate as close as possible to YouTube\u2019s official recommended Bitrate.",
+                "created_utc": "2024-01-24 22:18:00 UTC",
+                "comment_id": "U5kDpCk",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "y4AphLW"
+            },
+            {
+                "user_id": "subject_vHvgv9Y",
+                "target": false,
+                "type": "comment",
+                "body": "This has been a great discussion to see. OP in case you're interested and others find it helpful Vimeo publishes a product update feed that shows the bigger feature releases here: [https://vimeo.com/features/product-updates](https://vimeo.com/features/product-updates)\n\n&#x200B;\n\nWe release minor improvements every week and not all of them get an article but the team here is quite dedicated to the power of video to connect people. The types of customers using Vimeo has grown over the years but filmmakers are absolutely part of the discussion. We had Ben Proudfoot (Academy Award winner for short films) come and talk to the company earlier this year about his experiences as a filmmaker and how Vimeo plays a part of that, and critically where we could do more for the craft.",
+                "created_utc": "2024-01-25 13:28:26 UTC",
+                "comment_id": "V7kizJX",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_7Evlm8D",
+                "target": false,
+                "type": "comment",
+                "body": "It's good to use for talks/archiving.",
+                "created_utc": "2024-01-27 07:33:16 UTC",
+                "comment_id": "3g2E8y0",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "deleted_user",
+                "target": false,
+                "type": "comment",
+                "body": "It's sad if it's dying. I see that some content creators deleting their content from Vimeo and moving it on YT.\n\nit's better platform than youtube for anything longer and more sensible than crappy reels and tiktok-alike content. Particularly for 1-hour or longer films not interrupted by ads and recommendations\n\n\\-better video quality. YT compression sometimes kills the scene.\n\n\\-you can replace video with better version later\n\n\\-no or far less copyright strikes (which annoys me a lot). for example I cannot upload dance competition footage on YT, i got copyright strike because of the music in the background .\n\n\\-YT comment moderation and complaint system sucks, they don't ban trolls leaving offensive comments, and don't remove offensive channels. I reported them many times and no actions were taken by platform. Monetisation is over moral principles.",
+                "created_utc": "2024-01-31 15:15:25 UTC",
+                "comment_id": "fyN3rHi",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_MdOG5c4",
+                "target": false,
+                "type": "comment",
+                "body": "Thank you \ud83d\ude4f",
+                "created_utc": "2024-02-11 16:27:08 UTC",
+                "comment_id": "K5i7d7w",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "msaD9Kf"
+            },
+            {
+                "user_id": "subject_MdOG5c4",
+                "target": false,
+                "type": "comment",
+                "body": "I work in advertising industry and direct commercials but also act as a creative director for experiences and other types unconventional content for brands. Sometimes it helps to give a little more context.",
+                "created_utc": "2024-02-11 16:35:06 UTC",
+                "comment_id": "JREleC6",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "uyzpIKk"
+            },
+            {
+                "user_id": "subject_TwwmIk9",
+                "target": false,
+                "type": "comment",
+                "body": "For your purposes Vimeo is still fine. There are cheaper and/or higher-quality platforms that do the same thing, but Vimeo is still used widely. So if you are happy with it, no reason to look elsewhere. For live streaming, however, I would look elsewhere. Vimeo has this bad habit of pushing you into a much more expensive plan as soon as you generate some traffic.",
+                "created_utc": "2024-02-12 09:06:29 UTC",
+                "comment_id": "KGOb3J3",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_hszTwpP",
+                "target": false,
+                "type": "comment",
+                "body": "I have created my own saas platfom, [digma.io](http://digma.io) , feel free to have a go and let me know what you think.",
+                "created_utc": "2024-05-30 17:31:55 UTC",
+                "comment_id": "wPLLTYu",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "MBYSQMW"
+            },
+            {
+                "user_id": "subject_ZdBBVK2",
+                "target": false,
+                "type": "comment",
+                "body": "It would take too much space if they decided to go for more quality. There is no limit to the amount anyone can upload on youtube. Whole world is using it right now. Too much storage would be required if youtube wasn't aggressive with their video compression.",
+                "created_utc": "2024-07-14 17:30:31 UTC",
+                "comment_id": "wWsQUmj",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "QlOYzHq"
+            },
+            {
+                "user_id": "subject_8zckUeA",
+                "target": false,
+                "type": "comment",
+                "body": "Exactly. And file storage aside, they need to compress it further in order to stream videos within the bandwidth of a huge range of devices and connection strengths.",
+                "created_utc": "2024-07-14 17:55:48 UTC",
+                "comment_id": "uaMpgYv",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "wWsQUmj"
+            },
+            {
+                "user_id": "subject_e65ZkbH",
+                "target": false,
+                "type": "comment",
+                "body": "Even more expensive than Vimeo. It has existed for over 3 years, with 2 reviews on Trustpilot. Why bother?",
+                "created_utc": "2024-08-18 20:08:04 UTC",
+                "comment_id": "05obVgo",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "wPLLTYu"
+            },
+            {
+                "user_id": "subject_SPsOxQr",
+                "target": false,
+                "type": "comment",
+                "body": "Yes! Everyone serious about filmmaking uses Frame.io. Vimeo is dead. https://frame.io/",
+                "created_utc": "2024-09-25 07:54:21 UTC",
+                "comment_id": "DtBcwp5",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "g5WR2nJ"
+            },
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "I can't even find simple view counts anymore, which is the most important stat. I used to start my day with Vimeo, checking out the latest videos. Now it's UI is an unusable Russian doll of useless landing pages with no info. How did something so simple and perfect become so bad?",
+                "created_utc": "2024-11-05 15:14:54 UTC",
+                "comment_id": "WdshEy2",
+                "submission_id": "g5WR2nJ",
+                "parent_id": "hijfcxW"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "BATMAN VERSUS // An Animated Short",
+            "body": "",
+            "created_utc": "2024-11-05 15:30:05 UTC",
+            "submission_id": "HS3VF9n",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "CHRYSALIS Animation",
+            "body": "",
+            "created_utc": "2024-11-05 15:31:45 UTC",
+            "submission_id": "EEPyBWf",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "THE OLYMPIANS Animation",
+            "body": "",
+            "created_utc": "2024-11-05 15:33:29 UTC",
+            "submission_id": "YhoVHCZ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_G4I10no",
+                "target": false,
+                "type": "comment",
+                "body": "What\u2019s the music I can\u2019t remember",
+                "created_utc": "2024-11-05 22:00:02 UTC",
+                "comment_id": "v7jq9TT",
+                "submission_id": "YhoVHCZ",
+                "parent_id": "YhoVHCZ"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "SCARECROW in the Land of Ooo mashup",
+            "body": "",
+            "created_utc": "2024-11-05 15:34:42 UTC",
+            "submission_id": "vNisHUe",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_fOMjxfR",
+                "target": false,
+                "type": "comment",
+                "body": "Oh, that is immaculately creepy... Nice job.",
+                "created_utc": "2024-11-06 19:31:11 UTC",
+                "comment_id": "SokcTCd",
+                "submission_id": "vNisHUe",
+                "parent_id": "vNisHUe"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DvMoot5",
+            "target": false,
+            "type": "submission",
+            "title": "The 10 Best Robert Mitchum Movies, Ranked",
+            "body": "",
+            "created_utc": "2024-09-26 20:16:07 UTC",
+            "submission_id": "53zGvyZ",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_DF84owD",
+                "target": true,
+                "type": "comment",
+                "body": "Disagree with a few of those. I did a quick animation of my top 10 Mitchum films a few years ago\n\n[https://youtu.be/\\_m3v30q6XSU?si=6GXGkm89JZH-YUjb](https://youtu.be/_m3v30q6XSU?si=6GXGkm89JZH-YUjb)",
+                "created_utc": "2024-11-05 15:37:00 UTC",
+                "comment_id": "9OyOmJA",
+                "submission_id": "53zGvyZ",
+                "parent_id": "53zGvyZ"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "Gregg Allman LAID BACK",
+            "body": "",
+            "created_utc": "2024-11-08 17:17:52 UTC",
+            "submission_id": "LxAGKRh",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_1xihGAS",
+                "target": false,
+                "type": "comment",
+                "body": "Such a great album!  I got \"Laid Back\" and Dickey's \"Highway Call\" around the same time, and I was good for a while, lol.",
+                "created_utc": "2024-11-08 18:43:17 UTC",
+                "comment_id": "xdyMPB1",
+                "submission_id": "LxAGKRh",
+                "parent_id": "LxAGKRh"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "THREADBARE animated short",
+            "body": "",
+            "created_utc": "2024-11-08 17:21:14 UTC",
+            "submission_id": "d22stAJ",
+            "parent_id": null
+        },
+        "comments": []
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "SUPERMAN'S BEST FRIEND",
+            "body": "",
+            "created_utc": "2024-11-08 17:23:01 UTC",
+            "submission_id": "MusiGoG",
+            "parent_id": null
+        },
+        "comments": [
+            {
+                "user_id": "subject_zxs0tgt",
+                "target": false,
+                "type": "comment",
+                "body": "**Make sure your post fits our spoiler requirements!**\n\nSpoiler etiquette is required for posts containing spoilers.  Spoilers include unofficial content (rumors, leaks, set photos, etc.) from **any** unreleased media *and* unofficially released content from recently-released media under a month old.  This applies to all media, not just Superman-related.  \n\n* Posts containing spoilers should be marked as such, and the titles should indicate what they spoil (name of show, movie, etc.) and not contain any spoilers itself (twists, surprises, or endings).  If in doubt, assume it's a spoiler.\n* Commenters, don't spoil outside the scope of the post, hide the text with spoiler code. [(Formatting Help)](https://support.reddithelp.com/hc/en-us/articles/360043033952-Formatting-Guide)\n\nu/KoalaBobfart, if this post does not meet our spoiler guidelines, you may delete it and resubmit it corrected.  If it's fine, you may ignore this message.\n\n*Spoiling may result in a ban, depending on the severity. Please report if it happens.*\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/superman) if you have any questions or concerns.*",
+                "created_utc": "2024-11-08 17:23:02 UTC",
+                "comment_id": "WfNvcRR",
+                "submission_id": "MusiGoG",
+                "parent_id": "MusiGoG"
+            }
+        ]
+    },
+    {
+        "submission": {
+            "user_id": "subject_DF84owD",
+            "target": true,
+            "type": "submission",
+            "title": "BATMAN Animated Short",
+            "body": "",
+            "created_utc": "2024-11-08 17:24:19 UTC",
+            "submission_id": "nEEXkmW",
+            "parent_id": null
+        },
+        "comments": []
+    }
+]

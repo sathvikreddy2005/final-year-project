@@ -363,6 +363,12 @@ body::after{
 .conf-label{font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-muted);letter-spacing:0.09em;text-transform:uppercase;}
 .conf-val{font-weight:800;font-size:1.9rem;letter-spacing:-0.04em;line-height:1;color:var(--green);}
 .conf-sub{font-size:0.68rem;color:var(--text-muted);}
+.results-alert{
+  display:none;margin-bottom:18px;padding:12px 16px;border-radius:14px;
+  background:#fff4e5;border:1px solid rgba(217,119,6,0.22);color:#9a5b00;
+  font-size:0.83rem;line-height:1.55;font-weight:600;
+}
+.results-alert.show{display:block;}
 .results-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-bottom:24px;}
 .rcard{
   background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:28px 26px;

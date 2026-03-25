@@ -29,6 +29,12 @@ const pendingPredictions = {
   video: null,
 };
 
+const apiErrors = {
+  text: null,
+  audio: null,
+  video: null,
+};
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -124,7 +130,9 @@ async function analyzeText() {
     const data = await res.json();
     modalityScores.text = parseApiScores(data.scores);
     modalityRaw.text = data.raw || null;
+    apiErrors.text = null;
   })().catch((err) => {
+    apiErrors.text = err.message || "Text prediction failed.";
     console.error("Text prediction failed:", err);
   });
 
@@ -352,7 +360,9 @@ async function analyzeAudio() {
     const data = await res.json();
     modalityRaw.audio = data.raw || null;
     modalityScores.audio = parseApiScores(data.scores);
+    apiErrors.audio = null;
   })().catch((err) => {
+    apiErrors.audio = err.message || "Audio prediction failed.";
     console.error("Audio prediction failed:", err);
   });
 
@@ -432,7 +442,9 @@ async function analyzeVideo() {
     if (data.raw && data.raw.available === false) {
       speakPrompt("No face detected. Please place your face in front of the camera and try again.");
     }
+    apiErrors.video = null;
   })().catch((err) => {
+    apiErrors.video = err.message || "Video prediction failed.";
     console.error("Video prediction failed:", err);
   });
 
@@ -456,9 +468,9 @@ async function analyzeVideo() {
 function computeFusedScores() {
   const valid = [modalityScores.text, modalityScores.audio, modalityScores.video].filter(Boolean);
   if (valid.length === 0) {
-    fusedScores.stress = 72;
-    fusedScores.anxiety = 58;
-    fusedScores.depression = 38;
+    fusedScores.stress = 0;
+    fusedScores.anxiety = 0;
+    fusedScores.depression = 0;
     return;
   }
 
@@ -562,9 +574,27 @@ function capitalize(value) {
 }
 
 function renderExplainability() {
+  renderResultsAlert();
   renderExplainabilitySection("xai-text-list", textExplanationItems());
   renderExplainabilitySection("xai-audio-list", audioExplanationItems());
   renderExplainabilitySection("xai-video-list", videoExplanationItems());
+}
+
+function renderResultsAlert() {
+  const el = document.getElementById("results-alert");
+  if (!el) return;
+  const activeErrors = Object.entries(apiErrors)
+    .filter(([, value]) => value)
+    .map(([key]) => key);
+
+  if (activeErrors.length === 0) {
+    el.classList.remove("show");
+    el.textContent = "";
+    return;
+  }
+
+  el.classList.add("show");
+  el.textContent = `Live backend analysis is unavailable for: ${activeErrors.join(", ")}. Showing zero values instead of fallback demo scores.`;
 }
 
 function renderExplainabilitySection(id, items) {
@@ -766,6 +796,9 @@ function restartAll() {
   modalityRaw.text = null;
   modalityRaw.audio = null;
   modalityRaw.video = null;
+  apiErrors.text = null;
+  apiErrors.audio = null;
+  apiErrors.video = null;
   pendingPredictions.text = null;
   pendingPredictions.audio = null;
   pendingPredictions.video = null;

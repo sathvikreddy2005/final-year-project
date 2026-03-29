@@ -1,4 +1,5 @@
-﻿const API_BASE = "http://127.0.0.1:8000";
+﻿const API_BASE =
+  window.location.protocol === "file:" ? "http://127.0.0.1:8000" : window.location.origin;
 
 let curPage = 0;
 const progs = [0, 25, 50, 75, 100];
@@ -23,6 +24,7 @@ const fusedScores = {
 
 const STEP_DELAY_MS = 5500;
 const FINAL_WAIT_MS = 20000;
+const VIDEO_CAPTURE_MS = 5000;
 const pendingPredictions = {
   text: null,
   audio: null,
@@ -34,6 +36,10 @@ const apiErrors = {
   audio: null,
   video: null,
 };
+
+function $(id) {
+  return document.getElementById(id);
+}
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -62,10 +68,10 @@ function speakPrompt(message) {
 }
 
 function goToPage(n) {
-  document.getElementById("page-" + curPage).classList.remove("active");
+  $("page-" + curPage).classList.remove("active");
   curPage = n;
-  document.getElementById("page-" + n).classList.add("active");
-  document.getElementById("prog").style.width = progs[n] + "%";
+  $("page-" + n).classList.add("active");
+  $("prog").style.width = progs[n] + "%";
   scrollTo(0, 0);
   if (n === 4) {
     computeFusedScores();
@@ -77,15 +83,15 @@ function goToPage(n) {
 
 function onTextInput(el) {
   const l = el.value.length;
-  const cc = document.getElementById("char-cnt");
+  const cc = $("char-cnt");
   cc.textContent = l + " / 50";
   cc.className = "char-counter" + (l >= 50 ? " ok" : "");
-  document.getElementById("btn-text-next").disabled = l < 50;
+  $("btn-text-next").disabled = l < 50;
 }
 
 function addChip(el, label) {
   el.classList.toggle("on");
-  const ta = document.getElementById("text-input");
+  const ta = $("text-input");
   if (el.classList.contains("on")) {
     ta.value += (ta.value ? ", " : "") + label.toLowerCase();
     onTextInput(ta);
@@ -93,7 +99,7 @@ function addChip(el, label) {
 }
 
 function showOverlay(id, show) {
-  const el = document.getElementById(id);
+  const el = $(id);
   if (!el) return;
   if (show) el.classList.add("show");
   else el.classList.remove("show");
@@ -101,21 +107,17 @@ function showOverlay(id, show) {
 
 function parseApiScores(scores) {
   return {
-    stress: Number(scores.stress || 0),
-    anxiety: Number(scores.anxiety || 0),
-    depression: Number(scores.depression || 0),
+    stress: scores.stress === undefined ? null : Number(scores.stress),
+    anxiety: scores.anxiety === undefined ? null : Number(scores.anxiety),
+    depression: scores.depression === undefined ? null : Number(scores.depression),
   };
 }
 
 async function analyzeText() {
-  const text = document.getElementById("text-input").value.trim();
-  if (text.length < 10) {
-    alert("Please enter at least 10 characters.");
-    return;
-  }
+  const text = $("text-input").value.trim();
 
   showOverlay("text-overlay", true);
-  document.getElementById("btn-text-next").disabled = true;
+  $("btn-text-next").disabled = true;
 
   pendingPredictions.text = (async () => {
     const res = await fetch(`${API_BASE}/predict/text`, {
@@ -142,20 +144,18 @@ async function analyzeText() {
 }
 
 function onAudioFileSelected(input) {
-  const btn = document.getElementById("btn-audio-next");
+  const btn = $("btn-audio-next");
   if (input.files && input.files.length > 0) {
     btn.disabled = false;
     recordedAudioLevel = 1;
-    document.getElementById("status-txt").textContent = `Selected: ${input.files[0].name}`;
+    $("status-txt").textContent = `Selected: ${input.files[0].name}`;
   }
 }
 
 let recOn = false;
 let recInterval;
 let recSecs = 0;
-let mediaRecorder = null;
 let micStream = null;
-let recordedChunks = [];
 let recordedAudioBlob = null;
 let recordedAudioExt = "wav";
 let audioContext = null;
@@ -164,7 +164,7 @@ let audioProcessorNode = null;
 let pcmChunks = [];
 let recordedSampleRate = 44100;
 let recordedAudioLevel = 0;
-const wf = document.getElementById("waveform");
+const wf = $("waveform");
 for (let i = 0; i < 40; i++) {
   const b = document.createElement("div");
   b.className = "wb";
@@ -172,19 +172,57 @@ for (let i = 0; i < 40; i++) {
   wf.appendChild(b);
 }
 
+function cleanupAudioRecordingResources() {
+  if (audioProcessorNode) {
+    audioProcessorNode.disconnect();
+    audioProcessorNode.onaudioprocess = null;
+    audioProcessorNode = null;
+  }
+  if (audioSourceNode) {
+    audioSourceNode.disconnect();
+    audioSourceNode = null;
+  }
+  if (audioContext) {
+    audioContext.close();
+    audioContext = null;
+  }
+  if (micStream) {
+    micStream.getTracks().forEach((t) => t.stop());
+    micStream = null;
+  }
+}
+
+function resetWaveformBars(height = "4px") {
+  wf.querySelectorAll(".wb").forEach((bar) => {
+    bar.style.height = height;
+  });
+}
+
+function setAudioRecordingUi(isRecording) {
+  const btn = $("rec-btn");
+  const zone = $("rec-zone");
+  const tmr = $("timer");
+  const st = $("rec-status");
+  const stxt = $("status-txt");
+
+  btn.classList.toggle("recording", isRecording);
+  btn.textContent = isRecording ? "STOP" : "MIC";
+  zone.classList.toggle("recording", isRecording);
+  tmr.classList.toggle("live", isRecording);
+  st.classList.toggle("live", isRecording);
+  wf.classList.toggle("live", isRecording);
+  stxt.textContent = isRecording ? "Recording in progress..." : `Complete - ${recSecs}s captured`;
+}
+
 async function toggleRec() {
   recOn = !recOn;
-  const btn = document.getElementById("rec-btn");
-  const zone = document.getElementById("rec-zone");
-  const tmr = document.getElementById("timer");
-  const st = document.getElementById("rec-status");
-  const stxt = document.getElementById("status-txt");
+  const tmr = $("timer");
+  const stxt = $("status-txt");
 
   if (recOn) {
     recordedAudioBlob = null;
     recordedAudioExt = "wav";
     recordedAudioLevel = 0;
-    recordedChunks = [];
     pcmChunks = [];
 
     try {
@@ -206,13 +244,7 @@ async function toggleRec() {
       return;
     }
 
-    btn.classList.add("recording");
-    btn.textContent = "STOP";
-    zone.classList.add("recording");
-    tmr.classList.add("live");
-    st.classList.add("live");
-    stxt.textContent = "Recording in progress...";
-    wf.classList.add("live");
+    setAudioRecordingUi(true);
     recSecs = 0;
     recInterval = setInterval(() => {
       recSecs++;
@@ -229,42 +261,15 @@ async function toggleRec() {
     recordedAudioBlob = encodeWavFromChunks(pcmChunks, recordedSampleRate);
     recordedAudioExt = "wav";
     recordedAudioLevel = estimateAudioLevel(pcmChunks);
-
-    if (audioProcessorNode) {
-      audioProcessorNode.disconnect();
-      audioProcessorNode.onaudioprocess = null;
-      audioProcessorNode = null;
-    }
-    if (audioSourceNode) {
-      audioSourceNode.disconnect();
-      audioSourceNode = null;
-    }
-    if (audioContext) {
-      audioContext.close();
-      audioContext = null;
-    }
-    if (micStream) {
-      micStream.getTracks().forEach((t) => t.stop());
-      micStream = null;
-    }
-    mediaRecorder = null;
-
-    btn.classList.remove("recording");
-    btn.textContent = "MIC";
-    zone.classList.remove("recording");
-    tmr.classList.remove("live");
-    st.classList.remove("live");
-    stxt.textContent = `Complete - ${recSecs}s captured`;
-    wf.classList.remove("live");
-    wf.querySelectorAll(".wb").forEach((bar) => {
-      bar.style.height = "4px";
-    });
+    cleanupAudioRecordingResources();
+    setAudioRecordingUi(false);
+    resetWaveformBars();
     clearInterval(recInterval);
     if (recSecs >= 5 && recordedAudioLevel >= 0.008) {
-      document.getElementById("btn-audio-next").disabled = false;
+      $("btn-audio-next").disabled = false;
       stxt.textContent = `Complete - ${recSecs}s captured (ready to analyze)`;
     } else if (recSecs >= 5) {
-      document.getElementById("btn-audio-next").disabled = true;
+      $("btn-audio-next").disabled = true;
       stxt.textContent = "No clear voice detected. Please record again and speak clearly.";
     }
   }
@@ -330,7 +335,7 @@ function estimateAudioLevel(chunks) {
 }
 
 async function analyzeAudio() {
-  const input = document.getElementById("audio-file");
+  const input = $("audio-file");
   const hasUpload = input && input.files && input.files.length > 0;
   const hasRecording = recordedAudioBlob && recordedAudioBlob.size > 0;
 
@@ -340,7 +345,7 @@ async function analyzeAudio() {
   }
 
   showOverlay("audio-overlay", true);
-  document.getElementById("btn-audio-next").disabled = true;
+  $("btn-audio-next").disabled = true;
 
   pendingPredictions.audio = (async () => {
     const form = new FormData();
@@ -372,62 +377,166 @@ async function analyzeAudio() {
 }
 
 let camStream = null;
+let videoRecorder = null;
+
+function getSupportedVideoMimeType() {
+  const candidates = [
+    "video/webm;codecs=vp9,opus",
+    "video/webm;codecs=vp8,opus",
+    "video/webm",
+    "video/mp4",
+  ];
+  for (const type of candidates) {
+    if (window.MediaRecorder && MediaRecorder.isTypeSupported(type)) {
+      return type;
+    }
+  }
+  return "";
+}
+
+function setCameraDecorations(enabled) {
+  ["face-box", "scan-beam", "cc-tl", "cc-tr", "cc-bl", "cc-br"].forEach((id) =>
+    $(id).classList.toggle("on", enabled)
+  );
+}
+
+function setCameraUiActive(active) {
+  $("cam-ph").style.display = active ? "none" : "";
+  $("cam-start-btn").style.display = active ? "none" : "flex";
+  $("cam-stop-btn").style.display = active ? "flex" : "none";
+  $("btn-video-next").disabled = !active;
+  setCameraDecorations(active);
+  if (!active) {
+    $("cam-start-btn").innerHTML = "Restart Camera";
+    $("cam-ph").querySelector(".cam-placeholder-text").textContent = "Camera stopped";
+  }
+}
+
+function cleanupVideoResources() {
+  if (videoRecorder && videoRecorder.state !== "inactive") {
+    videoRecorder.stop();
+  }
+  videoRecorder = null;
+  if (camStream) {
+    camStream.getTracks().forEach((t) => t.stop());
+    camStream = null;
+  }
+}
 
 function startCam() {
-  const go = () => {
-    document.getElementById("cam-ph").style.display = "none";
-    ["face-box", "scan-beam", "cc-tl", "cc-tr", "cc-bl", "cc-br"].forEach((id) =>
-      document.getElementById(id).classList.add("on")
-    );
-    document.getElementById("cam-start-btn").style.display = "none";
-    document.getElementById("cam-stop-btn").style.display = "flex";
-    document.getElementById("btn-video-next").disabled = false;
-    speakPrompt("Please place your face in front of the camera.");
+  const onCameraReady = () => {
+    setCameraUiActive(true);
+    speakPrompt("Please place your face in front of the camera. A short video clip will be recorded for analysis.");
   };
 
   navigator.mediaDevices
     .getUserMedia({ video: true })
     .then((s) => {
       camStream = s;
-      const v = document.getElementById("cam-feed");
+      const v = $("cam-feed");
       v.srcObject = s;
       v.classList.add("on");
-      go();
+      onCameraReady();
     })
-    .catch(() => go());
+    .catch(() => {
+      alert("Camera access failed. Please allow camera permission.");
+    });
 }
 
 function stopCam() {
-  if (camStream) {
-    camStream.getTracks().forEach((t) => t.stop());
-    camStream = null;
+  cleanupVideoResources();
+  $("cam-feed").classList.remove("on");
+  setCameraUiActive(false);
+}
+
+async function recordCurrentVideoClip(durationMs) {
+  if (!camStream) {
+    throw new Error("Camera is not running.");
   }
-  document.getElementById("cam-feed").classList.remove("on");
-  document.getElementById("cam-ph").style.display = "";
-  document.getElementById("cam-ph").querySelector(".cam-placeholder-text").textContent =
-    "Camera stopped";
-  ["face-box", "scan-beam", "cc-tl", "cc-tr", "cc-bl", "cc-br"].forEach((id) =>
-    document.getElementById(id).classList.remove("on")
-  );
-  document.getElementById("cam-stop-btn").style.display = "none";
-  document.getElementById("cam-start-btn").style.display = "flex";
-  document.getElementById("cam-start-btn").innerHTML = "Restart Camera";
+  if (!window.MediaRecorder) {
+    throw new Error("This browser does not support video recording.");
+  }
+
+  const mimeType = getSupportedVideoMimeType();
+  if (!mimeType) {
+    throw new Error("No supported browser video format was found.");
+  }
+
+  const chunks = [];
+
+  return new Promise((resolve, reject) => {
+    let settled = false;
+
+    try {
+      videoRecorder = new MediaRecorder(camStream, mimeType ? { mimeType } : undefined);
+    } catch (err) {
+      reject(err);
+      return;
+    }
+
+    const finish = (blob) => {
+      if (settled) return;
+      settled = true;
+      resolve(blob);
+    };
+
+    const fail = (err) => {
+      if (settled) return;
+      settled = true;
+      reject(err);
+    };
+
+    videoRecorder.ondataavailable = (event) => {
+      if (event.data && event.data.size > 0) {
+        chunks.push(event.data);
+      }
+    };
+
+    videoRecorder.onerror = () => fail(new Error("Video recording failed."));
+
+    videoRecorder.onstop = () => {
+      if (!chunks.length) {
+        fail(new Error("No video data was recorded."));
+        return;
+      }
+      const blob = new Blob(chunks, { type: mimeType || "video/webm" });
+      finish(blob);
+    };
+
+    videoRecorder.start();
+    setTimeout(() => {
+      if (videoRecorder && videoRecorder.state !== "inactive") {
+        videoRecorder.stop();
+      }
+    }, durationMs);
+  });
 }
 
 async function analyzeVideo() {
-  const frameBlob = captureCurrentVideoFrame();
-  if (!frameBlob) {
-    speakPrompt("Please start the camera and place your face in front of the camera.");
+  const video = $("cam-feed");
+  if (!camStream || !video || video.readyState < 2) {
+    speakPrompt("Please start the camera and wait for the live feed before recording the video clip.");
     alert("Please start the camera and wait for the live feed before analyzing video.");
     return;
   }
 
   showOverlay("video-overlay", true);
-  document.getElementById("btn-video-next").disabled = true;
+  $("btn-video-next").disabled = true;
+  speakPrompt("Recording a short video clip. Please keep your face centered.");
+
+  let clipBlob;
+  try {
+    clipBlob = await recordCurrentVideoClip(VIDEO_CAPTURE_MS);
+  } catch (err) {
+    showOverlay("video-overlay", false);
+    $("btn-video-next").disabled = false;
+    alert(err.message || "Video recording failed.");
+    return;
+  }
 
   pendingPredictions.video = (async () => {
     const form = new FormData();
-    form.append("file", frameBlob, "camera-frame.jpg");
+    form.append("file", clipBlob, "camera-clip.webm");
     const res = await fetch(`${API_BASE}/predict/video`, {
       method: "POST",
       body: form,
@@ -440,7 +549,7 @@ async function analyzeVideo() {
     modalityRaw.video = data.raw || null;
     modalityScores.video = data.raw && data.raw.available === false ? null : parseApiScores(data.scores);
     if (data.raw && data.raw.available === false) {
-      speakPrompt("No face detected. Please place your face in front of the camera and try again.");
+      speakPrompt("No face was detected clearly in the recorded video. Please keep your face centered and try again.");
     }
     apiErrors.video = null;
   })().catch((err) => {
@@ -466,27 +575,23 @@ async function analyzeVideo() {
 }
 
 function computeFusedScores() {
-  const valid = [modalityScores.text, modalityScores.audio, modalityScores.video].filter(Boolean);
-  if (valid.length === 0) {
-    fusedScores.stress = 0;
-    fusedScores.anxiety = 0;
-    fusedScores.depression = 0;
-    return;
+  fusedScores.stress = averageMetric("stress");
+  fusedScores.anxiety = averageMetric("anxiety");
+  fusedScores.depression = averageMetric("depression");
+}
+
+function averageMetric(metric) {
+  const values = [modalityScores.text, modalityScores.audio, modalityScores.video]
+    .filter(Boolean)
+    .map((scores) => scores[metric])
+    .filter((value) => value !== null && value !== undefined);
+
+  if (values.length === 0) {
+    return 0;
   }
 
-  const sum = valid.reduce(
-    (acc, m) => {
-      acc.stress += m.stress || 0;
-      acc.anxiety += m.anxiety || 0;
-      acc.depression += m.depression || 0;
-      return acc;
-    },
-    { stress: 0, anxiety: 0, depression: 0 }
-  );
-
-  fusedScores.stress = Math.round(sum.stress / valid.length);
-  fusedScores.anxiety = Math.round(sum.anxiety / valid.length);
-  fusedScores.depression = Math.round(sum.depression / valid.length);
+  const total = values.reduce((sum, value) => sum + value, 0);
+  return Math.round(total / values.length);
 }
 
 function explainSeverity(score, label) {
@@ -508,17 +613,10 @@ function textExplanationItems() {
       `Depression-related language was classified as ${raw.depression.level}, which pushed the text depression score upward.`
     );
   }
-  if (raw.stress?.source === "proxy_from_text_keywords") {
-    items.push(
-      `Stress percentage was influenced by stress-related keywords and phrasing in the written response.`
-    );
+  if (scores.depression !== null && scores.depression !== undefined) {
+    items.push(explainSeverity(scores.depression, "Depression"));
   }
-  if (raw.anxiety?.source === "proxy_from_text_keywords") {
-    items.push(
-      `Anxiety percentage was influenced by worry, fear, or nervousness-related wording in the text.`
-    );
-  }
-  items.push(explainSeverity(scores.depression, "Depression"));
+  items.push("This text branch contributes only to depression-related language assessment, not stress or anxiety scoring.");
   return items.slice(0, 3);
 }
 
@@ -554,7 +652,7 @@ function videoExplanationItems() {
   const items = [];
   if (raw.dominant_emotion) {
     items.push(
-      `The facial model saw ${raw.dominant_emotion} as the dominant visible emotion in the captured frame.`
+      `The facial model saw ${raw.dominant_emotion} as the dominant visible emotion across the analyzed video frames.`
     );
   }
   if (raw.emotions?.sad !== undefined) {
@@ -581,7 +679,7 @@ function renderExplainability() {
 }
 
 function renderResultsAlert() {
-  const el = document.getElementById("results-alert");
+  const el = $("results-alert");
   if (!el) return;
   const activeErrors = Object.entries(apiErrors)
     .filter(([, value]) => value)
@@ -598,7 +696,7 @@ function renderResultsAlert() {
 }
 
 function renderExplainabilitySection(id, items) {
-  const el = document.getElementById(id);
+  const el = $(id);
   if (!el) return;
   el.innerHTML = "";
   items.forEach((item) => {
@@ -608,35 +706,10 @@ function renderExplainabilitySection(id, items) {
   });
 }
 
-function captureCurrentVideoFrame() {
-  const video = document.getElementById("cam-feed");
-  if (!video || !video.srcObject || video.readyState < 2 || !video.videoWidth || !video.videoHeight) {
-    return null;
-  }
-
-  const canvas = document.createElement("canvas");
-  canvas.width = video.videoWidth;
-  canvas.height = video.videoHeight;
-  const ctx = canvas.getContext("2d");
-  if (!ctx) return null;
-  ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
-
-  const dataUrl = canvas.toDataURL("image/jpeg", 0.92);
-  const [header, base64] = dataUrl.split(",");
-  if (!base64 || !header.includes("image/jpeg")) return null;
-
-  const binary = atob(base64);
-  const bytes = new Uint8Array(binary.length);
-  for (let i = 0; i < binary.length; i++) {
-    bytes[i] = binary.charCodeAt(i);
-  }
-  return new Blob([bytes], { type: "image/jpeg" });
-}
-
 function animateMetric(arcId, valId, barId, target) {
-  const arc = document.getElementById(arcId);
-  const val = document.getElementById(valId);
-  const bar = document.getElementById(barId);
+  const arc = $(arcId);
+  const val = $(valId);
+  const bar = $(barId);
 
   bar.dataset.w = String(target);
   bar.style.width = target + "%";
@@ -662,14 +735,14 @@ function animResults() {
 
 let chatOpen = false;
 function showChat() {
-  document.getElementById("chat-fab").classList.add("show");
+  $("chat-fab").classList.add("show");
   setTimeout(toggleChat, 800);
 }
 
 function toggleChat() {
   chatOpen = !chatOpen;
-  const p = document.getElementById("chat-panel");
-  const n = document.getElementById("chat-notif");
+  const p = $("chat-panel");
+  const n = $("chat-notif");
   if (chatOpen) {
     p.classList.add("open");
     n.style.display = "none";
@@ -729,7 +802,7 @@ function runAssistantAction(action) {
   };
 
   const txt = labels[action] || "Assistant Action";
-  const msgs = document.getElementById("chat-msgs");
+  const msgs = $("chat-msgs");
   const u = document.createElement("div");
   u.className = "msg user";
   u.innerHTML = `<div class="msg-av">U</div><div class="msg-bub">${txt}</div>`;
@@ -752,44 +825,7 @@ function runAssistantAction(action) {
   }, 1000);
 }
 
-function restartAll() {
-  document.getElementById("chat-fab").classList.remove("show");
-  chatOpen = false;
-  document.getElementById("chat-panel").classList.remove("open");
-  document.getElementById("text-input").value = "";
-  onTextInput(document.getElementById("text-input"));
-  document.querySelectorAll(".chip").forEach((c) => c.classList.remove("on"));
-  const audioInput = document.getElementById("audio-file");
-  if (audioInput) audioInput.value = "";
-  recordedAudioBlob = null;
-  recordedAudioExt = "wav";
-  recordedAudioLevel = 0;
-  recordedChunks = [];
-  pcmChunks = [];
-  if (audioProcessorNode) {
-    audioProcessorNode.disconnect();
-    audioProcessorNode.onaudioprocess = null;
-    audioProcessorNode = null;
-  }
-  if (audioSourceNode) {
-    audioSourceNode.disconnect();
-    audioSourceNode = null;
-  }
-  if (audioContext) {
-    audioContext.close();
-    audioContext = null;
-  }
-  if (micStream) {
-    micStream.getTracks().forEach((t) => t.stop());
-    micStream = null;
-  }
-  if (recOn) toggleRec();
-  recSecs = 0;
-  clearInterval(recInterval);
-  document.getElementById("timer").textContent = "00:00";
-  document.getElementById("btn-audio-next").disabled = true;
-  document.getElementById("status-txt").textContent = "Click mic to start recording";
-  document.querySelectorAll(".analyzing-overlay").forEach((o) => o.classList.remove("show"));
+function resetPredictionState() {
   modalityScores.text = null;
   modalityScores.audio = null;
   modalityScores.video = null;
@@ -802,6 +838,36 @@ function restartAll() {
   pendingPredictions.text = null;
   pendingPredictions.audio = null;
   pendingPredictions.video = null;
+}
+
+function resetAudioUiAndState() {
+  const audioInput = $("audio-file");
+  if (audioInput) audioInput.value = "";
+  recordedAudioBlob = null;
+  recordedAudioExt = "wav";
+  recordedAudioLevel = 0;
+  pcmChunks = [];
+  cleanupAudioRecordingResources();
+  if (recOn) recOn = false;
+  recSecs = 0;
+  clearInterval(recInterval);
+  $("timer").textContent = "00:00";
+  $("btn-audio-next").disabled = true;
+  $("status-txt").textContent = "Click mic to start recording";
+  setAudioRecordingUi(false);
+  resetWaveformBars();
+}
+
+function restartAll() {
+  $("chat-fab").classList.remove("show");
+  chatOpen = false;
+  $("chat-panel").classList.remove("open");
+  $("text-input").value = "";
+  onTextInput($("text-input"));
+  document.querySelectorAll(".chip").forEach((c) => c.classList.remove("on"));
+  resetAudioUiAndState();
+  document.querySelectorAll(".analyzing-overlay").forEach((o) => o.classList.remove("show"));
+  resetPredictionState();
   stopCam();
   goToPage(0);
 }

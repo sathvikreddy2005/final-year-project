@@ -32,7 +32,6 @@ def _select_python(env_var: str, local_venv: Path | None = None) -> Path:
     return Path(sys.executable)
 
 
-DEFAULT_PYTHON = Path(sys.executable)
 QML_PYTHON = _select_python("TEXT_PYTHON", ROOT / "qml_env")
 AUDIO_PYTHON = _select_python("AUDIO_PYTHON", ROOT / "Audio_Mental_Health_Project" / "audio_env")
 VIDEO_PYTHON = _select_python("VIDEO_PYTHON", ROOT / "mental_health_project" / "venv")
@@ -93,12 +92,29 @@ def _run_cmd(cmd: list[str], cwd: Path | None = None, timeout: int = 180) -> Dic
 def _score_dict(pred: Dict[str, Any]) -> Dict[str, float]:
     out: Dict[str, float] = {}
     for key in ("stress", "depression", "anxiety"):
+        if key not in pred:
+            continue
         value = pred.get(key, 0.0)
         if isinstance(value, dict):
             out[key] = float(value.get("score", 0.0))
         else:
             out[key] = float(value)
     return out
+
+
+async def _save_upload_to_tempfile(file: UploadFile, suffix: str) -> Path:
+    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+        tmp_path = Path(tmp.name)
+        tmp.write(await file.read())
+    return tmp_path
+
+
+def _cleanup_tempfile(path: Path | None) -> None:
+    try:
+        if path and path.exists():
+            path.unlink()
+    except Exception:
+        pass
 
 
 @app.get("/health")
@@ -121,8 +137,8 @@ def root():
 
 @app.post("/predict/text")
 def predict_text(req: TextRequest):
-    if not req.text or len(req.text.strip()) < 10:
-        raise HTTPException(status_code=400, detail="Text must be at least 10 characters.")
+    if not req.text or not req.text.strip():
+        raise HTTPException(status_code=400, detail="Text input is required.")
     if not QML_PYTHON.exists():
         raise HTTPException(status_code=500, detail=f"Missing interpreter: {QML_PYTHON}")
 
@@ -148,9 +164,7 @@ async def predict_audio(file: UploadFile = File(...)):
         raise HTTPException(status_code=400, detail="Unsupported audio format.")
 
     try:
-        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-            tmp_path = Path(tmp.name)
-            tmp.write(await file.read())
+        tmp_path = await _save_upload_to_tempfile(file, suffix)
 
         raw = _run_cmd(
             [
@@ -166,11 +180,7 @@ async def predict_audio(file: UploadFile = File(...)):
     except Exception as exc:
         raise HTTPException(status_code=500, detail=f"Audio prediction failed: {exc}") from exc
     finally:
-        try:
-            if "tmp_path" in locals() and tmp_path.exists():
-                tmp_path.unlink()
-        except Exception:
-            pass
+        _cleanup_tempfile(locals().get("tmp_path"))
 
     return {"modality": "audio", "raw": raw, "scores": _score_dict(raw)}
 
@@ -180,33 +190,29 @@ async def predict_video(file: UploadFile = File(...)):
     if not VIDEO_PYTHON.exists():
         raise HTTPException(status_code=500, detail=f"Missing interpreter: {VIDEO_PYTHON}")
 
-    suffix = Path(file.filename or "frame.jpg").suffix or ".jpg"
-    if suffix.lower() not in {".jpg", ".jpeg", ".png", ".bmp", ".webp"}:
-        raise HTTPException(status_code=400, detail="Unsupported image format.")
+    suffix = Path(file.filename or "clip.webm").suffix or ".webm"
+    video_exts = {".webm", ".mp4", ".mov", ".avi", ".mkv"}
+    normalized_suffix = suffix.lower()
+    if normalized_suffix not in video_exts:
+        raise HTTPException(status_code=400, detail="Unsupported video format.")
 
     try:
-        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-            tmp_path = Path(tmp.name)
-            tmp.write(await file.read())
+        tmp_path = await _save_upload_to_tempfile(file, suffix)
 
         raw = _run_cmd(
             [
                 str(VIDEO_PYTHON),
                 str(VIDEO_SCRIPT),
-                "--image",
+                "--video",
                 str(tmp_path),
                 "--json-only",
             ],
             cwd=VIDEO_WORKDIR,
-            timeout=120,
+            timeout=180,
         )
     except Exception as exc:
         raise HTTPException(status_code=500, detail=f"Video prediction failed: {exc}") from exc
     finally:
-        try:
-            if "tmp_path" in locals() and tmp_path.exists():
-                tmp_path.unlink()
-        except Exception:
-            pass
+        _cleanup_tempfile(locals().get("tmp_path"))
 
     return {"modality": "video", "raw": raw, "scores": _score_dict(raw)}

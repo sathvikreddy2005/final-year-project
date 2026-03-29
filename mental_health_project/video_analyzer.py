@@ -148,6 +148,7 @@ def main():
     result = analyze_image(Path(args.image))
     if args.json_only:
         print(json.dumps(result))
+        
     else:
         print("\nVideo Mental Health Output")
         print(json.dumps(result, indent=2))

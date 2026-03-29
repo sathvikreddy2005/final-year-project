@@ -68,8 +68,8 @@
         <div class="mc-icon"><img class="icon-img" src="assets/video.svg" alt="Video"></div>
         <div class="mc-body">
           <h3>Video Analysis</h3>
-          <p>Camera-based expression scoring mapped to mental health risk.</p>
-          <div class="mc-features"><span class="mc-feat">Face Track</span><span class="mc-feat">Expressions</span><span class="mc-feat">Risk %</span></div>
+          <p>Short webcam clip analysis using facial-expression cues across sampled frames.</p>
+          <div class="mc-features"><span class="mc-feat">Face Track</span><span class="mc-feat">Clip Frames</span><span class="mc-feat">Risk %</span></div>
         </div>
         <div class="mc-badge">Step 03</div>
       </div>
@@ -98,7 +98,7 @@
       <div class="features-list">
         <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Sentence embedding based features</div>
         <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Depression probability from model</div>
-        <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Stress and anxiety proxy estimates</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--purple-light)"></div>Used as the text contribution to fused depression scoring</div>
       </div>
       <div class="btn-row">
         <button class="btn-back" onclick="goToPage(0)"><- Back</button>
@@ -214,27 +214,27 @@
     <div class="info-pane">
       <div class="step-label" style="color:var(--teal)"><div class="sl-line"></div>Step 03 Video Input</div>
       <h2 class="info-title">Start <span style="color:var(--teal)">Camera</span></h2>
-      <p class="info-desc">Capture your webcam frame and send it for live expression-based stress, anxiety, and depression scoring.</p>
+      <p class="info-desc">Start your webcam, then record a short clip for frame-by-frame facial analysis mapped to stress, anxiety, and depression risk.</p>
       <div class="features-list">
-        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Live webcam capture view</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Live webcam preview with short clip capture</div>
         <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Expression to risk percentage mapping</div>
-        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Results shown after all modality calls complete</div>
+        <div class="feat-row"><div class="feat-ic" style="background:var(--teal-light)"></div>Sampled video frames are aggregated before final results</div>
       </div>
       <div class="btn-row">
         <button class="btn-back" onclick="goToPage(2)"><- Back</button>
-        <button class="btn-next" id="btn-video-next" disabled onclick="analyzeVideo()">Analyze Video -></button>
+        <button class="btn-next" id="btn-video-next" disabled onclick="analyzeVideo()">Record & Analyze Video -></button>
       </div>
     </div>
     <div class="input-pane">
       <div class="panel-card pcv" style="position:relative">
         <div class="analyzing-overlay" id="video-overlay">
           <div class="spin-ring" style="border-top-color:var(--teal)"></div>
-          <div class="analyzing-text">Preparing final result...</div>
-          <div class="analyzing-sub">Waiting for remaining modalities</div>
+          <div class="analyzing-text">Recording and analyzing video...</div>
+          <div class="analyzing-sub">Capturing a short clip and waiting for all modalities</div>
         </div>
         <div class="panel-head">
           <div class="ph-icon" style="background:var(--teal-light)"><img class="icon-img" src="assets/video.svg" alt="Video"></div>
-          <div><div class="ph-title">Camera Feed</div><div class="ph-sub">LIVE VIDEO INFERENCE</div></div>
+          <div><div class="ph-title">Camera Feed</div><div class="ph-sub">SHORT CLIP VIDEO INFERENCE</div></div>
         </div>
         <div class="panel-body">
           <div class="cam-frame" id="cam-frame">
@@ -254,6 +254,7 @@
             <button class="cam-btn" id="cam-start-btn" onclick="startCam()">Start Camera</button>
             <button class="cam-btn stop" id="cam-stop-btn" onclick="stopCam()" style="display:none">Stop Camera</button>
           </div>
+          <div class="chips-label" style="margin-top:16px">Tip: keep your face centered for about 5 seconds during video capture.</div>
         </div>
       </div>
     </div>

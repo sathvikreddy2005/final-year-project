@@ -24,7 +24,7 @@ const fusedScores = {
 
 const STEP_DELAY_MS = 5500;
 const FINAL_WAIT_MS = 20000;
-const VIDEO_CAPTURE_MS = 5000;
+const VIDEO_CAPTURE_MS = 8000;
 const pendingPredictions = {
   text: null,
   audio: null,
@@ -378,6 +378,9 @@ async function analyzeAudio() {
 
 let camStream = null;
 let videoRecorder = null;
+let recordedVideoBlob = null;
+let videoRecorded = false;
+let videoRecordingInProgress = false;
 
 function getSupportedVideoMimeType() {
   const candidates = [
@@ -404,11 +407,12 @@ function setCameraUiActive(active) {
   $("cam-ph").style.display = active ? "none" : "";
   $("cam-start-btn").style.display = active ? "none" : "flex";
   $("cam-stop-btn").style.display = active ? "flex" : "none";
-  $("btn-video-next").disabled = !active;
+  $("btn-video-next").disabled = true;
+  $("cam-start-btn").disabled = false;
   setCameraDecorations(active);
   if (!active) {
-    $("cam-start-btn").innerHTML = "Restart Camera";
-    $("cam-ph").querySelector(".cam-placeholder-text").textContent = "Camera stopped";
+    $("cam-start-btn").innerHTML = "Start Camera";
+    $("cam-ph").querySelector(".cam-placeholder-text").textContent = "Camera not started";
   }
 }
 
@@ -421,32 +425,60 @@ function cleanupVideoResources() {
     camStream.getTracks().forEach((t) => t.stop());
     camStream = null;
   }
+  videoRecordingInProgress = false;
 }
 
-function startCam() {
-  const onCameraReady = () => {
-    setCameraUiActive(true);
-    speakPrompt("Please place your face in front of the camera. A short video clip will be recorded for analysis.");
-  };
-
-  navigator.mediaDevices
-    .getUserMedia({ video: true })
-    .then((s) => {
-      camStream = s;
-      const v = $("cam-feed");
-      v.srcObject = s;
-      v.classList.add("on");
-      onCameraReady();
-    })
-    .catch(() => {
-      alert("Camera access failed. Please allow camera permission.");
-    });
+function setVideoStatus(message) {
+  $("cam-ph").querySelector(".cam-placeholder-text").textContent = message;
 }
 
-function stopCam() {
+function closeCameraPreview(message) {
   cleanupVideoResources();
   $("cam-feed").classList.remove("on");
   setCameraUiActive(false);
+  if (message) {
+    setVideoStatus(message);
+  }
+}
+
+function setVideoReadyUi(message) {
+  closeCameraPreview(message);
+  $("btn-video-next").disabled = false;
+  $("cam-start-btn").innerHTML = "Video Recorded";
+  $("cam-start-btn").disabled = true;
+}
+
+async function startCam() {
+  recordedVideoBlob = null;
+  videoRecorded = false;
+  videoRecordingInProgress = false;
+  $("btn-video-next").disabled = true;
+
+  try {
+    camStream = await navigator.mediaDevices.getUserMedia({ video: true });
+    const v = $("cam-feed");
+    v.srcObject = camStream;
+    v.classList.add("on");
+    setCameraUiActive(true);
+    setVideoStatus("Recording short video clip...");
+    speakPrompt("Please place your face in front of the camera. Recording has started.");
+
+    videoRecordingInProgress = true;
+    recordedVideoBlob = await recordCurrentVideoClip(VIDEO_CAPTURE_MS);
+    videoRecorded = true;
+    videoRecordingInProgress = false;
+    setVideoReadyUi("Video clip recorded. Camera closed. You can now analyze.");
+    speakPrompt("Video recording complete. You can now analyze the clip.");
+  } catch (err) {
+    closeCameraPreview("Camera not started");
+    alert(err.message || "Camera access or video recording failed.");
+  }
+}
+
+function stopCam() {
+  closeCameraPreview("Camera not started");
+  recordedVideoBlob = null;
+  videoRecorded = false;
 }
 
 async function recordCurrentVideoClip(durationMs) {
@@ -513,30 +545,23 @@ async function recordCurrentVideoClip(durationMs) {
 }
 
 async function analyzeVideo() {
-  const video = $("cam-feed");
-  if (!camStream || !video || video.readyState < 2) {
-    speakPrompt("Please start the camera and wait for the live feed before recording the video clip.");
-    alert("Please start the camera and wait for the live feed before analyzing video.");
+  if (videoRecordingInProgress) {
+    alert("Video recording is still in progress. Please wait a few seconds.");
+    return;
+  }
+  if (!recordedVideoBlob || !videoRecorded) {
+    speakPrompt("Please start the camera first. The video clip is recorded when you click Start Camera.");
+    alert("Please click Start Camera first and wait for the recording to complete.");
     return;
   }
 
   showOverlay("video-overlay", true);
   $("btn-video-next").disabled = true;
-  speakPrompt("Recording a short video clip. Please keep your face centered.");
-
-  let clipBlob;
-  try {
-    clipBlob = await recordCurrentVideoClip(VIDEO_CAPTURE_MS);
-  } catch (err) {
-    showOverlay("video-overlay", false);
-    $("btn-video-next").disabled = false;
-    alert(err.message || "Video recording failed.");
-    return;
-  }
+  speakPrompt("Analyzing the recorded video clip.");
 
   pendingPredictions.video = (async () => {
     const form = new FormData();
-    form.append("file", clipBlob, "camera-clip.webm");
+    form.append("file", recordedVideoBlob, "camera-clip.webm");
     const res = await fetch(`${API_BASE}/predict/video`, {
       method: "POST",
       body: form,
@@ -556,8 +581,6 @@ async function analyzeVideo() {
     apiErrors.video = err.message || "Video prediction failed.";
     console.error("Video prediction failed:", err);
   });
-
-  stopCam();
 
   const waits = [];
   if (pendingPredictions.text) waits.push(withTimeout(pendingPredictions.text, FINAL_WAIT_MS));
@@ -736,7 +759,9 @@ function animResults() {
 let chatOpen = false;
 function showChat() {
   $("chat-fab").classList.add("show");
-  setTimeout(toggleChat, 800);
+  chatOpen = true;
+  $("chat-panel").classList.add("open");
+  $("chat-notif").style.display = "none";
 }
 
 function toggleChat() {
@@ -869,6 +894,7 @@ function restartAll() {
   document.querySelectorAll(".analyzing-overlay").forEach((o) => o.classList.remove("show"));
   resetPredictionState();
   stopCam();
+  setVideoStatus("Camera not started");
   goToPage(0);
 }
 

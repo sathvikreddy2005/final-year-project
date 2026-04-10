@@ -2,6 +2,7 @@ import argparse
 import json
 import os
 from pathlib import Path
+from typing import Iterable
 
 os.environ.setdefault("TF_CPP_MIN_LOG_LEVEL", "3")
 os.environ.setdefault("ABSL_CPP_MIN_LOG_LEVEL", "3")
@@ -58,8 +59,7 @@ def _load_model_compat(model_path, Dense, load_model):
 
 def _load_face_detector(cv2):
     cascade_path = Path(cv2.data.haarcascades) / "haarcascade_frontalface_default.xml"
-    detector = cv2.CascadeClassifier(str(cascade_path))
-    return detector
+    return cv2.CascadeClassifier(str(cascade_path))
 
 
 def _prepare_face(frame, face_box, cv2, np, img_to_array):
@@ -108,36 +108,89 @@ def _scores_from_prediction(prediction, face_count):
     }
 
 
-def analyze_image(image_path: Path):
+def _unavailable_result(reason: str):
+    return {
+        "available": False,
+        "face_detected": False,
+        "face_count": 0,
+        "reason": reason,
+        "stress": 0.0,
+        "depression": 0.0,
+        "anxiety": 0.0,
+    }
+
+
+def _frame_stride(total_frames: int) -> int:
+    if total_frames <= 0:
+        return 3
+    return max(1, total_frames // 24)
+
+
+def _iter_sampled_frames(video_capture, total_frames: int) -> Iterable[object]:
+    stride = _frame_stride(total_frames)
+    frame_index = 0
+
+    while True:
+        ok, frame = video_capture.read()
+        if not ok:
+            break
+        if frame_index % stride == 0:
+            yield frame
+        frame_index += 1
+
+
+def analyze_video(video_path: Path):
     cv2, np, tf, Dense, load_model, img_to_array = _load_dependencies()
     if not MODEL_PATH.exists():
         raise FileNotFoundError(f"Model file not found: {MODEL_PATH}")
 
-    frame = cv2.imread(str(image_path))
-    if frame is None:
-        raise ValueError(f"Could not read image: {image_path}")
+    video = cv2.VideoCapture(str(video_path))
+    if not video.isOpened():
+        raise ValueError(f"Could not open video: {video_path}")
 
     model = _load_model_compat(MODEL_PATH, Dense, load_model)
     detector = _load_face_detector(cv2)
-    prediction, face_count = _predict_frame(frame, model, detector, cv2, np, img_to_array)
-    if prediction is None:
-        return {
-            "available": False,
-            "face_detected": False,
-            "face_count": 0,
-            "reason": "No face was detected clearly enough in the captured frame.",
-            "stress": 0.0,
-            "depression": 0.0,
-            "anxiety": 0.0,
+
+    total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT) or 0)
+    sampled_frame_count = 0
+    face_frame_count = 0
+    face_count_total = 0
+    predictions = []
+
+    try:
+        for frame in _iter_sampled_frames(video, total_frames):
+            sampled_frame_count += 1
+            prediction, face_count = _predict_frame(frame, model, detector, cv2, np, img_to_array)
+            if prediction is None:
+                continue
+            predictions.append(prediction)
+            face_frame_count += 1
+            face_count_total += face_count
+    finally:
+        video.release()
+
+    if not predictions:
+        return _unavailable_result("No face was detected clearly enough in the recorded video.")
+
+    averaged_prediction = np.mean(np.stack(predictions), axis=0)
+    avg_face_count = max(1, round(face_count_total / face_frame_count)) if face_frame_count else 0
+    result = _scores_from_prediction(averaged_prediction, avg_face_count)
+    result.update(
+        {
+            "source": "video",
+            "total_frames": total_frames,
+            "sampled_frames": sampled_frame_count,
+            "frames_with_faces": face_frame_count,
         }
-    return _scores_from_prediction(prediction, face_count)
+    )
+    return result
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Predict stress, depression, and anxiety percentages from a webcam image."
+        description="Predict stress, depression, and anxiety percentages from a recorded video clip."
     )
-    parser.add_argument("--image", required=True, help="Path to a captured image frame.")
+    parser.add_argument("--video", required=True, help="Path to a recorded video clip.")
     parser.add_argument(
         "--json-only",
         action="store_true",
@@ -145,10 +198,9 @@ def main():
     )
     args = parser.parse_args()
 
-    result = analyze_image(Path(args.image))
+    result = analyze_video(Path(args.video))
     if args.json_only:
         print(json.dumps(result))
-        
     else:
         print("\nVideo Mental Health Output")
         print(json.dumps(result, indent=2))

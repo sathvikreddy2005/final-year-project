@@ -29,7 +29,7 @@ def predict_audio(file_path):
     for cls, prob in zip(classes, probabilities):
         label = normalize_label(cls)
         if label in results:
-            results[label] = prob * 100.0
+            results[label] = float(prob * 100.0)
 
     print("\nMental Health Audio Analysis\n")
     print(f"Input file: {file_path}")

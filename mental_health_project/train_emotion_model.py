@@ -1,10 +1,7 @@
 import os
 import numpy as np
-import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, f1_score, accuracy_score
-from tensorboard import summary
-from tensorboard import summary
 import tensorflow as tf
 from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras.layers import Dense, GlobalAveragePooling2D, Dropout
@@ -28,19 +25,7 @@ test_dir = os.path.join(data_dir, 'test')
 # Print dataset info
 print("=" * 60)
 print("DATASET INFORMATION")
-print("=" * 60)Analyzing video: video.mp4
-Model test accuracy: 81.23%
-Model F1 score: 0.79
-
-video summary
-#---------------------------------------
-Total frames processed: 244
-Fear: 29 (11.9%)
-Happy: 53 (21.7%)
-Neutral: 89 (36.5%)
-Sad: 136 (55.7%)
-Surprise: 2 (0.8%)
-Analysis Complete!
+print("=" * 60)
 total_train_samples = sum([len(os.listdir(os.path.join(train_dir, emotion))) for emotion in os.listdir(train_dir)])
 total_test_samples = sum([len(os.listdir(os.path.join(test_dir, emotion))) for emotion in os.listdir(test_dir)])
 print(f"Total Training Samples: {total_train_samples}")
